@@ -1,0 +1,7 @@
+
+c3k4: dim Fix 16, |G1| = 1440
+(4,2): 120 anisotropic P through n1, 1 up to G1
+(4,2) seeds: 3+1+1 8, 3+3 7
+c3k4-311-b2 seeds 0..8 (r = 1): leaves 8, passed 8, solutions 0, dead at init 0, APN spaces 0
+c3k4-33-b2 seeds 0..7 (r = 2): leaves 114681, passed 17, solutions 0, dead at init 0, APN spaces 0
+

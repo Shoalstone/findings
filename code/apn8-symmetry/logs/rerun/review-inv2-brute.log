@@ -1,0 +1,10 @@
+$ bin/review_inv2 brute 16 6
+rep 16 (041803)
+  with    g0 9fb g1 c38: level_ok 1 1, engine 1, brute force 1 (1 s) agree
+  with    g0 9fb g1 f87: level_ok 1 1, engine 1, brute force 1 (1 s) agree
+  empty   g0 e88 g1 c01: level_ok 1 1, engine 0, brute force 0 (1 s) agree
+  empty   g0 e88 g1 c02: level_ok 1 1, engine 0, brute force 0 (2 s) agree
+  pruned  g0 000 g1 1b5: level_ok 0 0, engine 0, brute force 0 (2 s) agree
+  pruned  g0 e88 g1 706: level_ok 1 0, engine 0, brute force 0 (3 s) agree
+
+[exit 0, 9.6 s wall]

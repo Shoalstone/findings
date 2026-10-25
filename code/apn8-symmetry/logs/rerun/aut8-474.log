@@ -1,0 +1,3 @@
+$ AUT8_PRINT=2 bin/aut8 data/seed474.txt
+A 02 01 08 04 20 10 80 40
+data/seed474.txt:0 ranks 8:186 6:65 4:4 |Aut| 4 orders 1^1 2^1 4^2 fixV(order:dim) 1:8^1 2:4^1 4:2^2 fixS8(order:dim) 1:8^1 2:4^1 4:2^2 perms 1111:1 22:1 4:2

@@ -1,0 +1,98 @@
+holes 2 (15 rank-4 components)
+nondegenerate alternating 4x4: 28 (expect 28)
+candidates (N, N + I invertible): 5824
+cliques 0  0 s  nodes 12695
+SHORT dim 6 covered fffe basis 30488c4 5931bba 6931b3e 3131abc 33acccc 5b69daa
+SHORT dim 6 covered fffe basis 30488c4 3211cac 5a11daa 6a11d2e 329c48c 31bced4
+SHORT dim 6 covered fffe basis 30488c4 32114ec 5a115ea 6a1156e 5b693fa 6be4b5e
+cliques 20000  43 s  nodes 19172282
+cliques 40000  82 s  nodes 37931183
+SHORT dim 6 covered fffe basis 30488c4 59313fa 693137e 31312fc 6ad4f56 69f431e
+cliques 60000  122 s  nodes 56868310
+SHORT dim 6 covered fffe basis 30488c4 6b21776 33216f4 5b217f2 6be4716 59795ea
+SHORT dim 6 covered fffe basis 30488c4 6b21f36 3321eb4 5b21fb2 5a59bba 33ac694
+cliques 80000  162 s  nodes 75710311
+SHORT dim 6 covered fffe basis 30488c4 32304dc 944a8c1 96e78f9 a63245d a7cf26d
+cliques 100000  204 s  nodes 94494521
+cliques 120000  293 s  nodes 113628688
+SHORT dim 6 covered fffe basis 30488c4 3231c9c d44a9c1 339868c 31150f4 d4f63a1
+SHORT dim 6 covered fffe basis 30488c4 3230cbc 30a16e4 9dc7493 9e32cbb ae32c3f
+cliques 140000  399 s  nodes 132557621
+cliques 160000  520 s  nodes 151520496
+cliques 180000  651 s  nodes 170591472
+cliques 200000  772 s  nodes 189481818
+SHORT dim 6 covered fffe basis 30488c4 32398dc d44a9c1 d6e6fe9 e74f57d e7dab0d
+cliques 220000  891 s  nodes 208261916
+SHORT dim 6 covered fffe basis 30488c4 32198fc 5e199fb 6e1997f 6f65d5f 6edcb0f
+cliques 240000  1011 s  nodes 227119782
+cliques 260000  1123 s  nodes 245802616
+cliques 280000  1244 s  nodes 264583658
+SHORT dim 6 covered fffe basis 30488c4 3229cec eaf2b7e ebced0e d84a9c2 db5f3da
+cliques 300000  1365 s  nodes 283321058
+SHORT dim 6 covered fffe basis 30488c4 32394ac 30a06f4 d947792 d84a9c2 3394c8c
+cliques 320000  1482 s  nodes 302135328
+SHORT dim 6 covered fffe basis 30488c4 eb0f716 32a0eb4 3398afc d84a9c2 330d694
+SHORT dim 6 covered fffe basis 30488c4 d9173da e8f233e da77fd2 d84a9c2 ebda776
+SHORT dim 6 covered fffe basis 30488c4 eb1ff56 d953dea e8fe54e d84a9c2 331ded4
+cliques 340000  1601 s  nodes 320975489
+cliques 360000  1722 s  nodes 339780900
+SHORT dim 6 covered fffe basis 30488c4 d907b9a db535aa 30a82bc d84a9c2 32b44cc
+SHORT dim 6 covered fffe basis 30488c4 323849c 944a8c1 3310e8c a63a41d 319dee4
+cliques 380000  1822 s  nodes 358615401
+cliques 400000  1901 s  nodes 377313199
+SHORT dim 6 covered fffe basis 30488c4 3228cfc aefb26f af4ee0f 9e2acfb ae2ac7f
+SHORT dim 6 covered fffe basis 30488c4 32194bc 5e195bb 6e1953f 31350d4 5df03a3
+cliques 420000  2007 s  nodes 396453236
+cliques 440000  2128 s  nodes 415425282
+cliques 460000  2218 s  nodes 434276243
+cliques 480000  2295 s  nodes 453339351
+cliques 500000  2371 s  nodes 472234671
+SHORT dim 6 covered fffe basis 30488c4 5db8feb 6db8f6f 31b8eec 6d7dd1f 5e51fe3
+cliques 520000  2444 s  nodes 490911904
+SHORT dim 6 covered fffe basis 30488c4 d4a67e9 d44a9c1 e7d6d75 e54753d d67f7e1
+cliques 540000  2521 s  nodes 509861481
+cliques 560000  2597 s  nodes 528705810
+SHORT dim 6 covered fffe basis 30488c4 94af4b9 944a8c1 3399acc a4af43d 96fb899
+cliques 580000  2672 s  nodes 547507037
+cliques 600000  2747 s  nodes 566273953
+cliques 620000  2823 s  nodes 585057557
+SHORT dim 6 covered fffe basis 30488c4 9d87c9b 9fdb8bb 30a96ac ad87c1f 3185c9c
+cliques 640000  2899 s  nodes 604072623
+cliques 660000  2975 s  nodes 622913130
+cliques 680000  3052 s  nodes 641793817
+SHORT dim 6 covered fffe basis 30488c4 e6b6b25 d44a9c1 d66ffa9 331d0b4 32b4aa4
+cliques 700000  3128 s  nodes 660605108
+SHORT dim 6 covered fffe basis 30488c4 af8f017 32a1aa4 33106ec 338d094 9f8f093
+cliques 720000  3203 s  nodes 679394621
+cliques 740000  3279 s  nodes 698225823
+cliques 760000  3355 s  nodes 717172394
+SHORT dim 6 covered fffe basis 30488c4 e6bef65 d44a9c1 e75fd35 d4fa5d9 32bcee4
+cliques 780000  3431 s  nodes 736152242
+SHORT dim 6 covered fffe basis 30488c4 5db83ab 6db832f 31b82ac 5fe8dbb 313589c
+cliques 800000  5070 s  nodes 755159702
+SHORT dim 6 covered fffe basis 30488c4 94a74f9 944a8c1 a75e665 a4a747d a5c762d
+cliques 820000  5265 s  nodes 774051433
+SHORT dim 6 covered fffe basis 30488c4 af97057 9ddb4fb acf7e4f 33950d4 9f970d3
+cliques 840000  5482 s  nodes 792894305
+cliques 860000  5683 s  nodes 811691297
+SHORT dim 6 covered fffe basis 30488c4 9d9fcdb acfbe2f 9e7e4d3 ad9fc5f 319dcdc
+cliques 880000  5887 s  nodes 830548820
+cliques 900000  6077 s  nodes 849382882
+cliques 920000  6276 s  nodes 868076252
+SHORT dim 6 covered fffe basis 30488c4 a6bf035 944a8c1 966ecb9 32bd0b4 3395aa4
+cliques 940000  6482 s  nodes 886812051
+cliques 960000  6683 s  nodes 905581809
+cliques 980000  6874 s  nodes 924386663
+SHORT dim 6 covered fffe basis 30488c4 6fa0b27 33a0aa4 5fa0ba3 332d094 32944dc
+cliques 1000000  7081 s  nodes 943220782
+cliques 1020000  7275 s  nodes 962155073
+SHORT dim 6 covered fffe basis 30488c4 a6b7075 944a8c1 a7d7225 32b50f4 94f3cd9
+cliques 1040000  8128 s  nodes 981202447
+cliques 1060000  8325 s  nodes 1000045406
+SHORT dim 6 covered fffe basis 30488c4 d4ae3a9 d44a9c1 33116cc d6f2599 31058bc
+cliques 1080000  8608 s  nodes 1018982588
+cliques 1100000  8875 s  nodes 1038422462
+SHORT dim 6 covered fffe basis 30488c4 6fa0767 33a06e4 5fa07e3 5df0dfb 6d7d74f
+cliques 1120000  9875 s  nodes 1057448154
+spread sets (cliques) 1128864, semifield 19936, field 336 (expect 336)
+form search: nodes 1066049158, solutions 0, short 36, 10622 s

@@ -1,0 +1,35 @@
+$ bin/symp enumtest c7b
+A = 0204031020284080  order 7, deg of factors 3
+  part g=3: F_2-dim 4 (F_2-dim 4)
+  part g=b: F_8-dim 4 (F_2-dim 12)
+  part g=d: F_8-dim 4 (F_2-dim 12)
+OK   part 0 (F_2^4) k=0: leaves 1 distinct 1 expected 1
+OK   part 0 (F_2^4) k=1: leaves 15 distinct 15 expected 15
+OK   part 0 (F_2^4) k=2: leaves 35 distinct 35 expected 35
+OK   part 0 (F_2^4) k=3: leaves 15 distinct 15 expected 15
+OK   part 0 (F_2^4) k=4: leaves 1 distinct 1 expected 1
+OK   part 0 (F_2^4) k=1 containing u: leaves 1 distinct 1 expected 1
+OK   part 0 (F_2^4) k=2 containing u: leaves 7 distinct 7 expected 7
+OK   part 0 (F_2^4) k=3 containing u: leaves 7 distinct 7 expected 7
+OK   part 0 (F_2^4) k=4 containing u: leaves 1 distinct 1 expected 1
+OK   part 1 (F_8^4) k=0: leaves 1 distinct 1 expected 1
+OK   part 1 (F_8^4) k=1: leaves 585 distinct 585 expected 585
+OK   part 1 (F_8^4) k=2: leaves 4745 distinct 4745 expected 4745
+OK   part 1 (F_8^4) k=3: leaves 585 distinct 585 expected 585
+OK   part 1 (F_8^4) k=4: leaves 1 distinct 1 expected 1
+OK   part 1 (F_8^4) k=1 containing u: leaves 1 distinct 1 expected 1
+OK   part 1 (F_8^4) k=2 containing u: leaves 73 distinct 73 expected 73
+OK   part 1 (F_8^4) k=3 containing u: leaves 73 distinct 73 expected 73
+OK   part 1 (F_8^4) k=4 containing u: leaves 1 distinct 1 expected 1
+OK   part 2 (F_8^4) k=0: leaves 1 distinct 1 expected 1
+OK   part 2 (F_8^4) k=1: leaves 585 distinct 585 expected 585
+OK   part 2 (F_8^4) k=2: leaves 4745 distinct 4745 expected 4745
+OK   part 2 (F_8^4) k=3: leaves 585 distinct 585 expected 585
+OK   part 2 (F_8^4) k=4: leaves 1 distinct 1 expected 1
+OK   part 2 (F_8^4) k=1 containing u: leaves 1 distinct 1 expected 1
+OK   part 2 (F_8^4) k=2 containing u: leaves 73 distinct 73 expected 73
+OK   part 2 (F_8^4) k=3 containing u: leaves 73 distinct 73 expected 73
+OK   part 2 (F_8^4) k=4 containing u: leaves 1 distinct 1 expected 1
+OK   parts 0+1, k=(2,1): leaves 20475 distinct 20475 expected 20475
+enumtest: 0 failures
+

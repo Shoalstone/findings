@@ -1,0 +1,238 @@
+$ bin/aut8 data/seeds-known-rare.txt data/seeds-new63.txt
+data/seeds-known-rare.txt:0 ranks 8:182 6:70 4:3 |Aut| 15 orders 1^1 3^2 5^4 15^8 fixV(order:dim) 1:8^1 3:0^2 5:0^4 15:0^8 fixS8(order:dim) 1:8^1 3:6^2 5:4^4 15:2^8 perms 111:5 3:10
+data/seeds-known-rare.txt:1 ranks 8:182 6:70 4:3 |Aut| 15 orders 1^1 3^2 5^4 15^8 fixV(order:dim) 1:8^1 3:0^2 5:0^4 15:0^8 fixS8(order:dim) 1:8^1 3:6^2 5:4^4 15:2^8 perms 111:5 3:10
+data/seeds-known-rare.txt:299 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:300 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:301 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:302 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:3
+data/seeds-known-rare.txt:303 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:304 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:3
+data/seeds-known-rare.txt:305 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:306 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:307 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:308 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:309 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:310 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:311 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:312 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:313 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:314 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:315 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:316 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:317 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:318 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:319 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:320 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:321 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:322 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:323 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:324 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:325 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:326 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:327 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:328 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:329 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:330 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:331 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:332 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:333 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:334 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:335 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:336 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:337 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:338 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:339 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:340 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:341 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:342 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:343 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:344 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:345 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:346 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:347 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:348 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:3
+data/seeds-known-rare.txt:349 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:350 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:351 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:352 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:3
+data/seeds-known-rare.txt:353 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:354 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:355 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:356 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:357 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:358 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:359 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:360 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:361 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:362 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:3
+data/seeds-known-rare.txt:363 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:364 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:365 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:366 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:367 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:368 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:369 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:370 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:371 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:372 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:373 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:374 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:375 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:376 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:377 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:378 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:379 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:380 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:3
+data/seeds-known-rare.txt:381 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:382 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:383 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:384 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:385 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:386 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:387 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:3
+data/seeds-known-rare.txt:388 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:389 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:390 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:391 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:392 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:393 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:394 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:395 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:396 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:397 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:398 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:399 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:400 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:401 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:402 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:403 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:404 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:405 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:406 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:407 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:408 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:409 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:410 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:411 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:412 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:413 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:414 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:415 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:416 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:417 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:418 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:419 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:420 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:421 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:422 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:423 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:424 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:425 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:426 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:427 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:428 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:429 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:430 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:431 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:432 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:433 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:434 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:435 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:436 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:437 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:438 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:439 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:440 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:441 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:442 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2
+data/seeds-known-rare.txt:443 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:444 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:445 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:446 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:447 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:448 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:449 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:450 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:451 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:452 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:453 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:454 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:455 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:456 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:457 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:458 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:459 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:460 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:461 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:462 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:463 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:464 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:465 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:466 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:467 ranks 8:186 6:65 4:4 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 1111:1 31:2
+data/seeds-known-rare.txt:474 ranks 8:186 6:65 4:4 |Aut| 4 orders 1^1 2^1 4^2 fixV(order:dim) 1:8^1 2:4^1 4:2^2 fixS8(order:dim) 1:8^1 2:4^1 4:2^2 perms 1111:1 22:1 4:2
+data/seeds-new63.txt:0 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:1 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:2 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:3 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:4 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:5 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:6 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:7 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:8 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:9 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:10 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:11 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:12 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:13 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:14 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:15 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:16 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:17 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:18 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:19 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:20 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:21 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:22 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:23 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:24 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:25 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:26 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:27 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:28 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:29 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:30 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:31 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:32 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:33 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:34 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:35 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:36 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:37 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:38 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:39 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:40 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:41 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:42 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:43 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:44 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:45 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:46 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:47 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:48 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:49 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:50 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:51 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:52 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:53 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:54 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:55 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:56 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:57 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:58 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:59 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:60 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:61 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+data/seeds-new63.txt:62 ranks 8:182 6:70 4:3 |Aut| 1 orders 1^1 fixV(order:dim) 1:8^1 fixS8(order:dim) 1:8^1 perms 111:1
+
+[exit 0, 66.6 s wall]

@@ -1,0 +1,6 @@
+$ bin/orbit5 2 out/fix5-c2.txt fixed
+class 2: dim Fix = 8, dim N = 20
+fixed: 200787 subspaces Q of Fix, 0 with >= 5 rank-4 forms and partition ok
+class 2 fixed (Q 0..-1): APN spaces 0
+
+[exit 0, 0.2 s wall]

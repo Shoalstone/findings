@@ -1,0 +1,15 @@
+$ bin/inv2 check data/seed474.txt 0
+setup: dim Fix 16, dim D(M) 12, D(M) vanishes on KxK 1, b alternating 1, (b,c) rank 12
+spread lines: 000e 1110 8420 4280 2840; E basis 20 01 2d 3b
+E: degenerate nonzero forms 5 (want 5)
+involutions in Aut(S8): 1
+  involution: fixed vectors 15 (2^4 - 1 = 15 expected), complement basis 4
+  invariant 1, dim S8^A 4, dim D(S8) 4, D(S8) fixed 1, b-forms: rank-2 5 (radicals disjoint 1, cover W 1), nondegenerate 10, other 0
+  engine on its own F (51.8 s): init 1, re-found 1, APN spaces with >= 4 rank-4: 30
+  B1 kept 4096, (B1,B2) kept 3601511, leaves 14751789056, passed 5591077, solutions 2007, bugs 0
+    ranks 8:170 6:85 4:0 2:0: 1917
+    ranks 8:178 6:75 4:2 2:0: 60
+    ranks 8:186 6:65 4:4 2:0: 30
+check: re-found
+
+[exit 0, 52.0 s wall]

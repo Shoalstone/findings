@@ -1,0 +1,6 @@
+$ bin/orbit5 1 out/orbit5-val.txt 808ac1d
+class 1: dim Fix = 8, dim N = 20
+class 1: B1 orbits 0, radical orbits complementary 0, partition ok 1, APN spaces 2
+  ranks 8:170 6:85 4:0 2:0: 2
+
+[exit 0, 0.4 s wall]

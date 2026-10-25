@@ -1,0 +1,8 @@
+$ bin/c3k4 search out/c3k4-311.txt
+c3k4: dim Fix 16, |G1| = 1440
+fixed rank-4 candidates: 1120
+seed pairs (up to G1, partition ok): 214
+  200 seeds done
+seeds 0..214: leaves 130991488, passed filter 109567, seeds dead at init 0, APN spaces 0
+
+[exit 0, 0.9 s wall]

@@ -1,0 +1,7 @@
+$ python src/verify.py results/inv2-all.txt
+OK  delta=2 ranks={8: 170, 6: 85} claimed={8: 170, 6: 85, 4: 0, 2: 0}
+OK  delta=2 ranks={8: 170, 6: 85} claimed={8: 170, 6: 85, 4: 0, 2: 0}
+OK  delta=2 ranks={8: 170, 6: 85} claimed={8: 170, 6: 85, 4: 0, 2: 0}
+checked 3661, bad 0
+
+[exit 0, 31.6 s wall]

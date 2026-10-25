@@ -1,0 +1,6 @@
+$ bin/orbit5 1 out/enum1.txt 1 enumtest
+class 1: dim Fix = 8, dim N = 20
+enumtest: k1 leaves 11811, distinct 11811
+class 1: B1 orbits 0, radical orbits complementary 0, partition ok 1, APN spaces 0
+
+[exit 0, 0.0 s wall]

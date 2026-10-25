@@ -1,0 +1,7 @@
+
+c3k4: dim Fix 16, |G1| = 1440
+standard fixed pair ok; |U(2,2)| = 18, |Gp| = 1296
+nondegenerate points 1008, anisotropic lines 24192, up to Gp 74, seeds (partition ok) 28
+  20 seeds done
+c3k4-ff-b2 seeds 0..28 (r = 2): leaves 458724, passed 1234, solutions 0, dead at init 0, APN spaces 0
+

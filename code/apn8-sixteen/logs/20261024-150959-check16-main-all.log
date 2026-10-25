@@ -1,0 +1,333 @@
+
+main: all 28 M, ascending point order
+M 12 (orbit size 1): second point 12, 5316 dim-3 children
+M 13 (orbit size 1): second point 12, 5280 dim-3 children
+M 14 (orbit size 1): second point 12, 5316 dim-3 children
+M 15 (orbit size 1): second point 12, 5280 dim-3 children
+M 18 (orbit size 1): second point 12, 5316 dim-3 children
+M 19 (orbit size 1): second point 12, 5280 dim-3 children
+M 22 (orbit size 1): second point 12, 5316 dim-3 children
+M 23 (orbit size 1): second point 12, 5280 dim-3 children
+M 26 (orbit size 1): second point 12, 5316 dim-3 children
+M 27 (orbit size 1): second point 12, 5280 dim-3 children
+M 28 (orbit size 1): second point 12, 5316 dim-3 children
+M 29 (orbit size 1): second point 12, 5280 dim-3 children
+M 33 (orbit size 1): second point 12, 5480 dim-3 children
+M 35 (orbit size 1): second point 12, 5384 dim-3 children
+M 37 (orbit size 1): second point 12, 5384 dim-3 children
+M 39 (orbit size 1): second point 12, 5384 dim-3 children
+M 41 (orbit size 1): second point 12, 5256 dim-3 children
+M 43 (orbit size 1): second point 12, 5256 dim-3 children
+M 44 (orbit size 1): second point 12, 5344 dim-3 children
+M 46 (orbit size 1): second point 12, 5344 dim-3 children
+M 49 (orbit size 1): second point 12, 5256 dim-3 children
+M 50 (orbit size 1): second point 12, 5344 dim-3 children
+M 53 (orbit size 1): second point 12, 5256 dim-3 children
+M 54 (orbit size 1): second point 12, 5344 dim-3 children
+M 57 (orbit size 1): second point 12, 5256 dim-3 children
+M 58 (orbit size 1): second point 12, 5344 dim-3 children
+M 60 (orbit size 1): second point 12, 5344 dim-3 children
+M 63 (orbit size 1): second point 12, 5256 dim-3 children
+148808 tasks, 0 already done; this run: tasks with index % 1 == 0
+  500 tasks done this run, 12 s
+  1000 tasks done this run, 28 s
+  1500 tasks done this run, 45 s
+  2000 tasks done this run, 61 s
+  2500 tasks done this run, 78 s
+  3000 tasks done this run, 95 s
+  3500 tasks done this run, 111 s
+  4000 tasks done this run, 128 s
+  4500 tasks done this run, 144 s
+  5000 tasks done this run, 161 s
+  5500 tasks done this run, 177 s
+  6000 tasks done this run, 193 s
+  6500 tasks done this run, 209 s
+  7000 tasks done this run, 224 s
+  7500 tasks done this run, 240 s
+  8000 tasks done this run, 256 s
+  8500 tasks done this run, 272 s
+  9000 tasks done this run, 288 s
+  9500 tasks done this run, 303 s
+  10000 tasks done this run, 317 s
+  10500 tasks done this run, 330 s
+  11000 tasks done this run, 344 s
+  11500 tasks done this run, 357 s
+  12000 tasks done this run, 370 s
+  12500 tasks done this run, 384 s
+  13000 tasks done this run, 397 s
+  13500 tasks done this run, 412 s
+  14000 tasks done this run, 425 s
+  14500 tasks done this run, 439 s
+  15000 tasks done this run, 452 s
+  15500 tasks done this run, 466 s
+  16000 tasks done this run, 479 s
+  16500 tasks done this run, 491 s
+  17000 tasks done this run, 504 s
+  17500 tasks done this run, 517 s
+  18000 tasks done this run, 529 s
+  18500 tasks done this run, 542 s
+  19000 tasks done this run, 554 s
+  19500 tasks done this run, 566 s
+  20000 tasks done this run, 578 s
+  20500 tasks done this run, 590 s
+  21000 tasks done this run, 603 s
+  21500 tasks done this run, 615 s
+  22000 tasks done this run, 628 s
+  22500 tasks done this run, 640 s
+  23000 tasks done this run, 653 s
+  23500 tasks done this run, 665 s
+  24000 tasks done this run, 677 s
+  24500 tasks done this run, 689 s
+  25000 tasks done this run, 701 s
+  25500 tasks done this run, 713 s
+  26000 tasks done this run, 724 s
+  26500 tasks done this run, 736 s
+  27000 tasks done this run, 748 s
+  27500 tasks done this run, 759 s
+  28000 tasks done this run, 770 s
+  28500 tasks done this run, 782 s
+  29000 tasks done this run, 793 s
+  29500 tasks done this run, 804 s
+  30000 tasks done this run, 816 s
+  30500 tasks done this run, 827 s
+  31000 tasks done this run, 838 s
+  31500 tasks done this run, 850 s
+  32000 tasks done this run, 861 s
+  32500 tasks done this run, 872 s
+  33000 tasks done this run, 884 s
+  33500 tasks done this run, 895 s
+  34000 tasks done this run, 907 s
+  34500 tasks done this run, 918 s
+  35000 tasks done this run, 929 s
+  35500 tasks done this run, 941 s
+  36000 tasks done this run, 951 s
+  36500 tasks done this run, 962 s
+  37000 tasks done this run, 973 s
+  37500 tasks done this run, 984 s
+  38000 tasks done this run, 995 s
+  38500 tasks done this run, 1005 s
+  39000 tasks done this run, 1016 s
+  39500 tasks done this run, 1026 s
+  40000 tasks done this run, 1037 s
+  40500 tasks done this run, 1048 s
+  41000 tasks done this run, 1058 s
+  41500 tasks done this run, 1069 s
+  42000 tasks done this run, 1080 s
+  42500 tasks done this run, 1090 s
+  43000 tasks done this run, 1101 s
+  43500 tasks done this run, 1112 s
+  44000 tasks done this run, 1123 s
+  44500 tasks done this run, 1134 s
+  45000 tasks done this run, 1145 s
+  45500 tasks done this run, 1157 s
+  46000 tasks done this run, 1168 s
+  46500 tasks done this run, 1178 s
+  47000 tasks done this run, 1189 s
+  47500 tasks done this run, 1201 s
+  48000 tasks done this run, 1211 s
+  48500 tasks done this run, 1222 s
+  49000 tasks done this run, 1232 s
+  49500 tasks done this run, 1243 s
+  50000 tasks done this run, 1253 s
+  50500 tasks done this run, 1264 s
+  51000 tasks done this run, 1275 s
+  51500 tasks done this run, 1285 s
+  52000 tasks done this run, 1296 s
+  52500 tasks done this run, 1307 s
+  53000 tasks done this run, 1317 s
+  53500 tasks done this run, 1328 s
+  54000 tasks done this run, 1339 s
+  54500 tasks done this run, 1350 s
+  55000 tasks done this run, 1361 s
+  55500 tasks done this run, 1372 s
+  56000 tasks done this run, 1383 s
+  56500 tasks done this run, 1394 s
+  57000 tasks done this run, 1405 s
+  57500 tasks done this run, 1416 s
+  58000 tasks done this run, 1427 s
+  58500 tasks done this run, 1438 s
+  59000 tasks done this run, 1448 s
+  59500 tasks done this run, 1459 s
+  60000 tasks done this run, 1470 s
+  60500 tasks done this run, 1480 s
+  61000 tasks done this run, 1491 s
+  61500 tasks done this run, 1501 s
+  62000 tasks done this run, 1515 s
+  62500 tasks done this run, 1531 s
+  63000 tasks done this run, 1548 s
+  63500 tasks done this run, 1563 s
+  64000 tasks done this run, 1579 s
+  64500 tasks done this run, 1596 s
+  65000 tasks done this run, 1613 s
+  65500 tasks done this run, 1630 s
+  66000 tasks done this run, 1647 s
+  66500 tasks done this run, 1663 s
+  67000 tasks done this run, 1680 s
+  67500 tasks done this run, 1695 s
+  68000 tasks done this run, 1712 s
+  68500 tasks done this run, 1728 s
+  69000 tasks done this run, 1744 s
+  69500 tasks done this run, 1760 s
+  70000 tasks done this run, 1775 s
+  70500 tasks done this run, 1790 s
+  71000 tasks done this run, 1806 s
+  71500 tasks done this run, 1821 s
+  72000 tasks done this run, 1836 s
+  72500 tasks done this run, 1851 s
+  73000 tasks done this run, 1867 s
+  73500 tasks done this run, 1881 s
+  74000 tasks done this run, 1896 s
+  74500 tasks done this run, 1910 s
+  75000 tasks done this run, 1924 s
+  75500 tasks done this run, 1937 s
+  76000 tasks done this run, 1951 s
+  76500 tasks done this run, 1963 s
+  77000 tasks done this run, 1978 s
+  77500 tasks done this run, 1991 s
+  78000 tasks done this run, 2004 s
+  78500 tasks done this run, 2018 s
+  79000 tasks done this run, 2031 s
+  79500 tasks done this run, 2045 s
+  80000 tasks done this run, 2059 s
+  80500 tasks done this run, 2072 s
+  81000 tasks done this run, 2086 s
+  81500 tasks done this run, 2101 s
+  82000 tasks done this run, 2114 s
+  82500 tasks done this run, 2128 s
+  83000 tasks done this run, 2142 s
+  83500 tasks done this run, 2156 s
+  84000 tasks done this run, 2169 s
+  84500 tasks done this run, 2184 s
+  85000 tasks done this run, 2198 s
+  85500 tasks done this run, 2211 s
+  86000 tasks done this run, 2225 s
+  86500 tasks done this run, 2239 s
+  87000 tasks done this run, 2252 s
+  87500 tasks done this run, 2266 s
+  88000 tasks done this run, 2281 s
+  88500 tasks done this run, 2294 s
+  89000 tasks done this run, 2308 s
+  89500 tasks done this run, 2322 s
+  90000 tasks done this run, 2335 s
+  90500 tasks done this run, 2349 s
+  91000 tasks done this run, 2362 s
+  91500 tasks done this run, 2372 s
+  92000 tasks done this run, 2383 s
+  92500 tasks done this run, 2393 s
+  93000 tasks done this run, 2404 s
+  93500 tasks done this run, 2414 s
+  94000 tasks done this run, 2425 s
+  94500 tasks done this run, 2435 s
+  95000 tasks done this run, 2445 s
+  95500 tasks done this run, 2456 s
+  96000 tasks done this run, 2466 s
+  96500 tasks done this run, 2477 s
+  97000 tasks done this run, 2488 s
+  97500 tasks done this run, 2499 s
+  98000 tasks done this run, 2510 s
+  98500 tasks done this run, 2520 s
+  99000 tasks done this run, 2531 s
+  99500 tasks done this run, 2542 s
+  100000 tasks done this run, 2552 s
+  100500 tasks done this run, 2563 s
+  101000 tasks done this run, 2574 s
+  101500 tasks done this run, 2585 s
+  102000 tasks done this run, 2596 s
+  102500 tasks done this run, 2606 s
+  103000 tasks done this run, 2617 s
+  103500 tasks done this run, 2628 s
+  104000 tasks done this run, 2639 s
+  104500 tasks done this run, 2650 s
+  105000 tasks done this run, 2661 s
+  105500 tasks done this run, 2672 s
+  106000 tasks done this run, 2683 s
+  106500 tasks done this run, 2694 s
+  107000 tasks done this run, 2704 s
+  107500 tasks done this run, 2714 s
+  108000 tasks done this run, 2724 s
+  108500 tasks done this run, 2734 s
+  109000 tasks done this run, 2744 s
+  109500 tasks done this run, 2755 s
+  110000 tasks done this run, 2765 s
+  110500 tasks done this run, 2775 s
+  111000 tasks done this run, 2785 s
+  111500 tasks done this run, 2795 s
+  112000 tasks done this run, 2806 s
+  112500 tasks done this run, 2816 s
+  113000 tasks done this run, 2827 s
+  113500 tasks done this run, 2838 s
+  114000 tasks done this run, 2849 s
+  114500 tasks done this run, 2860 s
+  115000 tasks done this run, 2871 s
+  115500 tasks done this run, 2882 s
+  116000 tasks done this run, 2892 s
+  116500 tasks done this run, 2903 s
+  117000 tasks done this run, 2914 s
+  117500 tasks done this run, 2924 s
+  118000 tasks done this run, 2934 s
+  118500 tasks done this run, 2945 s
+  119000 tasks done this run, 2955 s
+  119500 tasks done this run, 2965 s
+  120000 tasks done this run, 2975 s
+  120500 tasks done this run, 2985 s
+  121000 tasks done this run, 2995 s
+  121500 tasks done this run, 3005 s
+  122000 tasks done this run, 3015 s
+  122500 tasks done this run, 3026 s
+  123000 tasks done this run, 3036 s
+  123500 tasks done this run, 3047 s
+  124000 tasks done this run, 3058 s
+  124500 tasks done this run, 3069 s
+  125000 tasks done this run, 3080 s
+  125500 tasks done this run, 3091 s
+  126000 tasks done this run, 3102 s
+  126500 tasks done this run, 3113 s
+  127000 tasks done this run, 3124 s
+  127500 tasks done this run, 3135 s
+  128000 tasks done this run, 3145 s
+  128500 tasks done this run, 3155 s
+  129000 tasks done this run, 3165 s
+  129500 tasks done this run, 3175 s
+  130000 tasks done this run, 3186 s
+  130500 tasks done this run, 3196 s
+  131000 tasks done this run, 3206 s
+  131500 tasks done this run, 3216 s
+  132000 tasks done this run, 3226 s
+  132500 tasks done this run, 3236 s
+  133000 tasks done this run, 3247 s
+  133500 tasks done this run, 3257 s
+  134000 tasks done this run, 3269 s
+  134500 tasks done this run, 3279 s
+  135000 tasks done this run, 3290 s
+  135500 tasks done this run, 3302 s
+  136000 tasks done this run, 3313 s
+  136500 tasks done this run, 3324 s
+  137000 tasks done this run, 3334 s
+  137500 tasks done this run, 3345 s
+  138000 tasks done this run, 3356 s
+  138500 tasks done this run, 3367 s
+  139000 tasks done this run, 3378 s
+  139500 tasks done this run, 3388 s
+  140000 tasks done this run, 3399 s
+  140500 tasks done this run, 3410 s
+  141000 tasks done this run, 3421 s
+  141500 tasks done this run, 3431 s
+  142000 tasks done this run, 3442 s
+  142500 tasks done this run, 3453 s
+  143000 tasks done this run, 3464 s
+  143500 tasks done this run, 3475 s
+  144000 tasks done this run, 3485 s
+  144500 tasks done this run, 3496 s
+  145000 tasks done this run, 3506 s
+  145500 tasks done this run, 3517 s
+  146000 tasks done this run, 3527 s
+  146500 tasks done this run, 3537 s
+  147000 tasks done this run, 3548 s
+  147500 tasks done this run, 3559 s
+  148000 tasks done this run, 3569 s
+  148500 tasks done this run, 3579 s
+main nodes by dim: 0 0 28 148808 25552430 15895972 39852 0 0
+main tries by dim: 0 0 326144 493790528 23168231688 3626633472 1732864 0 0
+main bent-extension nodes 0, full-span records 0
+solutions (distinct spaces in these coordinates): 0
+

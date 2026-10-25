@@ -1,0 +1,8 @@
+$ bin/review_odd_brute c7a
+A = 02 04 03 10 20 18 40 80
+A order 7; parts: g=3 F_2^1 g=b F_8^5 g=d F_8^4
+total invariant 8-dim subspaces 0
+APN invariant spaces: 0 (check failures 0)
+with >= 5 rank-4 components: 0
+
+[exit 0, 0.7 s wall]

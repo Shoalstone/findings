@@ -1,0 +1,5 @@
+
+c3k4: dim Fix 16, |G1| = 1440
+3+3: 144 candidates h', 1 seeds up to G1 with partition ok
+c3k4-33 seeds 0..1 (r = 4): leaves 345176064, passed 237670, solutions 0, dead at init 0, APN spaces 0
+

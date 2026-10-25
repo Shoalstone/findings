@@ -1,0 +1,16 @@
+$ bin/symp ext gf5 x3 1 out/ext-x3.txt
+A = 0c183060c09b2d5a  order 5, deg of factors 4
+  part g=3: F_2-dim 8 (F_2-dim 8)
+  part g=1f: F_16-dim 5 (F_2-dim 20)
+space x3 invariant under A: yes
+B1 = component 1 = 80b450e, rank 8
+orbit span dim 4
+W = F_2[A]B1: dim 4, kernel condition passes; B1 meets parts: 0 1
+  split Fix:0 F16[1f]:2(n)                       B1s 1 tries 4369 leaves 2  adds by dim: 0 0 0 0 2901 158 2 2
+  split Fix:4 F16[1f]:1(n)                       B1s 1 tries 2107 leaves 0  adds by dim: 0 0 0 0 24 85 0 0
+APN leaves 2, distinct APN spaces 2, bugs 0
+  ranks 8:170 6:85 4:0 2:0 : 2
+with >= 5 rank-4 components: 0
+the space itself found: YES  (0.01 s)
+ranks 8:170 6:85 4:0 2:0 basis 80b450e 4009205 2204d4a 1002679 0a9472a 063b526 0108289 0059cef
+ranks 8:170 6:85 4:0 2:0 basis 80b450e 4050eea 20b68aa 10833fd 08262ca 0408542 02b302d 012f7ea

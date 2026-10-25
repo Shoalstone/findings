@@ -1,0 +1,12 @@
+$ bin/symp cycle3 c3k2 out/symp-c3k2-cycle3.txt
+A = 0203080c10204080  order 3, deg of factors 2
+  part g=3: F_2-dim 10 (F_2-dim 10)
+  part g=7: F_4-dim 9 (F_2-dim 18)
+# cycle3 c3k2 (2.7 s): rank-4 5622036, R & AR = 0: 564480, W passes: 564480, orbits under C(A)xFrob: 3 (images leaving the set: 0, want 0)
+#  orbit sizes: 60480^1 201600^1 302400^1
+# extension (3.5 s total), 3 reps
+  split Fix:4(f) F4[7]:2(n)                      B1s 3 tries 1938591 leaves 0  adds by dim: 0 0 0 17282 672 16160 3186 0
+APN leaves 0, distinct APN spaces 0, bugs 0
+with >= 5 rank-4 components: 0
+
+[exit 0, 3.6 s wall]

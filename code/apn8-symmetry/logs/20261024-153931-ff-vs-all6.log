@@ -1,0 +1,18 @@
+
+1048576 read
+2097152 read
+3145728 read
+3810710 functions read, 1 not quadratic APN-shaped
+  ranks 8:170 6:85 4:0 2:0: 3481920 functions
+  ranks 8:174 6:80 4:1 2:0: 318823 functions
+  ranks 8:178 6:75 4:2 2:0: 9569 functions, 7497 distinct invariants; in{1}:11 in{01}:297 in{2}:37 in{3}:7136 in{4}:10 in{04}:2 in{5}:4
+  ranks 8:182 6:70 4:3 2:0: 367 functions, 209 distinct invariants; in{1}:139 in{01}:7 in{3}:63
+  ranks 8:186 6:65 4:4 2:0: 26 functions, 26 distinct invariants; in{1}:26
+  ranks 8:190 6:64 4:0 2:1: 4 functions, 4 distinct invariants; in{1}:4
+  file 0 = runs/a/c3k4-ff.txt
+  file 1 = runs/known/apn_8bit.txt
+  file 2 = runs/known/blp22_8bit.txt
+  file 3 = runs/known/new_apns.txt
+  file 4 = runs/known/yuwangli_qam.txt
+  file 5 = runs/known/yuperrin_qam.txt
+

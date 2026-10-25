@@ -1,0 +1,19 @@
+
+A = 02 04 08 0f 10 20 40 80
+A order 5; parts: g=3 F_2^8 g=1f F_16^5
+split 0 2: 17965585 invariant subspaces
+  prefixes 1
+  prefixes passing 1, final tests 17965585, APN spaces in this split 0
+split 4 1: 14036015235 invariant subspaces
+  part 1: 69905 subspaces, 21504 pass their own kernel test
+  stream part 0: 200787 subspaces, 0 pass their own kernel test
+  prefixes 21504
+  prefixes passing 21504, final tests 0, APN spaces in this split 0
+split 8 0: 1 invariant subspaces
+  stream part 0: 1 subspaces, 0 pass their own kernel test
+  prefixes 1
+  prefixes passing 1, final tests 0, APN spaces in this split 0
+total invariant 8-dim subspaces 14053980821
+APN invariant spaces: 0 (check failures 0)
+with >= 5 rank-4 components: 0
+

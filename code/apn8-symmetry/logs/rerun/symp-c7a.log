@@ -1,0 +1,12 @@
+$ bin/symp run c7a out/symp-c7a.txt
+A = 0204031020184080  order 7, deg of factors 3
+  part g=3: F_2-dim 1 (F_2-dim 1)
+  part g=b: F_8-dim 4 (F_2-dim 12)
+  part g=d: F_8-dim 5 (F_2-dim 15)
+# symp p=7 A=0204031020184080
+# stage 1 (2.9 s): rank-4 5622036, fixed by A 0, orbit-min 803148, radicals pairwise disjoint 28224 (second test disagrees 0), W passes kernel test 0; this run takes 0 (1/1, residue 0)
+# stage 2 (2.9 s total): W types (dim, f!=0):
+APN leaves 0, distinct APN spaces 0, bugs 0
+with >= 5 rank-4 components: 0
+
+[exit 0, 4.0 s wall]

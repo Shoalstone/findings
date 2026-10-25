@@ -1,0 +1,21 @@
+$ bin/review_engine lvl all
+rep  0 000000: level 1 0/4096 pass, 0 mismatch; level 2 0/0, 0; level 3 0/0, 0; solve vs brute on 0 triples (0 solutions): 0 mismatch
+rep  1 000001: level 1 364/4096 pass, 0 mismatch; level 2 0/12288, 0; level 3 0/0, 0; solve vs brute on 0 triples (0 solutions): 0 mismatch
+rep  2 000002: level 1 0/4096 pass, 0 mismatch; level 2 0/0, 0; level 3 0/0, 0; solve vs brute on 0 triples (0 solutions): 0 mismatch
+rep  3 000004: level 1 0/4096 pass, 0 mismatch; level 2 0/0, 0; level 3 0/0, 0; solve vs brute on 0 triples (0 solutions): 0 mismatch
+rep  4 000005: level 1 364/4096 pass, 0 mismatch; level 2 0/12288, 0; level 3 0/0, 0; solve vs brute on 0 triples (0 solutions): 0 mismatch
+rep  5 000020: level 1 0/4096 pass, 0 mismatch; level 2 0/0, 0; level 3 0/0, 0; solve vs brute on 0 triples (0 solutions): 0 mismatch
+rep  6 000043: level 1 377/4096 pass, 0 mismatch; level 2 0/12288, 0; level 3 0/0, 0; solve vs brute on 0 triples (0 solutions): 0 mismatch
+rep  7 000061: level 1 364/4096 pass, 0 mismatch; level 2 0/12288, 0; level 3 0/0, 0; solve vs brute on 0 triples (0 solutions): 0 mismatch
+rep  8 000062: level 1 0/4096 pass, 0 mismatch; level 2 0/0, 0; level 3 0/0, 0; solve vs brute on 0 triples (0 solutions): 0 mismatch
+rep  9 000803: level 1 483/4096 pass, 0 mismatch; level 2 362/12288, 0; level 3 0/12288, 0; solve vs brute on 3 triples (0 solutions): 0 mismatch
+rep 10 000821: level 1 480/4096 pass, 0 mismatch; level 2 425/12288, 0; level 3 0/12288, 0; solve vs brute on 3 triples (0 solutions): 0 mismatch
+rep 11 000845: level 1 516/4096 pass, 0 mismatch; level 2 422/12288, 0; level 3 0/12288, 0; solve vs brute on 3 triples (0 solutions): 0 mismatch
+rep 12 000863: level 1 501/4096 pass, 0 mismatch; level 2 273/12288, 0; level 3 0/12288, 0; solve vs brute on 3 triples (0 solutions): 0 mismatch
+rep 13 001801: level 1 722/4096 pass, 0 mismatch; level 2 717/12288, 0; level 3 3/12288, 0; solve vs brute on 6 triples (0 solutions): 0 mismatch
+rep 14 001805: level 1 680/4096 pass, 0 mismatch; level 2 514/12288, 0; level 3 7/12288, 0; solve vs brute on 10 triples (0 solutions): 0 mismatch
+rep 15 001823: level 1 722/4096 pass, 0 mismatch; level 2 756/12288, 0; level 3 2/12288, 0; solve vs brute on 5 triples (0 solutions): 0 mismatch
+rep 16 041803: level 1 1024/4096 pass, 0 mismatch; level 2 1101/12288, 0; level 3 22/12288, 0; solve vs brute on 23 triples (0 solutions): 0 mismatch
+rep 17 041821: level 1 1024/4096 pass, 0 mismatch; level 2 1155/12288, 0; level 3 4/12288, 0; solve vs brute on 7 triples (0 solutions): 0 mismatch
+
+[exit 0, 13.5 s wall]

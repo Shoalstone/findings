@@ -1,0 +1,17 @@
+$ bin/review_odd_brute c7b 0 count
+A = 02 04 03 10 20 28 40 80
+A order 7; parts: g=3 F_2^4 g=b F_8^4 g=d F_8^4
+split 2 0 2: 166075 invariant subspaces
+  part 0: enumerated 35, Gaussian binomial 35 ok
+  part 1: enumerated 1, Gaussian binomial 1 ok
+  part 2: enumerated 4745, Gaussian binomial 4745 ok
+split 2 1 1: 11977875 invariant subspaces
+  part 0: enumerated 35, Gaussian binomial 35 ok
+  part 1: enumerated 585, Gaussian binomial 585 ok
+  part 2: enumerated 585, Gaussian binomial 585 ok
+split 2 2 0: 166075 invariant subspaces
+  part 0: enumerated 35, Gaussian binomial 35 ok
+  part 1: enumerated 4745, Gaussian binomial 4745 ok
+  part 2: enumerated 1, Gaussian binomial 1 ok
+total invariant 8-dim subspaces 12310025
+

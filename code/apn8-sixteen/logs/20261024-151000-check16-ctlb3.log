@@ -1,0 +1,15 @@
+
+known line 12631: rank-4 4 rank-6 65 bent 186
+1648 candidate Y; chosen one contains 5 rank-6 radicals
+transformed known space: B0 = J-form, B1 = graph(I) with M = 33; APN=1 dist: 186 0 65 0 4 0 0 0 0
+  key 003aa86 00400cf 0118897 020a6bd 0897d21 34109d6 4486a0a 8400000 
+seed dimension 5 (B0, B1, 3 rank-6)
+  3596 tasks
+SOLUTION 003aa86 00400cf 0118897 020a6bd 0897d21 34109d6 4486a0a 8400000 
+ctlB nodes by dim: 0 0 0 0 0 1 3596 110 1
+ctlB tries by dim: 0 0 0 0 0 1085336 2391403644 29664824 0
+ctlB bent-extension nodes 0, full-span records 1
+ctlB: 1 spaces found in 376.5 s; known space among them: YES
+  APN=1 dist: 186 0 65 0 4 0 0 0 0  <- known
+ctlB: 1 of 1 verified APN by LUT
+

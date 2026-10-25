@@ -1,0 +1,75 @@
+$ bin/fix5check 16 1
+zeta = 2^51 = 0x0A
+control x^3                      def=1 direct=1 count=1 dim=8 ranks 8/6/4/2/0 = 170/85/0/0/0
+control x^9                      def=1 direct=1 count=1 dim=8 ranks 8/6/4/2/0 = 170/85/0/0/0
+control x^5                      def=0 direct=0 count=0 dim=8 ranks 8/6/4/2/0 = 204/0/51/0/0
+control x^17                     def=0 direct=0 count=0 dim=4 ranks 8/6/4/2/0 = 240/0/0/0/15
+control x^33                     def=1 direct=1 count=1 dim=8 ranks 8/6/4/2/0 = 170/85/0/0/0
+control x^129 (=x^(2^7+1), k=7)  def=1 direct=1 count=1 dim=8 ranks 8/6/4/2/0 = 170/85/0/0/0
+random 8-dim subspaces: 3000 tested, 0 APN, all three tests agree on 3000
+perturbed Gold: 3000 tested, 7 APN, agree 3000
+dim Fix = 8, dim N = 20
+Fix rank distribution 8/6/4/2: 204/0/51/0
+S8 = Fix: APN def=0 direct=0 count=0
+Gold x^3 forms lying in N: 8 of 8
+|GammaL(2,16)| = 244800 (expect 244800), |GL(2,16)| = 61200
+group checks: non-bijective 0, not normalizing/additive 0, Fix not preserved 0
+elements acting trivially on Fix: 5
+4-dim subspaces of Fix: 200787 (expect 200787)
+rank-4 counts over all 4-dim Q: 0:8296 1:27540 2:42840 3:43435 4:42840 5:27540 6:8296
+qualifying Q (>= 5 rank-4 forms): 35836; by rank-4 count: 5:27540 6:8296
+rank-4 forms of Fix: 17 distinct radicals (F16-lines of V), forms per radical: 3:17
+qualifying Q with two rank-4 forms sharing a radical: 10336; with all rank-4 radicals distinct: 25500
+GL(2,16) orbits: 9 orbits, sizes sum to 35836
+  rep 01020408  rank4=6  size=2040  stab=30
+  rep 01020418  rank4=5  size=3060  stab=20
+  rep 01020428  rank4=5  size=12240  stab=5
+  rep 01020430  rank4=5  size=3060  stab=20
+  rep 01020440  rank4=5  size=6120  stab=10
+  rep 01020478  rank4=6  size=4080  stab=15
+  rep 01020498  rank4=5  size=3060  stab=20
+  rep 01020C20  rank4=6  size=2040  stab=30
+  rep 010244A0  rank4=6  size=136  stab=450
+GammaL(2,16) orbits: 7 orbits, sizes sum to 35836
+  rep 01020408  rank4=6  size=4080  stab=60
+  rep 01020418  rank4=5  size=6120  stab=40
+  rep 01020428  rank4=5  size=12240  stab=20
+  rep 01020440  rank4=5  size=6120  stab=40
+  rep 01020478  rank4=6  size=4080  stab=60
+  rep 01020498  rank4=5  size=3060  stab=80
+  rep 010244A0  rank4=6  size=136  stab=1800
+[1.5 s]
+lines L (1-dim F16-subspaces of N): 69905 (expect 69905)
+Gold via N-coords: rebuilt=1, dim(S8 + A S8)=8, ranks 8/6/4/2 = 170/85/0/0, count-test APN=1, direct=1
+orbit 0 rep 01020408 rank4(Q)=6 size=4080: APN 0 of 69905, test mismatches 0, def-checked 0 (bad 0), max rank-4 count over all L = 66
+    rank-4 count of S8 over all L: 6:27330 11:25276 16:10686 21:4086 26:1512 31:633 36:301 41:57 46:6 51:14 56:2 66:2
+    definition agrees with the form test on 500 of 500 sampled L
+    member 052A5A8A gives the same result: yes
+orbit 1 rep 01020418 rank4(Q)=5 size=6120: APN 0 of 69905, test mismatches 0, def-checked 0 (bad 0), max rank-4 count over all L = 65
+    rank-4 count of S8 over all L: 5:27520 10:24596 15:11216 20:4097 25:1586 30:542 35:269 40:50 45:26 55:1 65:2
+    definition agrees with the form test on 500 of 500 sampled L
+    member 1F2A448A gives the same result: yes
+orbit 2 rep 01020428 rank4(Q)=5 size=12240: APN 0 of 69905, test mismatches 0, def-checked 0 (bad 0), max rank-4 count over all L = 55
+    rank-4 count of S8 over all L: 5:26736 10:25742 15:11102 20:3958 25:1432 30:666 35:199 40:59 45:6 50:4 55:1
+    definition agrees with the form test on 500 of 500 sampled L
+    member 09162744 gives the same result: yes
+orbit 3 rep 01020440 rank4(Q)=5 size=6120: APN 0 of 69905, test mismatches 0, def-checked 0 (bad 0), max rank-4 count over all L = 75
+    rank-4 count of S8 over all L: 5:26604 10:27136 15:9652 20:3750 25:1739 30:545 35:258 40:139 45:67 50:7 55:3 60:4 75:1
+    definition agrees with the form test on 500 of 500 sampled L
+    member 03114D85 gives the same result: yes
+orbit 4 rep 01020478 rank4(Q)=6 size=4080: APN 0 of 69905, test mismatches 0, def-checked 0 (bad 0), max rank-4 count over all L = 61
+    rank-4 count of S8 over all L: 6:26128 11:27292 16:10372 21:3499 26:1633 31:589 36:243 41:138 51:5 56:3 61:3
+    definition agrees with the form test on 500 of 500 sampled L
+    member 0E345792 gives the same result: yes
+orbit 5 rep 01020498 rank4(Q)=5 size=3060: APN 0 of 69905, test mismatches 0, def-checked 0 (bad 0), max rank-4 count over all L = 85
+    rank-4 count of S8 over all L: 5:26928 10:25928 15:10680 20:3883 25:1496 30:634 35:183 40:88 45:40 50:20 55:11 60:12 85:2
+    definition agrees with the form test on 500 of 500 sampled L
+    member 18284688 gives the same result: yes
+orbit 6 rep 010244A0 rank4(Q)=6 size=136: APN 0 of 69905, test mismatches 0, def-checked 0 (bad 0), max rank-4 count over all L = 101
+    rank-4 count of S8 over all L: 6:24690 11:30780 16:8205 21:3585 26:1740 31:197 36:540 41:135 51:3 71:15 81:10 101:5
+    definition agrees with the form test on 500 of 500 sampled L
+    member 142C4F88 gives the same result: yes
+total (Q, L) pairs 2505115580, APN pairs 0
+[10.4 s] failures: 0
+
+[exit 0, 19.4 s wall]

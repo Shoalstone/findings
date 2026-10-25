@@ -1,0 +1,13 @@
+
+A = 0204080f204080f0  order 5, deg of factors 4
+  part g=3: F_2-dim 8 (F_2-dim 8)
+  part g=1f: F_16-dim 5 (F_2-dim 20)
+# symp p=5 A=0204080f204080f0
+# stage 1 (7.3 s): rank-4 5622036, fixed by A 51, orbit-min 1124397, radicals pairwise disjoint 53312 (second test disagrees 0), W passes kernel test 34952; this run takes 34952 (1/1, residue 0)
+# stage 2 (10.1 s total): W types (dim, f!=0): (4,0):680 (5,1):34272
+  split Fix:0 F16[1f]:2(n)                       B1s 680 tries 2970920 leaves 0  adds by dim: 0 0 0 0 272128 8992 0 0
+  split Fix:4 F16[1f]:1(n)                       B1s 680 tries 448312 leaves 0  adds by dim: 0 0 0 0 7600 14240 0 0
+  split Fix:4(f) F16[1f]:1(n)                    B1s 34272 tries 7060240 leaves 0  adds by dim: 0 0 0 0 0 252576 48000 0
+APN leaves 0, distinct APN spaces 0, bugs 0
+with >= 5 rank-4 components: 0
+

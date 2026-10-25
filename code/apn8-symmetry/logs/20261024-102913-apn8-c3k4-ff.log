@@ -1,0 +1,8 @@
+
+c3k4: dim Fix 16, |G1| = 1440
+rank-4 Hermitian forms: 3570, orbits under 14 generators: 2
+fixed pairs: 14 orbits, 10 with partition ok
+c3k4-ff seeds 0..10 (r = 4): leaves 14337997184, passed 37653692, solutions 267600, dead at init 0, APN spaces 2230
+  ranks 8:178 6:75 4:2 2:0: 2072
+  ranks 8:182 6:70 4:3 2:0: 158
+

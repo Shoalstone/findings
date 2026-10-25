@@ -1,0 +1,5 @@
+$ bin/orbit5 1 out/orbit5-c1.txt
+class 1: dim Fix = 8, dim N = 20
+class 1: B1 orbits 1124448, radical orbits complementary 53312, partition ok 34952, APN spaces 0
+
+[exit 0, 127.8 s wall]

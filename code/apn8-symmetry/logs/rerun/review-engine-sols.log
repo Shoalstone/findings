@@ -1,0 +1,4 @@
+$ bin/review_engine sols 3
+sols: tested 1221 lines, bad 0, brute solutions on those triples 1230
+
+[exit 0, 218.2 s wall]

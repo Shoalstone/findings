@@ -1,0 +1,22 @@
+$ bin/review_inv2 init
+  rep 0 000000 init 1 max D 4
+  rep 1 000001 init 1 max D 4
+  rep 2 000002 init 1 max D 4
+  rep 3 000004 init 1 max D 4
+  rep 4 000005 init 1 max D 4
+  rep 5 000020 init 1 max D 4
+  rep 6 000043 init 1 max D 4
+  rep 7 000061 init 1 max D 4
+  rep 8 000062 init 1 max D 4
+  rep 9 000803 init 1 max D 4
+  rep 10 000821 init 1 max D 4
+  rep 11 000845 init 1 max D 4
+  rep 12 000863 init 1 max D 4
+  rep 13 001801 init 1 max D 4
+  rep 14 001805 init 1 max D 4
+  rep 15 001823 init 1 max D 4
+  rep 16 041803 init 1 max D 4
+  rep 17 041821 init 1 max D 4
+init ok 18 / 18; |Stab(spread)| 360
+
+[exit 0, 0.1 s wall]

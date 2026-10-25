@@ -1,0 +1,7 @@
+$ python src/review_odd_c3k4_gap.py
+dim N 12 dim Fix 16
+g in N \ F4 n1 with h1 + g rank 4, orbit radicals avoiding B1's: 0 of which P anisotropic: 0
+rank h1 8
+g outside F4 n1 with rank(h1 + g) = 4: 105
+
+[exit 0, 0.6 s wall]

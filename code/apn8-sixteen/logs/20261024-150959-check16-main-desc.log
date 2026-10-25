@@ -1,0 +1,43 @@
+
+main: Sp(J)-orbit representatives of M, descending point order
+M 12 (orbit size 15): second point fe, 5256 dim-3 children
+M 13 (orbit size 12): second point fe, 5344 dim-3 children
+M 33 (orbit size 1): second point fe, 5480 dim-3 children
+16080 tasks, 0 already done; this run: tasks with index % 1 == 0
+  500 tasks done this run, 11 s
+  1000 tasks done this run, 27 s
+  1500 tasks done this run, 42 s
+  2000 tasks done this run, 55 s
+  2500 tasks done this run, 68 s
+  3000 tasks done this run, 83 s
+  3500 tasks done this run, 98 s
+  4000 tasks done this run, 113 s
+  4500 tasks done this run, 127 s
+  5000 tasks done this run, 142 s
+  5500 tasks done this run, 155 s
+  6000 tasks done this run, 168 s
+  6500 tasks done this run, 180 s
+  7000 tasks done this run, 193 s
+  7500 tasks done this run, 205 s
+  8000 tasks done this run, 217 s
+  8500 tasks done this run, 230 s
+  9000 tasks done this run, 243 s
+  9500 tasks done this run, 255 s
+  10000 tasks done this run, 267 s
+  10500 tasks done this run, 279 s
+  11000 tasks done this run, 291 s
+  11500 tasks done this run, 303 s
+  12000 tasks done this run, 315 s
+  12500 tasks done this run, 327 s
+  13000 tasks done this run, 338 s
+  13500 tasks done this run, 350 s
+  14000 tasks done this run, 363 s
+  14500 tasks done this run, 375 s
+  15000 tasks done this run, 387 s
+  15500 tasks done this run, 400 s
+  16000 tasks done this run, 412 s
+main nodes by dim: 0 0 3 16080 2816830 2215586 13146 0 0
+main tries by dim: 0 0 34944 53964400 2491918352 554602720 425852 0 0
+main bent-extension nodes 0, full-span records 0
+solutions (distinct spaces in these coordinates): 0
+

@@ -1,0 +1,414 @@
+
+     N with N, N+I invertible (N != I): 5824; candidates 163072; orbits 200
+ok   candidates = 28 per N
+ok   orbit sizes sum to the candidate count and divide 1440
+     orbit sizes: 1x12 1x24 1x40 3x60 8x120 3x144 4x180 16x240 3x288 10x360 37x480 39x720 74x1440
+ok   1440 distinct group elements
+ok   every group element fixes B1 and maps basis vectors into X u Y
+i2: ascending point order, orbit-index pruning off
+reps 0..199, 0 already done
+  1616 tasks
+rep 0 (N 125a, M 12, orbit 360): nodes 0 0 1 1616 80128 13910 1 0 0  full 0  [2 s]
+  1659 tasks
+rep 1 (N 125a, M 13, orbit 360): nodes 0 0 1 1659 82965 20406 206 0 0  full 0  [5 s]
+  1570 tasks
+rep 2 (N 125a, M 14, orbit 720): nodes 0 0 1 1570 72906 11314 0 0 0  full 0  [9 s]
+  1606 tasks
+rep 3 (N 125a, M 15, orbit 1440): nodes 0 0 1 1606 74694 12564 3 0 0  full 0  [13 s]
+  1600 tasks
+rep 4 (N 125a, M 19, orbit 360): nodes 0 0 1 1600 73745 12704 9 0 0  full 0  [17 s]
+  1669 tasks
+rep 5 (N 125a, M 23, orbit 720): nodes 0 0 1 1669 79378 14444 5 0 0  full 0  [21 s]
+  1611 tasks
+rep 6 (N 125a, M 39, orbit 720): nodes 0 0 1 1611 80253 14857 0 0 0  full 0  [25 s]
+  1640 tasks
+rep 7 (N 125a, M 44, orbit 180): nodes 0 0 1 1640 79359 18135 129 0 0  full 0  [30 s]
+  1666 tasks
+rep 8 (N 125a, M 50, orbit 180): nodes 0 0 1 1666 77973 14291 3 0 0  full 0  [34 s]
+  1493 tasks
+rep 9 (N 125b, M 12, orbit 720): nodes 0 0 1 1493 69892 11122 0 0 0  full 0  [38 s]
+  1501 tasks
+rep 10 (N 125b, M 13, orbit 1440): nodes 0 0 1 1501 70314 11632 0 0 0  full 0  [41 s]
+  1487 tasks
+rep 11 (N 125b, M 14, orbit 480): nodes 0 0 1 1487 71835 11771 11 0 0  full 0  [45 s]
+  1532 tasks
+rep 12 (N 125b, M 15, orbit 480): nodes 0 0 1 1532 73246 11817 6 0 0  full 0  [49 s]
+  1565 tasks
+rep 13 (N 125b, M 18, orbit 480): nodes 0 0 1 1565 73978 12523 0 0 0  full 0  [52 s]
+  1520 tasks
+rep 14 (N 125b, M 28, orbit 240): nodes 0 0 1 1520 77419 14417 4 0 0  full 0  [55 s]
+  1597 tasks
+rep 15 (N 125b, M 29, orbit 480): nodes 0 0 1 1597 76457 14674 3 0 0  full 0  [58 s]
+  1549 tasks
+rep 16 (N 125b, M 35, orbit 1440): nodes 0 0 1 1549 72022 11650 0 0 0  full 0  [61 s]
+  1509 tasks
+rep 17 (N 125b, M 44, orbit 720): nodes 0 0 1 1509 69223 10861 1 0 0  full 0  [63 s]
+  1572 tasks
+rep 18 (N 125b, M 60, orbit 240): nodes 0 0 1 1572 73784 12343 3 0 0  full 0  [66 s]
+  1600 tasks
+rep 19 (N 125c, M 12, orbit 1440): nodes 0 0 1 1600 72778 11749 0 0 0  full 0  [71 s]
+  1688 tasks
+rep 20 (N 125c, M 13, orbit 1440): nodes 0 0 1 1688 83796 14077 0 0 0  full 0  [76 s]
+  1624 tasks
+rep 21 (N 125c, M 14, orbit 1440): nodes 0 0 1 1624 77381 13136 1 0 0  full 0  [79 s]
+  1633 tasks
+rep 22 (N 125c, M 15, orbit 1440): nodes 0 0 1 1633 79619 12003 0 0 0  full 0  [83 s]
+  1710 tasks
+rep 23 (N 125c, M 18, orbit 1440): nodes 0 0 1 1710 81335 13770 0 0 0  full 0  [88 s]
+  1635 tasks
+rep 24 (N 125c, M 19, orbit 1440): nodes 0 0 1 1635 76526 12106 2 0 0  full 0  [91 s]
+  1676 tasks
+rep 25 (N 125c, M 22, orbit 1440): nodes 0 0 1 1676 78297 12716 1 0 0  full 0  [95 s]
+  1641 tasks
+rep 26 (N 125c, M 23, orbit 1440): nodes 0 0 1 1641 77914 12613 2 0 0  full 0  [99 s]
+  1620 tasks
+rep 27 (N 125c, M 26, orbit 1440): nodes 0 0 1 1620 76364 11895 0 0 0  full 0  [103 s]
+  1598 tasks
+rep 28 (N 125c, M 27, orbit 1440): nodes 0 0 1 1598 75070 12104 1 0 0  full 0  [107 s]
+  1631 tasks
+rep 29 (N 125c, M 28, orbit 1440): nodes 0 0 1 1631 75184 11889 0 0 0  full 0  [111 s]
+  1599 tasks
+rep 30 (N 125c, M 29, orbit 1440): nodes 0 0 1 1599 73783 12194 6 0 0  full 0  [115 s]
+  1680 tasks
+rep 31 (N 125c, M 33, orbit 1440): nodes 0 0 1 1680 80318 13391 0 0 0  full 0  [119 s]
+  1621 tasks
+rep 32 (N 125c, M 35, orbit 1440): nodes 0 0 1 1621 74689 11932 0 0 0  full 0  [123 s]
+  1682 tasks
+rep 33 (N 125c, M 37, orbit 1440): nodes 0 0 1 1682 79872 14602 0 0 0  full 0  [127 s]
+  1648 tasks
+rep 34 (N 125c, M 39, orbit 1440): nodes 0 0 1 1648 77767 12452 0 0 0  full 0  [131 s]
+  1594 tasks
+rep 35 (N 125c, M 41, orbit 1440): nodes 0 0 1 1594 75511 11527 0 0 0  full 0  [135 s]
+  1629 tasks
+rep 36 (N 125c, M 43, orbit 1440): nodes 0 0 1 1629 77515 11650 8 0 0  full 0  [139 s]
+  1631 tasks
+rep 37 (N 125c, M 44, orbit 1440): nodes 0 0 1 1631 77685 13208 0 0 0  full 0  [143 s]
+  1718 tasks
+rep 38 (N 125c, M 46, orbit 1440): nodes 0 0 1 1718 80891 13650 1 0 0  full 0  [147 s]
+  1592 tasks
+rep 39 (N 125c, M 49, orbit 1440): nodes 0 0 1 1592 73688 11442 0 0 0  full 0  [150 s]
+  1629 tasks
+rep 40 (N 125c, M 50, orbit 1440): nodes 0 0 1 1629 77138 12591 0 0 0  full 0  [154 s]
+  1621 tasks
+rep 41 (N 125c, M 53, orbit 1440): nodes 0 0 1 1621 74508 12376 0 0 0  full 0  [158 s]
+  1607 tasks
+rep 42 (N 125c, M 54, orbit 1440): nodes 0 0 1 1607 75405 11901 9 0 0  full 0  [162 s]
+  1632 tasks
+rep 43 (N 125c, M 57, orbit 1440): nodes 0 0 1 1632 79186 12611 0 0 0  full 0  [166 s]
+  1682 tasks
+rep 44 (N 125c, M 58, orbit 1440): nodes 0 0 1 1682 81320 13634 1 0 0  full 0  [170 s]
+  1570 tasks
+rep 45 (N 125c, M 60, orbit 1440): nodes 0 0 1 1570 80292 12711 0 0 0  full 0  [174 s]
+  1597 tasks
+rep 46 (N 125c, M 63, orbit 1440): nodes 0 0 1 1597 72166 11485 0 0 0  full 0  [178 s]
+  1587 tasks
+rep 47 (N 1269, M 12, orbit 120): nodes 0 0 1 1587 80052 15638 7 0 0  full 0  [183 s]
+  1639 tasks
+rep 48 (N 1269, M 13, orbit 120): nodes 0 0 1 1639 82665 19066 35 0 0  full 0  [187 s]
+  1662 tasks
+rep 49 (N 1269, M 15, orbit 60): nodes 0 0 1 1662 85448 20068 19 0 0  full 0  [192 s]
+  1650 tasks
+rep 50 (N 1269, M 19, orbit 24): nodes 0 0 1 1650 90809 32300 237 0 0  full 0  [198 s]
+  1840 tasks
+rep 51 (N 1269, M 50, orbit 12): nodes 0 0 1 1840 111747 44859 586 0 0  full 0  [205 s]
+  1522 tasks
+rep 52 (N 126d, M 12, orbit 720): nodes 0 0 1 1522 71939 12880 0 0 0  full 0  [208 s]
+  1517 tasks
+rep 53 (N 126d, M 13, orbit 1440): nodes 0 0 1 1517 71759 12164 1 0 0  full 0  [212 s]
+  1535 tasks
+rep 54 (N 126d, M 15, orbit 720): nodes 0 0 1 1535 73268 12254 4 0 0  full 0  [216 s]
+  1579 tasks
+rep 55 (N 126d, M 18, orbit 720): nodes 0 0 1 1579 78315 14636 0 0 0  full 0  [220 s]
+  1524 tasks
+rep 56 (N 126d, M 19, orbit 360): nodes 0 0 1 1524 75058 13845 2 0 0  full 0  [224 s]
+  1518 tasks
+rep 57 (N 126d, M 27, orbit 360): nodes 0 0 1 1518 73007 12324 11 0 0  full 0  [228 s]
+  1513 tasks
+rep 58 (N 126d, M 35, orbit 360): nodes 0 0 1 1513 75066 12625 0 0 0  full 0  [232 s]
+  1504 tasks
+rep 59 (N 126d, M 50, orbit 180): nodes 0 0 1 1504 71140 12222 9 0 0  full 0  [236 s]
+  1440 tasks
+rep 60 (N 126d, M 58, orbit 180): nodes 0 0 1 1440 64171 12204 0 0 0  full 0  [240 s]
+  1526 tasks
+rep 61 (N 128c, M 12, orbit 360): nodes 0 0 1 1526 79347 12407 0 0 0  full 0  [244 s]
+  1534 tasks
+rep 62 (N 128c, M 13, orbit 720): nodes 0 0 1 1534 77686 13570 21 0 0  full 0  [247 s]
+  1616 tasks
+rep 63 (N 128c, M 14, orbit 120): nodes 0 0 1 1616 80659 13863 1 0 0  full 0  [251 s]
+  1544 tasks
+rep 64 (N 128c, M 15, orbit 240): nodes 0 0 1 1544 79311 12385 4 0 0  full 0  [255 s]
+  1612 tasks
+rep 65 (N 128c, M 18, orbit 240): nodes 0 0 1 1612 85272 14139 10 0 0  full 0  [260 s]
+  1506 tasks
+rep 66 (N 128c, M 19, orbit 480): nodes 0 0 1 1506 75458 11201 1 0 0  full 0  [263 s]
+  1608 tasks
+rep 67 (N 128c, M 33, orbit 120): nodes 0 0 1 1608 87307 17821 16 0 0  full 0  [268 s]
+  1554 tasks
+rep 68 (N 128c, M 35, orbit 360): nodes 0 0 1 1554 78834 11682 0 0 0  full 0  [272 s]
+  1547 tasks
+rep 69 (N 128c, M 37, orbit 720): nodes 0 0 1 1547 75027 12412 0 0 0  full 0  [275 s]
+  1576 tasks
+rep 70 (N 128f, M 12, orbit 480): nodes 0 0 1 1576 74287 13961 7 0 0  full 0  [279 s]
+  1524 tasks
+rep 71 (N 128f, M 13, orbit 1440): nodes 0 0 1 1524 69747 10875 0 0 0  full 0  [283 s]
+  1472 tasks
+rep 72 (N 128f, M 14, orbit 720): nodes 0 0 1 1472 66552 10108 0 0 0  full 0  [286 s]
+  1532 tasks
+rep 73 (N 128f, M 15, orbit 480): nodes 0 0 1 1532 72618 10815 6 0 0  full 0  [289 s]
+  1598 tasks
+rep 74 (N 128f, M 19, orbit 1440): nodes 0 0 1 1598 76344 11167 2 0 0  full 0  [293 s]
+  1517 tasks
+rep 75 (N 128f, M 22, orbit 720): nodes 0 0 1 1517 69802 10913 6 0 0  full 0  [296 s]
+  1532 tasks
+rep 76 (N 128f, M 27, orbit 480): nodes 0 0 1 1532 71742 10626 8 0 0  full 0  [300 s]
+  1555 tasks
+rep 77 (N 128f, M 33, orbit 480): nodes 0 0 1 1555 72928 12733 4 0 0  full 0  [303 s]
+  1574 tasks
+rep 78 (N 128f, M 46, orbit 240): nodes 0 0 1 1574 73024 11869 5 0 0  full 0  [307 s]
+  1562 tasks
+rep 79 (N 128f, M 54, orbit 240): nodes 0 0 1 1562 73342 13303 9 0 0  full 0  [310 s]
+  1517 tasks
+rep 80 (N 129f, M 12, orbit 1440): nodes 0 0 1 1517 71834 11976 1 0 0  full 0  [314 s]
+  1499 tasks
+rep 81 (N 129f, M 13, orbit 1440): nodes 0 0 1 1499 68297 11238 2 0 0  full 0  [317 s]
+  1485 tasks
+rep 82 (N 129f, M 14, orbit 480): nodes 0 0 1 1485 70472 11535 9 0 0  full 0  [321 s]
+  1532 tasks
+rep 83 (N 129f, M 15, orbit 480): nodes 0 0 1 1532 72650 10363 6 0 0  full 0  [324 s]
+  1530 tasks
+rep 84 (N 129f, M 18, orbit 480): nodes 0 0 1 1530 71968 12470 7 0 0  full 0  [327 s]
+  1566 tasks
+rep 85 (N 129f, M 19, orbit 480): nodes 0 0 1 1566 75284 12048 7 0 0  full 0  [331 s]
+  1521 tasks
+rep 86 (N 129f, M 28, orbit 480): nodes 0 0 1 1521 76872 13555 9 0 0  full 0  [335 s]
+  1561 tasks
+rep 87 (N 129f, M 29, orbit 480): nodes 0 0 1 1561 74706 14460 32 0 0  full 0  [338 s]
+  1564 tasks
+rep 88 (N 129f, M 33, orbit 480): nodes 0 0 1 1564 77978 14482 4 0 0  full 0  [342 s]
+  1526 tasks
+rep 89 (N 129f, M 35, orbit 1440): nodes 0 0 1 1526 70669 12416 0 0 0  full 0  [346 s]
+  1497 tasks
+rep 90 (N 129f, M 37, orbit 1440): nodes 0 0 1 1497 68833 11268 5 0 0  full 0  [349 s]
+  1527 tasks
+rep 91 (N 129f, M 39, orbit 1440): nodes 0 0 1 1527 69344 10449 6 0 0  full 0  [352 s]
+  1537 tasks
+rep 92 (N 129f, M 44, orbit 1440): nodes 0 0 1 1537 69693 11411 2 0 0  full 0  [356 s]
+  1624 tasks
+rep 93 (N 129f, M 46, orbit 480): nodes 0 0 1 1624 75803 12992 6 0 0  full 0  [359 s]
+  1558 tasks
+rep 94 (N 129f, M 50, orbit 480): nodes 0 0 1 1558 74817 12921 3 0 0  full 0  [363 s]
+  1596 tasks
+rep 95 (N 129f, M 60, orbit 480): nodes 0 0 1 1596 73667 12937 12 0 0  full 0  [367 s]
+  1491 tasks
+rep 96 (N 157a, M 12, orbit 720): nodes 0 0 1 1491 70892 12119 0 0 0  full 0  [370 s]
+  1538 tasks
+rep 97 (N 157a, M 13, orbit 1440): nodes 0 0 1 1538 71508 12226 4 0 0  full 0  [374 s]
+  1559 tasks
+rep 98 (N 157a, M 14, orbit 1440): nodes 0 0 1 1559 73947 15807 0 0 0  full 0  [378 s]
+  1534 tasks
+rep 99 (N 157a, M 15, orbit 1440): nodes 0 0 1 1534 71683 13145 0 0 0  full 0  [382 s]
+  1522 tasks
+rep 100 (N 157a, M 18, orbit 1440): nodes 0 0 1 1522 71726 13370 0 0 0  full 0  [386 s]
+  1531 tasks
+rep 101 (N 157a, M 19, orbit 720): nodes 0 0 1 1531 73545 13472 1 0 0  full 0  [390 s]
+  1522 tasks
+rep 102 (N 157a, M 22, orbit 720): nodes 0 0 1 1522 69425 12841 1 0 0  full 0  [394 s]
+  1520 tasks
+rep 103 (N 157a, M 23, orbit 1440): nodes 0 0 1 1520 70371 13485 0 0 0  full 0  [398 s]
+  1511 tasks
+rep 104 (N 157a, M 26, orbit 720): nodes 0 0 1 1511 66665 11718 0 0 0  full 0  [401 s]
+  1516 tasks
+rep 105 (N 157a, M 27, orbit 1440): nodes 0 0 1 1516 68344 12194 0 0 0  full 0  [405 s]
+  1556 tasks
+rep 106 (N 157a, M 29, orbit 1440): nodes 0 0 1 1556 71917 11979 1 0 0  full 0  [409 s]
+  1548 tasks
+rep 107 (N 157a, M 35, orbit 720): nodes 0 0 1 1548 71899 15781 1 0 0  full 0  [413 s]
+  1500 tasks
+rep 108 (N 157a, M 37, orbit 1440): nodes 0 0 1 1500 71246 12843 3 0 0  full 0  [417 s]
+  1560 tasks
+rep 109 (N 157a, M 41, orbit 1440): nodes 0 0 1 1560 73915 13440 0 0 0  full 0  [421 s]
+  1523 tasks
+rep 110 (N 157a, M 44, orbit 1440): nodes 0 0 1 1523 72238 13217 0 0 0  full 0  [425 s]
+  1518 tasks
+rep 111 (N 157a, M 53, orbit 720): nodes 0 0 1 1518 70637 14897 1 0 0  full 0  [429 s]
+  1513 tasks
+rep 112 (N 157a, M 57, orbit 720): nodes 0 0 1 1513 69235 12119 0 0 0  full 0  [432 s]
+  1538 tasks
+rep 113 (N 157a, M 60, orbit 720): nodes 0 0 1 1538 72150 13041 4 0 0  full 0  [436 s]
+  1491 tasks
+rep 114 (N 157b, M 12, orbit 720): nodes 0 0 1 1491 70851 11882 8 0 0  full 0  [440 s]
+  1564 tasks
+rep 115 (N 157b, M 13, orbit 720): nodes 0 0 1 1564 74763 14615 6 0 0  full 0  [444 s]
+  1518 tasks
+rep 116 (N 157b, M 14, orbit 720): nodes 0 0 1 1518 69984 11936 1 0 0  full 0  [447 s]
+  1514 tasks
+rep 117 (N 157b, M 15, orbit 720): nodes 0 0 1 1514 69830 11552 2 0 0  full 0  [451 s]
+  1495 tasks
+rep 118 (N 157b, M 18, orbit 1440): nodes 0 0 1 1495 72606 12562 0 0 0  full 0  [454 s]
+  1547 tasks
+rep 119 (N 157b, M 22, orbit 720): nodes 0 0 1 1547 74223 13779 4 0 0  full 0  [458 s]
+  1493 tasks
+rep 120 (N 157b, M 23, orbit 720): nodes 0 0 1 1493 70909 13689 14 0 0  full 0  [462 s]
+  1552 tasks
+rep 121 (N 157b, M 26, orbit 720): nodes 0 0 1 1552 71035 11369 1 0 0  full 0  [465 s]
+  1505 tasks
+rep 122 (N 157b, M 27, orbit 720): nodes 0 0 1 1505 72128 12476 14 0 0  full 0  [469 s]
+  1561 tasks
+rep 123 (N 157b, M 28, orbit 1440): nodes 0 0 1 1561 70943 11622 4 0 0  full 0  [473 s]
+  1596 tasks
+rep 124 (N 157b, M 33, orbit 1440): nodes 0 0 1 1596 76274 14208 15 0 0  full 0  [476 s]
+  1526 tasks
+rep 125 (N 157b, M 35, orbit 1440): nodes 0 0 1 1526 71111 12481 5 0 0  full 0  [480 s]
+  1524 tasks
+rep 126 (N 157b, M 37, orbit 1440): nodes 0 0 1 1524 70916 12420 0 0 0  full 0  [484 s]
+  1520 tasks
+rep 127 (N 157b, M 39, orbit 1440): nodes 0 0 1 1520 70233 13746 0 0 0  full 0  [487 s]
+  1546 tasks
+rep 128 (N 157b, M 49, orbit 1440): nodes 0 0 1 1546 71533 12501 0 0 0  full 0  [491 s]
+  1533 tasks
+rep 129 (N 157b, M 50, orbit 1440): nodes 0 0 1 1533 73468 11788 0 0 0  full 0  [495 s]
+  1500 tasks
+rep 130 (N 157b, M 53, orbit 1440): nodes 0 0 1 1500 70149 11946 8 0 0  full 0  [498 s]
+  1531 tasks
+rep 131 (N 157b, M 54, orbit 1440): nodes 0 0 1 1531 69705 11643 4 0 0  full 0  [502 s]
+  1518 tasks
+rep 132 (N 15c3, M 12, orbit 720): nodes 0 0 1 1518 72775 13855 2 0 0  full 0  [506 s]
+  1536 tasks
+rep 133 (N 15c3, M 13, orbit 1440): nodes 0 0 1 1536 73846 12687 5 0 0  full 0  [510 s]
+  1526 tasks
+rep 134 (N 15c3, M 14, orbit 1440): nodes 0 0 1 1526 71653 13801 1 0 0  full 0  [513 s]
+  1530 tasks
+rep 135 (N 15c3, M 15, orbit 480): nodes 0 0 1 1530 75250 14148 6 0 0  full 0  [517 s]
+  1501 tasks
+rep 136 (N 15c3, M 19, orbit 480): nodes 0 0 1 1501 70288 13194 8 0 0  full 0  [521 s]
+  1549 tasks
+rep 137 (N 15c3, M 26, orbit 720): nodes 0 0 1 1549 72689 11851 1 0 0  full 0  [525 s]
+  1558 tasks
+rep 138 (N 15c3, M 27, orbit 480): nodes 0 0 1 1558 80143 16558 8 0 0  full 0  [529 s]
+  1588 tasks
+rep 139 (N 15c3, M 28, orbit 240): nodes 0 0 1 1588 78917 19689 22 0 0  full 0  [534 s]
+  1554 tasks
+rep 140 (N 15c3, M 33, orbit 240): nodes 0 0 1 1554 74482 15309 6 0 0  full 0  [538 s]
+  1539 tasks
+rep 141 (N 15c3, M 41, orbit 480): nodes 0 0 1 1539 73955 13230 12 0 0  full 0  [542 s]
+  1490 tasks
+rep 142 (N 15d3, M 12, orbit 1440): nodes 0 0 1 1490 71050 11978 0 0 0  full 0  [545 s]
+  1565 tasks
+rep 143 (N 15d3, M 13, orbit 1440): nodes 0 0 1 1565 75332 12872 43 0 0  full 0  [549 s]
+  1586 tasks
+rep 144 (N 15d3, M 14, orbit 1440): nodes 0 0 1 1586 74807 11998 11 0 0  full 0  [553 s]
+  1534 tasks
+rep 145 (N 15d3, M 15, orbit 1440): nodes 0 0 1 1534 72876 12469 2 0 0  full 0  [556 s]
+  1524 tasks
+rep 146 (N 15d3, M 26, orbit 1440): nodes 0 0 1 1524 73193 11912 0 0 0  full 0  [560 s]
+  1538 tasks
+rep 147 (N 15d3, M 29, orbit 288): nodes 0 0 1 1538 73213 13942 205 0 0  full 0  [564 s]
+  1571 tasks
+rep 148 (N 15d3, M 33, orbit 288): nodes 0 0 1 1571 80010 16957 169 0 0  full 0  [567 s]
+  1598 tasks
+rep 149 (N 15d3, M 60, orbit 288): nodes 0 0 1 1598 79399 16989 171 0 0  full 0  [571 s]
+  1564 tasks
+rep 150 (N 1649, M 12, orbit 120): nodes 0 0 1 1564 83279 15809 40 0 0  full 0  [576 s]
+  1610 tasks
+rep 151 (N 1649, M 13, orbit 240): nodes 0 0 1 1610 85590 17431 24 0 0  full 0  [581 s]
+  1584 tasks
+rep 152 (N 1649, M 14, orbit 360): nodes 0 0 1 1584 79461 14703 14 0 0  full 0  [586 s]
+  1643 tasks
+rep 153 (N 1649, M 18, orbit 120): nodes 0 0 1 1643 82138 16567 8 0 0  full 0  [590 s]
+  1650 tasks
+rep 154 (N 1649, M 19, orbit 240): nodes 0 0 1 1650 89244 27878 319 0 0  full 0  [596 s]
+  1720 tasks
+rep 155 (N 1649, M 33, orbit 40): nodes 0 0 1 1720 100801 36831 1092 0 0  full 0  [602 s]
+  1496 tasks
+rep 156 (N 16d4, M 12, orbit 720): nodes 0 0 1 1496 67990 10258 0 0 0  full 0  [605 s]
+  1533 tasks
+rep 157 (N 16d4, M 13, orbit 720): nodes 0 0 1 1533 73209 12492 3 0 0  full 0  [609 s]
+  1517 tasks
+rep 158 (N 16d4, M 14, orbit 720): nodes 0 0 1 1517 71290 11258 6 0 0  full 0  [612 s]
+  1511 tasks
+rep 159 (N 16d4, M 15, orbit 720): nodes 0 0 1 1511 73517 10855 3 0 0  full 0  [616 s]
+  1522 tasks
+rep 160 (N 16d4, M 26, orbit 720): nodes 0 0 1 1522 71780 10367 0 0 0  full 0  [619 s]
+  1542 tasks
+rep 161 (N 16d4, M 29, orbit 144): nodes 0 0 1 1542 75083 14330 142 0 0  full 0  [623 s]
+  1652 tasks
+rep 162 (N 16d4, M 33, orbit 144): nodes 0 0 1 1652 86010 19203 319 0 0  full 0  [628 s]
+  1544 tasks
+rep 163 (N 16d4, M 60, orbit 144): nodes 0 0 1 1544 80514 16477 169 0 0  full 0  [632 s]
+  1473 tasks
+rep 164 (N 184a, M 12, orbit 720): nodes 0 0 1 1473 67728 11709 1 0 0  full 0  [636 s]
+  1532 tasks
+rep 165 (N 184a, M 13, orbit 240): nodes 0 0 1 1532 73226 11579 1 0 0  full 0  [639 s]
+  1468 tasks
+rep 166 (N 184a, M 14, orbit 720): nodes 0 0 1 1468 73135 12241 5 0 0  full 0  [643 s]
+  1534 tasks
+rep 167 (N 184a, M 15, orbit 240): nodes 0 0 1 1534 74578 12558 5 0 0  full 0  [647 s]
+  1521 tasks
+rep 168 (N 184a, M 18, orbit 240): nodes 0 0 1 1521 73739 13354 3 0 0  full 0  [651 s]
+  1541 tasks
+rep 169 (N 184a, M 19, orbit 720): nodes 0 0 1 1541 75392 12901 7 0 0  full 0  [655 s]
+  1534 tasks
+rep 170 (N 184a, M 22, orbit 1440): nodes 0 0 1 1534 75150 13113 0 0 0  full 0  [659 s]
+  1493 tasks
+rep 171 (N 184a, M 28, orbit 720): nodes 0 0 1 1493 70828 11803 0 0 0  full 0  [663 s]
+  1537 tasks
+rep 172 (N 184a, M 29, orbit 240): nodes 0 0 1 1537 71141 11403 10 0 0  full 0  [667 s]
+  1597 tasks
+rep 173 (N 184a, M 33, orbit 480): nodes 0 0 1 1597 76026 14129 8 0 0  full 0  [671 s]
+  1587 tasks
+rep 174 (N 184a, M 35, orbit 480): nodes 0 0 1 1587 75368 13215 8 0 0  full 0  [675 s]
+  1502 tasks
+rep 175 (N 184a, M 49, orbit 480): nodes 0 0 1 1502 71712 12174 6 0 0  full 0  [679 s]
+  1587 tasks
+rep 176 (N 185b, M 12, orbit 480): nodes 0 0 1 1587 79734 15044 17 0 0  full 0  [683 s]
+  1495 tasks
+rep 177 (N 185b, M 13, orbit 1440): nodes 0 0 1 1495 73629 13000 0 0 0  full 0  [687 s]
+  1549 tasks
+rep 178 (N 185b, M 14, orbit 1440): nodes 0 0 1 1549 77061 14565 4 0 0  full 0  [691 s]
+  1497 tasks
+rep 179 (N 185b, M 15, orbit 1440): nodes 0 0 1 1497 72136 11353 1 0 0  full 0  [694 s]
+  1500 tasks
+rep 180 (N 185b, M 22, orbit 1440): nodes 0 0 1 1500 72443 13084 1 0 0  full 0  [698 s]
+  1509 tasks
+rep 181 (N 185b, M 23, orbit 480): nodes 0 0 1 1509 72116 12835 5 0 0  full 0  [702 s]
+  1586 tasks
+rep 182 (N 185b, M 26, orbit 1440): nodes 0 0 1 1586 76628 13337 4 0 0  full 0  [706 s]
+  1540 tasks
+rep 183 (N 185b, M 27, orbit 480): nodes 0 0 1 1540 75262 13893 0 0 0  full 0  [710 s]
+  1489 tasks
+rep 184 (N 185b, M 28, orbit 1440): nodes 0 0 1 1489 70684 12627 0 0 0  full 0  [714 s]
+  1567 tasks
+rep 185 (N 185b, M 29, orbit 480): nodes 0 0 1 1567 74550 12532 3 0 0  full 0  [718 s]
+  1612 tasks
+rep 186 (N 185b, M 33, orbit 480): nodes 0 0 1 1612 80192 14052 4 0 0  full 0  [722 s]
+  1501 tasks
+rep 187 (N 185b, M 39, orbit 480): nodes 0 0 1 1501 73445 12721 6 0 0  full 0  [726 s]
+  1499 tasks
+rep 188 (N 185b, M 43, orbit 480): nodes 0 0 1 1499 70925 11488 2 0 0  full 0  [730 s]
+  1499 tasks
+rep 189 (N 185b, M 54, orbit 480): nodes 0 0 1 1499 72886 13787 4 0 0  full 0  [734 s]
+  1532 tasks
+rep 190 (N 185b, M 58, orbit 480): nodes 0 0 1 1532 75539 13989 6 0 0  full 0  [738 s]
+  1502 tasks
+rep 191 (N 185b, M 60, orbit 480): nodes 0 0 1 1502 72077 13623 3 0 0  full 0  [742 s]
+  1629 tasks
+rep 192 (N 1af9, M 12, orbit 240): nodes 0 0 1 1629 82356 16226 9 0 0  full 0  [747 s]
+  1631 tasks
+rep 193 (N 1af9, M 13, orbit 480): nodes 0 0 1 1631 82075 14841 4 0 0  full 0  [751 s]
+  1671 tasks
+rep 194 (N 1af9, M 15, orbit 240): nodes 0 0 1 1671 84720 18645 20 0 0  full 0  [756 s]
+  1649 tasks
+rep 195 (N 1af9, M 18, orbit 360): nodes 0 0 1 1649 79831 15173 14 0 0  full 0  [761 s]
+  1702 tasks
+rep 196 (N 1af9, M 19, orbit 120): nodes 0 0 1 1702 90056 20815 60 0 0  full 0  [766 s]
+  1635 tasks
+rep 197 (N 1af9, M 23, orbit 120): nodes 0 0 1 1635 85762 22690 35 0 0  full 0  [771 s]
+  1600 tasks
+rep 198 (N 1af9, M 50, orbit 60): nodes 0 0 1 1600 82117 20116 29 0 0  full 0  [776 s]
+  1724 tasks
+rep 199 (N 1af9, M 54, orbit 60): nodes 0 0 1 1724 91535 19712 16 0 0  full 0  [781 s]
+i2 nodes by dim: 0 0 200 312842 15083757 2748440 4752 0 0
+i2 tries by dim: 0 0 684544 286294400 3632700176 165926096 928984 0 0
+i2 bent-extension nodes 0, full-span records 0
+solutions: 0
+

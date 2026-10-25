@@ -1,0 +1,14 @@
+$ bin/review_odd_brute c5a 0 count
+A = 02 04 08 0f 20 40 80 f0
+A order 5; parts: g=3 F_2^8 g=1f F_16^5
+split 0 2: 17965585 invariant subspaces
+  part 0: enumerated 1, Gaussian binomial 1 ok
+  part 1: enumerated 17965585, Gaussian binomial 17965585 ok
+split 4 1: 14036015235 invariant subspaces
+  part 0: enumerated 200787, Gaussian binomial 200787 ok
+  part 1: enumerated 69905, Gaussian binomial 69905 ok
+split 8 0: 1 invariant subspaces
+  part 0: enumerated 1, Gaussian binomial 1 ok
+  part 1: enumerated 1, Gaussian binomial 1 ok
+total invariant 8-dim subspaces 14053980821
+

@@ -1,0 +1,8 @@
+
+setup: dim Fix 16, dim D(M) 12, D(M) vanishes on KxK 1, b alternating 1, (b,c) rank 12
+spread lines: 000e 1110 8420 4280 2840; E basis 20 01 2d 3b
+E: degenerate nonzero forms 5 (want 5)
+Stab(spread) in GL(4,2): 360
+orbits of L: 18 (220.9 s), passing partition + kernel tests: 18
+  sizes: 32768^1 163840^1 196608^1 327680^3 491520^2 655360^1 983040^4 1966080^5
+

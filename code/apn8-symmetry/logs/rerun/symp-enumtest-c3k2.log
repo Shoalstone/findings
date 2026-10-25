@@ -1,0 +1,26 @@
+$ bin/symp enumtest c3k2
+A = 0203080c10204080  order 3, deg of factors 2
+  part g=3: F_2-dim 10 (F_2-dim 10)
+  part g=7: F_4-dim 9 (F_2-dim 18)
+OK   part 0 (F_2^10) k=0: leaves 1 distinct 1 expected 1
+OK   part 0 (F_2^10) k=1: leaves 1023 distinct 1023 expected 1023
+OK   part 0 (F_2^10) k=2: leaves 174251 distinct 174251 expected 174251
+OK   part 0 (F_2^10) k=8: leaves 174251 distinct 174251 expected 174251
+OK   part 0 (F_2^10) k=9: leaves 1023 distinct 1023 expected 1023
+OK   part 0 (F_2^10) k=10: leaves 1 distinct 1 expected 1
+OK   part 0 (F_2^10) k=1 containing u: leaves 1 distinct 1 expected 1
+OK   part 0 (F_2^10) k=2 containing u: leaves 511 distinct 511 expected 511
+OK   part 0 (F_2^10) k=3 containing u: leaves 43435 distinct 43435 expected 43435
+OK   part 0 (F_2^10) k=8 containing u: leaves 43435 distinct 43435 expected 43435
+OK   part 0 (F_2^10) k=9 containing u: leaves 511 distinct 511 expected 511
+OK   part 0 (F_2^10) k=10 containing u: leaves 1 distinct 1 expected 1
+OK   part 1 (F_4^9) k=0: leaves 1 distinct 1 expected 1
+OK   part 1 (F_4^9) k=1: leaves 87381 distinct 87381 expected 87381
+OK   part 1 (F_4^9) k=8: leaves 87381 distinct 87381 expected 87381
+OK   part 1 (F_4^9) k=9: leaves 1 distinct 1 expected 1
+OK   part 1 (F_4^9) k=1 containing u: leaves 1 distinct 1 expected 1
+OK   part 1 (F_4^9) k=2 containing u: leaves 21845 distinct 21845 expected 21845
+OK   part 1 (F_4^9) k=8 containing u: leaves 21845 distinct 21845 expected 21845
+OK   part 1 (F_4^9) k=9 containing u: leaves 1 distinct 1 expected 1
+enumtest: 0 failures
+

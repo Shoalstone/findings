@@ -1,0 +1,8 @@
+$ bin/symp brute c5a 50
+A = 0204080f204080f0  order 5, deg of factors 4
+  part g=3: F_2-dim 8 (F_2-dim 8)
+  part g=1f: F_16-dim 5 (F_2-dim 20)
+stage 1: 34952 B1s (radical-test mismatches 0); taking every 50-th
+B1s 700, unpruned leaves 11361220, APN by brute force 0, by the pruned search 0, B1s disagreeing 0
+
+[exit 0, 124.6 s wall]

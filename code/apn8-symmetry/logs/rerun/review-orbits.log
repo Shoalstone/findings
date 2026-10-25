@@ -1,0 +1,34 @@
+$ python src/review_orbits.py
+lines 35 spreads 56
+|GL(4,2)| 20160
+spread orbit size 56 (56 = one orbit) |Stab| 360
+3-dim subspaces of Alt(F_2^4): 1395 anisotropic: 0
+E basis 20 01 2d 3b (inv2 printed 20 01 2d 3b)
+E: degenerate nonzero 5
+dm_form lands in D(M): ok; rank D = 12
+rep 041803: F_of matches inv2-all's first 4 forms: True
+rep 041821: F_of matches inv2-all's first 4 forms: True
+shears act by translations; dim T = 15
+H linear on L and preserves T (checked on 60 of 360)
+rep 000000: orbit 32768 (inv2 32768) disjoint True
+rep 000001: orbit 983040 (inv2 983040) disjoint True
+rep 000002: orbit 983040 (inv2 983040) disjoint True
+rep 000004: orbit 491520 (inv2 491520) disjoint True
+rep 000005: orbit 327680 (inv2 327680) disjoint True
+rep 000020: orbit 655360 (inv2 655360) disjoint True
+rep 000043: orbit 1966080 (inv2 1966080) disjoint True
+rep 000061: orbit 1966080 (inv2 1966080) disjoint True
+rep 000062: orbit 983040 (inv2 983040) disjoint True
+rep 000803: orbit 1966080 (inv2 1966080) disjoint True
+rep 000821: orbit 983040 (inv2 983040) disjoint True
+rep 000845: orbit 327680 (inv2 327680) disjoint True
+rep 000863: orbit 1966080 (inv2 1966080) disjoint True
+rep 001801: orbit 491520 (inv2 491520) disjoint True
+rep 001805: orbit 1966080 (inv2 1966080) disjoint True
+rep 001823: orbit 163840 (inv2 163840) disjoint True
+rep 041803: orbit 196608 (inv2 196608) disjoint True
+rep 041821: orbit 327680 (inv2 327680) disjoint True
+cosets covered 512 of 512; all reps consistent True
+inv2-all: 3661 lines, bad 0, distribution {(170, 85, 0, 0): 3535, (178, 75, 2, 0): 96, (186, 65, 4, 0): 30}
+
+[exit 0, 8.7 s wall]

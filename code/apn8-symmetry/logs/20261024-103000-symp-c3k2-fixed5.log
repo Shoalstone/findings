@@ -1,0 +1,14 @@
+
+A = 0203080c10204080  order 3, deg of factors 2
+  part g=3: F_2-dim 10 (F_2-dim 10)
+  part g=7: F_4-dim 9 (F_2-dim 18)
+fixed rank-4 forms by radical type (dim R&W + dim R&T): W0+T4:10 W2+T2:175 W4+T0:28
+distinct radicals 177; largest pairwise complementary family 5, largest with a radical not of type (F_4-line + 2-dim of T) 2
+F_4-lines 5, 2-dim subspaces of T 35, spreads 56
+(line, plane) pairs whose fixed rank-4 form isn't unique: 0 (want 0)
+configurations 6720, span dims: 4:6720; passing the kernel test with dim <= 4: 6720, distinct starting spaces 6720
+# fixed5 extension 3930.2 s
+  split Fix:4(f) F4[7]:2                         B1s 6720 tries 51507099456 leaves 0  adds by dim: 0 0 0 0 5687808 3026688 0 0
+APN leaves 0, distinct APN spaces 0, bugs 0
+with >= 5 rank-4 components: 0
+

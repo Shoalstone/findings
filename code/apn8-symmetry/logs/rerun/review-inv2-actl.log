@@ -1,0 +1,4 @@
+$ bin/review_inv2 actl 200
+actl: 0 bad of 200
+
+[exit 0, 0.2 s wall]

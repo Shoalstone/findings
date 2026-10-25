@@ -1,0 +1,26 @@
+$ bin/review_inv2 gold 20
+gold: APN 1, ranks 8:170 6:85 4:0 2:0
+gold in standard coords: A-invariant 1
+  L bbeeb3 -> rep 16 (041803) in 3 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L d20acd -> rep 16 (041803) in 3 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L c69ce3 -> rep 16 (041803) in 3 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L fd1d6d -> rep 16 (041803) in 4 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L c9dbf1 -> rep 16 (041803) in 3 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L 3c6e93 -> rep 16 (041803) in 4 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L 769aab -> rep 16 (041803) in 3 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L af7f67 -> rep 16 (041803) in 4 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L ca09c3 -> rep 16 (041803) in 3 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L 122ce3 -> rep 16 (041803) in 3 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L 3f7a15 -> rep 16 (041803) in 3 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L 77bb9b -> rep 16 (041803) in 3 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L 6f584d -> rep 16 (041803) in 4 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L 327b65 -> rep 16 (041803) in 3 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L b54925 -> rep 16 (041803) in 3 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L a208af -> rep 16 (041803) in 2 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L e4ab8d -> rep 16 (041803) in 3 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L 09daa1 -> rep 16 (041803) in 4 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L 9a9865 -> rep 16 (041803) in 3 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+  L 4cf8e1 -> rep 16 (041803) in 4 steps; g = 0ed c5b 289 37a; level_ok 1 1 1; solve gave 2, target found 1
+gold: found 20 / 20
+
+[exit 0, 1.2 s wall]

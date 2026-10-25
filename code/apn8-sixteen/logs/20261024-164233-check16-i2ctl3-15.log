@@ -1,0 +1,15 @@
+
+known line 15: rank-4 3 rank-6 70 bent 182
+5 4-spaces split by 5 rank-6 radicals and missing the rank-4 ones; complementary pair: yes
+normalised: X, Y split by rank-6 radicals, B1 = J on graph(I), min orbit index 162 (orbit size 144); APN=1 dist: 182 0 70 0 3 0 0 0 0
+  key 0071eb6 00a5ae5 013cc8e 0234cfd 1822e8f 2808548 44351fd 841ee9f 
+seed dimension 5 (B1, rep, 3 rank-6)
+  4408 tasks
+SOLUTION 0071eb6 00a5ae5 013cc8e 0234cfd 1822e8f 2808548 44351fd 841ee9f 
+i2ctl nodes by dim: 0 0 0 0 0 1 4408 117 1
+i2ctl tries by dim: 0 0 0 0 0 1056020 2927802248 30331420 0
+i2ctl bent-extension nodes 0, full-span records 1
+i2ctl: 1 spaces found in 503.6 s; known space among them: YES
+  APN=1 dist: 182 0 70 0 3 0 0 0 0  <- known
+i2ctl: 1 of 1 verified APN by LUT
+
