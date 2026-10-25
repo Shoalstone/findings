@@ -1,0 +1,17 @@
+
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+edges 4583936
+known line 12631: rank-4 4 rank-6 65 bent 186
+spread through the 4 rank-4 radicals found; 13 other elements
+hole triple 0 -> spread rep 27; transformed known space APN=1 dist: 186 0 65 0 4 0 0 0 0
+rank-6 radicals: 3 inside D (generated as usual), 62 outside (oracle)
+seed dimension 0
+SOLUTION 00a6d3c 014c5e3 0459e61 08170e5 104f177 225e3eb 42512e2 826c828 
+ctl nodes by dim: 1 29 817 10353 18539 510 1 1 1
+ctl tries by dim: 29 841 22876 289884 519155 14281 29 29 0
+ctl nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 1
+ctl bent-extension nodes 0, full-span records 1
+ctl: 1 spaces found in 0.1 s; known space among them: YES
+  APN=1 dist: 186 0 65 0 4 0 0 0 0  <- known
+ctl: 1 of 1 verified APN by LUT
+

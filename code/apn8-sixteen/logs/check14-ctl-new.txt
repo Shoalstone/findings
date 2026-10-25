@@ -1,0 +1,2 @@
+SUMMARY ..\known\new_apns.txt controls 7199 refound 7199 notfound 0 nospread 0 fail 0 extra 0 nonapn 0 reps 7
+REPS 0:316 4:339 9:883 21:1919 27:2587 37:713 62:442

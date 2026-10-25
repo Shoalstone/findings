@@ -1,0 +1,21 @@
+
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+search: 11004 configurations; point order ascending
+
+
+lines in D: 200:11004
+ext (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext (this run) bent-extension nodes 0, full-span records 0
+nonext (this run) nodes by dim: 11004 308112 8627136 115373106 207621076 42791038 177828 0 0
+nonext (this run) tries by dim: 308112 8627136 241559808 3230446968 5813390128 1198149064 4979184 0 0
+nonext (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+nonext (this run) bent-extension nodes 0, full-span records 0
+search (incl. resumed) nodes by dim: 11004 308112 8627136 115373106 207621076 42791038 177828 0 0
+search (incl. resumed) tries by dim: 308112 8627136 241559808 3230446968 5813390128 1198149064 4979184 0 0
+search (incl. resumed) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+search (incl. resumed) bent-extension nodes 0, full-span records 0
+distinct off-D-covered spans this run: 0
+solutions: 0
+

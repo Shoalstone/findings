@@ -14,7 +14,7 @@
 // V \ 0. W reaches dim 8 with all 16 covered => solution; all 16 covered at dim < 8 => "short" (needs extension;
 // reported).
 //
-// usage: sixteen [maxcliques] [i2]   prints clique counts (spread sets; fields among them: must be 336), DFS stats,
+// usage: sixteen [maxcliques] [i2 | i3]   prints clique counts (spread sets; fields among them: must be 336), DFS stats,
 //                                 and any solution / short case as 'basis' lines (28-bit coefficient vectors).
 #include <cstdio>
 #include <cstdlib>
@@ -113,7 +113,7 @@ struct Search {
     u64 cov[4];                // union of radicals (as point sets), including 0
     int covered;               // bitmask over Sigma indices with a form in W
     int dim;
-    long nodes = 0, sols = 0, shorts = 0;
+    long long nodes = 0, sols = 0, shorts = 0;
     std::vector<std::vector<u64>>* out;
     std::mutex* mu;
     int holek = 0;             // Sigma indices whose graph is a hole (not a rank-4 radical)
@@ -214,8 +214,8 @@ struct Search {
 
 struct Clique {
     const std::vector<M4>& cand; const std::vector<u64>& adj; int W; long maxcl;
-    std::atomic<long>& ncl; std::atomic<long>& nfield; std::atomic<long>& nsemi;
-    std::atomic<long>& nodes; std::atomic<long>& sols; std::atomic<long>& shorts;
+    std::atomic<long long>& ncl; std::atomic<long long>& nfield; std::atomic<long long>& nsemi;
+    std::atomic<long long>& nodes; std::atomic<long long>& sols; std::atomic<long long>& shorts;
     std::vector<std::vector<u64>>& found; std::mutex& mu; M4 J; double t0;
     int pick[14];
 
@@ -248,7 +248,7 @@ struct Clique {
         }
     }
     void leaf() {
-        long id = ncl++;
+        long long id = ncl++;
         Sigma S;
         S.N[0] = 0; S.N[1] = ID;
         for (int i = 0; i < 14; i++) S.N[2 + i] = cand[pick[i]];
@@ -280,7 +280,7 @@ struct Clique {
         }
         if (id % 20000 == 0) {
             std::lock_guard<std::mutex> g(mu);
-            printf("cliques %ld  %.0f s  nodes %ld\n", id, omp_get_wtime() - t0, nodes.load()); fflush(stdout);
+            printf("cliques %lld  %.0f s  nodes %lld\n", id, omp_get_wtime() - t0, nodes.load()); fflush(stdout);
         }
     }
 };
@@ -310,7 +310,7 @@ int main(int argc, char** argv) {
         adj[(size_t)b * W + a / 64] |= (u64)1 << (a % 64);
     }
 
-    std::atomic<long> ncl(0), nfield(0), nsemi(0), nodes(0), sols(0), shorts(0);
+    std::atomic<long long> ncl(0), nfield(0), nsemi(0), nodes(0), sols(0), shorts(0);
     std::vector<std::vector<u64>> found;
     std::mutex mu;
     double t0 = omp_get_wtime();
@@ -324,7 +324,7 @@ int main(int argc, char** argv) {
         cq.pick[0] = v0;
         cq.rec(1, P0);
     }
-    printf("spread sets (cliques) %ld, semifield %ld, field %ld (expect 336)\n", ncl.load(), nsemi.load(), nfield.load());
-    printf("form search: nodes %ld, solutions %ld, short %ld, %.0f s\n", nodes.load(), sols.load(), shorts.load(), omp_get_wtime() - t0);
+    printf("spread sets (cliques) %lld, semifield %lld, field %lld (expect 336)\n", ncl.load(), nsemi.load(), nfield.load());
+    printf("form search: nodes %lld, solutions %lld, short %lld, %.0f s\n", nodes.load(), sols.load(), shorts.load(), omp_get_wtime() - t0);
     return 0;
 }

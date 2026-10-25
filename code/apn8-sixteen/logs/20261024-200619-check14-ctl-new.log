@@ -1,0 +1,36 @@
+
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+edges 4583936
+  36811 lines read, 256 taken; controls 256: re-found 256, NOT found 0, no spread 0, setup failures 0
+  73252 lines read, 512 taken; controls 512: re-found 512, NOT found 0, no spread 0, setup failures 0
+  111432 lines read, 768 taken; controls 768: re-found 768, NOT found 0, no spread 0, setup failures 0
+  152123 lines read, 1024 taken; controls 1024: re-found 1024, NOT found 0, no spread 0, setup failures 0
+  198312 lines read, 1280 taken; controls 1280: re-found 1280, NOT found 0, no spread 0, setup failures 0
+  238725 lines read, 1536 taken; controls 1536: re-found 1536, NOT found 0, no spread 0, setup failures 0
+  279161 lines read, 1792 taken; controls 1792: re-found 1792, NOT found 0, no spread 0, setup failures 0
+  328009 lines read, 2048 taken; controls 2048: re-found 2048, NOT found 0, no spread 0, setup failures 0
+  369685 lines read, 2304 taken; controls 2304: re-found 2304, NOT found 0, no spread 0, setup failures 0
+  416800 lines read, 2560 taken; controls 2560: re-found 2560, NOT found 0, no spread 0, setup failures 0
+  458940 lines read, 2816 taken; controls 2816: re-found 2816, NOT found 0, no spread 0, setup failures 0
+  503267 lines read, 3072 taken; controls 3072: re-found 3072, NOT found 0, no spread 0, setup failures 0
+  548285 lines read, 3328 taken; controls 3328: re-found 3328, NOT found 0, no spread 0, setup failures 0
+  596250 lines read, 3584 taken; controls 3584: re-found 3584, NOT found 0, no spread 0, setup failures 0
+  642816 lines read, 3840 taken; controls 3840: re-found 3840, NOT found 0, no spread 0, setup failures 0
+  694710 lines read, 4096 taken; controls 4096: re-found 4096, NOT found 0, no spread 0, setup failures 0
+  750945 lines read, 4352 taken; controls 4352: re-found 4352, NOT found 0, no spread 0, setup failures 0
+  807134 lines read, 4608 taken; controls 4608: re-found 4608, NOT found 0, no spread 0, setup failures 0
+  866485 lines read, 4864 taken; controls 4864: re-found 4864, NOT found 0, no spread 0, setup failures 0
+  928472 lines read, 5120 taken; controls 5120: re-found 5120, NOT found 0, no spread 0, setup failures 0
+  1039998 lines read, 5376 taken; controls 5376: re-found 5376, NOT found 0, no spread 0, setup failures 0
+  1187718 lines read, 5632 taken; controls 5632: re-found 5632, NOT found 0, no spread 0, setup failures 0
+  1330614 lines read, 5888 taken; controls 5888: re-found 5888, NOT found 0, no spread 0, setup failures 0
+  1544976 lines read, 6144 taken; controls 6144: re-found 6144, NOT found 0, no spread 0, setup failures 0
+  1779086 lines read, 6400 taken; controls 6400: re-found 6400, NOT found 0, no spread 0, setup failures 0
+  2096037 lines read, 6656 taken; controls 6656: re-found 6656, NOT found 0, no spread 0, setup failures 0
+  2516537 lines read, 6912 taken; controls 6912: re-found 6912, NOT found 0, no spread 0, setup failures 0
+  3530517 lines read, 7168 taken; controls 7168: re-found 7168, NOT found 0, no spread 0, setup failures 0
+  3775599 lines read, 7199 taken; controls 7199: re-found 7199, NOT found 0, no spread 0, setup failures 0
+ctlbatch ..\known\new_apns.txt: 7199 controls; re-found 7199; NOT found 0; no spread through the radicals 0; setup failures 0; other spaces found 0 (0 not APN)
+  re-found by rank-4 count: 2:7136 3:63
+  spread reps hit: 7 of 73
+

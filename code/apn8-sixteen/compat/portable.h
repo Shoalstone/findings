@@ -2,7 +2,10 @@
 // line (-include compat/portable.h); MSVC builds don't use it. It changes no logic: each shim reproduces the MSVC
 // intrinsic's result exactly, including at 0.
 //   __popcnt(x), __lzcnt(x), _tzcnt_u32(x)   MSVC bit intrinsics on unsigned int (lzcnt/tzcnt of 0 = 32)
-//   __argc, __argv                           MSVC CRT globals, read by review_engine.cpp and review_inv2.cpp
+//   __popcnt64(x), _tzcnt_u64(x)             the same on 64 bits (tzcnt of 0 = 64)
+//   _BitScanReverse(&i, m)                   index of the highest set bit; returns 0 (i untouched) if m = 0
+//   _pdep_u32(src, mask)                     BMI2 parallel deposit, in software (no -mbmi2 needed)
+//   __argc, __argv                          MSVC CRT globals, read by review_engine.cpp and review_inv2.cpp
 //                                            from a static initialiser (so before main)
 #pragma once
 #if !defined(_MSC_VER)
@@ -22,6 +25,28 @@ static inline unsigned quire_tzcnt(unsigned x) { return x ? (unsigned)__builtin_
 #define __popcnt(x) quire_popcnt((unsigned)(x))
 #define __lzcnt(x) quire_lzcnt((unsigned)(x))
 #define _tzcnt_u32(x) quire_tzcnt((unsigned)(x))
+
+static inline unsigned long long quire_popcnt64(unsigned long long x) { return (unsigned long long)__builtin_popcountll(x); }
+static inline unsigned long long quire_tzcnt64(unsigned long long x) { return x ? (unsigned long long)__builtin_ctzll(x) : 64ull; }
+static inline unsigned char quire_bsr(unsigned long* i, unsigned long m) {
+    if (!m) return 0;
+    *i = (unsigned long)(8 * sizeof(unsigned long) - 1 - __builtin_clzl(m));
+    return 1;
+}
+static inline unsigned quire_pdep32(unsigned src, unsigned mask) {
+    unsigned r = 0;
+    for (unsigned bit = 1; mask; bit <<= 1, mask &= mask - 1)
+        if (src & bit) r |= mask & (0u - mask);
+    return r;
+}
+#undef __popcnt64
+#undef _tzcnt_u64
+#undef _BitScanReverse
+#undef _pdep_u32
+#define __popcnt64(x) quire_popcnt64((unsigned long long)(x))
+#define _tzcnt_u64(x) quire_tzcnt64((unsigned long long)(x))
+#define _BitScanReverse(i, m) quire_bsr((i), (unsigned long)(m))
+#define _pdep_u32(s, m) quire_pdep32((unsigned)(s), (unsigned)(m))
 
 #if defined(__APPLE__)
 #include <crt_externs.h>

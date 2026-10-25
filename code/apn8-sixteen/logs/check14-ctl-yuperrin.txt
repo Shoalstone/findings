@@ -1,0 +1,2 @@
+SUMMARY ..\known\yuperrin_qam.txt controls 24 refound 24 notfound 0 nospread 0 fail 0 extra 0 nonapn 0 reps 6
+REPS 0:1 4:3 9:3 21:6 27:8 62:3

@@ -1,0 +1,4 @@
+nondegenerate alternating forms: dim 4 28 (expect 28), dim 6 13888 (expect 13888)
+covers 1, tasks 1, threads 20
+SOLUTION ctl-12631 dim 8 ranks 8:186 6:65 4:4 basis 5e7afcb edac59b efd69c2 60124c6 2a03f9c 133292a 7111b00 d701b6d
+done: covers 1, tasks 1, nodes 13, solutions 1, full (dim < 8) 0, dim 8 non-APN 0, bad seeds 0, 1 s

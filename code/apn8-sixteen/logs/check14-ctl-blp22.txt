@@ -1,0 +1,2 @@
+SUMMARY ..\known\blp22_8bit.txt controls 222 refound 222 notfound 0 nospread 0 fail 0 extra 0 nonapn 0 reps 8
+REPS 0:7 4:14 9:26 21:49 27:96 37:13 62:16 71:1

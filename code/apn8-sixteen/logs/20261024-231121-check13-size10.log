@@ -1,0 +1,29 @@
+
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+sizing: 10-cliques of V5824 (= partial spreads of 13 solids with Y, X, Z among them)
+class 0 done
+class 1 done
+class 2 done
+class 3 done
+class 4 done
+reduced leaves 2358714
+  extends by at most 0 solids: weighted 62558496, reduced leaves 141165
+  extends by at most 1 solids: weighted 0, reduced leaves 0
+  extends by at most 2 solids: weighted 0, reduced leaves 0
+  extends by at most 3 solids: weighted 0, reduced leaves 0
+  extends by at most 4 solids: weighted 1129992864, reduced leaves 2217549
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+sizing: 9-cliques of V5824 (= partial spreads of 12 solids with Y, X, Z among them)
+class 0 done
+class 1 done
+class 2 done
+class 3 done
+class 4 done
+reduced leaves 5269153
+  extends by at most 0 solids: weighted 49896000, reduced leaves 100783
+  extends by at most 1 solids: weighted 502840800, reduced leaves 1040086
+  extends by at most 2 solids: weighted 0, reduced leaves 0
+  extends by at most 3 solids: weighted 0, reduced leaves 0
+  extends by at most 4 solids: weighted 0, reduced leaves 0
+  extends by at most 5 solids: weighted 2258825184, reduced leaves 4128284
+

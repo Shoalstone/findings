@@ -1,0 +1,20 @@
+ok   28 nondegenerate alternating forms on F_2^4
+ok   13888 nondegenerate alternating forms on F_2^6
+ok   |GL(4,2)| = 20160
+ok   |Sp(4,2)| = 720
+ok   10795 lines (2-subspaces) of F_2^8
+ok   200787 4-subspaces of F_2^8
+ok   127 lines and 11811 4-spaces through each point
+ok   35 lines inside Y
+ok   1344 invertible N with Nx = y for each x, y != 0
+ok   graph(N) generator: 28 distinct forms with radical exactly graph(N), all N
+ok   line generator: 13888 distinct forms with radical exactly L (every 7th line)
+ok   4-space generator: 28 distinct forms with radical exactly R (every 13th)
+ok   brute force over all 2^28 forms: exactly 28 have radical graph(I)
+     nondegenerate 8x8 alternating: 112881664 (expect 2^12*7*31*127 = 112881664)
+ok   count of nondegenerate alternating forms on F_2^8
+     F_16 subfields of M_4(F_2): 336
+ok   336 Desarguesian spread sets containing 0 and I
+ok   they are spread sets (differences invertible)
+     Sp(J)-orbits on the 28 forms M (congruence): 15 12 1
+ok   B0 radical is X

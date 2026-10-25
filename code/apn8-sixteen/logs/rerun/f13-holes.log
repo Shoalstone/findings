@@ -1,0 +1,21 @@
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+Part A: 10-cliques of V5824 (= 13-partial spreads of solids with Y, X, Z among them)
+class 0 (size 1680, rep 125a, |P| = 1584): 1339160 leaves, 80760 non-extendable, 0 partial; 2 s
+  nodes by clique size (incl. rep): 0 1584 316304 9774202 38056442 7823069 2415680 1889145 1692486 1339160
+class 1 (size 1344, rep 125b, |P| = 1128): 740385 leaves, 35485 non-extendable, 0 partial; 1 s
+  nodes by clique size (incl. rep): 0 1128 161350 3559373 8580335 1889484 1144257 1023632 939415 740385
+class 2 (size 1344, rep 125c, |P| = 784): 126321 leaves, 9350 non-extendable, 0 partial; 0 s
+  nodes by clique size (incl. rep): 0 784 80206 1285929 1977161 474233 269510 215153 177361 126321
+class 3 (size 1344, rep 125d, |P| = 440): 72768 leaves, 6990 non-extendable, 0 partial; 0 s
+  nodes by clique size (incl. rep): 0 440 28492 331116 485990 205089 142001 115270 97074 72768
+class 4 (size 112, rep 1269, |P| = 76): 80080 leaves, 8580 non-extendable, 0 partial; 0 s
+  nodes by clique size (incl. rep): 0 76 1892 19205 88358 185476 202772 153682 113838 80080
+reduced leaves 2358714 (non-extendable 141165, partial 0)
+10-cliques, weighted: extendable 1129992864, non-extendable 62558496, common nbhd nonempty but no 4-clique 0
+sum over extendable of #4-cliques in the common nbhd: 1129992864 (C(14,10) * 1128864 = 1129992864)
+extendable by |common nbhd|: 4:1129992864
+extendable by #4-cliques: 1:1129992864
+non-extendable hole invariants (weighted count, reduced leaves):
+  25081056  53048  n60 L200 deg 10:60 out 6:195 hyp 28:195 36:60 planes 0 pdeg 0:60 pout 0:120 16:75
+  33153120  76075  n60 L200 deg 10:60 out 6:195 hyp 28:195 36:60 planes 12 pdeg 1:48 3:12 pout 0:24 4:144 16:27
+  4324320  12042  n60 L200 deg 10:60 out 6:195 hyp 28:195 36:60 planes 16 pdeg 0:8 2:48 4:4 pout 0:28 4:144 16:23

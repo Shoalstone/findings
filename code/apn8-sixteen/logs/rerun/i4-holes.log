@@ -1,0 +1,18 @@
+config 0: 60 columns, 60 distinct, zero in it: False
+  points per hyperplane: {28: 195, 36: 60}
+  solids inside the complement: 1264
+  exact covers of the complement by 13 solids: 552
+  solids inside the holes: 0
+  lines inside the holes: 200; partitions of the holes into 20 lines: 1000000
+config 1: 60 columns, 60 distinct, zero in it: False
+  points per hyperplane: {28: 195, 36: 60}
+  solids inside the complement: 1280
+  exact covers of the complement by 13 solids: 10440
+  solids inside the holes: 0
+  lines inside the holes: 200; partitions of the holes into 20 lines: 1000000
+config 2: 60 columns, 60 distinct, zero in it: False
+  points per hyperplane: {28: 195, 36: 60}
+  solids inside the complement: 1280
+  exact covers of the complement by 13 solids: 12
+  solids inside the holes: 0
+  lines inside the holes: 200; partitions of the holes into 20 lines: 1000000

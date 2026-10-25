@@ -1,0 +1,2 @@
+SUMMARY ..\known\apn_8bit.txt controls 1440 refound 1440 notfound 0 nospread 0 fail 0 extra 0 nonapn 0 reps 20
+REPS 0:53 1:2 4:110 5:2 7:6 8:1 9:201 20:8 21:302 27:528 28:10 29:4 30:2 31:1 36:5 37:93 43:1 44:1 55:2 62:108

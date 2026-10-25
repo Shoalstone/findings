@@ -1,0 +1,8 @@
+FAIL line 3 choice 0: forms not an APN space (line not quadratic APN)
+FAIL line 3 choice 1: forms not an APN space (line not quadratic APN)
+FAIL line 3 choice 2: forms not an APN space (line not quadratic APN)
+FAIL line 3 choice 3: forms not an APN space (line not quadratic APN)
+FAIL line 3 choice 4: forms not an APN space (line not quadratic APN)
+FAIL line 3 choice 5: forms not an APN space (line not quadratic APN)
+SUMMARY ..\known\yuwangli_qam.txt controls 78 refound 72 notfound 0 nospread 0 fail 6 extra 0 nonapn 0 reps 28
+REPS 2:2 3:2 8:2 9:2 20:3 21:2 23:1 25:2 26:3 27:6 28:1 29:4 30:8 31:7 34:3 37:1 40:1 43:2 44:2 45:2 46:1 51:2 55:4 56:3 59:3 61:1 64:1 67:1

@@ -1,0 +1,4 @@
+nondegenerate alternating forms: dim 4 28 (expect 28), dim 6 13888 (expect 13888)
+covers 73, tasks 2044, threads 20
+tasks 2000/2044  19 s  nodes 2240601  solutions 0  full 0
+done: covers 73, tasks 2044, nodes 2284642, solutions 0, full (dim < 8) 0, dim 8 non-APN 0, bad seeds 0, 19 s
