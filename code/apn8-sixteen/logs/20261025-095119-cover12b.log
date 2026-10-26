@@ -1,0 +1,3 @@
+
+# command: cmd /c "runs\bin\cover3.exe runs\i4\i3-reps.txt > runs\i5\cover3-i3reps.out && runs\bin\cover3.exe runs\i5\p12.txt > runs\i5\cover12b.out"
+

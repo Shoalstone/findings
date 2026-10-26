@@ -1,4 +1,5 @@
 
+# command: runs/bin/orbit5f.exe 2 runs/a/fix5-c2.txt fixed
 class 2: dim Fix = 8, dim N = 20
 fixed: 200787 subspaces Q of Fix, 0 with >= 5 rank-4 forms and partition ok
 class 2 fixed: APN spaces 0

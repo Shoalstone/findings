@@ -1,4 +1,5 @@
 
+# command: cmd /c "cd /d runs\check14 && ..\bin\fourteen_check5.exe ctlbatch spreads.txt ..\known\apn_8bit.txt 3 100000000 24 ctl-wide.txt randspread"
 V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
 edges 4583936
   12921 lines read, 172 taken; controls 4128: re-found 4128, NOT found 0, no spread 0, setup failures 0

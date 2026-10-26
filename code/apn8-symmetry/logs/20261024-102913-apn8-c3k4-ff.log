@@ -1,4 +1,5 @@
 
+# command: runs/bin/c3k4e.exe searchff runs/a/c3k4-ff.txt
 c3k4: dim Fix 16, |G1| = 1440
 rank-4 Hermitian forms: 3570, orbits under 14 generators: 2
 fixed pairs: 14 orbits, 10 with partition ok

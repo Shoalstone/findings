@@ -1,4 +1,5 @@
 
+# command: cmd /c "runs\bin\thirteen_check3.exe ctlbatch runs\check13\configs.txt runs\known\apn_8bit.txt 2 100000 3 runs\check13\ctl-bl22.txt"
 V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
   12443 lines read, 256 taken; ext 768: re-found 768, NOT 0, fail 0; nonext 768: re-found 768, NOT 0, fail 0; no spread 0, no embedding 0
   12921 lines read, 480 taken; ext 1440: re-found 1440, NOT 0, fail 0; nonext 1440: re-found 1440, NOT 0, fail 0; no spread 0, no embedding 0

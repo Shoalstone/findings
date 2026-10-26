@@ -1,4 +1,5 @@
 
+# command: runs/bin/inv2.exe search runs/a/inv2-reps.txt runs/a/inv2-search-12.txt 12 18
 setup: dim Fix 16, dim D(M) 12, D(M) vanishes on KxK 1, b alternating 1, (b,c) rank 12
 spread lines: 000e 1110 8420 4280 2840; E basis 20 01 2d 3b
 E: degenerate nonzero forms 5 (want 5)

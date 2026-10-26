@@ -1,4 +1,5 @@
 
+# command: runs/bin/symp.exe fixed5 c3k2 runs/a/symp-c3k2-fixed5.txt 12
 A = 0203080c10204080  order 3, deg of factors 2
   part g=3: F_2-dim 10 (F_2-dim 10)
   part g=7: F_4-dim 9 (F_2-dim 18)

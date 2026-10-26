@@ -1,4 +1,5 @@
 
+# command: cmd /c "runs\bin\thirteen_check.exe holes runs\check13\holes10.txt"
 V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
 Part A: 10-cliques of V5824 (= 13-partial spreads of solids with Y, X, Z among them)
 class 0 (size 1680, rep 125a, |P| = 1584): 1339160 leaves, 80760 non-extendable, 0 partial; 2 s

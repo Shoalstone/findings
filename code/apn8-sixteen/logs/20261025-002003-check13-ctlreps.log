@@ -1,4 +1,5 @@
 
+# command: cmd /c "runs\bin\thirteen_check6.exe ctlreps runs\check13\configs.txt runs\known\apn_8bit.txt 1 40 50 122 125 126 129 137 138 140 143 144 146 148 149 151 152 153 154 158 45"
 V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
 rep 50 (ext): 40 of 40 re-found, 0 other spaces
 rep 122 (ext): 40 of 40 re-found, 0 other spaces

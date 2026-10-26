@@ -1,4 +1,5 @@
 
+# command: runs/bin/orbit5b.exe 1 runs/a/enumtest.txt 808ac1d enumtest
 class 1: dim Fix = 8, dim N = 20
 enumtest: k1 leaves 200787, distinct 200787
 class 1: B1 orbits 0, radical orbits complementary 0, partition ok 1, APN spaces 2

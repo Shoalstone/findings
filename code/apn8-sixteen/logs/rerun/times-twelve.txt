@@ -1,0 +1,17 @@
+# each timestamp marks the end of the step named after it
+[ 3:29:41.69] start 
+[ 3:29:47.12] cover-i3-reps 
+[ 3:30:17.67] cover-p12 
+[ 3:30:35.90] pspread-selftest12 
+[ 3:31:06.44] pspread-selftest13-14 
+[ 3:31:14.55] t12-configs 
+[ 3:32:14.36] t12-selftest 
+[ 3:32:47.18] t12-asc 
+[ 3:33:21.04] t12-desc 
+[ 3:33:53.85] t12-rand7 
+[ 3:34:33.06] t12-n13 
+[ 3:34:34.94] t12-maprowen 
+[ 3:34:46.50] t12-ctlreps2 
+[ 3:34:48.90] t12-ctl-test-nond 
+[ 3:45:03.05] t12-sp 
+[ 3:45:35.59] pspread-p17 

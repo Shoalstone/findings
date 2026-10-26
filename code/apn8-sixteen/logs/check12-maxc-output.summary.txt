@@ -1,0 +1,31 @@
+# maxc.out (configurations 0-9,592; cancelled) header and summary:
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+search: 100783 configurations (Part A maximal cliques); point order ascending
+
+# maxc2.out (resumed at 9,593, through 100,782) header and summary:
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+search: 100783 configurations (Part A maximal cliques); point order ascending
+resumed: 9593 configurations already done
+lines in D: 325:91190
+spr (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+spr (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) bent-extension nodes 0, full-span records 0
+ext13 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext13 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) bent-extension nodes 0, full-span records 0
+max (this run) nodes by dim: 91190 2553320 71492960 963987608 1801733278 166019782 911366 0 0
+max (this run) tries by dim: 2553320 71492960 2001802880 26991653024 50448531784 4648553896 25518248 0 0
+max (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+max (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+max (this run) bent-extension nodes 0, full-span records 0
+search (incl. resumed) nodes by dim: 100783 2821924 79013872 1065082714 1985285822 174884697 929739 0 0
+search (incl. resumed) tries by dim: 2821924 79013872 2212388416 29822315992 55588003016 4896771516 26032692 0 0
+search (incl. resumed) of which at points of D: 0 0 0 0 0 0 0 0 0
+search (incl. resumed) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+search (incl. resumed) bent-extension nodes 0, full-span records 0
+distinct p1 spans this run: 0
+solutions: 0

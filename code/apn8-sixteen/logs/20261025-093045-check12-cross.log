@@ -1,0 +1,3 @@
+
+# command: cmd /c "runs\bin\twelve_check.exe search runs\check12\configs.txt runs\check12\desc.prog desc > runs\check12\desc.out 2>&1 & runs\bin\twelve_check.exe search runs\check12\configs.txt runs\check12\rand7.prog rand 7 > runs\check12\rand7.out 2>&1 & runs\bin\twelve_check.exe searchsp runs\check14\spreads.txt runs\check12\sp.prog asc > runs\check12\sp.out 2>&1 & runs\bin\twelve_check.exe search13 runs\check13\configs.txt runs\check12\n13.prog asc > runs\check12\n13.out 2>&1 & runs\bin\twelve_check.exe selftest runs\check12\configs.txt > runs\check12\selftest.out 2>&1"
+

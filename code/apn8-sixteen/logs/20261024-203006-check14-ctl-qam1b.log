@@ -1,4 +1,5 @@
 
+# command: cmd /c "cd /d runs\check14 && ..\bin\fourteen_check6.exe ctlbatch spreads.txt ..\known\yuwangli_qam.txt 2 100000000 6 ctl-yuwangli.txt"
 V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
 edges 4583936
   8180 lines read, 13 taken; controls 78: re-found 72, NOT found 0, no spread 0, setup failures 6

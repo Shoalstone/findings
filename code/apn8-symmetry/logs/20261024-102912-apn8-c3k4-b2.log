@@ -1,4 +1,5 @@
 
+# command: runs/bin/c3k4e.exe search2 runs/a/c3k4-b2.txt
 c3k4: dim Fix 16, |G1| = 1440
 (4,2): 120 anisotropic P through n1, 1 up to G1
 (4,2) seeds: 3+1+1 8, 3+3 7

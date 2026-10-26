@@ -1,4 +1,5 @@
 
+# command: runs/bin/review_odd_engine2.exe runs/a/c3k4-ff.txt 300 0
 spaces skipped (not (6,1)): 0
 r=1: 300 tried, 300 re-found
 r=2: 300 tried, 300 re-found

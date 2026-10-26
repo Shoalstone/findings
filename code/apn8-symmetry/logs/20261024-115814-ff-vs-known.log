@@ -1,4 +1,5 @@
 
+# command: runs/bin/classify8.exe --min4 2 runs/a/ff-vs-known.txt runs/a/c3k4-ff.txt runs/known/apn_8bit.txt runs/known/blp22_8bit.txt runs/known/new_apns.txt
 1048576 read
 2097152 read
 3145728 read

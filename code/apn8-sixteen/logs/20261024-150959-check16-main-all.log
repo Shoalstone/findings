@@ -1,4 +1,5 @@
 
+# command: runs/bin/sixteen_check.exe main runs/check16/main-all.prog all
 main: all 28 M, ascending point order
 M 12 (orbit size 1): second point 12, 5316 dim-3 children
 M 13 (orbit size 1): second point 12, 5280 dim-3 children

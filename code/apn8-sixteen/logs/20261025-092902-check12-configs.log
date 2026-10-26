@@ -1,0 +1,3 @@
+
+# command: cmd /c "runs\bin\twelve_check.exe configs runs\check12\orbits.txt runs\check14\spreads.txt runs\check13\configs.txt runs\check12\configs.txt > runs\check12\configs.out 2>&1"
+

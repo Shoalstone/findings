@@ -1,0 +1,3 @@
+
+# command: cmd /c "runs\bin\twelve_check.exe parta runs\check12\orbits.txt runs\check12\maxc.txt > runs\check12\parta.out 2>&1"
+

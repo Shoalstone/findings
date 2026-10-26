@@ -1,0 +1,5 @@
+
+# command: cmd /c "runs\bin\twelve_check2.exe ctlreps runs\check12\configs.txt runs\known\apn_8bit.txt 1 40 56 60 69 71 72 123 124 127 135 147 164 168 179 180 182 193 194 203 204 205 206 207 208 209 210 211 212 219 225 229 231 232 233 234 235 236 237 238 239 240 242 243 244 245 246 247 248 249 250 261 262 263 264 265 266 267 268 269 270 271 273 274 275 276 278 279  > runs\check12\ctlreps.out 2>&1 & runs\bin\twelve_check2.exe ctlbatch runs\check12\configs.txt runs\known\apn_8bit.txt 2 100000 3 runs\check12\ctl-ind-bl22.txt nond > runs\check12\ctl-ind-bl22.out 2>&1"
+
+
+

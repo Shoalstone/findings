@@ -1,4 +1,5 @@
 
+# command: runs/bin/sixteen_check.exe main runs/check16/main-desc.prog desc
 main: Sp(J)-orbit representatives of M, descending point order
 M 12 (orbit size 15): second point fe, 5256 dim-3 children
 M 13 (orbit size 12): second point fe, 5344 dim-3 children

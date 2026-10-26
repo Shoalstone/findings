@@ -1,0 +1,6 @@
+hole class: |Aut H| = 2  configs ['p12-74-a2-w0']  sum |Aut H|/|Aut P| = 1 (covers of the complement)
+hole class: |Aut H| = 96  configs ['p12-83-a6-w0', 'p12-102-a6-w0', 'p12-120-a12-w0', 'p12-126-a6-w0', 'p12-273-a12-w0', 'p12-276-a12-w0', 'p12-280-a24-w0', 'p12-292-a12-w0']  sum |Aut H|/|Aut P| = 84 (covers of the complement)
+hole class: |Aut H| = 32  configs ['p12-87-a8-w0']  sum |Aut H|/|Aut P| = 4 (covers of the complement)
+hole class: |Aut H| = 32  configs ['p12-96-a8-w0']  sum |Aut H|/|Aut P| = 4 (covers of the complement)
+hole class: |Aut H| = 16  configs ['p12-187-a4-w0']  sum |Aut H|/|Aut P| = 4 (covers of the complement)
+5 hole classes

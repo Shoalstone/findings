@@ -1,4 +1,5 @@
 
+# command: runs/bin/sixteen_check4.exe i2 runs/check16/i2-nopr.prog 0 199 nopr
      N with N, N+I invertible (N != I): 5824; candidates 163072; orbits 200
 ok   candidates = 28 per N
 ok   orbit sizes sum to the candidate count and divide 1440

@@ -1,0 +1,21 @@
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+  12197 lines read, 10 taken; ext 10: re-found 10, NOT 0, fail 0; nonext 10: re-found 10, NOT 0, fail 0; no spread 0, no embedding 0
+ctl ext nodes by dim: 0 0 0 0 0 0 0 10 10
+ctl ext tries by dim: 0 0 0 0 0 0 0 555520 0
+ctl ext of which at points of D: 0 0 0 0 0 0 0 555520 0
+ctl ext nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 10 10
+ctl ext bent-extension nodes 0, full-span records 10
+  started from S0 of dimension: 7:10
+ctlbatch runs\known\apn_8bit.txt ext: 10 controls; re-found 10; NOT found 0; setup failures 0; other spaces found 0 (0 not APN)
+  re-found by rank-4 count: 2:8 3:2
+  reps hit: 10
+ctl nonext nodes by dim: 0 0 0 0 0 0 0 10 10
+ctl nonext tries by dim: 0 0 0 0 0 0 0 499968 0
+ctl nonext of which at points of D: 0 0 0 0 0 0 0 499968 0
+ctl nonext nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 10 10
+ctl nonext bent-extension nodes 0, full-span records 10
+  started from S0 of dimension: 7:10
+ctlbatch runs\known\apn_8bit.txt nonext: 10 controls; re-found 10; NOT found 0; setup failures 0; other spaces found 0 (0 not APN)
+  re-found by rank-4 count: 2:8 3:2
+  reps hit: 10
+skipped: no spread 0, no member 4-tuple of the class (k = 4, nonext) 0, S0 already the whole space 0

@@ -1,4 +1,5 @@
 
+# command: runs/bin/symp.exe brute c5a 50 12
 A = 0204080f204080f0  order 5, deg of factors 4
   part g=3: F_2-dim 8 (F_2-dim 8)
   part g=1f: F_16-dim 5 (F_2-dim 20)

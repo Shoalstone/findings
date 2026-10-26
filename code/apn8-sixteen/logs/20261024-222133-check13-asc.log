@@ -1,4 +1,5 @@
 
+# command: cmd /c "runs\bin\thirteen_check.exe search runs\check13\configs.txt runs\check13\asc.prog asc"
 V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
 search: 190 configurations; point order ascending
 config 0 (ext, 200 lines in D): nodes 1 28 784 10573 19090 567 0 0 0  off-D-covered 0 0 0 0 0 0 0 0 0  full 0 bentext 0  [0 s]

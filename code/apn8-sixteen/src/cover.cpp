@@ -158,7 +158,7 @@ struct Search {
     PS cov{{1, 0, 0, 0}};
     int ncov = 1;          // points in cov, 0 included
     int covered = 0;       // solids that are radicals
-    long long nodes = 0, sols = 0, fulls = 0, nonapn = 0;
+    long long nodes = 0, sols = 0, fulls = 0, nonapn = 0, nears = 0, bydim[9] = {0};
     std::vector<std::string>* lines;
 
     // -2 reject, -1 ok (bent or rank 6 in holes), s >= 0 rank 4 with radical solid s
@@ -219,7 +219,7 @@ struct Search {
     }
 
     void dfs() {
-        nodes++;
+        nodes++; bydim[dim]++;
         if (ncov == 256) {
             if (dim == 8) { sols++; report("SOLUTION"); } else { fulls++; report("FULL"); }
             return;
@@ -229,7 +229,10 @@ struct Search {
         const int all = (1 << C->k) - 1;
         if (covered != all) {
             int s = _tzcnt_u32(~covered & all);
-            for (u64 B : C->sforms[s]) if (push(B, sc, sn, sd)) { dfs(); pop(sc, sn, sd); }
+            for (u64 B : C->sforms[s]) if (push(B, sc, sn, sd)) {
+                if (covered == all && ncov < 256) { nears++; report("NEAR"); }  // every solid a radical, holes left
+                dfs(); pop(sc, sn, sd);
+            }
             return;
         }
         int p = -1;
@@ -270,7 +273,8 @@ int main(int argc, char** argv) {
         else tasks.push_back({i, -1});
     }
     printf("covers %zu, tasks %zu, threads %d\n", cv.size(), tasks.size(), omp_get_max_threads()); fflush(stdout);
-    std::atomic<long long> nodes(0), sols(0), fulls(0), nonapn(0), badseed(0), done(0);
+    std::atomic<long long> nodes(0), sols(0), fulls(0), nonapn(0), badseed(0), done(0), nears(0), bydim[9];
+    for (auto& b : bydim) b = 0;
     double t0 = omp_get_wtime();
     #pragma omp parallel for schedule(dynamic, 1)
     for (long t = 0; t < (long)tasks.size(); t++) {
@@ -285,7 +289,8 @@ int main(int argc, char** argv) {
         } else if (tasks[t].second >= 0) {
             if (se.push(se.C->sforms[0][tasks[t].second], sc, sn, sd)) se.dfs();
         } else se.dfs();
-        nodes += se.nodes; sols += se.sols; fulls += se.fulls; nonapn += se.nonapn;
+        nodes += se.nodes; sols += se.sols; fulls += se.fulls; nonapn += se.nonapn; nears += se.nears;
+        for (int k = 0; k < 9; k++) bydim[k] += se.bydim[k];
         long long d = ++done;
         if (d % 2000 == 0) {
             std::lock_guard<std::mutex> g(g_mu);
@@ -295,5 +300,8 @@ int main(int argc, char** argv) {
     }
     printf("done: covers %zu, tasks %zu, nodes %lld, solutions %lld, full (dim < 8) %lld, dim 8 non-APN %lld, bad seeds %lld, %.0f s\n",
            cv.size(), tasks.size(), nodes.load(), sols.load(), fulls.load(), nonapn.load(), badseed.load(), omp_get_wtime() - t0);
+    printf("nodes by span dimension 1..8:");
+    for (int k = 1; k < 9; k++) printf(" %lld", bydim[k].load());
+    printf("\nnear misses (every solid a radical, holes uncovered, below dim 8 or not): %lld\n", nears.load());
     return 0;
 }

@@ -1,0 +1,22 @@
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+  12443 lines read, 256 taken; ext 754: re-found 754, NOT 0, fail 0; nonext 751: re-found 751, NOT 0, fail 0; no spread 0, no embedding 0
+  12921 lines read, 480 taken; ext 1415: re-found 1415, NOT 0, fail 0; nonext 1419: re-found 1419, NOT 0, fail 0; no spread 0, no embedding 0
+ctl ext nodes by dim: 0 0 0 0 0 0 0 1415 1415
+ctl ext tries by dim: 0 0 0 0 0 0 0 78758848 0
+ctl ext of which at points of D: 0 0 0 0 0 0 0 78758848 0
+ctl ext nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 1415 1415
+ctl ext bent-extension nodes 0, full-span records 1415
+  started from S0 of dimension: 7:1415
+ctlbatch runs\known\apn_8bit.txt ext: 1415 controls; re-found 1415; NOT found 0; setup failures 0; other spaces found 0 (0 not APN)
+  re-found by rank-4 count: 2:908 3:429 4:78
+  reps hit: 210
+ctl nonext nodes by dim: 0 0 0 0 0 0 0 1419 1419
+ctl nonext tries by dim: 0 0 0 0 0 0 0 78286656 0
+ctl nonext of which at points of D: 0 0 0 0 0 0 0 78286656 0
+ctl nonext nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 1419 1419
+ctl nonext bent-extension nodes 0, full-span records 1419
+  started from S0 of dimension: 7:1419
+ctlbatch runs\known\apn_8bit.txt nonext: 1419 controls; re-found 1419; NOT found 0; setup failures 0; other spaces found 0 (0 not APN)
+  re-found by rank-4 count: 2:904 3:437 4:78
+  reps hit: 96
+skipped: no spread 0, no member 4-tuple of the class (k = 4, nonext) 0, S0 already the whole space 46

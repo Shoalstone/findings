@@ -1,4 +1,5 @@
 
+# command: cmd /c "runs\bin\thirteen_check3.exe ctlbatch runs\check13\configs.txt runs\known\new_apns.txt 2 100000 1 runs\check13\ctl-new.txt"
 V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
   36811 lines read, 256 taken; ext 256: re-found 256, NOT 0, fail 0; nonext 256: re-found 256, NOT 0, fail 0; no spread 0, no embedding 0
   73252 lines read, 512 taken; ext 512: re-found 512, NOT 0, fail 0; nonext 512: re-found 512, NOT 0, fail 0; no spread 0, no embedding 0

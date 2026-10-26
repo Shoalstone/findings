@@ -1,0 +1,2 @@
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+maprowen: 376 of Rowen's configurations; unmatched 0; distinct listed configurations hit 376 of 376; hit twice 0; |Aut| disagreements 0; type/w disagreements 0

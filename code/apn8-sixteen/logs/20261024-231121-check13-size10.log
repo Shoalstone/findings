@@ -1,4 +1,5 @@
 
+# command: cmd /c "runs\bin\thirteen_check5.exe holesk 10 & runs\bin\thirteen_check5.exe holesk 9"
 V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
 sizing: 10-cliques of V5824 (= partial spreads of 13 solids with Y, X, Z among them)
 class 0 done

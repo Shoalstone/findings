@@ -1,4 +1,5 @@
 
+# command: runs/bin/symp.exe run c5b runs/a/symp-c5b.txt 12
 A = 0204080f10204080  order 5, deg of factors 4
   part g=3: F_2-dim 8 (F_2-dim 8)
   part g=1f: F_16-dim 5 (F_2-dim 20)

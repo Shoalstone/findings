@@ -1,4 +1,5 @@
 
+# command: runs/bin/c3k4e.exe searchf 0 runs/a/c3k4-f0.txt
 c3k4: dim Fix 16, |G1| = 1440
 standard fixed pair ok; |U(2,2)| = 18, |Gp| = 1296
 (8,0) seeds (5 fixed rank-4 forms, partition ok): 1042468

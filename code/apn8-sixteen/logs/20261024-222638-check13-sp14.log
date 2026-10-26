@@ -1,4 +1,5 @@
 
+# command: cmd /c "runs\bin\thirteen_check2.exe searchsp runs\check14\spreads.txt runs\check13\sp14.prog asc"
 V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
 search: 1022 configurations (spread file x 14); point order ascending
 config 0 (ext, 200 lines in D): nodes 1 28 784 10354 16940 968 180 0 0  off-D-covered 0 0 0 0 0 0 0 0 0  full 0 bentext 0  [0 s]

@@ -1,4 +1,5 @@
 
+# command: runs/bin/sixteen_check3.exe i2ctl runs/known/apn_8bit.txt 12631 3
 known line 12631: rank-4 4 rank-6 65 bent 186
 2 4-spaces split by 5 rank-6 radicals and missing the rank-4 ones; complementary pair: yes
 normalised: X, Y split by rank-6 radicals, B1 = J on graph(I), min orbit index 119 (orbit size 720); APN=1 dist: 186 0 65 0 4 0 0 0 0

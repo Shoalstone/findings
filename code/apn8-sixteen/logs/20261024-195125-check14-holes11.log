@@ -1,4 +1,5 @@
 
+# command: cmd /c "cd /d runs\check14 && ..\bin\fourteen_check.exe holes 11 holes11.txt"
 V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
 edges 4583936
 Part A: 11-cliques of V5824 (= partial spreads of 14 solids with Y, X, Z among them)

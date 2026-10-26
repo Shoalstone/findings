@@ -1,2 +1,3 @@
 
+# command: cmd /c "runs\bin\cover.exe runs\i4\max.txt > runs\i4\max.out"
 

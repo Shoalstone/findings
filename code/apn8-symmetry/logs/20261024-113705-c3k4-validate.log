@@ -1,4 +1,5 @@
 
+# command: runs/bin/c3k4v.exe validate runs/a/seeds-known-rare.txt
 c3k4: dim Fix 16, |G1| = 1440
 443: invariant 1, contains B1 1, contains P 1, dim Q 6, fixed rank-4 yes, seeds 1, refound 1
 444: invariant 1, contains B1 1, contains P 1, dim Q 6, fixed rank-4 yes, seeds 1, refound 1

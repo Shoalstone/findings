@@ -1,4 +1,5 @@
 
+# command: runs/bin/c3k4b.exe search runs/a/c3k4-311b.txt
 c3k4: dim Fix 16, |G1| = 1440
 fixed rank-4 candidates: 1120
 seed pairs (up to G1, partition ok): 214

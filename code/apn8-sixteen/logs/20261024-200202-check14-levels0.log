@@ -1,3 +1,4 @@
 
+# command: cmd /c "cd /d runs\check14 && python ..\..\apn\fourteen_check_levels.py spreads.txt 0 4"
 spread 0: nodes by dim (ascending order, off-D points first): [1, 28, 784, 10234, 15917]
 

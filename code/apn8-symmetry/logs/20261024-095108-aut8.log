@@ -1,4 +1,5 @@
 
+# command: runs/bin/aut8.exe runs/a/seeds-known-rare.txt
 runs/a/seeds-known-rare.txt:0 ranks 8:182 6:70 4:3 |Aut| 15 orders 1^1 3^2 5^4 15^8 fixV(order:dim) 1:8^1 3:0^2 5:0^4 15:0^8 fixS8(order:dim) 1:8^1 3:6^2 5:4^4 15:2^8 perms 111:5 3:10
 runs/a/seeds-known-rare.txt:1 ranks 8:182 6:70 4:3 |Aut| 15 orders 1^1 3^2 5^4 15^8 fixV(order:dim) 1:8^1 3:0^2 5:0^4 15:0^8 fixS8(order:dim) 1:8^1 3:6^2 5:4^4 15:2^8 perms 111:5 3:10
 runs/a/seeds-known-rare.txt:299 ranks 8:182 6:70 4:3 |Aut| 3 orders 1^1 3^2 fixV(order:dim) 1:8^1 3:0^2 fixS8(order:dim) 1:8^1 3:6^2 perms 111:1 3:2

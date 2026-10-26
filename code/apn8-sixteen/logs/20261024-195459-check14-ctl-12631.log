@@ -1,4 +1,5 @@
 
+# command: cmd /c "cd /d runs\check14 && ..\bin\fourteen_check2.exe ctl spreads.txt ..\known\apn_8bit.txt 12631 0 0"
 V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
 edges 4583936
 known line 12631: rank-4 4 rank-6 65 bent 186
