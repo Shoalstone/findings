@@ -1,0 +1,1120 @@
+CONF 0 spr hole 172 aut 3 src 6 60 0 1 : 125a 239e 31d6 5a48 6be7 79bd 9eaf af79
+CONF 1 spr hole 146 aut 1 src 18 192 0 1 : 125a 239e 31d6 5a48 6be7 79bd 9eaf bdc4
+CONF 2 spr hole 159 aut 8 src 3 21 0 1 : 125a 239e 31d6 5a48 6be7 79bd 9eaf d6f5
+CONF 3 spr hole 174 aut 2 src 11 68 0 1 : 125a 239e 31d6 5a48 6be7 79bd 9eaf 4c13
+CONF 4 spr hole 55 aut 2 src 8 134 0 1 : 125a 239e 31d6 5a48 6be7 79bd af79 bdc4
+CONF 5 spr hole 78 aut 2 src 10 140 0 1 : 125a 239e 31d6 5a48 6be7 79bd af79 e78c
+CONF 6 spr hole 122 aut 4 src 7 73 0 1 : 125a 239e 31d6 5a48 6be7 79bd af79 f56b
+CONF 7 spr hole 91 aut 1 src 15 198 0 1 : 125a 239e 31d6 5a48 6be7 79bd af79 4c13
+CONF 8 spr hole 157 aut 6 src 5 29 0 1 : 125a 239e 31d6 5a48 6be7 9eaf af79 4c13
+CONF 9 spr hole 105 aut 2 src 8 99 0 1 : 125a 239e 31d6 5a48 6be7 9eaf bdc4 4c13
+CONF 10 spr hole 169 aut 6 src 4 30 0 1 : 125a 239e 31d6 5a48 6be7 9eaf d6f5 f56b
+CONF 11 spr hole 130 aut 2 src 13 87 0 1 : 125a 239e 31d6 5a48 6be7 9eaf d6f5 4c13
+CONF 12 spr hole 151 aut 1 src 15 148 0 1 : 125a 239e 31d6 5a48 6be7 9eaf f56b 4c13
+CONF 13 spr hole 191 aut 16 src 4 23 3 3 : 125a 239e 31d6 5a48 6be7 af79 bdc4 e78c
+CONF 14 spr hole 173 aut 2 src 16 118 8 1 : 125a 239e 31d6 5a48 6be7 af79 bdc4 4c13
+CONF 15 spr hole 65 aut 2 src 7 99 0 1 : 125a 239e 31d6 5a48 6be7 af79 d6f5 4c13
+CONF 16 spr hole 189 aut 8 src 9 34 6 3 : 125a 239e 31d6 5a48 6be7 bdc4 e78c 4c13
+CONF 17 spr hole 52 aut 2 src 8 105 0 1 : 125a 239e 31d6 5a48 6be7 bdc4 f56b 4c13
+CONF 18 spr hole 171 aut 3 src 6 60 0 1 : 125a 239e 31d6 5a48 6bf5 79af 9ebd af6b
+CONF 19 spr hole 55 aut 2 src 8 134 0 1 : 125a 239e 31d6 5a48 6bf5 79af 9ebd bdc4
+CONF 20 spr hole 122 aut 4 src 7 73 0 1 : 125a 239e 31d6 5a48 6bf5 79af 9ebd d6e7
+CONF 21 spr hole 78 aut 2 src 10 140 0 1 : 125a 239e 31d6 5a48 6bf5 79af 9ebd e78c
+CONF 22 spr hole 147 aut 1 src 18 192 0 1 : 125a 239e 31d6 5a48 6bf5 79af 9ebd f579
+CONF 23 spr hole 87 aut 1 src 15 198 0 1 : 125a 239e 31d6 5a48 6bf5 79af 9ebd 4c13
+CONF 24 spr hole 159 aut 8 src 3 21 0 1 : 125a 239e 31d6 5a48 6bf5 79af af6b f579
+CONF 25 spr hole 175 aut 2 src 11 68 0 1 : 125a 239e 31d6 5a48 6bf5 79af af6b 4c13
+CONF 26 spr hole 169 aut 6 src 4 30 0 1 : 125a 239e 31d6 5a48 6bf5 9ebd af6b f579
+CONF 27 spr hole 154 aut 1 src 15 148 0 1 : 125a 239e 31d6 5a48 6bf5 9ebd af6b 4c13
+CONF 28 spr hole 106 aut 2 src 8 99 0 1 : 125a 239e 31d6 5a48 6bf5 9ebd bdc4 4c13
+CONF 29 spr hole 53 aut 2 src 8 105 0 1 : 125a 239e 31d6 5a48 6bf5 9ebd e78c 4c13
+CONF 30 spr hole 62 aut 2 src 7 99 0 1 : 125a 239e 31d6 5a48 6bf5 af6b d6e7 4c13
+CONF 31 spr hole 130 aut 2 src 13 87 0 1 : 125a 239e 31d6 5a48 6bf5 af6b f579 4c13
+CONF 32 spr hole 191 aut 16 src 4 23 3 3 : 125a 239e 31d6 5a48 6bf5 bdc4 d6e7 e78c
+CONF 33 spr hole 173 aut 2 src 16 118 8 1 : 125a 239e 31d6 5a48 6bf5 bdc4 d6e7 4c13
+CONF 34 spr hole 189 aut 8 src 9 34 6 3 : 125a 239e 31d6 5a48 6bf5 bdc4 e78c 4c13
+CONF 35 spr hole 158 aut 6 src 5 29 0 1 : 125a 239e 31d6 5a48 6bf5 d6e7 f579 4c13
+CONF 36 spr hole 155 aut 4 src 6 37 0 1 : 125a 239e 31d6 6be7 79bd 9eaf d6f5 4c13
+CONF 37 spr hole 155 aut 4 src 6 37 0 1 : 125a 239e 31d6 6bf5 79af af6b f579 4c13
+CONF 38 spr hole 108 aut 1 src 8 56 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 79bd 9fc8
+CONF 39 spr hole 140 aut 1 src 12 64 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 79bd bc46
+CONF 40 spr hole 156 aut 1 src 9 68 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 79bd c8d3
+CONF 41 spr hole 168 aut 6 src 1 8 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 79bd a584
+CONF 42 spr hole 121 aut 1 src 9 68 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 9fc8 bc46
+CONF 43 spr hole 99 aut 2 src 5 40 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 9fc8 c8d3
+CONF 44 spr hole 102 aut 2 src 6 36 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 9fc8 d6af
+CONF 45 spr hole 93 aut 2 src 4 32 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 9fc8 e76b
+CONF 46 spr hole 124 aut 1 src 11 68 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 9fc8 fa19
+CONF 47 spr hole 161 aut 1 src 10 80 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 bc46 c8d3
+CONF 48 spr hole 143 aut 2 src 4 44 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 bc46 d6af
+CONF 49 spr hole 76 aut 2 src 6 36 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 bc46 e76b
+CONF 50 spr hole 75 aut 2 src 5 32 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 bc46 fa19
+CONF 51 spr hole 153 aut 1 src 10 80 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 c8d3 d6af
+CONF 52 spr hole 149 aut 2 src 5 40 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 c8d3 e76b
+CONF 53 spr hole 160 aut 1 src 9 68 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 d6af e76b
+CONF 54 spr hole 75 aut 2 src 5 32 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 d6af fa19
+CONF 55 spr hole 107 aut 1 src 8 56 0 1 : 125a 239e 31e7 4e7c 5d32 6bf5 e76b a584
+CONF 56 spr hole 170 aut 1 src 12 64 0 1 : 125a 239e 31e7 4e7c 5d32 79bd 9fc8 bc46
+CONF 57 spr hole 123 aut 1 src 11 68 0 1 : 125a 239e 31e7 4e7c 5d32 79bd 9fc8 c8d3
+CONF 58 spr hole 93 aut 2 src 4 32 0 1 : 125a 239e 31e7 4e7c 5d32 79bd 9fc8 d6af
+CONF 59 spr hole 100 aut 2 src 5 40 0 1 : 125a 239e 31e7 4e7c 5d32 79bd 9fc8 fa19
+CONF 60 spr hole 112 aut 18 src 2 4 0 1 : 125a 239e 31e7 4e7c 5d32 79bd bc46 e76b
+CONF 61 spr hole 149 aut 2 src 5 40 0 1 : 125a 239e 31e7 4e7c 5d32 79bd c8d3 d6af
+CONF 62 spr hole 141 aut 1 src 10 64 0 2 : 125a 239e 31e7 4e7c 5d32 9fc8 bc46 c8d3
+CONF 63 spr hole 119 aut 1 src 9 68 0 1 : 125a 239e 31e7 4e7c 5d32 9fc8 bc46 d6af
+CONF 64 spr hole 116 aut 1 src 10 72 0 1 : 125a 239e 31e7 4e7c 5d32 9fc8 bc46 fa19
+CONF 65 spr hole 179 aut 4 src 3 18 0 2 : 125a 239e 31e7 4e7c 5d32 9fc8 bc46 a584
+CONF 66 spr hole 186 aut 4 src 3 18 0 2 : 125a 239e 31e7 4e7c 5d32 9fc8 c8d3 fa19
+CONF 67 spr hole 159 aut 4 src 2 14 0 2 : 125a 239e 31e7 4e7c 5d32 bc46 c8d3 fa19
+CONF 68 spr hole 159 aut 4 src 2 14 0 2 : 125a 239e 31e7 4e7c 5d32 c8d3 fa19 a584
+CONF 69 spr hole 168 aut 6 src 1 8 0 1 : 125a 239e 31e7 4e7c 5d32 d6af e76b a584
+CONF 70 spr hole 81 aut 6 src 2 12 0 1 : 125a 239e 31e7 4e7c 6bf5 79bd 9fc8 c8d3
+CONF 71 spr hole 131 aut 1 src 10 72 0 2 : 125a 239e 31e7 4e7c 6bf5 79bd 9fc8 fa19
+CONF 72 spr hole 92 aut 1 src 11 76 0 1 : 125a 239e 31e7 4e7c 6bf5 79bd c8d3 d6af
+CONF 73 spr hole 181 aut 4 src 3 18 0 6 : 125a 239e 31e7 4e7c 6bf5 79bd d6af e76b
+CONF 74 spr hole 66 aut 2 src 9 56 0 1 : 125a 239e 31e7 4e7c 6bf5 9fc8 bc46 c8d3
+CONF 75 spr hole 122 aut 4 src 5 26 0 1 : 125a 239e 31e7 4e7c 6bf5 9fc8 bc46 a584
+CONF 76 spr hole 185 aut 6 src 4 20 0 4 : 125a 239e 31e7 4e7c 6bf5 bc46 c8d3 d6af
+CONF 77 spr hole 92 aut 1 src 11 76 0 1 : 125a 239e 31e7 4e7c 6bf5 c8d3 d6af e76b
+CONF 78 spr hole 96 aut 6 src 2 12 0 1 : 125a 239e 31e7 4e7c 6bf5 e76b fa19 a584
+CONF 79 spr hole 96 aut 6 src 2 12 0 1 : 125a 239e 31e7 4e7c 79bd d6af fa19 a584
+CONF 80 spr hole 42 aut 12 src 1 6 0 3 : 125a 239e 31e7 4e7c 9fc8 bc46 fa19 a584
+CONF 81 spr hole 79 aut 6 src 2 12 0 1 : 125a 239e 31e7 4e7c 9fc8 c8d3 d6af e76b
+CONF 82 spr hole 152 aut 3 src 17 80 8 4 : 125a 239e 31e7 5abd 6b79 ae3f bc46 4f63
+CONF 83 spr hole 152 aut 3 src 17 80 8 4 : 125a 239e 31e7 5abd 6b79 ae3f bc46 c6f2
+CONF 84 spr hole 194 aut 144 src 2 4 1 30 : 125a 239e 31e7 5abd 6b79 ae3f bc46 97c8
+CONF 85 spr hole 128 aut 24 src 2 10 0 1 : 125a 239e 31e7 5abd 6b79 ae3f 4f63 d51b
+CONF 86 spr hole 114 aut 6 src 4 38 0 1 : 125a 239e 31e7 5abd 6b79 ae3f 4f63 7df4
+CONF 87 spr hole 128 aut 24 src 2 10 0 1 : 125a 239e 31e7 5abd 6b79 ae3f c6f2 d8ab
+CONF 88 spr hole 117 aut 6 src 4 38 0 1 : 125a 239e 31e7 5abd 6b79 ae3f d8ab f9d5
+CONF 89 spr hole 117 aut 6 src 6 38 0 1 : 125a 239e 31e7 5abd 6b79 bc46 4f63 d51b
+CONF 90 spr hole 70 aut 6 src 7 36 0 1 : 125a 239e 31e7 5abd 6b79 bc46 4f63 7df4
+CONF 91 spr hole 114 aut 6 src 6 38 0 1 : 125a 239e 31e7 5abd 6b79 bc46 c6f2 d8ab
+CONF 92 spr hole 70 aut 6 src 7 36 0 1 : 125a 239e 31e7 5abd 6b79 bc46 c6f2 4d83
+CONF 93 spr hole 42 aut 36 src 1 6 0 1 : 125a 239e 31e7 5abd 6b79 bc46 c6f2 f9d5
+CONF 94 spr hole 42 aut 36 src 1 6 0 1 : 125a 239e 31e7 5abd 6b79 bc46 d51b 7df4
+CONF 95 spr hole 67 aut 4 src 5 26 0 3 : 125a 239e 31e7 5d32 6bf5 79bd bc46 c8d3
+CONF 96 spr hole 63 aut 2 src 9 56 0 1 : 125a 239e 31e7 5d32 6bf5 79bd bc46 d6af
+CONF 97 spr hole 112 aut 6 src 4 20 0 3 : 125a 239e 31e7 5d32 6bf5 79bd bc46 e76b
+CONF 98 spr hole 185 aut 24 src 3 9 0 1 : 125a 239e 3a6d 4c36 5ea8 9f1c ad42 d7fb
+CONF 99 spr hole 49 aut 4 src 10 43 0 1 : 125a 239e 3a6d 4c36 5ea8 9f1c ad42 75e4
+CONF 100 spr hole 80 aut 6 src 8 38 0 1 : 125a 239e 3a6d 4c36 5ea8 9f1c 75e4 f1c5
+CONF 101 spr hole 183 aut 6 src 10 35 3 1 : 125a 239e 3a6d 4c36 5ea8 ad42 d7fb 75e4
+CONF 102 spr hole 185 aut 24 src 3 9 0 1 : 125a 239e 3a6d 4fac 5d32 69b7 9c86 aed8
+CONF 103 spr hole 50 aut 4 src 10 43 0 1 : 125a 239e 3a6d 4fac 5d32 69b7 9c86 75e4
+CONF 104 spr hole 183 aut 6 src 10 35 3 1 : 125a 239e 3a6d 4fac 5d32 69b7 aed8 75e4
+CONF 105 spr hole 80 aut 6 src 8 38 0 1 : 125a 239e 3a6d 4fac 5d32 9c86 75e4 f1c5
+CONF 106 spr hole 176 aut 3 src 17 80 6 2 : 125a 239e 5abd 6b79 ae3f bc46 4f63 d51b
+CONF 107 spr hole 181 aut 24 src 2 10 0 1 : 125a 239e 5abd 6b79 ae3f bc46 4f63 c9a2
+CONF 108 spr hole 176 aut 3 src 17 80 6 2 : 125a 239e 5abd 6b79 ae3f bc46 c6f2 d8ab
+CONF 109 spr hole 191 aut 12 src 6 18 4 4 : 125a 239e 5abd 6b79 ae3f bc46 c6f2 f9d5
+CONF 110 spr hole 191 aut 12 src 6 18 4 4 : 125a 239e 5abd 6b79 ae3f bc46 d51b 7df4
+CONF 111 spr hole 181 aut 24 src 2 10 0 1 : 125a 239e 5abd 6b79 ae3f bc46 d8ab 4d83
+CONF 112 spr hole 163 aut 6 src 7 52 0 1 : 125a 23af 31f5 4a18 5842 6eb9 bcd3 c73e
+CONF 113 spr hole 117 aut 6 src 9 58 0 1 : 125a 23af 31f5 4a18 5842 6eb9 bcd3 7de6
+CONF 114 spr hole 70 aut 3 src 10 88 0 2 : 125a 23af 31f5 4a18 5842 6eb9 bcd3 eb9d
+CONF 115 spr hole 42 aut 12 src 3 26 0 3 : 125a 23af 31f5 4a18 5842 6eb9 bcd3 a584
+CONF 116 spr hole 114 aut 6 src 9 58 0 1 : 125a 23af 31f5 4a18 5842 6eb9 c73e eb9d
+CONF 117 spr hole 42 aut 12 src 3 26 0 3 : 125a 23af 31f5 4a18 5842 6eb9 c73e a584
+CONF 118 spr hole 152 aut 6 src 9 50 6 2 : 125a 23af 31f5 4a18 5842 6eb9 d967 7de6
+CONF 119 spr hole 191 aut 12 src 4 22 4 4 : 125a 23af 31f5 4a18 5842 6eb9 d967 a584
+CONF 120 spr hole 70 aut 6 src 7 62 0 1 : 125a 23af 31f5 4a18 5842 6eb9 7de6 9f7c
+CONF 121 spr hole 70 aut 6 src 7 62 0 1 : 125a 23af 31f5 4a18 5842 6eb9 eb9d 9f7c
+CONF 122 spr hole 191 aut 24 src 4 16 3 2 : 125a 23af 31f5 4a18 5842 9d76 f9c7 a584
+CONF 123 spr hole 117 aut 6 src 6 34 0 1 : 125a 23af 31f5 4c97 7e13 c8b6 db32 97c8
+CONF 124 spr hole 42 aut 12 src 2 18 0 3 : 125a 23af 31f5 4c97 7e13 c8b6 db32 a584
+CONF 125 spr hole 246 aut 12 src 1 6 0 15 : 125a 23af 31f5 4c97 967b a78e b5d4 c8b6
+CONF 126 spr hole 114 aut 6 src 6 34 0 1 : 125a 23af 31f5 4c97 976d b6e9 c8b6 5f32
+CONF 127 spr hole 42 aut 12 src 2 18 0 3 : 125a 23af 31f5 4c97 976d b6e9 c8b6 a584
+CONF 128 spr hole 63 aut 2 src 4 38 0 1 : 125a 23af 31f5 5abd 6b79 79c4 9e48 afd6
+CONF 129 spr hole 63 aut 2 src 4 38 0 1 : 125a 23af 31f5 5abd 6b79 79c4 9e48 bd9e
+CONF 130 spr hole 129 aut 1 src 13 95 12 6 : 125a 23af 31f5 5abd 6b79 79c4 9e48 d6e7
+CONF 131 spr hole 68 aut 4 src 3 21 0 6 : 125a 23af 31f5 5abd 6b79 79c4 9e48 e78c
+CONF 132 spr hole 186 aut 2 src 5 39 0 4 : 125a 23af 31f5 5abd 6b79 79c4 afd6 bd9e
+CONF 133 spr hole 109 aut 1 src 12 90 0 1 : 125a 23af 31f5 5abd 6b79 79c4 afd6 d6e7
+CONF 134 spr hole 63 aut 2 src 5 43 0 1 : 125a 23af 31f5 5abd 6b79 79c4 afd6 f56b
+CONF 135 spr hole 109 aut 1 src 12 90 0 1 : 125a 23af 31f5 5abd 6b79 79c4 bd9e e78c
+CONF 136 spr hole 246 aut 18 src 1 5 0 10 : 125a 23af 31f5 5abd 6b79 9e48 4c13 c832
+CONF 137 spr hole 129 aut 2 src 15 71 18 3 : 125a 23af 31f5 5abd 6b79 afd6 bd9e d6e7
+CONF 138 spr hole 246 aut 36 src 1 5 0 5 : 125a 23af 31f5 5abd afd6 f56b 4c13 c832
+CONF 139 spr hole 103 aut 2 src 5 48 0 1 : 125a 23af 3867 4cf2 51c6 6b79 9e48 a5d4
+CONF 140 spr hole 57 aut 2 src 5 60 0 1 : 125a 23af 3867 4cf2 51c6 6b79 9e48 bd9e
+CONF 141 spr hole 167 aut 2 src 11 58 0 3 : 125a 23af 3867 4cf2 51c6 6b79 9e48 c63b
+CONF 142 spr hole 145 aut 1 src 15 92 0 1 : 125a 23af 3867 4cf2 51c6 6b79 9e48 dfe5
+CONF 143 spr hole 64 aut 1 src 13 116 0 1 : 125a 23af 3867 4cf2 51c6 6b79 9e48 e78c
+CONF 144 spr hole 104 aut 1 src 13 116 0 1 : 125a 23af 3867 4cf2 51c6 6b79 a5d4 bd9e
+CONF 145 spr hole 62 aut 2 src 5 60 0 1 : 125a 23af 3867 4cf2 51c6 6b79 a5d4 c63b
+CONF 146 spr hole 187 aut 2 src 17 48 12 1 : 125a 23af 3867 4cf2 51c6 6b79 a5d4 dfe5
+CONF 147 spr hole 78 aut 2 src 6 70 0 1 : 125a 23af 3867 4cf2 51c6 6b79 bd9e c63b
+CONF 148 spr hole 145 aut 1 src 15 92 0 1 : 125a 23af 3867 4cf2 51c6 6b79 bd9e dfe5
+CONF 149 spr hole 58 aut 2 src 5 60 0 1 : 125a 23af 3867 4cf2 51c6 6b79 bd9e e78c
+CONF 150 spr hole 177 aut 2 src 11 58 0 1 : 125a 23af 3867 4cf2 51c6 6b79 bd9e fa13
+CONF 151 spr hole 187 aut 2 src 17 48 12 1 : 125a 23af 3867 4cf2 51c6 9e48 a5d4 bd9e
+CONF 152 spr hole 88 aut 1 src 9 96 0 1 : 125a 23af 3867 4cf2 51c6 9e48 a5d4 c63b
+CONF 153 spr hole 110 aut 2 src 6 46 0 2 : 125a 23af 3867 4cf2 51c6 9e48 a5d4 e78c
+CONF 154 spr hole 21 aut 6 src 4 18 0 1 : 125a 23af 3867 4cf2 51c6 9e48 c63b e78c
+CONF 155 spr hole 65 aut 2 src 5 60 0 1 : 125a 23af 3867 4cf2 51c6 a5d4 bd9e c63b
+CONF 156 spr hole 101 aut 2 src 5 48 0 1 : 125a 23af 3867 4cf2 51c6 a5d4 bd9e e78c
+CONF 157 spr hole 188 aut 2 src 8 50 4 2 : 125a 23af 3867 4cf2 51c6 a5d4 c63b dfe5
+CONF 158 spr hole 89 aut 1 src 9 96 0 1 : 125a 23af 3867 4cf2 51c6 a5d4 c63b e78c
+CONF 159 spr hole 173 aut 2 src 10 62 4 1 : 125a 23af 3867 4cf2 51c6 a5d4 c63b fa13
+CONF 160 spr hole 132 aut 4 src 4 50 0 1 : 125a 23af 3867 4cf2 5abd 6b79 9e48 afd6
+CONF 161 spr hole 63 aut 2 src 7 119 0 1 : 125a 23af 3867 4cf2 5abd 6b79 9e48 bd9e
+CONF 162 spr hole 129 aut 2 src 13 130 6 3 : 125a 23af 3867 4cf2 5abd 6b79 9e48 c63b
+CONF 163 spr hole 129 aut 3 src 9 74 4 2 : 125a 23af 3867 4cf2 5abd 6b79 9e48 d913
+CONF 164 spr hole 118 aut 1 src 14 135 0 1 : 125a 23af 3867 4cf2 5abd 6b79 9e48 75e4
+CONF 165 spr hole 118 aut 1 src 14 135 0 1 : 125a 23af 3867 4cf2 5abd 6b79 9e48 f1c5
+CONF 166 spr hole 164 aut 4 src 6 58 0 1 : 125a 23af 3867 4cf2 5abd 6b79 afd6 bd9e
+CONF 167 spr hole 64 aut 1 src 19 233 0 1 : 125a 23af 3867 4cf2 5abd 6b79 afd6 c63b
+CONF 168 spr hole 178 aut 2 src 10 98 0 1 : 125a 23af 3867 4cf2 5abd 6b79 afd6 e78c
+CONF 169 spr hole 147 aut 1 src 13 127 0 1 : 125a 23af 3867 4cf2 5abd 6b79 afd6 75e4
+CONF 170 spr hole 146 aut 1 src 13 127 0 1 : 125a 23af 3867 4cf2 5abd 6b79 afd6 f1c5
+CONF 171 spr hole 41 aut 6 src 5 45 0 1 : 125a 23af 3867 4cf2 5abd 6b79 bd9e c63b
+CONF 172 spr hole 144 aut 1 src 15 147 0 1 : 125a 23af 3867 4cf2 5abd 6b79 bd9e 75e4
+CONF 173 spr hole 137 aut 1 src 15 147 0 1 : 125a 23af 3867 4cf2 5abd 6b79 bd9e f1c5
+CONF 174 spr hole 111 aut 2 src 7 80 0 1 : 125a 23af 3867 4cf2 5abd 6b79 c63b 75e4
+CONF 175 spr hole 113 aut 2 src 7 80 0 1 : 125a 23af 3867 4cf2 5abd 6b79 c63b f1c5
+CONF 176 spr hole 109 aut 1 src 10 140 0 1 : 125a 23af 3867 4cf2 5abd 6b79 d913 75e4
+CONF 177 spr hole 109 aut 1 src 10 140 0 1 : 125a 23af 3867 4cf2 5abd 6b79 d913 f1c5
+CONF 178 spr hole 150 aut 2 src 5 64 0 1 : 125a 23af 3867 4cf2 5abd 6b79 e78c 75e4
+CONF 179 spr hole 148 aut 2 src 5 64 0 1 : 125a 23af 3867 4cf2 5abd 6b79 e78c f1c5
+CONF 180 spr hole 156 aut 1 src 8 79 0 1 : 125a 23af 3867 4cf2 5abd 6b79 75e4 f1c5
+CONF 181 spr hole 148 aut 2 src 5 64 0 1 : 125a 23af 3867 4cf2 5abd 9e48 bd9e 75e4
+CONF 182 spr hole 150 aut 2 src 5 64 0 1 : 125a 23af 3867 4cf2 5abd 9e48 bd9e f1c5
+CONF 183 spr hole 160 aut 1 src 8 79 0 1 : 125a 23af 3867 4cf2 5abd 9e48 75e4 f1c5
+CONF 184 spr hole 68 aut 12 src 3 23 0 2 : 125a 23af 3867 4cf2 5abd afd6 c63b d913
+CONF 185 spr hole 155 aut 4 src 5 37 0 1 : 125a 23af 3867 4cf2 5abd afd6 c63b 75e4
+CONF 186 spr hole 155 aut 4 src 5 37 0 1 : 125a 23af 3867 4cf2 5abd afd6 c63b f1c5
+CONF 187 spr hole 159 aut 4 src 3 19 0 2 : 125a 23af 3867 4cf2 5abd afd6 75e4 f1c5
+CONF 188 spr hole 108 aut 1 src 8 76 0 1 : 125a 23af 3867 4cf2 5abd bd9e 75e4 f1c5
+CONF 189 spr hole 131 aut 2 src 11 78 0 1 : 125a 23af 3867 4cf2 5abd c63b d913 75e4
+CONF 190 spr hole 131 aut 2 src 11 78 0 1 : 125a 23af 3867 4cf2 5abd c63b d913 f1c5
+CONF 191 spr hole 127 aut 2 src 6 41 0 1 : 125a 23af 3867 4cf2 5abd c63b 75e4 f1c5
+CONF 192 spr hole 131 aut 1 src 12 80 0 2 : 125a 23af 3867 4cf2 5abd d913 75e4 f1c5
+CONF 193 spr hole 176 aut 2 src 10 62 4 3 : 125a 23af 3867 4cf2 6b79 9e48 a5d4 c63b
+CONF 194 spr hole 193 aut 6 src 19 92 0 12 : 125a 23af 3867 4cf2 6b79 9e48 bd9e c63b
+CONF 195 spr hole 58 aut 2 src 9 116 0 1 : 125a 23af 3867 4cf2 6b79 9e48 bd9e 75e4
+CONF 196 spr hole 57 aut 2 src 9 116 0 1 : 125a 23af 3867 4cf2 6b79 9e48 bd9e f1c5
+CONF 197 spr hole 164 aut 4 src 6 61 0 1 : 125a 23af 3867 4cf2 6b79 9e48 c63b 75e4
+CONF 198 spr hole 164 aut 4 src 6 61 0 1 : 125a 23af 3867 4cf2 6b79 9e48 c63b f1c5
+CONF 199 spr hole 161 aut 1 src 11 146 0 1 : 125a 23af 3867 4cf2 6b79 9e48 75e4 f1c5
+CONF 200 spr hole 117 aut 6 src 7 42 0 1 : 125a 23af 3867 4cf2 6b79 bd9e c63b 75e4
+CONF 201 spr hole 114 aut 6 src 7 42 0 1 : 125a 23af 3867 4cf2 6b79 bd9e c63b f1c5
+CONF 202 spr hole 141 aut 2 src 8 73 0 1 : 125a 23af 3867 4cf2 6b79 bd9e 75e4 f1c5
+CONF 203 spr hole 92 aut 1 src 17 149 0 1 : 125a 23af 3867 4cf2 6b79 c63b 75e4 f1c5
+CONF 204 spr hole 81 aut 6 src 2 24 0 1 : 125a 23af 3867 4cf2 6b79 e78c 75e4 f1c5
+CONF 205 spr hole 79 aut 6 src 2 24 0 1 : 125a 23af 3867 4cf2 9e48 bd9e 75e4 f1c5
+CONF 206 spr hole 246 aut 12 src 1 6 0 15 : 125a 23af 3867 4cf2 c63b d913 75e4 f1c5
+CONF 207 spr hole 90 aut 2 src 5 48 0 1 : 125a 23af 3867 51c6 6b79 a5d4 c63b dfe5
+CONF 208 spr hole 169 aut 6 src 4 18 0 1 : 125a 23af 3867 51c6 9e48 a5d4 c63b e78c
+CONF 209 spr hole 86 aut 2 src 5 48 0 1 : 125a 23af 3867 51c6 a5d4 bd9e c63b dfe5
+CONF 210 spr hole 181 aut 2 src 4 34 0 12 : 125a 23af 3867 5abd 6b79 9e48 75e4 f1c5
+CONF 211 spr hole 112 aut 6 src 4 23 0 3 : 125a 23af 3867 5abd 6b79 afd6 bd9e 75e4
+CONF 212 spr hole 112 aut 6 src 4 23 0 3 : 125a 23af 3867 5abd 6b79 afd6 bd9e f1c5
+CONF 213 spr hole 140 aut 1 src 11 78 0 1 : 125a 23af 3867 5abd 6b79 afd6 75e4 f1c5
+CONF 214 spr hole 168 aut 6 src 1 13 0 1 : 125a 23af 3867 5abd bd9e c63b 75e4 f1c5
+CONF 215 spr hole 183 aut 6 src 16 30 12 1 : 125a 23af 3867 9e48 a5d4 c63b dfe5 e78c
+CONF 216 spr hole 42 aut 36 src 1 6 0 1 : 125a 23af 3867 9e48 c63b e78c 75e4 f1c5
+CONF 217 spr hole 111 aut 2 src 7 69 0 1 : 125a 23af 396d 41f7 5842 967b ad86 b5d4
+CONF 218 spr hole 69 aut 1 src 17 143 0 1 : 125a 23af 396d 41f7 5842 967b ad86 ce39
+CONF 219 spr hole 80 aut 3 src 7 52 0 2 : 125a 23af 396d 41f7 5842 967b ad86 db15
+CONF 220 spr hole 156 aut 1 src 9 74 0 1 : 125a 23af 396d 41f7 5842 967b ad86 7ce3
+CONF 221 spr hole 186 aut 2 src 7 70 0 4 : 125a 23af 396d 41f7 5842 967b b5d4 ce39
+CONF 222 spr hole 163 aut 3 src 9 55 0 2 : 125a 23af 396d 41f7 5842 967b b5d4 db15
+CONF 223 spr hole 113 aut 2 src 7 69 0 1 : 125a 23af 396d 41f7 5842 967b b5d4 f7ce
+CONF 224 spr hole 118 aut 1 src 15 77 0 1 : 125a 23af 396d 41f7 5842 967b b5d4 7ce3
+CONF 225 spr hole 67 aut 3 src 7 53 0 4 : 125a 23af 396d 41f7 5842 967b ce39 db15
+CONF 226 spr hole 63 aut 1 src 10 94 0 2 : 125a 23af 396d 41f7 5842 967b ce39 7ce3
+CONF 227 spr hole 80 aut 3 src 7 52 0 2 : 125a 23af 396d 41f7 5842 967b db15 f7ce
+CONF 228 spr hole 184 aut 3 src 10 31 3 6 : 125a 23af 396d 41f7 5842 967b db15 7ce3
+CONF 229 spr hole 160 aut 1 src 9 74 0 1 : 125a 23af 396d 41f7 5842 967b f7ce 7ce3
+CONF 230 spr hole 76 aut 2 src 7 32 0 1 : 125a 23af 396d 41f7 5842 967b 7ce3 6fbc
+CONF 231 spr hole 131 aut 2 src 9 65 0 1 : 125a 23af 396d 41f7 5842 ad86 b5d4 ce39
+CONF 232 spr hole 176 aut 3 src 11 52 2 2 : 125a 23af 396d 41f7 5842 ad86 b5d4 db15
+CONF 233 spr hole 116 aut 1 src 11 86 0 1 : 125a 23af 396d 41f7 5842 ad86 b5d4 7ce3
+CONF 234 spr hole 97 aut 3 src 8 50 0 10 : 125a 23af 396d 41f7 5842 ad86 ce39 db15
+CONF 235 spr hole 165 aut 1 src 9 85 0 1 : 125a 23af 396d 41f7 5842 ad86 ce39 7ce3
+CONF 236 spr hole 133 aut 3 src 6 34 0 2 : 125a 23af 396d 41f7 5842 ad86 db15 7ce3
+CONF 237 spr hole 142 aut 1 src 10 87 0 1 : 125a 23af 396d 41f7 5842 ad86 f7ce 7ce3
+CONF 238 spr hole 80 aut 3 src 10 51 0 2 : 125a 23af 396d 41f7 5842 b5d4 ce39 db15
+CONF 239 spr hole 111 aut 2 src 6 50 0 1 : 125a 23af 396d 41f7 5842 b5d4 ce39 7ce3
+CONF 240 spr hole 136 aut 18 src 2 10 0 1 : 125a 23af 396d 41f7 5842 b5d4 db15 f7ce
+CONF 241 spr hole 114 aut 3 src 8 43 0 2 : 125a 23af 396d 41f7 5842 b5d4 db15 7ce3
+CONF 242 spr hole 101 aut 2 src 7 53 0 1 : 125a 23af 396d 41f7 5842 b5d4 f7ce 7ce3
+CONF 243 spr hole 167 aut 3 src 7 39 0 2 : 125a 23af 396d 41f7 5842 ce39 db15 7ce3
+CONF 244 spr hole 126 aut 1 src 10 87 0 1 : 125a 23af 396d 41f7 5842 ce39 f7ce 7ce3
+CONF 245 spr hole 117 aut 3 src 7 40 0 2 : 125a 23af 396d 41f7 5842 db15 f7ce 7ce3
+CONF 246 spr hole 162 aut 1 src 13 89 0 1 : 125a 23af 396d 41f7 5842 f7ce 7ce3 6fbc
+CONF 247 spr hole 192 aut 12 src 12 36 0 50 : 125a 23af 396d 41f7 967b ad86 ce39 db15
+CONF 248 spr hole 193 aut 36 src 5 15 0 2 : 125a 23af 396d 41f7 967b ad86 ce39 f7ce
+CONF 249 spr hole 92 aut 1 src 17 195 0 1 : 125a 23af 396d 41f7 967b ad86 ce39 68b2
+CONF 250 spr hole 181 aut 6 src 3 24 0 4 : 125a 23af 396d 41f7 967b ad86 db15 68b2
+CONF 251 spr hole 181 aut 6 src 3 24 0 4 : 125a 23af 396d 41f7 967b ad86 db15 7ce3
+CONF 252 spr hole 161 aut 1 src 13 179 0 1 : 125a 23af 396d 41f7 967b ad86 68b2 5c43
+CONF 253 spr hole 140 aut 1 src 10 94 0 1 : 125a 23af 396d 41f7 967b b5d4 ce39 7ce3
+CONF 254 spr hole 182 aut 3 src 9 31 0 4 : 125a 23af 396d 41f7 967b b5d4 db15 7ce3
+CONF 255 spr hole 133 aut 3 src 6 34 0 2 : 125a 23af 396d 41f7 967b bfdc db15 68b2
+CONF 256 spr hole 116 aut 1 src 11 86 0 1 : 125a 23af 396d 41f7 967b bfdc e594 68b2
+CONF 257 spr hole 138 aut 1 src 10 87 0 1 : 125a 23af 396d 41f7 967b bfdc f7ce 68b2
+CONF 258 spr hole 97 aut 6 src 4 26 0 5 : 125a 23af 396d 41f7 967b ce39 db15 68b2
+CONF 259 spr hole 67 aut 3 src 11 55 0 4 : 125a 23af 396d 41f7 967b ce39 db15 7ce3
+CONF 260 spr hole 51 aut 2 src 9 95 0 1 : 125a 23af 396d 41f7 967b ce39 f7ce 68b2
+CONF 261 spr hole 167 aut 3 src 6 34 0 2 : 125a 23af 396d 41f7 967b db15 e594 68b2
+CONF 262 spr hole 80 aut 3 src 12 52 0 2 : 125a 23af 396d 41f7 967b db15 f7ce 68b2
+CONF 263 spr hole 182 aut 12 src 2 11 0 1 : 125a 23af 396d 41f7 967b db15 7ce3 6fbc
+CONF 264 spr hole 125 aut 1 src 10 87 0 1 : 125a 23af 396d 41f7 967b e594 f7ce 68b2
+CONF 265 spr hole 158 aut 6 src 5 31 0 1 : 125a 23af 396d 41f7 967b f7ce 68b2 5c43
+CONF 266 spr hole 167 aut 3 src 6 34 0 2 : 125a 23af 396d 41f7 ad86 b5d4 db15 7ce3
+CONF 267 spr hole 129 aut 3 src 7 28 3 2 : 125a 23af 396d 41f7 ad86 bfdc 68b2 5c43
+CONF 268 spr hole 112 aut 6 src 6 35 0 3 : 125a 23af 396d 41f7 ad86 ce39 68b2 5c43
+CONF 269 spr hole 80 aut 3 src 12 52 0 2 : 125a 23af 396d 41f7 ad86 db15 f7ce 7ce3
+CONF 270 spr hole 184 aut 9 src 6 17 1 2 : 125a 23af 396d 41f7 ad86 db15 68b2 5c43
+CONF 271 spr hole 21 aut 3 src 6 28 0 2 : 125a 23af 396d 41f7 ad86 e594 68b2 5c43
+CONF 272 spr hole 80 aut 3 src 10 51 0 2 : 125a 23af 396d 41f7 bfdc ce39 db15 e594
+CONF 273 spr hole 167 aut 3 src 7 39 0 2 : 125a 23af 396d 41f7 bfdc ce39 db15 68b2
+CONF 274 spr hole 113 aut 2 src 6 50 0 1 : 125a 23af 396d 41f7 bfdc ce39 e594 68b2
+CONF 275 spr hole 136 aut 18 src 2 10 0 1 : 125a 23af 396d 41f7 bfdc db15 e594 f7ce
+CONF 276 spr hole 117 aut 3 src 8 43 0 2 : 125a 23af 396d 41f7 bfdc db15 e594 68b2
+CONF 277 spr hole 114 aut 3 src 7 40 0 2 : 125a 23af 396d 41f7 bfdc db15 f7ce 68b2
+CONF 278 spr hole 103 aut 2 src 7 53 0 1 : 125a 23af 396d 41f7 bfdc e594 f7ce 68b2
+CONF 279 spr hole 157 aut 6 src 5 31 0 1 : 125a 23af 396d 41f7 ce39 f7ce 7ce3 6fbc
+CONF 280 spr hole 163 aut 6 src 8 26 0 1 : 125a 23af 396d 41f7 db15 f7ce 68b2 5c43
+CONF 281 spr hole 184 aut 9 src 7 21 4 2 : 125a 23af 396d 5842 967b ad86 ce39 f7ce
+CONF 282 spr hole 118 aut 1 src 9 117 0 1 : 125a 23af 396d 5842 967b ad86 ce39 7ce3
+CONF 283 spr hole 140 aut 1 src 9 117 0 1 : 125a 23af 396d 5842 967b ad86 f7ce 7ce3
+CONF 284 spr hole 93 aut 1 src 7 103 0 2 : 125a 23af 396d 5842 967b ad86 7ce3 6fbc
+CONF 285 spr hole 132 aut 1 src 7 103 0 4 : 125a 23af 396d 5842 967b ce39 7ce3 6fbc
+CONF 286 spr hole 139 aut 1 src 9 113 0 1 : 125a 23af 396d 5842 ad86 ce39 f7ce 7ce3
+CONF 287 spr hole 172 aut 3 src 5 37 0 1 : 125a 23af 396d 5842 ce39 f7ce 7ce3 6fbc
+CONF 288 spr hole 128 aut 6 src 5 53 0 4 : 125a 23af 396d 967b ad86 ce39 f7ce 68b2
+CONF 289 spr hole 164 aut 4 src 6 77 0 1 : 125a 23af 396d 967b ad86 ce39 68b2 5c43
+CONF 290 spr hole 55 aut 2 src 9 149 0 1 : 125a 23af 396d 967b ad86 ce39 7ce3 6fbc
+CONF 291 spr hole 171 aut 3 src 5 37 0 1 : 125a 23af 396d 967b bfdc f7ce 68b2 5c43
+CONF 292 spr hole 129 aut 3 src 7 44 4 2 : 125a 23af 396d ad86 bfdc ce39 68b2 5c43
+CONF 293 spr hole 118 aut 1 src 9 75 0 1 : 125a 23af 3bfd 497b 71e5 96c8 e594 68b2
+CONF 294 spr hole 42 aut 18 src 1 6 0 2 : 125a 23af 3bfd 497b 96c8 ce39 fa17 68b2
+CONF 295 spr hole 67 aut 12 src 14 154 0 1 : 125a 23af 3bfd 4a18 61b5 967b a78e bfdc
+CONF 296 spr hole 194 aut 108 src 2 7 2 40 : 125a 23af 3bfd 4a18 69b7 71e5 ce39 e594
+CONF 297 spr hole 95 aut 3 src 18 103 30 24 : 125a 23af 3bfd 4a18 69b7 71e5 ce39 9d76
+CONF 298 spr hole 129 aut 3 src 11 99 12 2 : 125a 23af 3bfd 4a18 69b7 71e5 9d76 5c43
+CONF 299 spr hole 184 aut 9 src 7 45 4 2 : 125a 23af 3bfd 4a18 69b7 a78e c63b 9d76
+CONF 300 spr hole 129 aut 6 src 7 66 6 1 : 125a 23af 3bfd 4a18 69b7 a78e 9d76 5c43
+CONF 301 spr hole 194 aut 36 src 3 18 4 120 : 125a 23af 3bfd 4a18 69b7 e594 9d76 5c43
+CONF 302 spr hole 129 aut 6 src 8 51 6 1 : 125a 23af 3bfd 4a18 71e5 ce39 e594 9d76
+CONF 303 spr hole 94 aut 18 src 2 17 0 1 : 125a 23af 3bfd 4a18 71e5 ce39 9d76 5c43
+CONF 304 spr hole 94 aut 18 src 2 17 0 1 : 125a 23af 3bfd 4a18 71e5 ce39 bcd3 d862
+CONF 305 spr hole 190 aut 120 src 3 19 0 1 : 125a 23af 3bfd 4a18 967b a78e bfdc ce39
+CONF 306 spr hole 21 aut 3 src 9 129 0 2 : 125a 23af 3bfd 4a18 a78e c63b 9d76 5c43
+CONF 307 spr hole 42 aut 18 src 1 6 0 2 : 125a 23af 3bfd 4d6e af16 ce39 d78c 7ce3
+CONF 308 spr hole 115 aut 1 src 13 94 0 1 : 125a 23af 3bfd 5a67 61b5 b5d4 d9cb e892
+CONF 309 spr hole 70 aut 3 src 8 44 0 2 : 125a 23af 3bfd 5a67 61b5 d9cb f648 e892
+CONF 310 spr hole 64 aut 1 src 11 108 0 1 : 125a 23af 3bfd 5a67 a78e b5d4 d9cb e892
+CONF 311 spr hole 152 aut 3 src 12 39 6 4 : 125a 23af 3bfd 5a67 a78e d9cb f648 e892
+CONF 312 spr hole 128 aut 12 src 4 41 0 2 : 125a 23af 3bfd 69b7 a78e c63b 4d16 bcd3
+CONF 313 spr hole 193 aut 18 src 17 72 0 4 : 125a 23af 3bfd 69b7 a78e c63b 4d16 5e49
+CONF 314 spr hole 184 aut 18 src 6 22 2 1 : 125a 23af 3bfd 69b7 a78e c63b 4d16 75e4
+CONF 315 spr hole 184 aut 18 src 6 22 2 1 : 125a 23af 3bfd 69b7 a78e c63b 4d16 f1c5
+CONF 316 spr hole 194 aut 216 src 1 2 1 20 : 125a 23af 3bfd 69b7 a78e c63b 75e4 f1c5
+CONF 317 spr hole 70 aut 6 src 6 77 0 1 : 125a 23af 3bfd 69b7 a78e 4d16 bcd3 5e49
+CONF 318 spr hole 176 aut 6 src 14 76 8 1 : 125a 23af 3bfd 69b7 a78e 4d16 bcd3 d862
+CONF 319 spr hole 117 aut 6 src 7 66 0 1 : 125a 23af 3bfd 69b7 a78e 4d16 bcd3 75e4
+CONF 320 spr hole 70 aut 6 src 6 77 0 1 : 125a 23af 3bfd 69b7 a78e 9d76 e892 da68
+CONF 321 spr hole 114 aut 6 src 7 66 0 1 : 125a 23af 3bfd 69b7 a78e 9d76 e892 f1c5
+CONF 322 spr hole 167 aut 6 src 11 71 0 1 : 125a 23af 3bfd 69b7 c63b 4d16 bcd3 d862
+CONF 323 spr hole 133 aut 3 src 19 134 0 2 : 125a 23af 3bfd 69b7 c63b 4d16 bcd3 75e4
+CONF 324 spr hole 22 aut 3 src 15 156 0 4 : 125a 23af 3bfd a78e c63b 4d16 bcd3 5e49
+CONF 325 spr hole 128 aut 12 src 3 30 0 2 : 125a 23af 3bfd a78e c63b 9d76 da68 75e4
+CONF 326 spr hole 68 aut 12 src 4 37 0 2 : 125a 23af 3bfd a78e c63b 9d76 da68 f1c5
+CONF 327 spr hole 112 aut 18 src 3 71 0 1 : 125a 23af 3bfd c63b 4917 7ce3 9d76 e892
+CONF 328 spr hole 21 aut 6 src 7 211 0 1 : 125a 23af 3bfd c63b 4917 7ce3 9d76 da68
+CONF 329 spr hole 94 aut 18 src 3 71 0 1 : 125a 23af 3bfd c63b 4917 7ce3 e892 da68
+CONF 330 spr hole 112 aut 18 src 3 71 0 1 : 125a 23af 3bfd c63b 4d16 68b2 bcd3 d967
+CONF 331 spr hole 21 aut 6 src 7 211 0 1 : 125a 23af 3bfd c63b 4d16 68b2 bcd3 5e49
+CONF 332 spr hole 94 aut 18 src 3 71 0 1 : 125a 23af 3bfd c63b 4d16 68b2 d967 5e49
+CONF 333 spr hole 41 aut 3 src 7 36 0 2 : 125a 23af 497b 71e5 96c8 e594 fa17 68b2
+CONF 334 spr hole 41 aut 3 src 8 41 0 2 : 125a 23af 497b 96c8 ad86 e594 fa17 68b2
+CONF 335 spr hole 95 aut 9 src 7 11 5 8 : 125a 23af 497b 96c8 ad86 fa17 68b2 5c43
+CONF 336 spr hole 97 aut 30 src 5 32 0 1 : 125a 23af 4a18 61b5 bfdc c73e e69b 5c43
+CONF 337 spr hole 97 aut 15 src 10 68 0 2 : 125a 23af 4a18 61b5 bfdc c73e e69b 7de6
+CONF 338 spr hole 190 aut 60 src 3 18 0 2 : 125a 23af 4a18 61b5 bfdc c73e 7de6 9b7d
+CONF 339 spr hole 246 aut 180 src 1 6 0 1 : 125a 23af 4a18 61b5 bfdc c73e 7de6 a584
+CONF 340 spr hole 190 aut 60 src 3 18 0 2 : 125a 23af 4a18 61b5 bfdc c73e d862 9b7d
+CONF 341 spr hole 97 aut 15 src 12 64 0 2 : 125a 23af 5842 71e5 9c73 6eb9 cb3d 3df6
+CONF 342 spr hole 129 aut 3 src 6 29 4 2 : 125a 23af 5abd 6b79 79c4 9e48 afd6 bd9e
+CONF 343 spr hole 132 aut 4 src 3 17 0 1 : 125a 23af 5abd 6b79 79c4 9e48 afd6 d6e7
+CONF 344 spr hole 184 aut 6 src 6 14 3 3 : 125a 23af 5abd 6b79 79c4 afd6 bd9e 4c13
+CONF 345 spr hole 178 aut 2 src 9 47 0 1 : 125a 23af 5abd 6b79 79c4 afd6 d6e7 e78c
+CONF 346 spr hole 194 aut 24 src 7 18 4 180 : 125a 23af 5abd 6b79 9e48 afd6 bd9e e78c
+CONF 347 spr hole 129 aut 3 src 14 42 8 2 : 125a 23af 5abd 6b79 9e48 afd6 bd9e 4c13
+CONF 348 spr hole 129 aut 3 src 13 59 8 2 : 125a 23af 5abd 6b79 9e48 afd6 bd9e 75e4
+CONF 349 spr hole 129 aut 3 src 13 59 8 2 : 125a 23af 5abd 6b79 9e48 afd6 bd9e f1c5
+CONF 350 spr hole 67 aut 6 src 5 20 0 2 : 125a 23af 5abd 6b79 9e48 afd6 4c13 c832
+CONF 351 spr hole 67 aut 2 src 6 44 0 6 : 125a 23af 5abd 6b79 9e48 afd6 75e4 f1c5
+CONF 352 spr hole 184 aut 18 src 4 10 1 1 : 125a 23af 5abd 6b79 afd6 bd9e 4c13 c832
+CONF 353 spr hole 112 aut 6 src 4 28 0 3 : 125a 23af 5abd 6b79 afd6 bd9e 75e4 f1c5
+CONF 354 spr hole 41 aut 6 src 6 26 0 1 : 125a 23af 5abd 6b79 afd6 e78c 4c13 c832
+CONF 355 spr hole 63 aut 2 src 6 51 0 1 : 125a 23af 5abd 6b79 afd6 e78c 75e4 f1c5
+CONF 356 spr hole 163 aut 3 src 12 104 0 2 : 125a 23af 61b5 c63b f7ce 4d16 7ce3 b9d7
+CONF 357 spr hole 191 aut 12 src 10 36 6 4 : 125a 23af 69b7 a78e 4d16 bcd3 5e49 9f7c
+CONF 358 spr hole 41 aut 6 src 6 73 0 1 : 125a 23af c63b f7ce 4917 7ce3 9d76 6fbc
+CONF 359 spr hole 41 aut 6 src 6 73 0 1 : 125a 23af c63b f7ce 4917 7ce3 9d76 da68
+CONF 360 spr hole 42 aut 12 src 3 16 0 3 : 125a 23c4 318c 4916 5b6f bea7 6fe5 da48
+CONF 361 spr hole 42 aut 12 src 3 16 0 3 : 125a 23c4 318c 4916 5b7d e5f9 6fe5 da48
+CONF 362 spr hole 127 aut 2 src 7 42 0 1 : 125a 25d3 37be 5a37 6d89 ab64 c1f6 4e1c
+CONF 363 spr hole 176 aut 3 src 9 38 2 2 : 125a 25d3 37be 5a37 6d89 ab64 d8cb 4e1c
+CONF 364 spr hole 188 aut 2 src 8 49 3 2 : 125a 25d3 37be 5a37 6d89 ab64 f648 4e1c
+CONF 365 spr hole 181 aut 3 src 7 33 0 8 : 125a 25d3 37be 5a37 ab64 c1f6 d8cb 4e1c
+CONF 366 spr hole 131 aut 1 src 13 81 0 2 : 125a 25d3 37be 5a37 ab64 c1f6 f648 4e1c
+CONF 367 spr hole 176 aut 3 src 10 39 2 2 : 125a 25d3 37be 5a37 ab64 d8cb f648 4e1c
+CONF 368 spr hole 22 aut 3 src 7 36 0 4 : 125a 25d3 37be 5fe2 6d89 ab64 d8cb 4a38
+CONF 369 spr hole 152 aut 3 src 9 41 3 4 : 125a 25d3 37be 5fe2 ab64 b39f d8cb 4a38
+CONF 370 spr hole 67 aut 6 src 4 24 0 2 : 125a 25d3 37be 6d89 ab64 c1f6 d8cb 4a38
+CONF 371 spr hole 246 aut 12 src 2 13 0 15 : 125a 25d3 37be 6d89 ab64 c1f6 d8cb 4e1c
+CONF 372 spr hole 67 aut 3 src 7 33 0 4 : 125a 25d3 37be ab64 c1f6 d8cb f648 4e1c
+CONF 373 spr hole 95 aut 12 src 6 13 4 6 : 125a 25d3 37be ab64 d8cb 4af6 5d3f b18c
+CONF 374 spr hole 21 aut 6 src 4 19 0 1 : 125a 25d3 37be ab64 d8cb 4af6 5d3f 6f45
+CONF 375 spr hole 182 aut 4 src 4 16 0 3 : 125a 25d3 37be ab64 d8cb 4af6 6f45 f9a7
+CONF 376 spr hole 94 aut 6 src 3 20 0 3 : 125a 25d3 37be ab64 4af6 5d3f b18c 6f45
+CONF 377 spr hole 21 aut 3 src 7 25 0 2 : 125a 25d3 37be ab64 4af6 5d3f 6f45 f9a7
+CONF 378 spr hole 180 aut 4 src 4 27 0 1 : 125a 25d3 37be ab64 4af6 b18c 6f45 967d
+CONF 379 spr hole 76 aut 2 src 7 38 0 1 : 125a 25d3 37be ab64 4af6 b18c 967d f9a7
+CONF 380 spr hole 191 aut 12 src 3 11 2 4 : 125a 25d3 5a37 6d89 ab64 d8cb f648 4e1c
+CONF 381 spr hole 176 aut 3 src 10 47 2 2 : 125a 25d3 5a37 ab64 c1f6 d8cb f648 4e1c
+CONF 382 spr hole 95 aut 12 src 6 13 4 6 : 125a 25d3 ab64 d8cb ec7d 4af6 5d3f b18c
+CONF 383 spr hole 184 aut 3 src 9 28 4 6 : 125a 25d3 ab64 d8cb ec7d 4af6 5d3f 9fe5
+CONF 384 spr hole 95 aut 24 src 3 4 2 3 : 125a 25d3 ab64 d8cb 4af6 5d3f b18c 9fe5
+CONF 385 spr hole 129 aut 3 src 9 33 4 2 : 125a 25d3 ab64 ec7d 4af6 5d3f b18c 9fe5
+CONF 386 spr hole 21 aut 6 src 4 19 0 1 : 125a 2697 35fe c3e4 fa19 5d3f 6b72 4fc5
+CONF 387 spr hole 94 aut 6 src 3 20 0 3 : 125a 2697 35fe c3e4 5d3f 6b72 b18c 4fc5
+CONF 388 spr hole 180 aut 4 src 4 27 0 1 : 125a 2697 35fe c3e4 5d3f b18c 4fc5 7ea8
+CONF 389 spr hole 181 aut 6 src 3 15 0 4 : 125a 26f8 3ab7 69ab 71e5 ad86 dc63 937f
+CONF 390 spr hole 118 aut 1 src 16 77 0 1 : 125a 2816 75e8 ad84 3ef5 41c7 9f73 dc6f
+CONF 391 spr hole 75 aut 2 src 7 37 0 1 : 125a 2816 ad84 41f2 5e39 7fbd 96eb 37dc
+CONF 392 spr hole 68 aut 6 src 9 128 0 4 : 125a 29a7 3bfd 5a48 61b5 73ef 9c73 4d16
+CONF 393 spr hole 182 aut 6 src 9 128 0 2 : 125a 29a7 3bfd 5a48 61b5 73ef 9c73 df6c
+CONF 394 spr hole 67 aut 6 src 8 64 0 2 : 125a 29a7 3bfd 5a48 61b5 73ef 4d16 df6c
+CONF 395 spr hole 95 aut 18 src 6 46 4 4 : 125a 29a7 3bfd 5a48 61b5 9c73 a78e 4d16
+CONF 396 spr hole 184 aut 18 src 6 46 1 1 : 125a 29a7 3bfd 5a48 61b5 9c73 a78e df6c
+CONF 397 spr hole 184 aut 6 src 9 74 3 3 : 125a 29a7 3bfd 5a48 61b5 9c73 4d16 df6c
+CONF 398 spr hole 182 aut 6 src 8 74 0 2 : 125a 29a7 3bfd 5a48 61b5 9c73 4d16 fec9
+CONF 399 spr hole 133 aut 6 src 17 187 0 1 : 125a 29a7 3bfd 5a48 61b5 a78e b5d4 4d16
+CONF 400 spr hole 152 aut 6 src 9 120 3 2 : 125a 29a7 3bfd 5a48 61b5 a78e 4d16 df6c
+CONF 401 spr hole 22 aut 6 src 8 120 0 2 : 125a 29a7 3bfd 5a48 61b5 a78e 4d16 fec9
+CONF 402 spr hole 163 aut 6 src 6 110 0 1 : 125a 29a7 3bfd 5a48 61b5 b5d4 4d16 df6c
+CONF 403 spr hole 41 aut 6 src 6 110 0 1 : 125a 29a7 3bfd 5a48 61b5 b5d4 4d16 fec9
+CONF 404 spr hole 80 aut 3 src 17 226 0 2 : 125a 29a7 3bfd 5a48 61b5 4d16 df6c e892
+CONF 405 spr hole 68 aut 12 src 6 42 0 2 : 125a 29a7 3bfd 5a48 9c73 b5d4 4d16 df6c
+CONF 406 spr hole 95 aut 12 src 7 42 6 6 : 125a 29a7 3bfd 5a48 9c73 b5d4 4d16 fec9
+CONF 407 spr hole 133 aut 6 src 11 133 0 1 : 125a 29a7 3bfd 5a48 9c73 4d16 df6c e892
+CONF 408 spr hole 191 aut 24 src 6 39 5 2 : 125a 29a7 3bfd 5a48 a78e c63b 4d16 df6c
+CONF 409 spr hole 176 aut 6 src 18 146 8 1 : 125a 29a7 3bfd 5a48 a78e 4d16 df6c e892
+CONF 410 spr hole 167 aut 6 src 11 123 0 1 : 125a 29a7 3bfd 5a48 b5d4 4d16 df6c e892
+CONF 411 spr hole 67 aut 6 src 13 100 0 2 : 125a 29a7 3bfd 61b5 73ef 4d16 df6c e892
+CONF 412 spr hole 181 aut 12 src 8 45 0 2 : 125a 29a7 3bfd 61b5 9c73 4d16 df6c e892
+CONF 413 spr hole 117 aut 3 src 14 68 0 2 : 125a 29a7 3d4f 5398 967b a78e eaf6 cb3d
+CONF 414 spr hole 163 aut 3 src 12 72 0 2 : 125a 29a7 3d4f 5398 967b eaf6 cb3d fec9
+CONF 415 spr hole 70 aut 3 src 10 72 0 2 : 125a 29a7 3d4f 5398 967b eaf6 cb3d d862
+CONF 416 spr hole 136 aut 9 src 2 24 0 2 : 125a 29a7 3d4f 5398 967b eaf6 cb3d 4c13
+CONF 417 spr hole 127 aut 1 src 10 64 0 2 : 125a 29a7 3dcb 5a48 9be6 a78e bfdc 4e75
+CONF 418 spr hole 114 aut 3 src 14 68 0 2 : 125a 29a7 3dcb 7a63 9be6 bfdc fe42 c69d
+CONF 419 spr hole 70 aut 3 src 10 72 0 2 : 125a 29a7 3dcb 7a63 9be6 bfdc e738 53b9
+CONF 420 spr hole 163 aut 3 src 12 72 0 2 : 125a 29a7 3dcb 7a63 bfdc fe42 c69d e738
+CONF 421 spr hole 136 aut 9 src 2 24 0 2 : 125a 29a7 3dcb 7a63 bfdc fe42 c69d 4c7e
+CONF 422 spr hole 67 aut 12 src 5 30 0 1 : 125a 29a7 5a48 a78e bfdc dc63 36fb 4d16
+CONF 423 spr hole 181 aut 12 src 3 22 0 2 : 125a 29a7 5a48 a78e bfdc dc63 36fb 6eb9
+CONF 424 spr hole 246 aut 36 src 1 8 0 5 : 125a 29a7 5a48 a78e bfdc dc63 36fb 937f
+CONF 425 spr hole 117 aut 3 src 10 96 0 2 : 125a 29a7 5a48 a78e bfdc 36fb 4d16 6eb9
+CONF 426 spr hole 176 aut 3 src 15 92 4 2 : 125a 29a7 5a48 a78e bfdc 36fb 4d16 937f
+CONF 427 spr hole 41 aut 6 src 9 68 0 1 : 125a 29a7 5a48 a78e bfdc 36fb 4d16 cb3d
+CONF 428 spr hole 176 aut 3 src 13 108 4 2 : 125a 29a7 5a48 a78e bfdc 36fb 4d16 e892
+CONF 429 spr hole 80 aut 6 src 7 50 0 1 : 125a 29a7 5a48 a78e bfdc 36fb 6eb9 937f
+CONF 430 spr hole 80 aut 6 src 7 50 0 1 : 125a 29a7 5a48 a78e bfdc 36fb 937f cb3d
+CONF 431 spr hole 152 aut 3 src 16 84 12 4 : 125a 29a7 5a48 a78e bfdc 36fb cb3d e892
+CONF 432 spr hole 114 aut 3 src 10 96 0 2 : 125a 29a7 5a48 a78e bfdc 4d16 937f cb3d
+CONF 433 spr hole 193 aut 12 src 18 157 0 6 : 125a 29a7 5a48 ad86 36fb fec9 6fbc e39f
+CONF 434 spr hole 193 aut 12 src 18 157 0 6 : 125a 29a7 5a48 ad86 937f df6c 67be eb9d
+CONF 435 spr hole 42 aut 36 src 1 6 0 1 : 125a 29a7 5a48 bfdc 36fb 6eb9 cb3d e892
+CONF 436 spr hole 42 aut 36 src 1 6 0 1 : 125a 29a7 5a48 bfdc 4d16 6eb9 937f cb3d
+CONF 437 spr hole 136 aut 18 src 2 18 0 1 : 125a 29a7 5a48 dc63 36fb 4d16 6eb9 cb3d
+CONF 438 spr hole 136 aut 18 src 2 18 0 1 : 125a 29a7 5a48 dc63 6eb9 937f cb3d e892
+CONF 439 spr hole 192 aut 60 src 13 21 0 10 : 125a 29a7 61b5 9c73 c63b 4d16 df6c e892
+CONF 440 spr hole 246 aut 60 src 2 16 0 3 : 125a 29a7 61b5 9c73 c63b 4d16 fec9 37fe
+CONF 441 spr hole 246 aut 90 src 3 10 0 2 : 125b 239f 31d7 5ead a7f6 b57a 968c 6f48
+CONF 442 spr hole 95 aut 12 src 16 12 34 6 : 125b 239f 31d7 5f6d 6de9 968c a7c4 b548
+CONF 443 spr hole 95 aut 12 src 8 12 6 6 : 125b 239f 4d8a 6c73 7f1c db39 e9d2 fa67
+CONF 444 spr hole 184 aut 9 src 8 16 4 2 : 125b 239f 4d8a 6c73 7f1c db39 e9d2 31e5
+CONF 445 spr hole 95 aut 9 src 9 16 7 8 : 125b 239f 4d8a 6c73 db39 e9d2 fa67 31e5
+CONF 446 spr hole 192 aut 300 src 3 6 0 2 : 125b 239f 5ead 6fe5 7d69 f9c4 eb7a b5d7
+CONF 447 spr hole 95 aut 72 src 3 3 6 1 : 125b 239f 5f6d 6de9 7ea5 a7c4 b548 4c32
+CONF 448 spr hole 194 aut 120 src 4 4 4 36 : 125b 4f18 5c46 6ef3 7d9f ca72 d9ba f83e
+CONF 449 spr hole 190 aut 120 src 5 60 0 1 : 125b b59f da48 f9ad 23e5 6fd7 a7c4 ebf6
+CONF 450 spr hole 97 aut 30 src 16 240 0 1 : 125b b59f da48 f9ad 23e5 6fd7 a7c4 5e69
+CONF 451 spr hole 246 aut 180 src 2 40 0 1 : 125b b59f da48 f9ad 23e5 6fd7 31be 7d8c
+CONF 452 spr hole 192 aut 300 src 14 37 0 2 : 125b b59f da48 f9ad 23e5 a7c4 5e69 967a
+CONF 453 ext13 hole 38 aut 8 src 4 0 6 2 : 125a 239e 31d6 5a48 6be7 79af bdc4 e78c
+CONF 454 ext13 hole 71 aut 1 src 10 0 16 1 : 125a 239e 31d6 5a48 6be7 79af bdc4 c6f2
+CONF 455 ext13 hole 250 aut 1 src 12 0 32 1 : 125a 239e 31d6 5a48 6be7 79af bdc4 4c13
+CONF 456 ext13 hole 3 aut 1 src 2 0 8 1 : 125a 239e 31d6 5a48 6be7 79af c6f2 d51b
+CONF 457 ext13 hole 72 aut 4 src 8 0 12 2 : 125a 239e 31d6 5a48 6be7 bdc4 e78c c6f2
+CONF 458 ext13 hole 35 aut 2 src 1 0 4 1 : 125a 239e 31d6 5a48 9eaf af6b 4917 68b2
+CONF 459 ext13 hole 46 aut 1 src 4 0 8 1 : 125a 239e 31e7 4c72 6d89 9fc8 ae3f cba4
+CONF 460 ext13 hole 30 aut 1 src 4 0 8 1 : 125a 239e 31e7 4c72 6d89 9fc8 ae3f d813
+CONF 461 ext13 hole 48 aut 4 src 1 0 2 2 : 125a 239e 31e7 4c72 6d89 9fc8 cba4 d813
+CONF 462 ext13 hole 29 aut 4 src 1 0 2 1 : 125a 239e 31e7 4c72 6d89 ae3f cba4 d813
+CONF 463 ext13 hole 37 aut 1 src 11 0 24 1 : 125a 239e 31e7 4fac 6b79 ae3f bc46 c6f2
+CONF 464 ext13 hole 36 aut 1 src 11 0 24 1 : 125a 239e 31e7 4fac 6b79 ae3f bc46 d51b
+CONF 465 ext13 hole 73 aut 16 src 2 0 3 2 : 125a 239e 31e7 4fac 6b79 ae3f bc46 97c8
+CONF 466 ext13 hole 10 aut 2 src 1 0 4 1 : 125a 239e 31e7 4fac 6b79 ae3f c6f2 d51b
+CONF 467 ext13 hole 293 aut 2 src 1 0 4 1 : 125a 239e 31e7 4fac 6b79 bc46 c6f2 d51b
+CONF 468 ext13 hole 23 aut 2 src 2 0 4 1 : 125a 239e 31e7 4fac ae3f eb89 c6f2 d51b
+CONF 469 ext13 hole 252 aut 2 src 1 0 4 1 : 125a 239e 31e7 4fac bc46 eb89 c6f2 d51b
+CONF 470 ext13 hole 61 aut 4 src 2 0 3 2 : 125a 239e 31e7 5a48 6b8c 9eaf af6b bdc4
+CONF 471 ext13 hole 15 aut 1 src 7 0 12 1 : 125a 239e 31e7 5a48 6b8c 9eaf af6b 4c13
+CONF 472 ext13 hole 226 aut 4 src 2 0 3 2 : 125a 239e 31e7 5a48 6b8c 9eaf bdc4 d6f5
+CONF 473 ext13 hole 283 aut 6 src 2 0 3 1 : 125a 239e 31e7 5a48 6b8c 9eaf d6f5 e76b
+CONF 474 ext13 hole 54 aut 2 src 8 0 15 1 : 125a 239e 31e7 5a48 6b8c 9eaf d6f5 4c13
+CONF 475 ext13 hole 254 aut 1 src 9 0 18 1 : 125a 239e 31e7 5a48 6b8c 9eaf e76b 4c13
+CONF 476 ext13 hole 283 aut 6 src 2 0 3 1 : 125a 239e 31e7 5a48 6b8c af6b d6af f579
+CONF 477 ext13 hole 253 aut 1 src 9 0 18 1 : 125a 239e 31e7 5a48 6b8c af6b d6af 4c13
+CONF 478 ext13 hole 54 aut 2 src 8 0 15 1 : 125a 239e 31e7 5a48 6b8c af6b f579 4c13
+CONF 479 ext13 hole 18 aut 6 src 2 0 3 2 : 125a 239e 31e7 5a48 6bf5 79bd d6af e76b
+CONF 480 ext13 hole 301 aut 1 src 9 0 18 1 : 125a 239e 31e7 5a48 6bf5 79bd d6af 4c13
+CONF 481 ext13 hole 295 aut 1 src 7 0 12 1 : 125a 239e 31e7 5a48 6bf5 af6b d6af 4c13
+CONF 482 ext13 hole 18 aut 6 src 2 0 3 2 : 125a 239e 31e7 5abd 6b79 9eaf af6b d648
+CONF 483 ext13 hole 120 aut 2 src 6 0 9 8 : 125a 239e 31e7 5abd 6b79 9eaf af6b 4c13
+CONF 484 ext13 hole 40 aut 24 src 1 0 2 2 : 125a 239e 31e7 5abd 6b79 ae3f b5c6 d7fb
+CONF 485 ext13 hole 240 aut 6 src 1 0 4 2 : 125a 239e 31e7 5abd 6b79 ae3f 4f63 d8ab
+CONF 486 ext13 hole 196 aut 6 src 1 0 4 1 : 125a 239e 31e7 5abd 6b79 bc46 4f63 d8ab
+CONF 487 ext13 hole 44 aut 2 src 5 0 6 2 : 125a 239e 31e7 5abd 6bf5 af6b d6af 4c13
+CONF 488 ext13 hole 277 aut 2 src 6 0 9 1 : 125a 239e 31e7 5abd 9eaf af6b d648 4c13
+CONF 489 ext13 hole 47 aut 2 src 2 0 3 2 : 125a 239e 31e7 6b8c 9eaf af6b bdc4 d648
+CONF 490 ext13 hole 56 aut 2 src 6 0 9 1 : 125a 239e 31e7 6b8c 9eaf af6b bdc4 4c13
+CONF 491 ext13 hole 271 aut 1 src 5 0 6 1 : 125a 239e 31e7 6b8c 9eaf af6b d648 4c13
+CONF 492 ext13 hole 203 aut 6 src 1 0 1 2 : 125a 239e 3867 5abd 6b79 ae3f b5c6 d7fb
+CONF 493 ext13 hole 60 aut 3 src 6 0 14 2 : 125a 239e 3867 5abd 6b79 ae3f bc46 c6f2
+CONF 494 ext13 hole 60 aut 3 src 6 0 14 2 : 125a 239e 3867 5abd 6b79 ae3f bc46 d51b
+CONF 495 ext13 hole 276 aut 3 src 5 0 8 1 : 125a 239e 3867 5abd 6b79 ae3f e78c c6f2
+CONF 496 ext13 hole 238 aut 3 src 3 0 4 1 : 125a 239e 3867 5abd 6b79 ae3f c6f2 d51b
+CONF 497 ext13 hole 259 aut 3 src 2 0 6 1 : 125a 239e 3867 5abd 6b79 ae3f c6f2 4d83
+CONF 498 ext13 hole 27 aut 3 src 4 0 10 2 : 125a 239e 3867 5abd 6b79 ae3f c6f2 f9d5
+CONF 499 ext13 hole 27 aut 3 src 4 0 10 2 : 125a 239e 3867 5abd 6b79 ae3f d51b 7df4
+CONF 500 ext13 hole 259 aut 3 src 2 0 6 1 : 125a 239e 3867 5abd 6b79 ae3f d51b c9a2
+CONF 501 ext13 hole 237 aut 6 src 1 0 2 4 : 125a 239e 3867 5abd 6b79 bc46 c6f2 d51b
+CONF 502 ext13 hole 238 aut 3 src 3 0 4 1 : 125a 239e 3867 5abd 6b79 e78c c6f2 d51b
+CONF 503 ext13 hole 43 aut 2 src 7 0 12 1 : 125a 239e 3867 5abd ae3f bc46 e78c c6f2
+CONF 504 ext13 hole 233 aut 4 src 1 0 2 1 : 125a 239e 39d6 4c72 5a48 97fb bdc4 d813
+CONF 505 ext13 hole 25 aut 4 src 1 0 2 2 : 125a 239e 39d6 4c72 5a48 97fb bdc4 e56f
+CONF 506 ext13 hole 233 aut 4 src 1 0 2 1 : 125a 239e 39d6 4c72 5a48 97fb bdc4 f6a7
+CONF 507 ext13 hole 230 aut 1 src 4 0 8 1 : 125a 239e 39d6 4c72 97fb bdc4 d813 e56f
+CONF 508 ext13 hole 230 aut 1 src 4 0 8 1 : 125a 239e 39d6 4c72 97fb bdc4 d813 f6a7
+CONF 509 ext13 hole 265 aut 1 src 4 0 8 1 : 125a 239e 39d6 4c72 97fb d813 e56f f6a7
+CONF 510 ext13 hole 271 aut 1 src 4 0 8 1 : 125a 239e 39d6 4c72 bdc4 d813 e56f f6a7
+CONF 511 ext13 hole 1 aut 1 src 5 0 6 1 : 125a 239e 3a6d 5873 9c86 ad42 e63f 75e4
+CONF 512 ext13 hole 29 aut 4 src 1 0 2 1 : 125a 239e 4c72 5a48 97fb d813 e56f f6a7
+CONF 513 ext13 hole 11 aut 2 src 2 0 8 1 : 125a 239e 4cdb 5a48 6be7 9eaf af79 c8b6
+CONF 514 ext13 hole 12 aut 1 src 12 0 32 2 : 125a 239e 4cdb 5a48 6be7 9eaf af79 d6f5
+CONF 515 ext13 hole 255 aut 4 src 1 0 4 1 : 125a 239e 4cdb 5a48 6be7 9eaf c8b6 d6f5
+CONF 516 ext13 hole 242 aut 2 src 2 0 8 1 : 125a 239e 4cdb 5a48 6be7 af79 c8b6 d6f5
+CONF 517 ext13 hole 234 aut 4 src 1 0 4 2 : 125a 239e 4cdb 5a48 6be7 af79 c8b6 e78c
+CONF 518 ext13 hole 233 aut 4 src 1 0 4 1 : 125a 239e 4cdb 5a48 9eaf af79 c8b6 d6f5
+CONF 519 ext13 hole 233 aut 4 src 1 0 4 1 : 125a 239e 4fac 586f 69b7 9c86 aed8 e67d
+CONF 520 ext13 hole 257 aut 2 src 2 0 8 1 : 125a 239e 4fac 586f 69b7 9c86 cb49 e67d
+CONF 521 ext13 hole 300 aut 2 src 2 0 8 1 : 125a 239e 4fac 586f 69b7 9c86 d7fb e67d
+CONF 522 ext13 hole 255 aut 4 src 1 0 4 1 : 125a 239e 4fac 586f 69b7 aed8 cb49 e67d
+CONF 523 ext13 hole 234 aut 4 src 1 0 4 2 : 125a 239e 4fac 586f 69b7 aed8 d7fb e67d
+CONF 524 ext13 hole 77 aut 3 src 7 0 12 4 : 125a 239e 5873 9c86 ad42 d6af e76b 75e4
+CONF 525 ext13 hole 275 aut 6 src 2 0 3 1 : 125a 239e 5a48 9c73 bfdc d6af e76b 6eb9
+CONF 526 ext13 hole 275 aut 6 src 2 0 3 1 : 125a 239e 5a48 9c73 bfdc d6af e76b cb3d
+CONF 527 ext13 hole 201 aut 6 src 1 0 3 1 : 125a 239e 5a48 9c73 d6af e76b 4917 6eb9
+CONF 528 ext13 hole 201 aut 6 src 1 0 3 1 : 125a 239e 5a48 9c73 d6af e76b 68b2 cb3d
+CONF 529 ext13 hole 203 aut 6 src 1 0 2 2 : 125a 239e 5a48 bfdc d6af e76b 4917 68b2
+CONF 530 ext13 hole 276 aut 3 src 4 0 10 1 : 125a 239e 5a48 bfdc d6af e76b 4917 6eb9
+CONF 531 ext13 hole 276 aut 3 src 4 0 10 1 : 125a 239e 5a48 bfdc d6af e76b 68b2 cb3d
+CONF 532 ext13 hole 228 aut 6 src 2 0 4 2 : 125a 239e 5abd 6b79 ae3f bc46 4f63 d8ab
+CONF 533 ext13 hole 16 aut 6 src 2 0 6 2 : 125a 239e 5abd 6b79 ae3f bc46 c6f2 d51b
+CONF 534 ext13 hole 203 aut 12 src 1 0 4 1 : 125a 23af 31f5 4a18 5842 69b7 9d76 bcd3
+CONF 535 ext13 hole 237 aut 12 src 1 0 4 2 : 125a 23af 31f5 4a18 5842 69b7 9d76 c73e
+CONF 536 ext13 hole 16 aut 12 src 3 0 7 1 : 125a 23af 31f5 4a18 5842 69b7 9d76 e69b
+CONF 537 ext13 hole 196 aut 3 src 6 0 12 2 : 125a 23af 31f5 4a18 5842 967b 6eb9 7de6
+CONF 538 ext13 hole 60 aut 3 src 9 0 28 2 : 125a 23af 31f5 4a18 5842 6eb9 7ce3 cb3d
+CONF 539 ext13 hole 40 aut 12 src 3 0 8 4 : 125a 23af 31f5 4a18 5842 6eb9 7ce3 a584
+CONF 540 ext13 hole 40 aut 24 src 1 0 3 2 : 125a 23af 31f5 4a18 5842 6eb9 cb3d a584
+CONF 541 ext13 hole 195 aut 36 src 1 0 3 8 : 125a 23af 31f5 4a18 69b7 a78e c63b e594
+CONF 542 ext13 hole 213 aut 3 src 7 0 18 2 : 125a 23af 31f5 4a18 69b7 a78e c63b 9d76
+CONF 543 ext13 hole 207 aut 3 src 7 0 18 2 : 125a 23af 31f5 4a18 69b7 a78e e594 9d76
+CONF 544 ext13 hole 282 aut 3 src 4 0 6 1 : 125a 23af 31f5 4a18 69b7 a78e 9d76 bcd3
+CONF 545 ext13 hole 18 aut 6 src 2 0 3 2 : 125a 23af 31f5 4a18 69b7 e594 9d76 bcd3
+CONF 546 ext13 hole 238 aut 3 src 4 0 16 1 : 125a 23af 31f5 4a18 69b7 9d76 bcd3 c73e
+CONF 547 ext13 hole 200 aut 2 src 2 0 6 4 : 125a 23af 31f5 4a18 6b8c 9ebd af79 bdc4
+CONF 548 ext13 hole 16 aut 4 src 2 0 5 3 : 125a 23af 31f5 4a18 6b8c 9ebd bdc4 e7d6
+CONF 549 ext13 hole 198 aut 2 src 2 0 6 1 : 125a 23af 31f5 4a18 6b8c 9ebd bdc4 f59e
+CONF 550 ext13 hole 228 aut 6 src 4 0 6 2 : 125a 23af 31f5 4a18 967b a78e 6eb9 7de6
+CONF 551 ext13 hole 196 aut 6 src 2 0 6 1 : 125a 23af 31f5 4a18 967b bfdc 6eb9 7de6
+CONF 552 ext13 hole 240 aut 6 src 3 0 6 2 : 125a 23af 31f5 4a18 967b 6eb9 d967 eb9d
+CONF 553 ext13 hole 16 aut 6 src 3 0 5 2 : 125a 23af 31f5 4a18 a78e c63b 9d76 bcd3
+CONF 554 ext13 hole 201 aut 6 src 2 0 8 1 : 125a 23af 31f5 4a18 a78e e594 6eb9 bcd3
+CONF 555 ext13 hole 236 aut 6 src 2 0 3 1 : 125a 23af 31f5 4a18 a78e e594 6eb9 cb3d
+CONF 556 ext13 hole 201 aut 6 src 2 0 8 1 : 125a 23af 31f5 4a18 a78e e594 9d76 cb3d
+CONF 557 ext13 hole 196 aut 6 src 2 0 6 1 : 125a 23af 31f5 4a18 c63b 7ce3 9d76 6fbc
+CONF 558 ext13 hole 18 aut 6 src 4 0 3 2 : 125a 23af 31f5 4c97 6d13 967b a78e b5d4
+CONF 559 ext13 hole 282 aut 3 src 7 0 6 1 : 125a 23af 31f5 4c97 6d13 967b a78e e9b6
+CONF 560 ext13 hole 228 aut 3 src 4 0 6 4 : 125a 23af 31f5 4c97 6d13 967b e9b6 c832
+CONF 561 ext13 hole 196 aut 6 src 1 0 3 1 : 125a 23af 31f5 4c97 6d13 976d c87e a584
+CONF 562 ext13 hole 196 aut 6 src 1 0 3 1 : 125a 23af 31f5 4c97 6d13 976d db32 a584
+CONF 563 ext13 hole 237 aut 12 src 1 0 1 2 : 125a 23af 31f5 4c97 6d13 c87e db32 e984
+CONF 564 ext13 hole 16 aut 6 src 2 0 5 2 : 125a 23af 31f5 4c97 6d13 c87e db32 a584
+CONF 565 ext13 hole 135 aut 4 src 1 0 2 6 : 125a 23af 31f5 5abd 6b79 ad84 d6e7 f56b
+CONF 566 ext13 hole 203 aut 6 src 1 0 1 2 : 125a 23af 31f5 5abd 6b79 d648 4c13 c832
+CONF 567 ext13 hole 228 aut 3 src 4 0 3 4 : 125a 23af 31f5 967b a78e 6eb9 cb3d 5c62
+CONF 568 ext13 hole 287 aut 2 src 2 0 12 1 : 125a 23af 3867 4cf2 51c6 6b79 7d9b a5d4
+CONF 569 ext13 hole 284 aut 2 src 2 0 12 1 : 125a 23af 3867 4cf2 51c6 6b79 7d9b dfe5
+CONF 570 ext13 hole 278 aut 2 src 2 0 12 1 : 125a 23af 3867 4cf2 51c6 6b79 7d9b e78c
+CONF 571 ext13 hole 82 aut 4 src 2 0 6 1 : 125a 23af 3867 4cf2 51c6 7d9b a5d4 dfe5
+CONF 572 ext13 hole 261 aut 1 src 4 0 24 1 : 125a 23af 3867 4cf2 51c6 7d9b a5d4 e78c
+CONF 573 ext13 hole 281 aut 1 src 4 0 24 1 : 125a 23af 3867 4cf2 51c6 9e48 a5d4 f63d
+CONF 574 ext13 hole 279 aut 2 src 2 0 12 1 : 125a 23af 3867 4cf2 51c6 9e48 bd9e f63d
+CONF 575 ext13 hole 284 aut 2 src 2 0 12 1 : 125a 23af 3867 4cf2 51c6 9e48 dfe5 f63d
+CONF 576 ext13 hole 247 aut 2 src 2 0 12 1 : 125a 23af 3867 4cf2 51c6 a5d4 bd9e f63d
+CONF 577 ext13 hole 82 aut 4 src 2 0 6 1 : 125a 23af 3867 4cf2 51c6 a5d4 dfe5 f63d
+CONF 578 ext13 hole 199 aut 1 src 5 0 12 4 : 125a 23af 3867 4cf2 5abd 6b79 71e5 9e48
+CONF 579 ext13 hole 212 aut 1 src 5 0 12 2 : 125a 23af 3867 4cf2 5abd 6b79 71e5 d913
+CONF 580 ext13 hole 283 aut 6 src 2 0 12 1 : 125a 23af 3867 51c6 9e48 b594 c63b e78c
+CONF 581 ext13 hole 4 aut 2 src 6 0 36 1 : 125a 23af 3867 51c6 9e48 b594 c63b fde9
+CONF 582 ext13 hole 2 aut 4 src 3 0 18 1 : 125a 23af 3867 51c6 9e48 b594 c63b 4c7e
+CONF 583 ext13 hole 240 aut 6 src 1 0 2 2 : 125a 23af 3867 5abd 6b79 79c4 afd6 bd9e
+CONF 584 ext13 hole 282 aut 3 src 2 0 3 1 : 125a 23af 396d 41f7 5842 967b db15 6eb9
+CONF 585 ext13 hole 301 aut 1 src 6 0 9 1 : 125a 23af 396d 41f7 5842 967b 6eb9 7ce3
+CONF 586 ext13 hole 1 aut 1 src 5 0 6 1 : 125a 23af 396d 41f7 5842 ad86 b5d4 c73e
+CONF 587 ext13 hole 238 aut 3 src 2 0 2 1 : 125a 23af 396d 41f7 5842 ad86 db15 c73e
+CONF 588 ext13 hole 259 aut 3 src 2 0 2 1 : 125a 23af 396d 41f7 5842 b5d4 db15 c73e
+CONF 589 ext13 hole 282 aut 3 src 2 0 3 1 : 125a 23af 396d 41f7 5842 db15 6eb9 7ce3
+CONF 590 ext13 hole 238 aut 3 src 2 0 2 1 : 125a 23af 396d 41f7 967b bfdc db15 6eb9
+CONF 591 ext13 hole 18 aut 3 src 4 0 3 4 : 125a 23af 396d 41f7 967b db15 6eb9 7ce3
+CONF 592 ext13 hole 203 aut 6 src 1 0 1 2 : 125a 23af 396d 41f7 967b db15 6eb9 5c43
+CONF 593 ext13 hole 232 aut 1 src 6 0 9 2 : 125a 23af 396d 41f7 ad86 bfdc c73e 5c43
+CONF 594 ext13 hole 282 aut 3 src 4 0 3 1 : 125a 23af 396d 41f7 ad86 db15 c73e 5c43
+CONF 595 ext13 hole 282 aut 3 src 4 0 3 1 : 125a 23af 396d 41f7 ad86 68b2 c73e 5c43
+CONF 596 ext13 hole 259 aut 3 src 2 0 2 1 : 125a 23af 396d 41f7 bfdc db15 e594 6eb9
+CONF 597 ext13 hole 282 aut 3 src 2 0 3 1 : 125a 23af 396d 41f7 bfdc db15 68b2 c73e
+CONF 598 ext13 hole 77 aut 3 src 6 0 8 4 : 125a 23af 396d 41f7 ce39 db15 6d84 97b6
+CONF 599 ext13 hole 18 aut 2 src 3 0 6 6 : 125a 23af 396d 41f7 ce39 db15 6d84 5c43
+CONF 600 ext13 hole 213 aut 3 src 6 0 8 2 : 125a 23af 396d 41f7 ce39 6d84 97b6 a57e
+CONF 601 ext13 hole 301 aut 1 src 6 0 12 1 : 125a 23af 396d 41f7 ce39 6d84 97b6 5c43
+CONF 602 ext13 hole 282 aut 3 src 2 0 4 1 : 125a 23af 396d 41f7 ce39 97b6 a57e 5c43
+CONF 603 ext13 hole 227 aut 2 src 3 0 6 4 : 125a 23af 396d 41f7 6d84 97b6 a57e 5c43
+CONF 604 ext13 hole 40 aut 6 src 4 0 10 8 : 125a 23af 396d 4cdb 71c2 c8b6 6d84 a57e
+CONF 605 ext13 hole 198 aut 2 src 4 0 18 1 : 125a 23af 396d 5842 71b3 967b ad86 b5d4
+CONF 606 ext13 hole 277 aut 2 src 11 0 18 1 : 125a 23af 396d 5842 71b3 967b ad86 ce39
+CONF 607 ext13 hole 16 aut 4 src 3 0 11 3 : 125a 23af 396d 5842 71b3 967b b5d4 ce39
+CONF 608 ext13 hole 200 aut 4 src 2 0 9 2 : 125a 23af 396d 5842 71b3 ad86 b5d4 ce39
+CONF 609 ext13 hole 166 aut 72 src 1 0 1 4 : 125a 23af 396d 71b3 967b ad86 ce39 f7ce
+CONF 610 ext13 hole 228 aut 6 src 2 0 2 2 : 125a 23af 396d ad86 bfdc fa17 68b2 5c43
+CONF 611 ext13 hole 196 aut 6 src 1 0 2 1 : 125a 23af 396d ad86 e594 fa17 68b2 5c43
+CONF 612 ext13 hole 275 aut 3 src 4 0 2 2 : 125a 23af 39d6 4a18 9cf7 bd73 6eb9 cb3d
+CONF 613 ext13 hole 24 aut 1 src 5 0 6 1 : 125a 23af 39d6 4a18 9cf7 e594 6eb9 cb3d
+CONF 614 ext13 hole 228 aut 3 src 4 0 3 4 : 125a 23af 39d6 5842 9cf7 bd73 6eb9 cb3d
+CONF 615 ext13 hole 16 aut 6 src 3 0 4 2 : 125a 23af 39d6 9cf7 a78e bd73 6eb9 cb3d
+CONF 616 ext13 hole 282 aut 3 src 4 0 6 1 : 125a 23af 39d6 9cf7 a78e bd73 6eb9 75e4
+CONF 617 ext13 hole 236 aut 6 src 2 0 3 1 : 125a 23af 39d6 9cf7 a78e bd73 6eb9 f1c5
+CONF 618 ext13 hole 238 aut 3 src 2 0 2 1 : 125a 23af 39d6 9cf7 bd73 e594 6eb9 cb3d
+CONF 619 ext13 hole 60 aut 3 src 6 0 10 2 : 125a 23af 3bfd 4192 6f15 a78e e8bc 9d76
+CONF 620 ext13 hole 275 aut 3 src 6 0 2 2 : 125a 23af 3bfd 4192 6f15 ce39 e8bc 7ce3
+CONF 621 ext13 hole 275 aut 3 src 6 0 2 2 : 125a 23af 3bfd 4192 6f15 ce39 e8bc bcd3
+CONF 622 ext13 hole 275 aut 6 src 3 0 3 1 : 125a 23af 3bfd 4192 6f15 e8bc 7ce3 9d76
+CONF 623 ext13 hole 275 aut 3 src 4 0 2 2 : 125a 23af 3bfd 4192 6f15 e8bc 7ce3 d967
+CONF 624 ext13 hole 27 aut 3 src 4 0 6 2 : 125a 23af 3bfd 4192 6f15 e8bc 9d76 bcd3
+CONF 625 ext13 hole 275 aut 6 src 3 0 3 1 : 125a 23af 3bfd 4192 6f15 e8bc bcd3 d967
+CONF 626 ext13 hole 203 aut 3 src 2 0 2 4 : 125a 23af 3bfd 497b 96c8 fa17 e892 5c43
+CONF 627 ext13 hole 59 aut 18 src 3 0 4 2 : 125a 23af 3bfd 4a18 61b5 967b ce39 7ce3
+CONF 628 ext13 hole 236 aut 6 src 4 0 3 1 : 125a 23af 3bfd 4a18 61b5 967b 7ce3 d967
+CONF 629 ext13 hole 203 aut 6 src 1 0 2 2 : 125a 23af 3bfd 4a18 61b5 c63b 7ce3 d967
+CONF 630 ext13 hole 59 aut 6 src 4 0 12 6 : 125a 23af 3bfd 4a18 69b7 71e5 9d76 bcd3
+CONF 631 ext13 hole 77 aut 6 src 5 0 9 2 : 125a 23af 3bfd 4a18 69b7 a78e 9d76 bcd3
+CONF 632 ext13 hole 195 aut 12 src 2 0 9 24 : 125a 23af 3bfd 4a18 69b7 e594 9d76 bcd3
+CONF 633 ext13 hole 213 aut 3 src 8 0 18 2 : 125a 23af 3bfd 4a18 71e5 ce39 9d76 bcd3
+CONF 634 ext13 hole 134 aut 6 src 4 0 3 4 : 125a 23af 3bfd 4a18 967b ce39 7ce3 d967
+CONF 635 ext13 hole 236 aut 6 src 5 0 6 1 : 125a 23af 3bfd 4a18 a78e c63b 9d76 bcd3
+CONF 636 ext13 hole 207 aut 6 src 6 0 9 1 : 125a 23af 3bfd 4a18 a78e e594 9d76 bcd3
+CONF 637 ext13 hole 207 aut 6 src 5 0 9 1 : 125a 23af 3bfd 5842 61b5 967b 7ce3 d967
+CONF 638 ext13 hole 275 aut 3 src 6 0 4 2 : 125a 23af 3bfd 61b5 b5d4 c63b 4d16 7ce3
+CONF 639 ext13 hole 238 aut 3 src 2 0 4 1 : 125a 23af 3bfd 61b5 b5d4 c63b 4d16 d967
+CONF 640 ext13 hole 16 aut 12 src 2 0 7 1 : 125a 23af 3bfd 61b5 b5d4 ce39 4d16 7ce3
+CONF 641 ext13 hole 135 aut 12 src 1 0 4 2 : 125a 23af 3bfd 61b5 b5d4 ce39 4d16 d967
+CONF 642 ext13 hole 16 aut 12 src 3 0 7 1 : 125a 23af 3bfd 61b5 b5d4 ce39 4d16 e892
+CONF 643 ext13 hole 276 aut 3 src 7 0 20 1 : 125a 23af 3bfd 61b5 b5d4 4d16 7ce3 d967
+CONF 644 ext13 hole 27 aut 3 src 7 0 20 2 : 125a 23af 3bfd 61b5 b5d4 4d16 7ce3 e892
+CONF 645 ext13 hole 275 aut 6 src 5 0 2 1 : 125a 23af 3bfd 61b5 c63b 4d16 7ce3 d967
+CONF 646 ext13 hole 259 aut 3 src 2 0 4 1 : 125a 23af 3bfd 61b5 c63b 4d16 7ce3 e892
+CONF 647 ext13 hole 259 aut 3 src 2 0 4 1 : 125a 23af 3bfd 61b5 c63b 4d16 d967 e892
+CONF 648 ext13 hole 275 aut 6 src 5 0 2 1 : 125a 23af 3bfd 61b5 c63b 7ce3 d967 e892
+CONF 649 ext13 hole 166 aut 36 src 2 0 2 8 : 125a 23af 3bfd 69b7 a78e c63b 4d16 e892
+CONF 650 ext13 hole 276 aut 3 src 10 0 8 1 : 125a 23af 3bfd 71e5 9c73 4917 68b2 5e49
+CONF 651 ext13 hole 238 aut 3 src 2 0 2 1 : 125a 23af 3bfd 79c4 d6e7 f56b 4d16 e892
+CONF 652 ext13 hole 201 aut 6 src 1 0 2 1 : 125a 23af 3bfd b5d4 c63b 4d16 7ce3 e892
+CONF 653 ext13 hole 201 aut 6 src 1 0 2 1 : 125a 23af 3bfd b5d4 c63b 4d16 d967 e892
+CONF 654 ext13 hole 135 aut 3 src 2 0 2 8 : 125a 23af 3bfd bdc4 e7d6 f59e 4917 68b2
+CONF 655 ext13 hole 276 aut 3 src 4 0 6 1 : 125a 23af 4192 6f15 a78e e8bc 9d76 bcd3
+CONF 656 ext13 hole 77 aut 3 src 6 0 9 4 : 125a 23af 497b 96c8 ad86 fa17 68b2 c73e
+CONF 657 ext13 hole 213 aut 3 src 6 0 9 2 : 125a 23af 497b 96c8 ad86 fa17 c73e 5c43
+CONF 658 ext13 hole 207 aut 3 src 6 0 9 2 : 125a 23af 497b 96c8 ad86 68b2 c73e 5c43
+CONF 659 ext13 hole 227 aut 2 src 3 0 12 4 : 125a 23af 5abd 6b79 9e48 afd6 4c13 75e4
+CONF 660 ext13 hole 240 aut 6 src 1 0 4 2 : 125a 23af 5abd 6b79 afd6 bd9e 4c13 75e4
+CONF 661 ext13 hole 198 aut 2 src 3 0 12 1 : 125a 23af 5abd 6b79 afd6 e78c 4c13 75e4
+CONF 662 ext13 hole 16 aut 12 src 2 0 5 1 : 125a 23af 61b5 b5d4 c63b f7ce 4d16 7ce3
+CONF 663 ext13 hole 203 aut 12 src 1 0 2 1 : 125a 23af 61b5 b5d4 c63b f7ce 4d16 d967
+CONF 664 ext13 hole 237 aut 12 src 1 0 2 2 : 125a 23af 61b5 b5d4 c63b f7ce 4d16 e892
+CONF 665 ext13 hole 27 aut 3 src 5 0 12 2 : 125a 23af 61b5 b5d4 c63b 4d16 7ce3 d967
+CONF 666 ext13 hole 276 aut 3 src 5 0 12 1 : 125a 23af 61b5 b5d4 c63b 4d16 7ce3 e892
+CONF 667 ext13 hole 60 aut 3 src 13 0 20 2 : 125a 23af 61b5 c63b f7ce 4d16 7ce3 d967
+CONF 668 ext13 hole 228 aut 6 src 4 0 6 2 : 125a 23af 71e5 c63b e594 4917 bcd3 d862
+CONF 669 ext13 hole 276 aut 3 src 8 0 24 1 : 125a 23af b5d4 c63b f7ce 4d16 7ce3 d967
+CONF 670 ext13 hole 236 aut 6 src 5 0 6 1 : 125a 23af b5d4 c63b f7ce 4d16 d967 5e49
+CONF 671 ext13 hole 282 aut 3 src 8 0 12 1 : 125a 23af c63b e594 f7ce 4917 bcd3 3df6
+CONF 672 ext13 hole 195 aut 36 src 1 0 2 8 : 125a 23c4 5ae7 6b79 9e48 d6f5 4c13 c832
+CONF 673 ext13 hole 207 aut 3 src 6 0 12 2 : 125a 25d3 37be ab64 d8cb 4af6 5d3f 9fe5
+CONF 674 ext13 hole 213 aut 3 src 6 0 12 2 : 125a 25d3 37be ab64 4af6 5d3f b18c 9fe5
+CONF 675 ext13 hole 213 aut 3 src 6 0 12 2 : 125a 26f8 3ab7 69ab 71e5 b5d4 937f 4c13
+CONF 676 ext13 hole 18 aut 3 src 2 0 3 4 : 125a 26f8 3ab7 69ab 71e5 dc63 937f cb3d
+CONF 677 ext13 hole 276 aut 3 src 5 0 6 1 : 125a 2816 4dc7 73ef b5d4 f9a2 c73e e69b
+CONF 678 ext13 hole 201 aut 6 src 1 0 2 1 : 125a 2816 4dc7 73ef b5d4 f9a2 c73e da68
+CONF 679 ext13 hole 201 aut 6 src 1 0 2 1 : 125a 2816 4dc7 73ef b5d4 f9a2 e69b 5e49
+CONF 680 ext13 hole 196 aut 3 src 2 0 8 2 : 125a 29a7 3bfd 57e8 7a63 c63b dc4e 9d76
+CONF 681 ext13 hole 196 aut 6 src 1 0 4 1 : 125a 29a7 3bfd 57e8 7a63 c63b dc4e e892
+CONF 682 ext13 hole 34 aut 12 src 8 0 10 2 : 125a 29a7 3bfd 5a48 a78e c63b 4d16 bcd3
+CONF 683 ext13 hole 40 aut 24 src 3 0 5 2 : 125a 29a7 3bfd 5a48 a78e c63b 9d76 bcd3
+CONF 684 ext13 hole 262 aut 12 src 5 0 4 2 : 125a 29a7 3bfd 5a48 a78e 4d16 bcd3 75e4
+CONF 685 ext13 hole 34 aut 12 src 7 0 6 2 : 125a 29a7 3bfd 5a48 a78e 9d76 fec9 75e4
+CONF 686 ext13 hole 207 aut 3 src 6 0 12 2 : 125a 29a7 57e8 7a63 bfdc dc4e 4d3b c69d
+CONF 687 ext13 hole 18 aut 6 src 2 0 3 2 : 125a 29a7 57e8 7a63 bfdc dc4e 4d3b f1c5
+CONF 688 ext13 hole 59 aut 9 src 5 0 5 4 : 125a 29a7 5a48 a78e bfdc 35c2 cef4 f839
+CONF 689 ext13 hole 207 aut 3 src 6 0 9 2 : 125b 239f 31d7 4976 6fe5 7d69 96be acf2
+CONF 690 ext13 hole 18 aut 6 src 2 0 3 2 : 125b 239f 31d7 4976 6fe5 7d69 96be c813
+CONF 691 ext13 hole 207 aut 3 src 6 0 9 2 : 125b 239f 31d7 4976 6fe5 7d69 acf2 f73a
+CONF 692 ext13 hole 59 aut 3 src 10 0 15 12 : 125b 239f 31d7 4976 6fe5 96be acf2 f73a
+CONF 693 ext13 hole 77 aut 4 src 6 0 9 3 : 125b 239f 31d7 4976 6fe5 96be acf2 c813
+CONF 694 ext13 hole 195 aut 6 src 7 0 15 48 : 125b 239f 31d7 4976 96be acf2 f73a c813
+CONF 695 ext13 hole 18 aut 6 src 2 0 3 2 : 125b 239f 31d7 4d8a 6c73 7f1c 96be a7f6
+CONF 696 ext13 hole 17 aut 2 src 6 0 9 2 : 125b 239f 31d7 4d8a 6c73 96be a7f6 b548
+CONF 697 ext13 hole 77 aut 3 src 8 0 18 4 : 125b 239f 31d7 5a4d 6fe5 9ea6 d6f8 a7c4
+CONF 698 ext13 hole 18 aut 6 src 3 0 6 2 : 125b 239f 31d7 5a4d 6fe5 9ea6 d6f8 4c13
+CONF 699 ext13 hole 59 aut 9 src 4 0 7 4 : 125b 239f 31d7 5a4d 9ea6 d6f8 a7c4 7d8c
+CONF 700 ext13 hole 195 aut 12 src 4 0 6 24 : 125b 239f 31d7 5ead 6fe5 7d69 974c 4c13
+CONF 701 ext13 hole 59 aut 18 src 5 0 24 2 : 125b 239f 31d7 5f6d 6de9 7ea5 968c a7c4
+CONF 702 ext13 hole 77 aut 12 src 2 0 3 1 : 125b 239f 386c 5187 6fe5 ced9 f9c4 4c32
+CONF 703 ext13 hole 195 aut 18 src 2 0 3 16 : 125b 239f 3ec8 5784 6fe5 7d69 a14c 4c13
+CONF 704 ext13 hole 207 aut 3 src 8 0 16 2 : 125b 239f 4d8a 6c73 7f1c db39 e9d2 c8be
+CONF 705 ext13 hole 59 aut 3 src 10 0 22 12 : 125b 239f 4d8a 6c73 db39 e9d2 fa67 c8be
+CONF 706 ext13 hole 195 aut 18 src 5 0 25 16 : 125b 239f 5a4d 6fe5 9ea6 d6f8 a7c4 7d8c
+CONF 707 ext12 hole 288 aut 2 src 1 0 0 1 : 125a 239e 31e7 4fac ae3f bdc4 eb89 c6f2
+CONF 708 ext12 hole 290 aut 2 src 1 0 0 1 : 125a 239e 31e7 4fac ae3f bdc4 eb89 d51b
+CONF 709 ext12 hole 299 aut 1 src 2 0 0 1 : 125a 239e 31e7 4fac bdc4 eb89 c6f2 d51b
+CONF 710 ext12 hole 225 aut 2 src 3 0 0 1 : 125a 239e 31e7 5a48 6b8c d6af e76b 4c13
+CONF 711 ext12 hole 9 aut 1 src 2 0 0 1 : 125a 239e 36e2 6b79 9eaf e78c f56b a8d4
+CONF 712 ext12 hole 28 aut 2 src 1 0 0 1 : 125a 239e 36e2 6b79 9eaf e78c f56b 4c13
+CONF 713 ext12 hole 248 aut 4 src 2 0 0 1 : 125a 239e 36e2 7af9 9eaf bdc4 e78c f56b
+CONF 714 ext12 hole 225 aut 2 src 3 0 0 1 : 125a 239e 3867 5abd 6b79 7ea2 ad84 b5c6
+CONF 715 ext12 hole 229 aut 3 src 2 0 0 2 : 125a 239e 3867 5abd 6b79 7ea2 ad84 c94f
+CONF 716 ext12 hole 264 aut 2 src 3 0 0 1 : 125a 239e 3867 5abd 7ea2 ad84 b5c6 c94f
+CONF 717 ext12 hole 33 aut 1 src 2 0 0 1 : 125a 239e 3867 6bf5 79bd bdc4 9c1f ae72
+CONF 718 ext12 hole 214 aut 2 src 4 0 0 1 : 125a 239e 396d 5cd7 6b8c 9eaf af79 eaf6
+CONF 719 ext12 hole 249 aut 2 src 4 0 0 1 : 125a 239e 396d 5cd7 6b8c 9eaf d648 eaf6
+CONF 720 ext12 hole 298 aut 4 src 2 0 0 1 : 125a 239e 3a6d 4fc9 5d32 69b7 9c86 f8db
+CONF 721 ext12 hole 211 aut 4 src 3 0 0 1 : 125a 239e 3a6d 5873 9c86 aed8 e63f 75e4
+CONF 722 ext12 hole 211 aut 4 src 3 0 0 1 : 125a 239e 3a6d 5873 9f1c ad42 e63f 75e4
+CONF 723 ext12 hole 231 aut 2 src 4 0 0 1 : 125a 239e 3ae5 6b8c 7d1f 9ebd af6b f972
+CONF 724 ext12 hole 291 aut 2 src 4 0 0 1 : 125a 239e 3ae5 6b8c 7d1f 9ebd d648 f972
+CONF 725 ext12 hole 270 aut 4 src 2 0 0 1 : 125a 239e 4ba7 5873 9c86 aed8 c7f9 e63f
+CONF 726 ext12 hole 32 aut 1 src 2 0 0 1 : 125a 239e 4c36 9ebd d6e7 e76b 35c2 fd19
+CONF 727 ext12 hole 210 aut 4 src 2 0 0 1 : 125a 239e 5873 69ab 9f1c ad42 d7b9 e63f
+CONF 728 ext12 hole 197 aut 6 src 1 0 0 2 : 125a 23af 31f5 4a18 6b8c 9ebd af79 c73e
+CONF 729 ext12 hole 197 aut 6 src 1 0 0 2 : 125a 23af 31f5 4a18 6b8c 9ebd af79 e69b
+CONF 730 ext12 hole 264 aut 2 src 3 0 0 1 : 125a 23af 31f5 4a18 6b8c 9ebd c73e e69b
+CONF 731 ext12 hole 229 aut 3 src 4 0 0 2 : 125a 23af 31f5 4a18 967b a78e 6eb9 eb9d
+CONF 732 ext12 hole 197 aut 12 src 1 0 0 1 : 125a 23af 31f5 4c97 5abd afd6 b6e9 f56b
+CONF 733 ext12 hole 264 aut 2 src 6 0 0 1 : 125a 23af 31f5 4c97 5abd afd6 b6e9 c832
+CONF 734 ext12 hole 229 aut 6 src 2 0 0 1 : 125a 23af 31f5 4c97 5abd afd6 c87e f56b
+CONF 735 ext12 hole 197 aut 12 src 1 0 0 1 : 125a 23af 31f5 4c97 6b8c 7e13 bdc4 d648
+CONF 736 ext12 hole 229 aut 3 src 2 0 0 2 : 125a 23af 31f5 5abd 6b79 9e48 7ce3 d967
+CONF 737 ext12 hole 302 aut 1 src 4 0 0 1 : 125a 23af 3867 4cf2 51c6 7d9b a5d4 f63d
+CONF 738 ext12 hole 289 aut 2 src 2 0 0 2 : 125a 23af 3867 4cf2 51c6 7d9b dfe5 f63d
+CONF 739 ext12 hole 229 aut 6 src 1 0 0 1 : 125a 23af 3867 4cf2 bdc4 d913 e7d6 f59e
+CONF 740 ext12 hole 229 aut 6 src 2 0 0 1 : 125a 23af 3bfd 497b 96c8 fa17 7ce3 e892
+CONF 741 ext12 hole 229 aut 6 src 2 0 0 1 : 125a 23af 3bfd 4d6e af16 d78c 68b2 bcd3
+CONF 742 ext12 hole 197 aut 12 src 2 0 0 1 : 125a 23af 3bfd 71e5 c63b 4917 9d76 da68
+CONF 743 ext12 hole 197 aut 12 src 2 0 0 1 : 125a 23af 3bfd 71e5 c63b 68b2 bcd3 5e49
+CONF 744 ext12 hole 197 aut 12 src 1 0 0 1 : 125a 23af 3bfd 79c4 d6e7 f56b 4d16 bcd3
+CONF 745 ext12 hole 197 aut 12 src 1 0 0 1 : 125a 23af 3bfd 79c4 d6e7 f56b 9d76 e892
+CONF 746 ext12 hole 229 aut 6 src 1 0 0 1 : 125a 23af 5abd 6b79 9e48 c63b 7ce3 d967
+CONF 747 ext12 hole 14 aut 1 src 4 0 0 1 : 125a 25ac 3b14 586f 69b7 7382 bae6 ce73
+CONF 748 ext12 hole 197 aut 6 src 2 0 0 2 : 125a 25d3 98c7 c3e4 d648 fa19 378e ec9d
+CONF 749 ext12 hole 229 aut 3 src 2 0 0 2 : 125a 29a7 3bfd 57e8 7a63 bfdc dc4e e892
+CONF 750 max hole 280 aut 6 src 0 0 0 1 : 125a 239e 31d6 5a48 6be7 9eaf af79 d982
+CONF 751 max hole 280 aut 6 src 0 0 0 1 : 125a 239e 31d6 5a48 6bf5 d6e7 f579 e81c
+CONF 752 max hole 31 aut 2 src 0 0 0 1 : 125a 239e 31e7 497b 5ab3 7e62 b5c6 d84f
+CONF 753 max hole 216 aut 2 src 0 0 0 1 : 125a 239e 31e7 4c72 5a48 6b8c af6b bdc4
+CONF 754 max hole 74 aut 8 src 0 0 0 2 : 125a 239e 31e7 4c72 5a48 6b8c bdc4 d813
+CONF 755 max hole 85 aut 4 src 0 0 0 2 : 125a 239e 31e7 4c72 5a48 6d89 cba4 d813
+CONF 756 max hole 294 aut 2 src 0 0 0 1 : 125a 239e 31e7 4c72 6b8c 7d19 ae3f d6f5
+CONF 757 max hole 256 aut 2 src 0 0 0 1 : 125a 239e 31e7 4c72 6b8c ae3f bdc4 d6f5
+CONF 758 max hole 296 aut 4 src 0 0 0 1 : 125a 239e 31e7 4c72 6b8c ae3f bdc4 d813
+CONF 759 max hole 206 aut 2 src 0 0 0 2 : 125a 239e 31e7 4cdb 5a48 9eaf c8b6 d6f5
+CONF 760 max hole 267 aut 4 src 0 0 0 2 : 125a 239e 31e7 4e7c 5d32 c8d3 d648 fa19
+CONF 761 max hole 258 aut 2 src 0 0 0 1 : 125a 239e 31e7 4e7c acfd bf35 d648 fa19
+CONF 762 max hole 83 aut 4 src 0 0 0 2 : 125a 239e 31e7 4fac 5d32 6b79 bc46 e76b
+CONF 763 max hole 98 aut 36 src 0 0 0 20 : 125a 239e 31e7 5abd 6bf5 bc46 c8d3 d6af
+CONF 764 max hole 204 aut 2 src 0 0 0 1 : 125a 239e 31e7 5abd 9eaf af6b c8d3 d648
+CONF 765 max hole 84 aut 2 src 0 0 0 1 : 125a 239e 31e7 5abd 9eaf d648 7d86 b5d9
+CONF 766 max hole 266 aut 2 src 0 0 0 1 : 125a 239e 31e7 5d32 9eaf af6b c8d3 d648
+CONF 767 max hole 285 aut 2 src 0 0 0 1 : 125a 239e 35c7 5b7d 9eaf c8b6 df18 f6e2
+CONF 768 max hole 235 aut 2 src 0 0 0 1 : 125a 239e 36e2 6b79 9eaf df18 e78c f56b
+CONF 769 max hole 26 aut 8 src 0 0 0 1 : 125a 239e 36e2 6bf5 bdc4 df18 e78c f579
+CONF 770 max hole 244 aut 2 src 0 0 0 1 : 125a 239e 36e2 7af9 bdc4 ced8 e78c d51b
+CONF 771 max hole 0 aut 4 src 0 0 0 1 : 125a 239e 36e2 9eaf bdc4 df18 e78c f56b
+CONF 772 max hole 19 aut 8 src 0 0 0 1 : 125a 239e 396d 4c72 5ea8 bdc4 c81f eb89
+CONF 773 max hole 5 aut 4 src 0 0 0 1 : 125a 239e 396d 4cdb 9eaf af79 c8b6 b64c
+CONF 774 max hole 19 aut 8 src 0 0 0 1 : 125a 239e 396d 6b8c 9eaf af79 bdc4 d648
+CONF 775 max hole 286 aut 8 src 0 0 0 1 : 125a 239e 3a6d 4c36 5ea8 69b7 a74c f8db
+CONF 776 max hole 39 aut 4 src 0 0 0 1 : 125a 239e 3a6d 4fc9 5d32 69b7 9c86 dba8
+CONF 777 max hole 251 aut 2 src 0 0 0 1 : 125a 239e 4186 6bf5 9ebd bdc4 f6a7 ea18
+CONF 778 max hole 239 aut 2 src 0 0 0 1 : 125a 239e 4186 7ea2 a5b7 caf4 e67d 97c8
+CONF 779 max hole 241 aut 2 src 0 0 0 1 : 125a 239e 4186 9ebd b9d5 db32 f6a7 687c
+CONF 780 max hole 217 aut 6 src 0 0 0 1 : 125a 239e 4c36 ad84 bfdc c94f d6e7 35c2
+CONF 781 max hole 7 aut 2 src 0 0 0 1 : 125a 239e 4c36 bfdc d6e7 e76b 35c2 fd19
+CONF 782 max hole 272 aut 1 src 0 0 0 1 : 125a 239e 4cdb 6948 7ea2 b5c6 caf4 37b5
+CONF 783 max hole 274 aut 2 src 0 0 0 1 : 125a 239e 4dc7 5ea8 7942 f56b a8d4 c1e6
+CONF 784 max hole 292 aut 1 src 0 0 0 1 : 125a 239e 4e7c 6d13 b5d4 e7c8 f9a2 9b67
+CONF 785 max hole 273 aut 2 src 0 0 0 1 : 125a 239e 4fac 6bf5 7d19 e6d4 35c2 f138
+CONF 786 max hole 6 aut 4 src 0 0 0 1 : 125a 239e 4fac 6bf5 bc46 e6d4 cab3 d81f
+CONF 787 max hole 245 aut 2 src 0 0 0 1 : 125a 239e 5873 69ab 9f1c bec4 e63f 31d7
+CONF 788 max hole 219 aut 6 src 0 0 0 1 : 125a 239e 5d32 79bd 9fc8 bc46 fa19 a8d4
+CONF 789 max hole 215 aut 6 src 0 0 0 1 : 125a 23af 3867 4cf2 6b79 7d9b e78c f1c5
+CONF 790 max hole 202 aut 6 src 0 0 0 1 : 125a 23af 3867 4cf2 9e48 bd9e f63d 75e4
+CONF 791 max hole 297 aut 4 src 0 0 0 1 : 125a 23af 396d 4cdb 5ae7 af79 c8b6 b64c
+CONF 792 max hole 20 aut 4 src 0 0 0 2 : 125a 23af 396d 6ed7 71b3 967b ad86 c7f9
+CONF 793 max hole 13 aut 1 src 0 0 0 1 : 125a 23af 39d6 5a67 a78e bd73 41f2 cb3d
+CONF 794 max hole 8 aut 8 src 0 0 0 2 : 125a 23af 3bfd 497b 9d8e ce39 d64c e7c8
+CONF 795 max hole 8 aut 8 src 0 0 0 2 : 125a 23af 3bfd 4d6e 9748 b68c ce39 d9cb
+CONF 796 max hole 218 aut 9 src 0 0 0 1 : 125a 23af 3bfd 9c73 c63b 4917 e892 da68
+CONF 797 max hole 218 aut 9 src 0 0 0 1 : 125a 23af 3bfd 9c73 c63b 4d16 68b2 5e49
+CONF 798 max hole 98 aut 360 src 0 0 0 2 : 125a 23af 3bfd ce39 4917 7ce3 9d76 e892
+CONF 799 max hole 98 aut 360 src 0 0 0 2 : 125a 23af 3bfd ce39 4d16 68b2 bcd3 d967
+CONF 800 max hole 243 aut 4 src 0 0 0 2 : 125a 23af 3dcb 5ae7 9ebd b96e e584 41d3
+CONF 801 max hole 269 aut 4 src 0 0 0 2 : 125a 23af 3ec7 5abd 9be6 bd9e e584 41d3
+CONF 802 max hole 268 aut 2 src 0 0 0 1 : 125a 23af 4c97 bdc4 c87e f56b d6ec eb16
+CONF 803 max hole 224 aut 24 src 0 0 0 2 : 125a 23c4 3a86 9d67 b6e9 d54e ebf2 f938
+CONF 804 max hole 205 aut 4 src 0 0 0 1 : 125a 23c4 5ae7 6b79 976d ae3f d813 e9b6
+CONF 805 max hole 224 aut 24 src 0 0 0 2 : 125a 23c4 5ae7 6b79 9df3 b185 d54e f938
+CONF 806 max hole 224 aut 24 src 0 0 0 2 : 125a 23c4 61d8 9f1c b6e9 c73d d8ae eaf6
+CONF 807 max hole 263 aut 6 src 0 0 0 1 : 125a 25ac 3cd7 4192 5b6f 9fc8 c83e fe43
+CONF 808 max hole 208 aut 6 src 0 0 0 1 : 125a 25ac 3d4f a1c5 ced8 eb76 f93e 5862
+CONF 809 max hole 45 aut 4 src 0 0 0 2 : 125a 25ac 3dc9 5fb2 ae75 6943 dc6e 41d6
+CONF 810 max hole 209 aut 36 src 0 0 0 1 : 125a 25ac 69b7 a18d 4a19 5843 bedf d768
+CONF 811 max hole 209 aut 36 src 0 0 0 1 : 125a 25ac 69b7 a18d 97f4 ca98 d8c2 fe43
+CONF 812 max hole 260 aut 1 src 0 0 0 1 : 125a 25d3 368f 5a37 7ea2 931d ab64 687c
+CONF 813 max hole 220 aut 3 src 0 0 0 1 : 125a 25d3 396d 7aeb f648 68b2 9c7f e18c
+CONF 814 max hole 221 aut 6 src 0 0 0 2 : 125a 25d3 3a46 5398 96b7 a13e 49cb 687c
+CONF 815 max hole 222 aut 6 src 0 0 0 2 : 125a 25d3 3a46 96b7 a13e db15 49cb 687c
+CONF 816 max hole 223 aut 3 src 0 0 0 2 : 125a 25d3 3a46 96b7 a13e 49cb 687c dc6f
+HOLE 0 aut 4 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 3:4 4:6 5:2 6:8 7:8 8:40 9:6 10:8 11:4 13:4 pout 8:4 12:12 16:28 20:34 24:44 28:29 32:1 36:10 44:3
+HOLE 1 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 4:2 5:7 6:21 7:23 8:5 9:11 10:8 11:9 12:1 13:2 14:1 pout 12:11 16:28 20:36 24:51 28:27 32:9 36:3
+HOLE 2 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 4:2 5:8 6:29 7:12 8:4 9:4 10:24 11:2 12:2 13:2 14:1 pout 12:4 16:18 20:62 24:56 28:12 32:8 40:4 48:1
+HOLE 3 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 4:5 5:9 6:12 7:18 8:16 9:10 10:10 11:5 12:1 13:4 pout 8:1 12:5 16:32 20:49 24:41 28:23 32:9 36:3 40:2
+HOLE 4 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 4:6 5:9 6:18 7:16 8:8 9:9 10:8 11:8 12:6 13:2 pout 8:1 12:4 16:27 20:50 24:51 28:18 32:12 36:2
+HOLE 5 aut 4 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 5:4 6:6 7:16 8:48 9:12 10:4 pout 8:2 12:12 16:33 20:28 24:47 28:30 32:12 48:1
+HOLE 6 aut 4 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 5:4 6:6 7:32 8:24 9:16 10:4 11:4 pout 8:4 12:6 16:30 20:40 24:48 28:25 32:8 36:4
+HOLE 7 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 5:4 6:8 7:22 8:36 9:12 10:6 11:2 pout 8:10 12:8 16:28 20:34 24:39 28:28 32:12 36:2 40:2 44:2
+HOLE 8 aut 16 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 6:20 7:28 8:8 9:32 16:2 pout 8:8 12:16 16:2 20:60 24:48 28:13 32:10 36:8
+HOLE 9 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 101 pdeg 3:1 4:4 5:5 6:10 7:19 8:13 9:21 10:11 11:5 12:1 pout 4:1 8:4 12:9 16:28 20:48 24:33 28:24 32:10 36:5 40:3
+HOLE 10 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 101 pdeg 3:2 4:4 5:6 6:19 7:7 8:17 9:14 10:8 11:10 12:1 14:2 pout 8:6 12:6 16:25 20:49 24:39 28:24 32:10 36:6
+HOLE 11 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 101 pdeg 3:2 4:5 5:11 6:17 7:15 8:9 9:1 10:8 11:10 12:10 14:2 pout 8:2 12:11 16:30 20:39 24:39 28:30 32:14
+HOLE 12 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 101 pdeg 3:2 4:6 5:14 6:13 7:9 8:2 9:12 10:21 11:7 12:1 14:2 15:1 pout 8:2 12:6 16:33 20:40 24:41 28:33 32:6 36:4
+HOLE 13 aut 1 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 101 pdeg 4:1 5:5 6:13 7:21 8:20 9:13 10:12 11:4 12:1 pout 8:1 12:10 16:35 20:36 24:40 28:24 32:14 36:2 40:3
+HOLE 14 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 101 pdeg 4:2 5:4 6:11 7:26 8:17 9:16 10:9 11:1 12:2 13:2 pout 8:1 12:10 16:25 20:41 24:49 28:24 32:13 36:2
+HOLE 15 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 102 pdeg 3:1 4:3 5:10 6:11 7:12 8:20 9:13 10:9 11:4 12:4 13:2 14:1 pout 8:6 12:7 16:28 20:41 24:41 28:29 32:10 36:3
+HOLE 16 aut 12 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 102 pdeg 3:12 5:24 7:12 9:24 13:6 15:12 pout 12:12 16:36 20:48 24:30 28:12 32:12 36:12 40:3
+HOLE 17 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 102 pdeg 4:4 6:24 7:12 8:24 10:8 11:18 pout 8:6 12:8 16:46 20:32 24:13 28:34 32:21 36:4 40:1
+HOLE 18 aut 12 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 102 pdeg 4:6 6:24 7:12 8:18 10:12 11:18 pout 8:6 16:48 20:36 24:24 28:18 32:33
+HOLE 19 aut 8 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 102 pdeg 5:8 6:8 7:8 8:48 9:8 10:4 11:2 13:4 pout 8:4 16:27 20:56 24:48 28:24 36:4 44:2
+HOLE 20 aut 8 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 102 pdeg 6:8 7:26 8:28 9:20 10:8 pout 8:4 16:31 20:52 24:44 28:18 32:16
+HOLE 21 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 102 pdeg 7:39 8:24 9:21 10:6 pout 12:3 16:24 20:66 24:48 28:12 32:12
+HOLE 22 aut 12 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 102 pdeg 7:42 8:24 9:12 10:12 pout 16:18 20:60 24:75 28:12
+HOLE 23 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 104 pdeg 3:2 4:2 5:8 6:16 7:10 8:12 9:13 10:16 11:3 12:4 13:2 14:2 pout 8:3 12:9 16:25 20:40 24:56 28:21 32:11
+HOLE 24 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 104 pdeg 3:3 4:1 5:5 6:11 7:22 8:15 9:11 10:6 11:8 12:2 13:5 14:1 pout 8:4 12:13 16:31 20:36 24:40 28:26 32:9 36:6
+HOLE 25 aut 8 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 104 pdeg 5:8 6:24 7:20 9:4 10:8 11:24 12:2 pout 12:4 16:20 20:64 24:38 28:32 32:4 40:2 48:1
+HOLE 26 aut 8 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 104 pdeg 6:24 7:24 8:12 9:8 10:8 11:8 12:4 16:2 pout 12:16 16:56 20:28 24:12 28:33 32:16 36:4
+HOLE 27 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 105 pdeg 2:3 4:12 5:6 6:12 7:9 8:6 10:12 11:21 12:6 15:3 pout 8:12 12:6 16:42 20:27 24:30 28:27 32:12 36:9
+HOLE 28 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 106 pdeg 4:2 5:4 6:8 7:17 8:20 9:23 10:4 11:7 12:2 13:3 pout 8:2 12:11 16:30 20:51 24:43 28:16 32:10 40:2
+HOLE 29 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 106 pdeg 5:2 6:4 7:34 8:14 9:14 10:10 11:12 pout 12:4 16:30 20:60 24:38 28:26 32:5 40:2
+HOLE 30 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 106 pdeg 5:6 6:16 7:24 8:11 9:3 10:10 11:10 12:8 13:1 14:1 pout 8:2 12:6 16:34 20:49 24:41 28:27 32:6
+HOLE 31 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 106 pdeg 6:2 7:24 8:32 9:18 10:10 11:4 pout 12:6 16:42 20:40 24:36 28:28 32:13
+HOLE 32 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 107 pdeg 4:1 5:2 6:9 7:18 8:24 9:10 10:17 11:7 12:1 14:1 pout 8:2 12:7 16:42 20:44 24:40 28:20 32:6 36:2 40:2
+HOLE 33 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 3:1 4:1 5:1 6:7 7:15 8:22 9:25 10:6 11:8 12:4 pout 8:1 12:11 16:38 20:45 24:41 28:16 32:9 36:4
+HOLE 34 aut 24 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 4:12 6:24 9:24 11:24 14:6 pout 8:12 12:24 16:48 20:24 24:12 32:18 36:24 48:3
+HOLE 35 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 4:2 5:2 6:8 7:22 8:18 9:10 10:6 11:22 pout 8:4 12:8 16:38 20:36 24:47 28:14 32:15 40:3
+HOLE 36 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 4:3 5:7 6:19 7:13 8:7 9:6 10:11 11:13 12:7 14:3 15:1 pout 8:4 12:9 16:37 20:48 24:36 28:19 32:5 36:7
+HOLE 37 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 4:4 5:10 6:13 7:13 8:7 9:6 10:16 11:13 12:1 13:3 14:3 15:1 pout 8:2 12:12 16:36 20:40 24:46 28:20 32:6 36:3
+HOLE 38 aut 16 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 4:8 6:24 8:4 9:40 13:8 14:6 pout 8:24 12:16 16:16 20:32 24:40 28:8 32:6 36:16 40:4 48:3
+HOLE 39 aut 4 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 5:4 6:6 7:22 8:12 9:26 10:12 11:4 13:4 pout 12:12 16:43 20:46 24:36 28:21 32:2 36:2 44:3
+HOLE 40 aut 48 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 6:24 8:12 9:48 14:6 pout 16:48 20:48 24:36 28:24 32:6 48:3
+HOLE 41 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 7:27 8:12 9:39 10:12 pout 12:6 16:51 20:42 24:36 28:12 32:18
+HOLE 42 aut 36 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 8:72 10:18 pout 16:63 20:36 24:39 28:18 40:6 48:3
+HOLE 43 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 109 pdeg 4:2 5:10 6:6 7:16 8:10 9:14 10:18 11:6 12:4 14:3 15:1 pout 8:2 12:18 16:32 20:50 24:27 28:20 32:14 44:2
+HOLE 44 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 110 pdeg 3:4 5:4 6:4 7:27 8:4 9:22 10:8 11:5 13:8 14:4 pout 8:4 12:8 16:49 20:40 24:30 28:12 32:18 36:4
+HOLE 45 aut 8 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 110 pdeg 4:4 6:16 8:36 9:8 10:8 11:2 12:12 13:4 pout 8:4 12:24 16:36 20:28 24:42 28:8 32:13 36:8 44:2
+HOLE 46 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 110 pdeg 5:5 6:17 7:19 8:12 9:7 10:5 11:8 12:9 13:7 14:1 pout 4:1 8:5 12:13 16:36 20:44 24:33 28:19 32:11 36:3
+HOLE 47 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 110 pdeg 6:16 7:12 8:24 9:4 10:16 11:14 12:4 pout 12:16 16:28 20:44 24:44 28:31 32:2
+HOLE 48 aut 8 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 110 pdeg 6:8 7:8 8:28 9:24 10:16 11:6 pout 16:40 20:64 24:40 28:2 32:17 40:2
+HOLE 49 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 110 pdeg 7:19 8:32 9:18 10:12 11:9 pout 8:4 16:43 20:48 24:48 28:16 32:2 36:4
+HOLE 50 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 110 pdeg 7:21 8:28 9:20 10:12 11:9 pout 12:4 16:55 20:36 24:40 28:20 32:10
+HOLE 51 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 111 pdeg 7:12 8:34 9:28 10:8 11:7 12:1 pout 8:2 12:20 16:30 20:38 24:48 28:20 32:3 36:4
+HOLE 52 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 111 pdeg 7:24 8:20 9:22 10:19 11:2 13:3 pout 8:2 12:10 16:44 20:38 24:48 28:17 32:5 40:1
+HOLE 53 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 111 pdeg 7:24 8:22 9:20 10:14 11:8 12:1 13:1 pout 12:11 16:40 20:51 24:42 28:17 32:1 40:3
+HOLE 54 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 112 pdeg 3:2 5:6 6:17 7:10 8:8 9:4 10:24 11:7 12:4 13:4 14:1 15:3 pout 8:2 12:28 16:24 20:42 24:36 28:22 32:6 40:5
+HOLE 55 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 112 pdeg 7:17 8:28 9:19 10:18 11:6 12:2 pout 8:2 12:9 16:35 20:50 24:52 28:13 32:4
+HOLE 56 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 113 pdeg 4:2 6:12 7:16 8:10 9:18 10:12 11:14 13:2 14:3 15:1 pout 8:2 12:12 16:44 20:44 24:29 28:24 32:8 44:2
+HOLE 57 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 113 pdeg 7:11 8:27 9:30 10:14 11:8 pout 4:1 8:4 12:12 16:35 20:47 24:38 28:18 32:9 40:1
+HOLE 58 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 113 pdeg 7:12 8:28 9:22 10:23 11:5 pout 4:2 12:14 16:45 20:36 24:36 28:24 32:4 36:4
+HOLE 59 aut 36 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 4:18 6:21 9:18 13:24 14:9 pout 16:48 20:63 24:54
+HOLE 60 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 4:6 5:12 7:21 9:6 10:24 11:6 12:6 15:9 pout 8:9 12:6 16:45 20:48 24:18 28:27 32:6 36:6
+HOLE 61 aut 8 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 5:4 6:8 7:16 8:16 9:4 10:16 11:18 12:8 pout 12:24 16:50 20:16 24:36 28:31 32:8
+HOLE 62 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:14 8:22 9:24 10:22 11:8 pout 8:3 12:15 16:39 20:39 24:45 28:15 32:7 36:2
+HOLE 63 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:14 8:26 9:24 10:15 11:8 12:1 13:2 pout 8:8 12:17 16:30 20:49 24:33 28:19 32:3 36:3 40:3
+HOLE 64 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:15 8:16 9:35 10:17 11:5 12:1 13:1 pout 8:4 12:19 16:38 20:36 24:40 28:20 32:4 36:2 40:2
+HOLE 65 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:16 8:18 9:27 10:20 11:9 pout 8:4 12:9 16:49 20:36 24:41 28:16 32:8 36:2
+HOLE 66 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:19 8:22 9:17 10:22 11:6 12:2 13:2 pout 8:1 12:16 16:32 20:58 24:36 28:12 32:10
+HOLE 67 aut 12 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:30 9:42 11:12 13:6 pout 12:12 16:48 20:48 24:36 28:12 32:6 40:3
+HOLE 68 aut 24 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:48 11:42 pout 12:12 16:84 20:12 24:18 28:3 32:36
+HOLE 69 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:8 8:34 9:21 10:20 11:5 12:1 14:1 pout 8:1 12:21 16:36 20:41 24:38 28:19 32:6 36:3
+HOLE 70 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:9 8:24 9:39 10:6 11:12 pout 8:6 12:15 16:45 20:30 24:30 28:36 32:3
+HOLE 71 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 116 pdeg 4:1 5:7 6:12 7:11 8:10 9:7 10:10 11:15 12:10 13:4 14:1 15:2 pout 8:6 12:24 16:34 20:40 24:30 28:17 32:8 36:5 40:1
+HOLE 72 aut 8 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 116 pdeg 6:28 9:12 10:32 11:12 14:6 pout 8:8 12:8 16:72 24:48 32:26 48:3
+HOLE 73 aut 32 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 116 pdeg 6:32 10:48 14:10 pout 0:8 16:104 32:40 48:13
+HOLE 74 aut 16 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 116 pdeg 6:4 7:12 8:32 9:8 10:16 11:8 12:8 16:2 pout 12:16 16:58 20:52 24:8 28:21 32:2 36:8
+HOLE 75 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 116 pdeg 7:4 8:32 9:18 10:30 11:6 pout 12:24 16:38 20:44 24:31 28:25 32:3
+HOLE 76 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 116 pdeg 7:7 8:28 9:25 10:22 11:6 14:2 pout 8:3 12:18 16:37 20:47 24:38 28:12 32:6 36:4
+HOLE 77 aut 12 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 117 pdeg 5:12 6:24 9:12 10:12 12:12 13:12 14:3 15:3 pout 12:12 16:24 20:84 24:39 28:6
+HOLE 78 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 117 pdeg 7:12 8:15 9:31 10:20 11:8 12:4 pout 8:4 12:24 16:35 20:49 24:27 28:13 32:7 36:4 40:2
+HOLE 79 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 117 pdeg 7:3 8:30 9:33 10:6 11:15 12:3 pout 8:3 12:15 16:46 20:32 24:54 28:6 32:9
+HOLE 80 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 117 pdeg 7:6 8:30 9:24 10:21 12:6 13:3 pout 12:39 16:18 20:45 24:27 28:30 32:6
+HOLE 81 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 117 pdeg 7:9 8:18 9:30 10:24 11:6 12:3 pout 12:21 16:39 20:38 24:48 28:18 40:1
+HOLE 82 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 118 pdeg 5:4 6:11 7:22 8:4 9:10 10:6 11:14 12:9 13:4 15:6 pout 12:30 16:32 20:44 24:36 28:6 32:8 36:4 40:4 48:1
+HOLE 83 aut 8 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 118 pdeg 5:4 7:18 8:4 9:28 10:12 11:12 12:12 pout 8:8 12:8 16:38 20:72 24:28 28:9 44:2
+HOLE 84 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 118 pdeg 6:2 7:16 8:20 9:18 10:14 11:10 12:6 13:2 16:2 pout 4:2 8:6 12:22 16:40 20:43 24:24 28:16 32:2 36:8 44:2
+HOLE 85 aut 8 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 118 pdeg 8:24 9:40 10:20 11:2 13:4 pout 16:72 20:48 24:28 28:8 32:3 36:4 44:2
+HOLE 86 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 119 pdeg 7:11 8:14 9:18 10:38 11:6 12:3 pout 4:2 8:3 12:15 16:43 20:46 24:31 28:18 32:6 40:1
+HOLE 87 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 119 pdeg 7:11 8:18 9:25 10:18 11:11 12:5 13:2 pout 8:2 12:25 16:42 20:37 24:35 28:15 32:7 36:2
+HOLE 88 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 119 pdeg 7:3 8:19 9:31 10:28 11:7 12:2 pout 8:5 12:15 16:39 20:55 24:32 28:11 32:8
+HOLE 89 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 119 pdeg 7:5 8:16 9:32 10:25 11:12 pout 8:2 12:25 16:32 20:51 24:35 28:13 32:7
+HOLE 90 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 119 pdeg 7:9 8:14 9:29 10:25 11:9 12:4 pout 8:5 12:19 16:35 20:50 24:36 28:12 32:4 36:4
+HOLE 91 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 119 pdeg 7:9 8:22 9:22 10:17 11:16 12:2 13:2 pout 8:5 12:14 16:41 20:58 24:26 28:14 32:5 40:1 44:1
+HOLE 92 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 120 pdeg 7:4 8:14 9:36 10:26 11:6 12:3 14:1 pout 4:1 8:5 12:20 16:40 20:45 24:30 28:14 32:10
+HOLE 93 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 120 pdeg 7:4 8:22 9:26 10:18 11:18 12:2 pout 8:7 12:14 16:47 20:34 24:43 28:12 32:6 36:2
+HOLE 94 aut 18 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 120 pdeg 7:6 8:18 9:27 10:27 11:9 14:3 pout 12:36 16:60 20:24 28:36 40:9
+HOLE 95 aut 72 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 120 pdeg 7:60 14:30 pout 12:24 16:60 24:72 32:9
+HOLE 96 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 120 pdeg 8:12 9:42 10:30 11:6 pout 8:9 12:12 16:57 20:35 24:27 28:18 32:6 40:1
+HOLE 97 aut 30 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 120 pdeg 8:30 9:30 11:30 pout 12:30 16:45 24:90
+HOLE 98 aut 720 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 120 pdeg 8:60 12:30 pout 12:90 28:75
+HOLE 99 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 121 pdeg 7:2 8:22 9:28 10:20 11:13 12:3 13:2 pout 8:4 12:32 16:39 20:31 24:26 28:28 32:2 36:3
+HOLE 100 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 121 pdeg 7:2 8:25 9:24 10:19 11:13 12:7 pout 4:2 8:6 12:14 16:50 20:40 24:26 28:18 32:9
+HOLE 101 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 121 pdeg 7:3 8:15 9:27 10:32 11:13 pout 8:6 12:14 16:47 20:51 24:24 28:15 32:6 36:2
+HOLE 102 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 121 pdeg 7:5 8:22 9:18 10:27 11:14 12:2 13:2 pout 8:4 12:22 16:36 20:48 24:37 28:10 32:6 36:2
+HOLE 103 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 121 pdeg 7:6 8:17 9:23 10:24 11:18 12:2 pout 4:1 8:11 12:14 16:35 20:45 24:40 28:10 32:9
+HOLE 104 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 121 pdeg 7:7 8:15 9:25 10:28 11:9 12:4 13:2 pout 8:8 12:17 16:41 20:52 24:25 28:12 32:6 36:4
+HOLE 105 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 122 pdeg 7:10 8:18 9:24 10:10 11:18 12:4 13:6 pout 8:7 12:16 16:35 20:66 24:23 28:10 32:6 36:2
+HOLE 106 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 122 pdeg 7:13 8:12 9:17 10:26 11:14 12:4 13:4 pout 8:4 12:15 16:48 20:52 24:29 28:11 32:4 36:2
+HOLE 107 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 122 pdeg 7:3 8:13 9:29 10:29 11:14 12:2 pout 8:5 12:19 16:41 20:44 24:34 28:22
+HOLE 108 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 122 pdeg 7:5 8:13 9:25 10:29 11:17 13:1 pout 8:3 12:25 16:36 20:46 24:33 28:15 32:6 36:1
+HOLE 109 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 122 pdeg 7:6 8:15 9:24 10:28 11:11 12:3 13:3 pout 8:10 12:19 16:44 20:38 24:25 28:20 32:5 36:4
+HOLE 110 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 122 pdeg 7:6 9:42 10:28 11:14 pout 4:4 8:1 12:25 16:48 20:22 24:40 28:17 32:4 36:4
+HOLE 111 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 123 pdeg 7:1 8:20 9:25 10:19 11:21 12:4 pout 8:4 12:32 16:38 20:37 24:22 28:25 32:7
+HOLE 112 aut 18 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 123 pdeg 7:12 8:27 10:9 11:33 12:9 pout 12:54 16:12 20:45 24:21 28:21 32:9 40:3
+HOLE 113 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 123 pdeg 7:3 8:17 9:26 10:18 11:22 12:4 pout 4:2 8:7 12:19 16:38 20:47 24:31 28:14 32:5 40:2
+HOLE 114 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 123 pdeg 7:3 8:21 9:15 10:24 11:27 pout 8:6 12:24 16:57 20:36 24:15 28:6 32:12 36:9
+HOLE 115 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 123 pdeg 7:5 8:15 9:25 10:20 11:21 12:2 13:2 pout 4:1 8:6 12:25 16:44 20:36 24:27 28:16 32:7 36:2 44:1
+HOLE 116 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 123 pdeg 7:5 8:18 9:18 10:27 11:18 12:2 13:1 15:1 pout 4:3 8:5 12:20 16:39 20:43 24:31 28:17 32:6 36:1
+HOLE 117 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 123 pdeg 7:6 8:12 9:33 10:9 11:24 12:6 pout 8:3 12:36 16:45 20:18 24:45 28:6 32:9 44:3
+HOLE 118 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 123 pdeg 7:6 8:16 9:23 10:22 11:16 12:4 13:2 14:1 pout 8:6 12:32 16:33 20:35 24:34 28:16 32:8 36:1
+HOLE 119 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 124 pdeg 7:1 8:15 9:24 10:31 11:13 12:6 pout 8:5 12:24 16:41 20:46 24:28 28:16 32:3 36:2
+HOLE 120 aut 16 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 124 pdeg 7:10 8:16 9:24 10:16 11:10 12:2 13:8 14:4 pout 12:32 16:56 20:24 24:32 28:13 32:8
+HOLE 121 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 124 pdeg 7:2 8:12 9:25 10:32 11:16 12:2 13:1 pout 8:4 12:20 16:48 20:48 24:21 28:22 36:2
+HOLE 122 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 124 pdeg 7:4 8:16 9:14 10:42 11:8 12:2 13:2 14:2 pout 8:14 12:16 16:56 20:28 24:24 28:6 32:17 40:3 48:1
+HOLE 123 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 125 pdeg 7:1 8:14 9:25 10:25 11:21 12:3 14:1 pout 4:1 8:4 12:30 16:34 20:46 24:26 28:19 32:4 36:1
+HOLE 124 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 125 pdeg 7:2 8:16 9:21 10:29 11:12 12:9 14:1 pout 0:1 8:11 12:21 16:32 20:44 24:34 28:18 32:4
+HOLE 125 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 125 pdeg 8:10 9:34 10:25 11:15 12:4 13:2 pout 8:10 12:21 16:43 20:35 24:41 28:8 32:6 36:1
+HOLE 126 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 125 pdeg 8:14 9:25 10:31 11:15 12:3 13:1 14:1 pout 4:2 8:9 12:22 16:32 20:49 24:33 28:13 32:4 36:1
+HOLE 127 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 7:1 8:16 9:17 10:30 11:19 12:6 13:1 pout 8:3 12:35 16:34 20:44 24:27 28:13 32:9
+HOLE 128 aut 24 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 7:12 8:12 9:12 10:12 11:30 12:12 pout 8:12 12:48 16:48 28:15 32:42
+HOLE 129 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 7:18 8:12 9:21 10:21 14:9 15:9 pout 8:12 12:24 16:54 20:18 24:30 28:12 32:12 40:3
+HOLE 130 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 7:2 8:16 9:21 10:24 11:18 12:5 13:3 14:1 pout 8:10 12:26 16:40 20:34 24:34 28:16 32:2 40:3
+HOLE 131 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 7:5 8:12 9:22 10:26 11:11 12:10 13:4 pout 4:2 8:6 12:25 16:41 20:47 24:23 28:12 32:7 36:2
+HOLE 132 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 7:5 8:16 9:22 10:12 11:26 12:4 13:4 15:1 pout 4:2 12:36 16:43 20:36 24:20 28:22 32:6
+HOLE 133 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 8:12 9:21 10:39 11:15 14:3 pout 8:12 12:30 16:54 20:18 24:12 28:24 32:12 40:3
+HOLE 134 aut 24 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 8:24 9:24 10:12 11:18 13:12 pout 8:24 16:72 20:12 24:18 28:27 32:12
+HOLE 135 aut 24 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 8:60 13:24 15:6 pout 16:108 24:24 28:30 32:3
+HOLE 136 aut 18 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 9:54 11:36 pout 0:6 12:18 16:54 20:24 24:27 28:36
+HOLE 137 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 7:1 8:10 9:22 10:31 11:20 12:4 13:2 pout 0:1 8:10 12:21 16:41 20:43 24:29 28:15 32:3 36:1 40:1
+HOLE 138 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 7:2 8:12 9:21 10:26 11:21 12:5 13:3 pout 4:2 8:4 12:24 16:46 20:38 24:30 28:16 32:4 36:1
+HOLE 139 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 7:2 8:13 9:22 10:23 11:20 12:7 13:3 pout 4:2 8:11 12:20 16:38 20:40 24:36 28:13 32:4 36:1
+HOLE 140 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 7:3 8:7 9:25 10:31 11:14 12:7 13:3 pout 4:2 8:8 12:31 16:37 20:42 24:17 28:15 32:10 36:3
+HOLE 141 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 7:4 8:12 9:22 10:19 11:22 12:8 13:3 pout 4:2 8:4 12:27 16:41 20:43 24:25 28:20 32:1 36:2
+HOLE 142 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 7:4 8:14 9:12 10:28 11:25 12:5 13:2 pout 4:2 8:8 12:16 16:52 20:37 24:28 28:15 32:6 36:1
+HOLE 143 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 7:6 8:11 9:16 10:22 11:27 12:6 13:2 pout 8:7 12:22 16:42 20:52 24:25 28:11 32:4 36:2
+HOLE 144 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 8:10 9:28 10:21 11:26 12:4 13:1 pout 0:1 8:9 12:22 16:42 20:42 24:29 28:14 32:4 36:2
+HOLE 145 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 8:5 9:30 10:32 11:17 12:6 pout 4:1 8:4 12:25 16:50 20:36 24:33 28:11 32:2 36:3
+HOLE 146 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 8:6 9:30 10:34 11:12 12:6 13:1 14:1 pout 4:2 8:8 12:24 16:39 20:38 24:38 28:11 32:4 36:1
+HOLE 147 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 8:9 9:26 10:27 11:25 12:2 14:1 pout 8:11 12:27 16:31 20:42 24:39 28:11 32:2 36:2
+HOLE 148 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 128 pdeg 7:2 8:8 9:30 10:19 11:14 12:17 pout 8:9 12:30 16:28 20:45 24:40 28:12 40:1
+HOLE 149 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 128 pdeg 7:4 8:12 9:16 10:21 11:28 12:7 13:2 pout 8:18 12:17 16:36 20:47 24:29 28:9 32:3 36:4 40:2
+HOLE 150 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 128 pdeg 7:4 8:5 9:22 10:28 11:22 12:9 pout 8:6 12:31 16:40 20:37 24:29 28:17 32:3 36:2
+HOLE 151 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 129 pdeg 7:1 8:8 9:22 10:29 11:20 12:7 13:2 14:1 pout 0:1 8:10 12:26 16:40 20:39 24:30 28:10 32:9
+HOLE 152 aut 12 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 129 pdeg 7:12 8:12 9:24 10:24 14:3 15:15 pout 8:12 12:36 16:36 20:36 24:3 28:30 32:12
+HOLE 153 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 129 pdeg 7:3 8:6 9:22 10:27 11:22 12:7 13:2 14:1 pout 8:7 12:27 16:40 20:45 24:28 28:14 32:3 36:1
+HOLE 154 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 129 pdeg 8:8 9:22 10:31 11:21 12:5 13:2 14:1 pout 0:1 8:10 12:24 16:40 20:45 24:25 28:13 32:6 36:1
+HOLE 155 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 130 pdeg 7:2 8:4 9:26 10:20 11:30 12:4 13:4 pout 8:12 12:30 16:26 20:56 24:24 28:9 32:4 36:4
+HOLE 156 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 130 pdeg 7:3 8:5 9:13 10:38 11:22 12:8 14:1 pout 8:10 12:22 16:47 20:38 24:31 28:14 32:3
+HOLE 157 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 130 pdeg 7:3 8:6 9:21 10:26 11:22 12:6 13:6 pout 8:9 12:13 16:71 20:24 24:24 28:24
+HOLE 158 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 130 pdeg 7:4 8:6 9:18 10:28 11:25 13:9 pout 8:9 12:16 16:50 20:54 24:24 28:3 32:9
+HOLE 159 aut 8 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 130 pdeg 8:16 9:12 10:24 11:26 12:8 13:4 pout 8:24 12:16 16:41 20:20 24:42 28:18 32:4
+HOLE 160 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 130 pdeg 8:9 9:21 10:23 11:29 12:5 13:2 14:1 pout 4:2 8:8 12:23 16:39 20:50 24:28 28:10 32:4 36:1
+HOLE 161 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 132 pdeg 7:1 8:5 9:18 10:29 11:22 12:12 13:3 pout 0:1 4:2 8:9 12:29 16:37 20:44 24:27 28:9 32:4 36:2 40:1
+HOLE 162 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 132 pdeg 7:2 8:3 9:19 10:27 11:28 12:6 13:5 pout 4:1 8:12 12:37 16:31 20:38 24:22 28:15 32:5 36:4
+HOLE 163 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 132 pdeg 7:3 8:6 9:12 10:24 11:33 12:12 pout 8:12 12:27 16:51 20:36 24:21 28:6 32:12
+HOLE 164 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 132 pdeg 7:4 8:3 9:18 10:26 11:24 12:9 13:6 pout 4:4 8:4 12:36 16:42 20:34 24:32 28:8 40:4 48:1
+HOLE 165 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 132 pdeg 8:2 9:15 10:41 11:21 12:11 pout 4:1 8:9 12:19 16:48 20:49 24:27 28:9 32:3
+HOLE 166 aut 288 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 132 pdeg 8:36 11:36 12:6 14:12 pout 8:72 20:36 28:21 32:36
+HOLE 167 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 132 pdeg 8:6 9:24 10:27 11:9 12:21 13:3 pout 8:12 12:30 16:54 20:24 24:18 28:18 32:6 40:3
+HOLE 168 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 132 pdeg 9:24 10:24 11:36 12:6 pout 0:1 8:12 12:6 16:60 20:44 24:36 28:6
+HOLE 169 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 133 pdeg 7:4 8:3 9:12 10:28 11:25 12:18 pout 8:3 12:34 16:51 20:36 24:21 28:11 32:9
+HOLE 170 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 133 pdeg 8:3 9:18 10:28 11:31 12:6 13:4 pout 4:1 8:9 12:27 16:44 20:40 24:31 28:10 32:2 36:1
+HOLE 171 aut 3 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 134 pdeg 7:2 8:3 9:12 10:32 11:20 12:21 pout 0:1 8:9 12:37 16:28 20:45 24:30 28:12 32:3
+HOLE 172 aut 3 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 134 pdeg 7:4 8:3 9:6 10:30 11:35 12:9 13:3 pout 0:1 8:9 12:34 16:31 20:48 24:27 28:12 32:3
+HOLE 173 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 134 pdeg 8:10 9:28 10:21 11:10 12:6 14:11 15:4 pout 4:4 8:14 12:35 16:38 20:27 24:19 28:16 32:10 36:2
+HOLE 174 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 135 pdeg 8:3 9:15 10:23 11:38 12:5 13:6 pout 8:21 12:28 16:38 20:32 24:25 28:14 32:2 36:4 44:1
+HOLE 175 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 135 pdeg 8:5 9:15 10:20 11:36 12:8 13:6 pout 4:2 8:14 12:36 16:43 20:22 24:25 28:8 32:12 36:3
+HOLE 176 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 135 pdeg 8:6 9:33 10:18 11:12 12:6 14:9 15:6 pout 8:12 12:42 16:42 20:24 24:21 28:18 36:6
+HOLE 177 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 136 pdeg 8:2 9:11 10:30 11:30 12:15 13:1 14:1 pout 8:8 12:30 16:52 20:46 24:12 28:10 32:5 40:2
+HOLE 178 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 136 pdeg 8:2 9:13 10:25 11:33 12:15 13:2 pout 4:2 8:12 12:36 16:42 20:36 24:18 28:12 36:2 40:5
+HOLE 179 aut 8 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 136 pdeg 9:8 10:48 11:12 12:18 13:4 pout 8:16 12:28 16:68 20:16 24:16 28:8 36:8 40:4 48:1
+HOLE 180 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 138 pdeg 7:1 8:4 9:10 10:12 11:51 12:4 13:4 14:4 pout 8:10 12:30 16:49 20:42 24:18 28:12 32:4
+HOLE 181 aut 24 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 138 pdeg 7:12 11:72 15:6 pout 8:36 12:12 16:51 24:48 28:6 32:12
+HOLE 182 aut 12 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 138 pdeg 9:24 11:54 13:12 pout 8:36 12:33 16:24 20:12 24:36 28:12 36:12
+HOLE 183 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 140 pdeg 7:2 9:21 10:23 11:21 12:6 14:11 15:6 pout 4:6 8:18 12:50 16:16 20:30 24:24 28:12 40:9
+HOLE 184 aut 18 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 141 pdeg 7:6 9:18 11:45 13:6 14:15 pout 8:54 12:36 16:24 28:33 32:9 44:9
+HOLE 185 aut 24 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 142 pdeg 10:36 11:22 12:24 13:8 pout 8:12 12:22 16:110 28:9 36:12
+HOLE 186 aut 8 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 142 pdeg 9:12 10:16 11:30 12:20 13:12 pout 4:8 8:16 12:32 16:48 20:24 24:16 28:2 32:17 40:2
+HOLE 187 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 144 pdeg 9:20 10:14 11:27 12:13 14:5 15:11 pout 4:6 8:12 12:44 16:36 20:30 24:20 28:12 36:2 40:3
+HOLE 188 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 145 pdeg 8:4 9:12 10:8 11:34 12:16 14:11 15:5 pout 4:4 8:20 12:32 16:48 20:32 24:9 28:8 32:10 44:2
+HOLE 189 aut 24 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 148 pdeg 9:12 10:44 14:22 15:12 pout 0:8 8:72 12:8 16:32 32:30 40:12 48:3
+HOLE 190 aut 120 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 150 pdeg 11:30 12:60 pout 12:30 16:120 32:15
+HOLE 191 aut 48 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 156 pdeg 10:24 11:24 12:12 14:6 15:24 pout 8:72 12:24 20:48 32:6 40:12 48:3
+HOLE 192 aut 600 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 165 pdeg 7:15 14:75 pout 12:150 40:15
+HOLE 193 aut 72 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 174 pdeg 8:9 10:6 14:39 15:36 pout 0:36 12:54 16:54 24:6 28:6 48:9
+HOLE 194 aut 4320 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 180 pdeg 14:90 pout 0:120 48:45
+HOLE 195 aut 288 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 60 pdeg 0:36 7:48 14:6 pout 16:36 28:48 32:72 48:9
+HOLE 196 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 72 pdeg 2:12 3:12 4:12 5:18 6:6 8:12 9:12 11:6 pout 16:6 20:36 24:42 28:48 32:27 36:6
+HOLE 197 aut 12 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 75 pdeg 3:12 4:12 5:12 6:36 7:6 8:3 11:9 pout 16:12 20:24 24:60 28:39 32:30
+HOLE 198 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 76 pdeg 2:7 3:16 4:14 5:12 6:10 8:7 9:12 10:6 11:4 13:2 pout 12:2 16:14 20:30 24:36 28:53 32:26 36:4
+HOLE 199 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 77 pdeg 2:4 3:8 4:28 5:14 6:5 7:1 8:8 9:8 10:6 11:6 13:2 pout 12:4 16:4 20:36 24:46 28:49 32:24 36:2
+HOLE 200 aut 8 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 78 pdeg 0:4 3:8 4:32 5:8 6:4 8:12 10:8 11:14 pout 12:8 16:16 20:24 24:52 28:26 32:23 36:16
+HOLE 201 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 78 pdeg 3:6 4:24 5:12 6:15 8:15 9:18 pout 12:6 16:15 20:18 24:45 28:63 32:18
+HOLE 202 aut 6 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 78 pdeg 4:18 5:12 6:30 7:18 8:3 9:6 10:3 pout 12:6 16:12 20:21 24:48 28:46 32:32
+HOLE 203 aut 12 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 78 pdeg 4:36 6:24 7:6 9:24 pout 16:6 20:24 24:69 28:48 32:18
+HOLE 204 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 79 pdeg 2:6 3:6 4:11 5:15 6:8 7:15 8:14 9:11 10:4 pout 8:2 12:7 16:20 20:26 24:46 28:31 32:21 36:9 40:2 48:1
+HOLE 205 aut 4 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 80 pdeg 4:4 5:16 6:36 7:24 8:10 pout 16:18 20:36 24:46 28:32 32:28 36:4 48:1
+HOLE 206 aut 4 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 80 pdeg 4:4 5:28 6:30 7:12 8:8 9:4 10:4 pout 16:18 20:32 24:40 28:48 32:26 48:1
+HOLE 207 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 81 pdeg 2:12 4:30 6:6 7:18 9:6 11:15 14:3 pout 12:18 16:12 20:6 24:54 28:45 32:21 36:6 44:3
+HOLE 208 aut 6 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 81 pdeg 2:3 4:24 6:15 7:27 8:3 9:18 pout 12:6 16:21 20:30 24:27 28:46 32:29 36:6
+HOLE 209 aut 36 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 81 pdeg 3:9 6:63 9:18 pout 8:9 16:18 20:36 24:18 28:42 32:36 40:6
+HOLE 210 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 83 pdeg 3:16 4:10 5:8 6:12 7:18 8:13 9:4 11:1 13:8 pout 12:14 16:18 20:12 24:58 28:31 32:22 36:2 40:6 48:2
+HOLE 211 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 83 pdeg 4:12 5:20 6:28 7:12 8:7 9:2 11:5 13:4 pout 8:2 12:4 16:18 20:32 24:42 28:39 32:22 36:4 40:2
+HOLE 212 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 0:1 2:2 3:6 4:18 5:20 6:7 7:6 8:4 9:8 10:8 11:2 13:8 pout 8:1 16:24 20:32 24:41 28:42 32:17 36:8
+HOLE 213 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 1:3 2:12 3:18 4:3 5:6 6:6 8:9 9:3 10:18 11:3 12:6 15:3 pout 8:3 12:18 16:12 20:12 24:39 28:60 32:12 36:6 44:3
+HOLE 214 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 2:1 4:10 5:28 6:17 7:16 8:3 9:2 10:4 11:2 12:5 14:2 pout 12:14 16:21 20:22 24:47 28:25 32:28 36:6 44:2
+HOLE 215 aut 6 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 2:3 5:12 6:30 7:18 8:27 pout 16:15 20:39 24:57 28:42 32:5 36:6 40:1
+HOLE 216 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 3:2 4:10 5:10 6:24 7:22 8:10 9:6 10:6 pout 8:2 16:22 20:38 24:46 28:33 32:22 36:2
+HOLE 217 aut 6 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 3:6 4:12 5:24 6:3 8:27 9:12 10:6 pout 8:6 12:6 16:10 20:35 24:45 28:36 32:27
+HOLE 218 aut 9 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 3:9 4:6 5:9 6:18 7:18 8:18 9:9 11:3 pout 16:9 20:48 24:54 28:42 32:12
+HOLE 219 aut 6 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 4:18 5:18 6:9 7:6 8:27 9:6 10:6 pout 16:27 20:30 24:57 28:28 32:20 36:3
+HOLE 220 aut 3 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 5:12 6:33 7:30 8:15 pout 16:11 20:51 24:57 28:33 32:12 36:1
+HOLE 221 aut 12 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 6:66 8:24 pout 0:4 16:18 24:114 32:26 48:3
+HOLE 222 aut 12 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 6:66 8:24 pout 0:4 16:18 24:114 32:26 48:3
+HOLE 223 aut 6 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 6:66 8:24 pout 16:22 24:114 32:26 48:3
+HOLE 224 aut 48 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 6:84 14:6 pout 0:16 16:56 32:84 48:9
+HOLE 225 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 85 pdeg 3:6 4:10 5:22 6:10 7:18 8:9 10:4 11:6 12:2 13:3 pout 8:2 12:11 16:18 20:26 24:32 28:52 32:21 36:2 40:1
+HOLE 226 aut 8 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 86 pdeg 3:8 4:8 5:16 6:12 7:8 8:20 9:8 10:4 11:6 pout 12:12 16:12 20:48 24:38 28:19 32:28 36:8
+HOLE 227 aut 8 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 86 pdeg 4:36 6:24 9:16 11:6 13:8 pout 16:21 20:16 24:88 28:18 32:22
+HOLE 228 aut 12 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 87 pdeg 2:6 3:12 4:12 5:18 7:6 8:3 9:12 10:6 11:9 15:6 pout 12:12 16:24 20:12 24:66 28:15 32:30 36:6
+HOLE 229 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 87 pdeg 3:6 4:21 5:6 6:15 7:9 8:12 9:9 10:3 13:9 pout 12:18 16:15 20:18 24:48 28:39 32:27
+HOLE 230 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 88 pdeg 2:1 3:3 4:10 5:18 6:21 7:4 8:4 9:7 10:16 11:6 pout 8:1 12:10 16:16 20:32 24:47 28:39 32:16 36:4
+HOLE 231 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 88 pdeg 2:1 4:4 5:18 6:21 7:20 8:10 9:4 10:8 11:2 12:2 pout 8:2 12:7 16:14 20:38 24:59 28:22 32:21 36:2
+HOLE 232 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 88 pdeg 2:2 3:9 4:11 5:23 6:7 7:6 8:4 9:4 10:10 11:4 13:10 pout 12:10 16:25 20:36 24:20 28:39 32:31 36:4
+HOLE 233 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 88 pdeg 3:4 4:12 5:16 6:18 7:2 8:6 9:14 10:18 pout 12:4 16:8 20:40 24:64 28:34 32:11 40:3 48:1
+HOLE 234 aut 8 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 88 pdeg 4:12 5:16 6:20 7:8 8:12 9:8 10:12 12:2 pout 12:4 16:8 20:40 24:74 28:4 32:34 48:1
+HOLE 235 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 2:2 3:7 4:4 5:12 6:16 7:12 8:8 9:13 10:8 11:8 pout 12:14 16:20 20:38 24:36 28:33 32:17 36:5 40:2
+HOLE 236 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 3:12 4:6 5:6 6:12 7:24 8:6 9:12 11:6 13:6 pout 16:12 20:36 24:87 28:21 32:9
+HOLE 237 aut 24 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 3:12 5:12 7:36 9:24 11:6 pout 12:6 16:27 20:24 24:48 28:36 32:24
+HOLE 238 aut 3 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 3:6 4:12 5:18 6:6 7:15 8:3 9:9 10:12 12:9 pout 12:15 16:18 20:33 24:45 28:24 32:27 36:3
+HOLE 239 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 4:4 5:6 6:22 7:24 8:26 9:6 11:2 pout 8:5 12:6 16:18 20:34 24:46 28:34 32:20 36:2
+HOLE 240 aut 12 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 4:45 6:6 8:9 11:24 13:6 pout 8:6 12:24 16:30 20:12 24:12 28:42 32:24 36:6 40:3 44:6
+HOLE 241 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 4:6 5:9 6:24 7:19 8:12 9:12 10:8 pout 4:2 12:4 16:20 20:42 24:45 28:31 32:17 36:4
+HOLE 242 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 4:9 5:18 6:27 7:2 8:4 9:10 10:16 11:2 12:2 pout 12:4 16:18 20:45 24:45 28:37 32:16
+HOLE 243 aut 8 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 5:12 6:16 7:42 8:8 9:4 10:8 pout 12:8 16:13 20:44 24:34 28:42 32:24
+HOLE 244 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 5:12 6:20 7:28 8:18 9:10 10:2 pout 8:2 12:2 16:18 20:36 24:56 28:32 32:16 36:2 40:1
+HOLE 245 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 5:3 6:30 7:33 8:14 9:8 10:2 pout 12:5 16:22 20:42 24:43 28:32 32:21
+HOLE 246 aut 180 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 7:90 pout 24:165
+HOLE 247 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 91 pdeg 2:1 3:4 4:10 5:10 6:19 7:9 8:5 9:16 10:10 11:4 14:2 pout 8:3 12:8 16:20 20:39 24:36 28:33 32:22 36:2 40:2
+HOLE 248 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 91 pdeg 3:4 4:2 5:8 6:28 7:18 8:21 11:3 13:2 14:4 pout 12:16 16:24 20:28 24:34 28:33 32:22 36:6 48:2
+HOLE 249 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 91 pdeg 4:5 5:16 6:21 7:27 8:2 9:7 10:3 11:1 12:4 13:2 14:2 pout 8:6 12:14 16:20 20:27 24:36 28:32 32:16 36:14
+HOLE 250 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 2:2 3:3 4:12 5:17 6:11 7:7 8:6 9:16 10:4 11:4 12:2 13:2 14:3 15:1 pout 12:7 16:23 20:35 24:50 28:34 32:12 36:3 40:1
+HOLE 251 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 3:1 5:7 6:22 7:25 8:18 9:15 10:2 pout 12:6 16:21 20:39 24:53 28:36 32:8 36:2
+HOLE 252 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 3:2 4:4 5:14 6:20 7:10 8:18 9:8 10:12 13:2 pout 12:2 16:15 20:48 24:61 28:20 32:17 36:2
+HOLE 253 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 3:2 4:6 5:19 6:17 7:10 8:6 9:12 10:9 11:7 12:2 pout 12:5 16:18 20:45 24:53 28:25 32:16 36:3
+HOLE 254 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 3:3 4:6 5:15 6:22 7:8 8:6 9:11 10:9 11:9 12:1 pout 12:5 16:21 20:44 24:46 28:33 32:12 36:2 40:2
+HOLE 255 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 3:4 4:12 5:16 6:16 7:4 8:4 9:4 10:18 11:12 pout 8:6 16:19 20:32 24:61 28:26 32:18 40:2 48:1
+HOLE 256 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 3:4 4:2 5:14 6:18 7:14 8:11 9:14 10:9 11:4 pout 12:2 16:28 20:50 24:40 28:30 32:12 36:1 40:2
+HOLE 257 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 4:4 5:26 6:15 7:12 8:5 9:6 10:14 11:6 12:2 pout 12:4 16:16 20:45 24:55 28:39 32:6
+HOLE 258 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 4:4 5:6 6:12 7:34 8:22 9:8 10:4 pout 8:2 12:6 16:22 20:28 24:64 28:20 32:18 36:4 40:1
+HOLE 259 aut 3 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 93 pdeg 2:3 4:9 5:3 6:33 7:6 8:6 9:12 10:6 11:6 12:6 pout 12:9 16:18 20:33 24:51 28:42 32:12
+HOLE 260 aut 1 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 93 pdeg 3:1 4:2 5:8 6:22 7:18 8:15 9:20 10:3 12:1 pout 12:6 16:21 20:48 24:48 28:28 32:8 36:4 40:2
+HOLE 261 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 93 pdeg 3:3 4:8 5:13 6:18 7:11 8:8 9:7 10:13 11:7 12:1 14:1 pout 4:1 8:1 12:7 16:21 20:43 24:41 28:32 32:13 36:6
+HOLE 262 aut 24 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 93 pdeg 4:36 6:12 7:3 9:12 11:24 14:3 pout 12:30 16:36 24:48 28:12 32:24 36:12 40:3
+HOLE 263 aut 6 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 93 pdeg 4:6 5:15 6:9 7:24 8:6 9:18 10:12 pout 12:6 16:19 20:42 24:60 28:30 32:8
+HOLE 264 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 93 pdeg 4:9 5:12 6:11 7:31 8:12 9:3 10:3 11:1 13:4 14:4 pout 8:8 12:20 16:8 20:23 24:48 28:32 32:20 36:6
+HOLE 265 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 94 pdeg 3:1 4:5 5:14 6:18 7:14 8:8 9:14 10:10 11:4 12:1 13:1 pout 8:2 12:7 16:19 20:38 24:51 28:34 32:10 36:4
+HOLE 266 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 94 pdeg 3:2 5:16 6:16 7:14 8:20 9:12 10:5 12:5 pout 12:10 16:30 20:35 24:47 28:20 32:14 36:7 40:2
+HOLE 267 aut 8 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 94 pdeg 4:12 6:8 7:40 8:16 10:8 11:2 13:4 pout 16:37 20:48 24:42 28:16 32:16 36:4 44:2
+HOLE 268 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 94 pdeg 4:6 5:1 6:16 7:28 8:20 9:13 10:6 pout 8:2 12:10 16:14 20:37 24:60 28:24 32:18
+HOLE 269 aut 8 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 94 pdeg 6:16 7:42 8:24 9:4 10:4 pout 16:13 20:48 24:66 28:34 32:4
+HOLE 270 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 95 pdeg 2:2 5:8 6:24 7:16 8:21 9:10 11:5 13:4 pout 12:4 16:20 20:62 24:42 28:19 32:16 36:2
+HOLE 271 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 95 pdeg 3:3 4:5 5:5 6:24 7:13 8:11 9:12 10:13 11:1 12:1 13:1 14:1 pout 8:1 12:4 16:22 20:44 24:50 28:32 32:11 36:1
+HOLE 272 aut 1 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 95 pdeg 4:2 5:10 6:11 7:22 8:25 9:13 10:7 pout 8:1 12:7 16:17 20:46 24:50 28:32 32:9 36:3
+HOLE 273 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 95 pdeg 4:2 5:7 6:14 7:23 8:27 9:11 10:4 11:2 pout 12:7 16:25 20:41 24:46 28:30 32:16
+HOLE 274 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 95 pdeg 5:4 6:22 7:24 8:17 9:21 10:2 pout 12:2 16:17 20:59 24:54 28:21 32:10 40:2
+HOLE 275 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 2:3 4:12 5:24 6:3 7:6 8:3 9:12 10:18 12:3 15:6 pout 4:6 8:12 12:6 16:9 20:30 24:45 28:27 32:24 36:6
+HOLE 276 aut 3 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 3:3 4:6 5:9 6:18 7:12 8:3 9:27 10:6 11:3 14:3 pout 12:6 16:30 20:36 24:45 28:33 32:15
+HOLE 277 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 3:4 4:2 5:18 6:14 7:14 8:14 9:4 10:8 11:2 12:2 13:6 14:2 pout 12:6 16:24 20:48 24:40 28:31 32:14 36:2
+HOLE 278 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 4:2 5:10 6:23 7:18 8:9 9:12 10:10 11:4 13:2 pout 12:10 16:22 20:32 24:58 28:29 32:10 36:4
+HOLE 279 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 4:2 5:8 6:31 7:12 8:7 9:12 10:12 11:2 12:4 pout 12:8 16:19 20:34 24:65 28:29 32:8 36:2
+HOLE 280 aut 6 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 4:3 5:12 6:7 7:22 8:28 9:6 10:9 12:3 pout 12:6 16:33 20:30 24:54 28:31 32:3 36:6 40:2
+HOLE 281 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 4:6 5:12 6:23 7:13 8:7 9:4 10:13 11:9 12:2 14:1 pout 8:2 12:6 16:28 20:38 24:49 28:27 32:12 36:3
+HOLE 282 aut 3 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 4:9 5:15 6:15 7:12 8:18 9:3 11:6 12:6 13:6 pout 12:15 16:21 20:42 24:36 28:30 32:15 36:6
+HOLE 283 aut 6 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 5:12 6:34 7:2 8:9 9:18 10:5 11:10 pout 12:12 16:27 20:36 24:36 28:37 32:15 40:2
+HOLE 284 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 5:17 6:22 7:10 8:8 9:15 10:12 11:6 pout 12:4 16:16 20:54 24:56 28:28 36:4 40:3
+HOLE 285 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 5:6 6:22 7:20 8:14 9:22 10:6 pout 8:1 12:4 16:19 20:63 24:44 28:20 32:14
+HOLE 286 aut 8 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 6:28 7:32 8:20 10:4 12:4 16:2 pout 12:12 16:24 20:64 24:16 28:29 32:8 36:4 40:4 44:4
+HOLE 287 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 97 pdeg 3:2 4:4 5:15 6:14 7:13 8:11 9:9 10:8 11:12 13:2 pout 12:10 16:22 20:50 24:38 28:32 32:13
+HOLE 288 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 97 pdeg 4:4 5:4 6:16 7:20 8:26 9:5 10:12 11:2 12:1 pout 12:7 16:15 20:57 24:50 28:24 32:9 36:3
+HOLE 289 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 97 pdeg 4:4 5:4 6:23 7:21 8:8 9:16 10:8 11:2 12:4 pout 8:1 12:4 16:26 20:32 24:64 28:26 32:10 40:2
+HOLE 290 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 97 pdeg 4:6 5:4 6:10 7:27 8:16 9:16 10:8 11:2 12:1 pout 8:1 12:6 16:22 20:50 24:47 28:24 32:12 36:2 44:1
+HOLE 291 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 97 pdeg 4:7 5:6 6:13 7:18 8:18 9:17 10:5 11:2 12:4 pout 8:8 12:11 16:20 20:31 24:52 28:19 32:24
+HOLE 292 aut 1 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 97 pdeg 5:6 6:12 7:28 8:22 9:17 10:4 12:1 pout 12:7 16:18 20:54 24:54 28:18 32:9 36:5
+HOLE 293 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 98 pdeg 3:2 5:6 6:18 7:20 8:12 9:16 10:14 11:2 pout 12:4 16:25 20:46 24:56 28:20 32:12 40:2
+HOLE 294 aut 2 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 98 pdeg 4:2 5:3 6:6 7:26 8:36 9:15 11:2 pout 8:2 12:3 16:25 20:54 24:45 28:22 32:14
+HOLE 295 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 98 pdeg 4:3 5:12 6:20 7:14 8:9 9:12 10:10 11:6 12:3 14:1 pout 8:1 12:10 16:28 20:37 24:42 28:31 32:14 36:2
+HOLE 296 aut 4 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 98 pdeg 4:8 5:8 6:8 7:24 8:20 9:4 10:10 11:2 12:4 16:2 pout 8:4 12:12 16:32 20:42 24:26 28:29 32:12 36:6 44:2
+HOLE 297 aut 4 solid 0 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 98 pdeg 5:2 6:16 7:14 8:40 9:18 pout 16:30 20:28 24:73 28:24 32:10
+HOLE 298 aut 4 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 99 pdeg 2:2 4:4 6:12 7:24 8:17 9:20 10:4 11:7 pout 12:8 16:22 20:56 24:40 28:27 32:12
+HOLE 299 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 99 pdeg 3:1 4:3 5:5 6:11 7:19 8:24 9:12 10:13 11:1 13:1 pout 12:4 16:28 20:53 24:45 28:22 32:9 36:2 40:1 44:1
+HOLE 300 aut 2 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 99 pdeg 3:1 4:9 5:10 6:18 7:15 8:6 9:1 10:8 11:12 12:8 13:2 pout 12:10 16:23 20:48 24:43 28:26 32:15
+HOLE 301 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 99 pdeg 3:2 4:5 5:13 6:15 7:17 8:9 9:6 10:7 11:4 12:7 13:1 14:4 pout 4:1 8:3 12:11 16:26 20:33 24:42 28:34 32:12 36:2 44:1
+HOLE 302 aut 1 solid 1 | n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 99 pdeg 4:5 5:6 6:18 7:16 8:17 9:13 10:6 11:4 12:1 13:2 14:2 pout 4:1 8:4 12:7 16:25 20:47 24:33 28:31 32:14 36:3

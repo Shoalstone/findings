@@ -1,0 +1,619 @@
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+solids in PG(7,2): 200787 (expect 200787)
+orbits read: 817
+canonical form recomputed from a random GL(8,2) image of every orbit: 0 mismatches
+distinct hole invariants: 302
+hole classes by isomorphism: 303 (0 s); computing |Aut H|
+hole sets up to GL(8,2): 303, containing no solid (maximal partial spreads): 58   [Kurz Table 9.3, r = 11: 303 and 58] (1 s)
+orbits whose type disagrees with 'hole set contains a solid': 0
+hole set 0: |Aut H| 4, solid inside: no, 76 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 3:4 4:6 5:2 6:8 7:8 8:40 9:6 10:8 11:4 13:4 pout 8:4 12:12 16:28 20:34 24:44 28:29 32:1 36:10 44:3
+hole set 1: |Aut H| 1, solid inside: yes, 76 solids in the complement, 2 covers, 2 orbits ( ext13:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 4:2 5:7 6:21 7:23 8:5 9:11 10:8 11:9 12:1 13:2 14:1 pout 12:11 16:28 20:36 24:51 28:27 32:9 36:3
+hole set 2: |Aut H| 4, solid inside: yes, 76 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 4:2 5:8 6:29 7:12 8:4 9:4 10:24 11:2 12:2 13:2 14:1 pout 12:4 16:18 20:62 24:56 28:12 32:8 40:4 48:1
+hole set 3: |Aut H| 1, solid inside: yes, 76 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 4:5 5:9 6:12 7:18 8:16 9:10 10:10 11:5 12:1 13:4 pout 8:1 12:5 16:32 20:49 24:41 28:23 32:9 36:3 40:2
+hole set 4: |Aut H| 2, solid inside: yes, 88 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 4:6 5:9 6:18 7:16 8:8 9:9 10:8 11:8 12:6 13:2 pout 8:1 12:4 16:27 20:50 24:51 28:18 32:12 36:2
+hole set 5: |Aut H| 4, solid inside: no, 104 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 5:4 6:6 7:16 8:48 9:12 10:4 pout 8:2 12:12 16:33 20:28 24:47 28:30 32:12 48:1
+hole set 6: |Aut H| 4, solid inside: no, 60 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 5:4 6:6 7:32 8:24 9:16 10:4 11:4 pout 8:4 12:6 16:30 20:40 24:48 28:25 32:8 36:4
+hole set 7: |Aut H| 2, solid inside: no, 80 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 5:4 6:8 7:22 8:36 9:12 10:6 11:2 pout 8:10 12:8 16:28 20:34 24:39 28:28 32:12 36:2 40:2 44:2
+hole set 8: |Aut H| 16, solid inside: no, 72 solids in the complement, 4 covers, 2 orbits ( max:2 ); sum |Aut H|/|Aut P| = 4; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 100 pdeg 6:20 7:28 8:8 9:32 16:2 pout 8:8 12:16 16:2 20:60 24:48 28:13 32:10 36:8
+hole set 9: |Aut H| 1, solid inside: yes, 72 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 101 pdeg 3:1 4:4 5:5 6:10 7:19 8:13 9:21 10:11 11:5 12:1 pout 4:1 8:4 12:9 16:28 20:48 24:33 28:24 32:10 36:5 40:3
+hole set 10: |Aut H| 2, solid inside: yes, 80 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 101 pdeg 3:2 4:4 5:6 6:19 7:7 8:17 9:14 10:8 11:10 12:1 14:2 pout 8:6 12:6 16:25 20:49 24:39 28:24 32:10 36:6
+hole set 11: |Aut H| 2, solid inside: yes, 80 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 101 pdeg 3:2 4:5 5:11 6:17 7:15 8:9 9:1 10:8 11:10 12:10 14:2 pout 8:2 12:11 16:30 20:39 24:39 28:30 32:14
+hole set 12: |Aut H| 2, solid inside: yes, 100 solids in the complement, 2 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 101 pdeg 3:2 4:6 5:14 6:13 7:9 8:2 9:12 10:21 11:7 12:1 14:2 15:1 pout 8:2 12:6 16:33 20:40 24:41 28:33 32:6 36:4
+hole set 13: |Aut H| 1, solid inside: no, 86 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 101 pdeg 4:1 5:5 6:13 7:21 8:20 9:13 10:12 11:4 12:1 pout 8:1 12:10 16:35 20:36 24:40 28:24 32:14 36:2 40:3
+hole set 14: |Aut H| 1, solid inside: yes, 80 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 101 pdeg 4:2 5:4 6:11 7:26 8:17 9:16 10:9 11:1 12:2 13:2 pout 8:1 12:10 16:25 20:41 24:49 28:24 32:13 36:2
+hole set 15: |Aut H| 1, solid inside: yes, 84 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 102 pdeg 3:1 4:3 5:10 6:11 7:12 8:20 9:13 10:9 11:4 12:4 13:2 14:1 pout 8:6 12:7 16:28 20:41 24:41 28:29 32:10 36:3
+hole set 16: |Aut H| 12, solid inside: yes, 116 solids in the complement, 18 covers, 10 orbits ( ext13:10 ); sum |Aut H|/|Aut P| = 18; on unknown orbits 0, on another hole set 0, orbits reached 10  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 102 pdeg 3:12 5:24 7:12 9:24 13:6 15:12 pout 12:12 16:36 20:48 24:30 28:12 32:12 36:12 40:3
+hole set 17: |Aut H| 4, solid inside: yes, 80 solids in the complement, 2 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 102 pdeg 4:4 6:24 7:12 8:24 10:8 11:18 pout 8:6 12:8 16:46 20:32 24:13 28:34 32:21 36:4 40:1
+hole set 18: |Aut H| 12, solid inside: yes, 124 solids in the complement, 30 covers, 11 orbits ( ext13:11 ); sum |Aut H|/|Aut P| = 30; on unknown orbits 0, on another hole set 0, orbits reached 11  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 102 pdeg 4:6 6:24 7:12 8:18 10:12 11:18 pout 8:6 16:48 20:36 24:24 28:18 32:33
+hole set 19: |Aut H| 8, solid inside: no, 100 solids in the complement, 2 covers, 2 orbits ( max:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 102 pdeg 5:8 6:8 7:8 8:48 9:8 10:4 11:2 13:4 pout 8:4 16:27 20:56 24:48 28:24 36:4 44:2
+hole set 20: |Aut H| 8, solid inside: no, 100 solids in the complement, 2 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 102 pdeg 6:8 7:26 8:28 9:20 10:8 pout 8:4 16:31 20:52 24:44 28:18 32:16
+hole set 21: |Aut H| 6, solid inside: yes, 96 solids in the complement, 11 covers, 8 orbits ( spr:8 ); sum |Aut H|/|Aut P| = 11; on unknown orbits 0, on another hole set 0, orbits reached 8  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 102 pdeg 7:39 8:24 9:21 10:6 pout 12:3 16:24 20:66 24:48 28:12 32:12
+hole set 22: |Aut H| 12, solid inside: yes, 104 solids in the complement, 10 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 10; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 102 pdeg 7:42 8:24 9:12 10:12 pout 16:18 20:60 24:75 28:12
+hole set 23: |Aut H| 2, solid inside: yes, 88 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 104 pdeg 3:2 4:2 5:8 6:16 7:10 8:12 9:13 10:16 11:3 12:4 13:2 14:2 pout 8:3 12:9 16:25 20:40 24:56 28:21 32:11
+hole set 24: |Aut H| 1, solid inside: yes, 72 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 104 pdeg 3:3 4:1 5:5 6:11 7:22 8:15 9:11 10:6 11:8 12:2 13:5 14:1 pout 8:4 12:13 16:31 20:36 24:40 28:26 32:9 36:6
+hole set 25: |Aut H| 8, solid inside: yes, 108 solids in the complement, 2 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 104 pdeg 5:8 6:24 7:20 9:4 10:8 11:24 12:2 pout 12:4 16:20 20:64 24:38 28:32 32:4 40:2 48:1
+hole set 26: |Aut H| 8, solid inside: no, 72 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 104 pdeg 6:24 7:24 8:12 9:8 10:8 11:8 12:4 16:2 pout 12:16 16:56 20:28 24:12 28:33 32:16 36:4
+hole set 27: |Aut H| 6, solid inside: yes, 100 solids in the complement, 10 covers, 5 orbits ( ext13:5 ); sum |Aut H|/|Aut P| = 10; on unknown orbits 0, on another hole set 0, orbits reached 5  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 105 pdeg 2:3 4:12 5:6 6:12 7:9 8:6 10:12 11:21 12:6 15:3 pout 8:12 12:6 16:42 20:27 24:30 28:27 32:12 36:9
+hole set 28: |Aut H| 2, solid inside: yes, 84 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 106 pdeg 4:2 5:4 6:8 7:17 8:20 9:23 10:4 11:7 12:2 13:3 pout 8:2 12:11 16:30 20:51 24:43 28:16 32:10 40:2
+hole set 29: |Aut H| 4, solid inside: yes, 100 solids in the complement, 2 covers, 2 orbits ( ext13:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 106 pdeg 5:2 6:4 7:34 8:14 9:14 10:10 11:12 pout 12:4 16:30 20:60 24:38 28:26 32:5 40:2
+hole set 30: |Aut H| 1, solid inside: yes, 84 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 106 pdeg 5:6 6:16 7:24 8:11 9:3 10:10 11:10 12:8 13:1 14:1 pout 8:2 12:6 16:34 20:49 24:41 28:27 32:6
+hole set 31: |Aut H| 2, solid inside: no, 104 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 106 pdeg 6:2 7:24 8:32 9:18 10:10 11:4 pout 12:6 16:42 20:40 24:36 28:28 32:13
+hole set 32: |Aut H| 1, solid inside: yes, 72 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 107 pdeg 4:1 5:2 6:9 7:18 8:24 9:10 10:17 11:7 12:1 14:1 pout 8:2 12:7 16:42 20:44 24:40 28:20 32:6 36:2 40:2
+hole set 33: |Aut H| 1, solid inside: yes, 74 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 3:1 4:1 5:1 6:7 7:15 8:22 9:25 10:6 11:8 12:4 pout 8:1 12:11 16:38 20:45 24:41 28:16 32:9 36:4
+hole set 34: |Aut H| 24, solid inside: yes, 108 solids in the complement, 4 covers, 2 orbits ( ext13:2 ); sum |Aut H|/|Aut P| = 4; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 4:12 6:24 9:24 11:24 14:6 pout 8:12 12:24 16:48 20:24 24:12 32:18 36:24 48:3
+hole set 35: |Aut H| 2, solid inside: yes, 104 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 4:2 5:2 6:8 7:22 8:18 9:10 10:6 11:22 pout 8:4 12:8 16:38 20:36 24:47 28:14 32:15 40:3
+hole set 36: |Aut H| 1, solid inside: yes, 96 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 4:3 5:7 6:19 7:13 8:7 9:6 10:11 11:13 12:7 14:3 15:1 pout 8:4 12:9 16:37 20:48 24:36 28:19 32:5 36:7
+hole set 37: |Aut H| 1, solid inside: yes, 96 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 4:4 5:10 6:13 7:13 8:7 9:6 10:16 11:13 12:1 13:3 14:3 15:1 pout 8:2 12:12 16:36 20:40 24:46 28:20 32:6 36:3
+hole set 38: |Aut H| 16, solid inside: yes, 116 solids in the complement, 2 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 4:8 6:24 8:4 9:40 13:8 14:6 pout 8:24 12:16 16:16 20:32 24:40 28:8 32:6 36:16 40:4 48:3
+hole set 39: |Aut H| 4, solid inside: no, 76 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 5:4 6:6 7:22 8:12 9:26 10:12 11:4 13:4 pout 12:12 16:43 20:46 24:36 28:21 32:2 36:2 44:3
+hole set 40: |Aut H| 48, solid inside: yes, 148 solids in the complement, 18 covers, 5 orbits ( ext13:5 ); sum |Aut H|/|Aut P| = 18; on unknown orbits 0, on another hole set 0, orbits reached 5  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 6:24 8:12 9:48 14:6 pout 16:48 20:48 24:36 28:24 32:6 48:3
+hole set 41: |Aut H| 6, solid inside: yes, 108 solids in the complement, 10 covers, 8 orbits ( spr:8 ); sum |Aut H|/|Aut P| = 10; on unknown orbits 0, on another hole set 0, orbits reached 8  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 7:27 8:12 9:39 10:12 pout 12:6 16:51 20:42 24:36 28:12 32:18
+hole set 42: |Aut H| 36, solid inside: yes, 152 solids in the complement, 30 covers, 14 orbits ( spr:14 ); sum |Aut H|/|Aut P| = 30; on unknown orbits 0, on another hole set 0, orbits reached 14  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 108 pdeg 8:72 10:18 pout 16:63 20:36 24:39 28:18 40:6 48:3
+hole set 43: |Aut H| 2, solid inside: yes, 84 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 109 pdeg 4:2 5:10 6:6 7:16 8:10 9:14 10:18 11:6 12:4 14:3 15:1 pout 8:2 12:18 16:32 20:50 24:27 28:20 32:14 44:2
+hole set 44: |Aut H| 4, solid inside: yes, 76 solids in the complement, 2 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 110 pdeg 3:4 5:4 6:4 7:27 8:4 9:22 10:8 11:5 13:8 14:4 pout 8:4 12:8 16:49 20:40 24:30 28:12 32:18 36:4
+hole set 45: |Aut H| 8, solid inside: no, 92 solids in the complement, 2 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 110 pdeg 4:4 6:16 8:36 9:8 10:8 11:2 12:12 13:4 pout 8:4 12:24 16:36 20:28 24:42 28:8 32:13 36:8 44:2
+hole set 46: |Aut H| 1, solid inside: yes, 68 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 110 pdeg 5:5 6:17 7:19 8:12 9:7 10:5 11:8 12:9 13:7 14:1 pout 4:1 8:5 12:13 16:36 20:44 24:33 28:19 32:11 36:3
+hole set 47: |Aut H| 4, solid inside: yes, 96 solids in the complement, 2 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 110 pdeg 6:16 7:12 8:24 9:4 10:16 11:14 12:4 pout 12:16 16:28 20:44 24:44 28:31 32:2
+hole set 48: |Aut H| 8, solid inside: yes, 100 solids in the complement, 2 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 110 pdeg 6:8 7:8 8:28 9:24 10:16 11:6 pout 16:40 20:64 24:40 28:2 32:17 40:2
+hole set 49: |Aut H| 4, solid inside: yes, 100 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 110 pdeg 7:19 8:32 9:18 10:12 11:9 pout 8:4 16:43 20:48 24:48 28:16 32:2 36:4
+hole set 50: |Aut H| 4, solid inside: yes, 100 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 110 pdeg 7:21 8:28 9:20 10:12 11:9 pout 12:4 16:55 20:36 24:40 28:20 32:10
+hole set 51: |Aut H| 2, solid inside: yes, 96 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 111 pdeg 7:12 8:34 9:28 10:8 11:7 12:1 pout 8:2 12:20 16:30 20:38 24:48 28:20 32:3 36:4
+hole set 52: |Aut H| 2, solid inside: yes, 100 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 111 pdeg 7:24 8:20 9:22 10:19 11:2 13:3 pout 8:2 12:10 16:44 20:38 24:48 28:17 32:5 40:1
+hole set 53: |Aut H| 2, solid inside: yes, 100 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 111 pdeg 7:24 8:22 9:20 10:14 11:8 12:1 13:1 pout 12:11 16:40 20:51 24:42 28:17 32:1 40:3
+hole set 54: |Aut H| 2, solid inside: yes, 100 solids in the complement, 2 covers, 2 orbits ( ext13:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 112 pdeg 3:2 5:6 6:17 7:10 8:8 9:4 10:24 11:7 12:4 13:4 14:1 15:3 pout 8:2 12:28 16:24 20:42 24:36 28:22 32:6 40:5
+hole set 55: |Aut H| 2, solid inside: yes, 100 solids in the complement, 3 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 112 pdeg 7:17 8:28 9:19 10:18 11:6 12:2 pout 8:2 12:9 16:35 20:50 24:52 28:13 32:4
+hole set 56: |Aut H| 2, solid inside: yes, 108 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 113 pdeg 4:2 6:12 7:16 8:10 9:18 10:12 11:14 13:2 14:3 15:1 pout 8:2 12:12 16:44 20:44 24:29 28:24 32:8 44:2
+hole set 57: |Aut H| 2, solid inside: yes, 96 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 113 pdeg 7:11 8:27 9:30 10:14 11:8 pout 4:1 8:4 12:12 16:35 20:47 24:38 28:18 32:9 40:1
+hole set 58: |Aut H| 2, solid inside: yes, 96 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 113 pdeg 7:12 8:28 9:22 10:23 11:5 pout 4:2 12:14 16:45 20:36 24:36 28:24 32:4 36:4
+hole set 59: |Aut H| 36, solid inside: yes, 100 solids in the complement, 42 covers, 7 orbits ( ext13:7 ); sum |Aut H|/|Aut P| = 42; on unknown orbits 0, on another hole set 0, orbits reached 7  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 4:18 6:21 9:18 13:24 14:9 pout 16:48 20:63 24:54
+hole set 60: |Aut H| 6, solid inside: yes, 124 solids in the complement, 10 covers, 5 orbits ( ext13:5 ); sum |Aut H|/|Aut P| = 10; on unknown orbits 0, on another hole set 0, orbits reached 5  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 4:6 5:12 7:21 9:6 10:24 11:6 12:6 15:9 pout 8:9 12:6 16:45 20:48 24:18 28:27 32:6 36:6
+hole set 61: |Aut H| 8, solid inside: yes, 88 solids in the complement, 2 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 5:4 6:8 7:16 8:16 9:4 10:16 11:18 12:8 pout 12:24 16:50 20:16 24:36 28:31 32:8
+hole set 62: |Aut H| 2, solid inside: yes, 112 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:14 8:22 9:24 10:22 11:8 pout 8:3 12:15 16:39 20:39 24:45 28:15 32:7 36:2
+hole set 63: |Aut H| 2, solid inside: yes, 92 solids in the complement, 8 covers, 7 orbits ( spr:7 ); sum |Aut H|/|Aut P| = 8; on unknown orbits 0, on another hole set 0, orbits reached 7  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:14 8:26 9:24 10:15 11:8 12:1 13:2 pout 8:8 12:17 16:30 20:49 24:33 28:19 32:3 36:3 40:3
+hole set 64: |Aut H| 1, solid inside: yes, 100 solids in the complement, 3 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:15 8:16 9:35 10:17 11:5 12:1 13:1 pout 8:4 12:19 16:38 20:36 24:40 28:20 32:4 36:2 40:2
+hole set 65: |Aut H| 2, solid inside: yes, 112 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:16 8:18 9:27 10:20 11:9 pout 8:4 12:9 16:49 20:36 24:41 28:16 32:8 36:2
+hole set 66: |Aut H| 2, solid inside: yes, 92 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:19 8:22 9:17 10:22 11:6 12:2 13:2 pout 8:1 12:16 16:32 20:58 24:36 28:12 32:10
+hole set 67: |Aut H| 12, solid inside: yes, 124 solids in the complement, 31 covers, 11 orbits ( spr:11 ); sum |Aut H|/|Aut P| = 31; on unknown orbits 0, on another hole set 0, orbits reached 11  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:30 9:42 11:12 13:6 pout 12:12 16:48 20:48 24:36 28:12 32:6 40:3
+hole set 68: |Aut H| 24, solid inside: yes, 120 solids in the complement, 16 covers, 5 orbits ( spr:5 ); sum |Aut H|/|Aut P| = 16; on unknown orbits 0, on another hole set 0, orbits reached 5  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:48 11:42 pout 12:12 16:84 20:12 24:18 28:3 32:36
+hole set 69: |Aut H| 1, solid inside: yes, 100 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:8 8:34 9:21 10:20 11:5 12:1 14:1 pout 8:1 12:21 16:36 20:41 24:38 28:19 32:6 36:3
+hole set 70: |Aut H| 6, solid inside: yes, 96 solids in the complement, 14 covers, 10 orbits ( spr:10 ); sum |Aut H|/|Aut P| = 14; on unknown orbits 0, on another hole set 0, orbits reached 10  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 114 pdeg 7:9 8:24 9:39 10:6 11:12 pout 8:6 12:15 16:45 20:30 24:30 28:36 32:3
+hole set 71: |Aut H| 1, solid inside: yes, 92 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 116 pdeg 4:1 5:7 6:12 7:11 8:10 9:7 10:10 11:15 12:10 13:4 14:1 15:2 pout 8:6 12:24 16:34 20:40 24:30 28:17 32:8 36:5 40:1
+hole set 72: |Aut H| 8, solid inside: yes, 124 solids in the complement, 2 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 116 pdeg 6:28 9:12 10:32 11:12 14:6 pout 8:8 12:8 16:72 24:48 32:26 48:3
+hole set 73: |Aut H| 32, solid inside: yes, 212 solids in the complement, 2 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 116 pdeg 6:32 10:48 14:10 pout 0:8 16:104 32:40 48:13
+hole set 74: |Aut H| 16, solid inside: no, 72 solids in the complement, 2 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 116 pdeg 6:4 7:12 8:32 9:8 10:16 11:8 12:8 16:2 pout 12:16 16:58 20:52 24:8 28:21 32:2 36:8
+hole set 75: |Aut H| 2, solid inside: yes, 96 solids in the complement, 3 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 116 pdeg 7:4 8:32 9:18 10:30 11:6 pout 12:24 16:38 20:44 24:31 28:25 32:3
+hole set 76: |Aut H| 2, solid inside: yes, 108 solids in the complement, 3 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 116 pdeg 7:7 8:28 9:25 10:22 11:6 14:2 pout 8:3 12:18 16:37 20:47 24:38 28:12 32:6 36:4
+hole set 77: |Aut H| 12, solid inside: yes, 100 solids in the complement, 22 covers, 7 orbits ( ext13:7 ); sum |Aut H|/|Aut P| = 22; on unknown orbits 0, on another hole set 0, orbits reached 7  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 117 pdeg 5:12 6:24 9:12 10:12 12:12 13:12 14:3 15:3 pout 12:12 16:24 20:84 24:39 28:6
+hole set 78: |Aut H| 2, solid inside: yes, 104 solids in the complement, 3 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 117 pdeg 7:12 8:15 9:31 10:20 11:8 12:4 pout 8:4 12:24 16:35 20:49 24:27 28:13 32:7 36:4 40:2
+hole set 79: |Aut H| 6, solid inside: yes, 108 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 117 pdeg 7:3 8:30 9:33 10:6 11:15 12:3 pout 8:3 12:15 16:46 20:32 24:54 28:6 32:9
+hole set 80: |Aut H| 6, solid inside: yes, 120 solids in the complement, 18 covers, 11 orbits ( spr:11 ); sum |Aut H|/|Aut P| = 18; on unknown orbits 0, on another hole set 0, orbits reached 11  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 117 pdeg 7:6 8:30 9:24 10:21 12:6 13:3 pout 12:39 16:18 20:45 24:27 28:30 32:6
+hole set 81: |Aut H| 6, solid inside: yes, 108 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 117 pdeg 7:9 8:18 9:30 10:24 11:6 12:3 pout 12:21 16:39 20:38 24:48 28:18 40:1
+hole set 82: |Aut H| 4, solid inside: yes, 100 solids in the complement, 2 covers, 2 orbits ( ext13:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 118 pdeg 5:4 6:11 7:22 8:4 9:10 10:6 11:14 12:9 13:4 15:6 pout 12:30 16:32 20:44 24:36 28:6 32:8 36:4 40:4 48:1
+hole set 83: |Aut H| 8, solid inside: no, 64 solids in the complement, 2 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 118 pdeg 5:4 7:18 8:4 9:28 10:12 11:12 12:12 pout 8:8 12:8 16:38 20:72 24:28 28:9 44:2
+hole set 84: |Aut H| 2, solid inside: no, 80 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 118 pdeg 6:2 7:16 8:20 9:18 10:14 11:10 12:6 13:2 16:2 pout 4:2 8:6 12:22 16:40 20:43 24:24 28:16 32:2 36:8 44:2
+hole set 85: |Aut H| 8, solid inside: no, 84 solids in the complement, 2 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 118 pdeg 8:24 9:40 10:20 11:2 13:4 pout 16:72 20:48 24:28 28:8 32:3 36:4 44:2
+hole set 86: |Aut H| 2, solid inside: yes, 92 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 119 pdeg 7:11 8:14 9:18 10:38 11:6 12:3 pout 4:2 8:3 12:15 16:43 20:46 24:31 28:18 32:6 40:1
+hole set 87: |Aut H| 1, solid inside: yes, 92 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 119 pdeg 7:11 8:18 9:25 10:18 11:11 12:5 13:2 pout 8:2 12:25 16:42 20:37 24:35 28:15 32:7 36:2
+hole set 88: |Aut H| 1, solid inside: yes, 96 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 119 pdeg 7:3 8:19 9:31 10:28 11:7 12:2 pout 8:5 12:15 16:39 20:55 24:32 28:11 32:8
+hole set 89: |Aut H| 1, solid inside: yes, 96 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 119 pdeg 7:5 8:16 9:32 10:25 11:12 pout 8:2 12:25 16:32 20:51 24:35 28:13 32:7
+hole set 90: |Aut H| 2, solid inside: yes, 92 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 119 pdeg 7:9 8:14 9:29 10:25 11:9 12:4 pout 8:5 12:19 16:35 20:50 24:36 28:12 32:4 36:4
+hole set 91: |Aut H| 1, solid inside: yes, 92 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 119 pdeg 7:9 8:22 9:22 10:17 11:16 12:2 13:2 pout 8:5 12:14 16:41 20:58 24:26 28:14 32:5 40:1 44:1
+hole set 92: |Aut H| 1, solid inside: yes, 92 solids in the complement, 4 covers, 4 orbits ( spr:4 ); sum |Aut H|/|Aut P| = 4; on unknown orbits 0, on another hole set 0, orbits reached 4  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 120 pdeg 7:4 8:14 9:36 10:26 11:6 12:3 14:1 pout 4:1 8:5 12:20 16:40 20:45 24:30 28:14 32:10
+hole set 93: |Aut H| 2, solid inside: yes, 116 solids in the complement, 4 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 4; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 120 pdeg 7:4 8:22 9:26 10:18 11:18 12:2 pout 8:7 12:14 16:47 20:34 24:43 28:12 32:6 36:2
+hole set 94: |Aut H| 18, solid inside: yes, 76 solids in the complement, 10 covers, 6 orbits ( spr:6 ); sum |Aut H|/|Aut P| = 10; on unknown orbits 0, on another hole set 0, orbits reached 6  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 120 pdeg 7:6 8:18 9:27 10:27 11:9 14:3 pout 12:36 16:60 20:24 28:36 40:9
+hole set 95: |Aut H| 72, solid inside: yes, 156 solids in the complement, 78 covers, 11 orbits ( spr:11 ); sum |Aut H|/|Aut P| = 78; on unknown orbits 0, on another hole set 0, orbits reached 11  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 120 pdeg 7:60 14:30 pout 12:24 16:60 24:72 32:9
+hole set 96: |Aut H| 6, solid inside: yes, 80 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 120 pdeg 8:12 9:42 10:30 11:6 pout 8:9 12:12 16:57 20:35 24:27 28:18 32:6 40:1
+hole set 97: |Aut H| 30, solid inside: yes, 96 solids in the complement, 21 covers, 6 orbits ( spr:6 ); sum |Aut H|/|Aut P| = 21; on unknown orbits 0, on another hole set 0, orbits reached 6  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 120 pdeg 8:30 9:30 11:30 pout 12:30 16:45 24:90
+hole set 98: |Aut H| 720, solid inside: no, 112 solids in the complement, 24 covers, 3 orbits ( max:3 ); sum |Aut H|/|Aut P| = 24; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 120 pdeg 8:60 12:30 pout 12:90 28:75
+hole set 99: |Aut H| 2, solid inside: yes, 96 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 121 pdeg 7:2 8:22 9:28 10:20 11:13 12:3 13:2 pout 8:4 12:32 16:39 20:31 24:26 28:28 32:2 36:3
+hole set 100: |Aut H| 2, solid inside: yes, 96 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 121 pdeg 7:2 8:25 9:24 10:19 11:13 12:7 pout 4:2 8:6 12:14 16:50 20:40 24:26 28:18 32:9
+hole set 101: |Aut H| 2, solid inside: yes, 92 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 121 pdeg 7:3 8:15 9:27 10:32 11:13 pout 8:6 12:14 16:47 20:51 24:24 28:15 32:6 36:2
+hole set 102: |Aut H| 2, solid inside: yes, 100 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 121 pdeg 7:5 8:22 9:18 10:27 11:14 12:2 13:2 pout 8:4 12:22 16:36 20:48 24:37 28:10 32:6 36:2
+hole set 103: |Aut H| 2, solid inside: yes, 92 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 121 pdeg 7:6 8:17 9:23 10:24 11:18 12:2 pout 4:1 8:11 12:14 16:35 20:45 24:40 28:10 32:9
+hole set 104: |Aut H| 1, solid inside: yes, 92 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 121 pdeg 7:7 8:15 9:25 10:28 11:9 12:4 13:2 pout 8:8 12:17 16:41 20:52 24:25 28:12 32:6 36:4
+hole set 105: |Aut H| 2, solid inside: yes, 100 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 122 pdeg 7:10 8:18 9:24 10:10 11:18 12:4 13:6 pout 8:7 12:16 16:35 20:66 24:23 28:10 32:6 36:2
+hole set 106: |Aut H| 2, solid inside: yes, 100 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 122 pdeg 7:13 8:12 9:17 10:26 11:14 12:4 13:4 pout 8:4 12:15 16:48 20:52 24:29 28:11 32:4 36:2
+hole set 107: |Aut H| 1, solid inside: yes, 88 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 122 pdeg 7:3 8:13 9:29 10:29 11:14 12:2 pout 8:5 12:19 16:41 20:44 24:34 28:22
+hole set 108: |Aut H| 1, solid inside: yes, 88 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 122 pdeg 7:5 8:13 9:25 10:29 11:17 13:1 pout 8:3 12:25 16:36 20:46 24:33 28:15 32:6 36:1
+hole set 109: |Aut H| 1, solid inside: yes, 100 solids in the complement, 4 covers, 4 orbits ( spr:4 ); sum |Aut H|/|Aut P| = 4; on unknown orbits 0, on another hole set 0, orbits reached 4  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 122 pdeg 7:6 8:15 9:24 10:28 11:11 12:3 13:3 pout 8:10 12:19 16:44 20:38 24:25 28:20 32:5 36:4
+hole set 110: |Aut H| 4, solid inside: yes, 88 solids in the complement, 2 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 122 pdeg 7:6 9:42 10:28 11:14 pout 4:4 8:1 12:25 16:48 20:22 24:40 28:17 32:4 36:4
+hole set 111: |Aut H| 2, solid inside: yes, 104 solids in the complement, 3 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 123 pdeg 7:1 8:20 9:25 10:19 11:21 12:4 pout 8:4 12:32 16:38 20:37 24:22 28:25 32:7
+hole set 112: |Aut H| 18, solid inside: yes, 144 solids in the complement, 18 covers, 8 orbits ( spr:8 ); sum |Aut H|/|Aut P| = 18; on unknown orbits 0, on another hole set 0, orbits reached 8  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 123 pdeg 7:12 8:27 10:9 11:33 12:9 pout 12:54 16:12 20:45 24:21 28:21 32:9 40:3
+hole set 113: |Aut H| 2, solid inside: yes, 104 solids in the complement, 3 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 123 pdeg 7:3 8:17 9:26 10:18 11:22 12:4 pout 4:2 8:7 12:19 16:38 20:47 24:31 28:14 32:5 40:2
+hole set 114: |Aut H| 6, solid inside: yes, 116 solids in the complement, 14 covers, 10 orbits ( spr:10 ); sum |Aut H|/|Aut P| = 14; on unknown orbits 0, on another hole set 0, orbits reached 10  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 123 pdeg 7:3 8:21 9:15 10:24 11:27 pout 8:6 12:24 16:57 20:36 24:15 28:6 32:12 36:9
+hole set 115: |Aut H| 1, solid inside: yes, 104 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 123 pdeg 7:5 8:15 9:25 10:20 11:21 12:2 13:2 pout 4:1 8:6 12:25 16:44 20:36 24:27 28:16 32:7 36:2 44:1
+hole set 116: |Aut H| 1, solid inside: yes, 100 solids in the complement, 3 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 123 pdeg 7:5 8:18 9:18 10:27 11:18 12:2 13:1 15:1 pout 4:3 8:5 12:20 16:39 20:43 24:31 28:17 32:6 36:1
+hole set 117: |Aut H| 6, solid inside: yes, 116 solids in the complement, 14 covers, 10 orbits ( spr:10 ); sum |Aut H|/|Aut P| = 14; on unknown orbits 0, on another hole set 0, orbits reached 10  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 123 pdeg 7:6 8:12 9:33 10:9 11:24 12:6 pout 8:3 12:36 16:45 20:18 24:45 28:6 32:9 44:3
+hole set 118: |Aut H| 1, solid inside: yes, 104 solids in the complement, 6 covers, 6 orbits ( spr:6 ); sum |Aut H|/|Aut P| = 6; on unknown orbits 0, on another hole set 0, orbits reached 6  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 123 pdeg 7:6 8:16 9:23 10:22 11:16 12:4 13:2 14:1 pout 8:6 12:32 16:33 20:35 24:34 28:16 32:8 36:1
+hole set 119: |Aut H| 1, solid inside: yes, 88 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 124 pdeg 7:1 8:15 9:24 10:31 11:13 12:6 pout 8:5 12:24 16:41 20:46 24:28 28:16 32:3 36:2
+hole set 120: |Aut H| 16, solid inside: yes, 72 solids in the complement, 8 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 8; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 124 pdeg 7:10 8:16 9:24 10:16 11:10 12:2 13:8 14:4 pout 12:32 16:56 20:24 24:32 28:13 32:8
+hole set 121: |Aut H| 1, solid inside: yes, 88 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 124 pdeg 7:2 8:12 9:25 10:32 11:16 12:2 13:1 pout 8:4 12:20 16:48 20:48 24:21 28:22 36:2
+hole set 122: |Aut H| 4, solid inside: yes, 116 solids in the complement, 3 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 124 pdeg 7:4 8:16 9:14 10:42 11:8 12:2 13:2 14:2 pout 8:14 12:16 16:56 20:28 24:24 28:6 32:17 40:3 48:1
+hole set 123: |Aut H| 1, solid inside: yes, 92 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 125 pdeg 7:1 8:14 9:25 10:25 11:21 12:3 14:1 pout 4:1 8:4 12:30 16:34 20:46 24:26 28:19 32:4 36:1
+hole set 124: |Aut H| 1, solid inside: yes, 92 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 125 pdeg 7:2 8:16 9:21 10:29 11:12 12:9 14:1 pout 0:1 8:11 12:21 16:32 20:44 24:34 28:18 32:4
+hole set 125: |Aut H| 1, solid inside: yes, 92 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 125 pdeg 8:10 9:34 10:25 11:15 12:4 13:2 pout 8:10 12:21 16:43 20:35 24:41 28:8 32:6 36:1
+hole set 126: |Aut H| 1, solid inside: yes, 92 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 125 pdeg 8:14 9:25 10:31 11:15 12:3 13:1 14:1 pout 4:2 8:9 12:22 16:32 20:49 24:33 28:13 32:4 36:1
+hole set 127: |Aut H| 2, solid inside: yes, 104 solids in the complement, 4 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 4; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 7:1 8:16 9:17 10:30 11:19 12:6 13:1 pout 8:3 12:35 16:34 20:44 24:27 28:13 32:9
+hole set 128: |Aut H| 24, solid inside: yes, 144 solids in the complement, 10 covers, 5 orbits ( spr:5 ); sum |Aut H|/|Aut P| = 10; on unknown orbits 0, on another hole set 0, orbits reached 5  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 7:12 8:12 9:12 10:12 11:30 12:12 pout 8:12 12:48 16:48 28:15 32:42
+hole set 129: |Aut H| 6, solid inside: yes, 132 solids in the complement, 32 covers, 14 orbits ( spr:14 ); sum |Aut H|/|Aut P| = 32; on unknown orbits 0, on another hole set 0, orbits reached 14  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 7:18 8:12 9:21 10:21 14:9 15:9 pout 8:12 12:24 16:54 20:18 24:30 28:12 32:12 40:3
+hole set 130: |Aut H| 2, solid inside: yes, 100 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 7:2 8:16 9:21 10:24 11:18 12:5 13:3 14:1 pout 8:10 12:26 16:40 20:34 24:34 28:16 32:2 40:3
+hole set 131: |Aut H| 2, solid inside: yes, 108 solids in the complement, 9 covers, 6 orbits ( spr:6 ); sum |Aut H|/|Aut P| = 9; on unknown orbits 0, on another hole set 0, orbits reached 6  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 7:5 8:12 9:22 10:26 11:11 12:10 13:4 pout 4:2 8:6 12:25 16:41 20:47 24:23 28:12 32:7 36:2
+hole set 132: |Aut H| 4, solid inside: yes, 108 solids in the complement, 6 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 6; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 7:5 8:16 9:22 10:12 11:26 12:4 13:4 15:1 pout 4:2 12:36 16:43 20:36 24:20 28:22 32:6
+hole set 133: |Aut H| 6, solid inside: yes, 92 solids in the complement, 8 covers, 5 orbits ( spr:5 ); sum |Aut H|/|Aut P| = 8; on unknown orbits 0, on another hole set 0, orbits reached 5  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 8:12 9:21 10:39 11:15 14:3 pout 8:12 12:30 16:54 20:18 24:12 28:24 32:12 40:3
+hole set 134: |Aut H| 24, solid inside: yes, 88 solids in the complement, 4 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 4; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 8:24 9:24 10:12 11:18 13:12 pout 8:24 16:72 20:12 24:18 28:27 32:12
+hole set 135: |Aut H| 24, solid inside: yes, 132 solids in the complement, 16 covers, 3 orbits ( ext13:3 ); sum |Aut H|/|Aut P| = 16; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 8:60 13:24 15:6 pout 16:108 24:24 28:30 32:3
+hole set 136: |Aut H| 18, solid inside: yes, 128 solids in the complement, 8 covers, 6 orbits ( spr:6 ); sum |Aut H|/|Aut P| = 8; on unknown orbits 0, on another hole set 0, orbits reached 6  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 126 pdeg 9:54 11:36 pout 0:6 12:18 16:54 20:24 24:27 28:36
+hole set 137: |Aut H| 1, solid inside: yes, 88 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 7:1 8:10 9:22 10:31 11:20 12:4 13:2 pout 0:1 8:10 12:21 16:41 20:43 24:29 28:15 32:3 36:1 40:1
+hole set 138: |Aut H| 1, solid inside: yes, 96 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 7:2 8:12 9:21 10:26 11:21 12:5 13:3 pout 4:2 8:4 12:24 16:46 20:38 24:30 28:16 32:4 36:1
+hole set 139: |Aut H| 1, solid inside: yes, 104 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 7:2 8:13 9:22 10:23 11:20 12:7 13:3 pout 4:2 8:11 12:20 16:38 20:40 24:36 28:13 32:4 36:1
+hole set 140: |Aut H| 1, solid inside: yes, 96 solids in the complement, 4 covers, 4 orbits ( spr:4 ); sum |Aut H|/|Aut P| = 4; on unknown orbits 0, on another hole set 0, orbits reached 4  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 7:3 8:7 9:25 10:31 11:14 12:7 13:3 pout 4:2 8:8 12:31 16:37 20:42 24:17 28:15 32:10 36:3
+hole set 141: |Aut H| 2, solid inside: yes, 92 solids in the complement, 3 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 7:4 8:12 9:22 10:19 11:22 12:8 13:3 pout 4:2 8:4 12:27 16:41 20:43 24:25 28:20 32:1 36:2
+hole set 142: |Aut H| 1, solid inside: yes, 96 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 7:4 8:14 9:12 10:28 11:25 12:5 13:2 pout 4:2 8:8 12:16 16:52 20:37 24:28 28:15 32:6 36:1
+hole set 143: |Aut H| 2, solid inside: yes, 100 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 7:6 8:11 9:16 10:22 11:27 12:6 13:2 pout 8:7 12:22 16:42 20:52 24:25 28:11 32:4 36:2
+hole set 144: |Aut H| 1, solid inside: yes, 88 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 8:10 9:28 10:21 11:26 12:4 13:1 pout 0:1 8:9 12:22 16:42 20:42 24:29 28:14 32:4 36:2
+hole set 145: |Aut H| 1, solid inside: yes, 84 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 8:5 9:30 10:32 11:17 12:6 pout 4:1 8:4 12:25 16:50 20:36 24:33 28:11 32:2 36:3
+hole set 146: |Aut H| 1, solid inside: yes, 96 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 8:6 9:30 10:34 11:12 12:6 13:1 14:1 pout 4:2 8:8 12:24 16:39 20:38 24:38 28:11 32:4 36:1
+hole set 147: |Aut H| 1, solid inside: yes, 96 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 127 pdeg 8:9 9:26 10:27 11:25 12:2 14:1 pout 8:11 12:27 16:31 20:42 24:39 28:11 32:2 36:2
+hole set 148: |Aut H| 2, solid inside: yes, 112 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 128 pdeg 7:2 8:8 9:30 10:19 11:14 12:17 pout 8:9 12:30 16:28 20:45 24:40 28:12 40:1
+hole set 149: |Aut H| 2, solid inside: yes, 112 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 128 pdeg 7:4 8:12 9:16 10:21 11:28 12:7 13:2 pout 8:18 12:17 16:36 20:47 24:29 28:9 32:3 36:4 40:2
+hole set 150: |Aut H| 2, solid inside: yes, 88 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 128 pdeg 7:4 8:5 9:22 10:28 11:22 12:9 pout 8:6 12:31 16:40 20:37 24:29 28:17 32:3 36:2
+hole set 151: |Aut H| 1, solid inside: yes, 100 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 129 pdeg 7:1 8:8 9:22 10:29 11:20 12:7 13:2 14:1 pout 0:1 8:10 12:26 16:40 20:39 24:30 28:10 32:9
+hole set 152: |Aut H| 12, solid inside: yes, 132 solids in the complement, 24 covers, 7 orbits ( spr:7 ); sum |Aut H|/|Aut P| = 24; on unknown orbits 0, on another hole set 0, orbits reached 7  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 129 pdeg 7:12 8:12 9:24 10:24 14:3 15:15 pout 8:12 12:36 16:36 20:36 24:3 28:30 32:12
+hole set 153: |Aut H| 1, solid inside: yes, 96 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 129 pdeg 7:3 8:6 9:22 10:27 11:22 12:7 13:2 14:1 pout 8:7 12:27 16:40 20:45 24:28 28:14 32:3 36:1
+hole set 154: |Aut H| 1, solid inside: yes, 100 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 129 pdeg 8:8 9:22 10:31 11:21 12:5 13:2 14:1 pout 0:1 8:10 12:24 16:40 20:45 24:25 28:13 32:6 36:1
+hole set 155: |Aut H| 4, solid inside: yes, 120 solids in the complement, 4 covers, 4 orbits ( spr:4 ); sum |Aut H|/|Aut P| = 4; on unknown orbits 0, on another hole set 0, orbits reached 4  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 130 pdeg 7:2 8:4 9:26 10:20 11:30 12:4 13:4 pout 8:12 12:30 16:26 20:56 24:24 28:9 32:4 36:4
+hole set 156: |Aut H| 1, solid inside: yes, 100 solids in the complement, 3 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 130 pdeg 7:3 8:5 9:13 10:38 11:22 12:8 14:1 pout 8:10 12:22 16:47 20:38 24:31 28:14 32:3
+hole set 157: |Aut H| 6, solid inside: yes, 96 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 130 pdeg 7:3 8:6 9:21 10:26 11:22 12:6 13:6 pout 8:9 12:13 16:71 20:24 24:24 28:24
+hole set 158: |Aut H| 6, solid inside: yes, 96 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 130 pdeg 7:4 8:6 9:18 10:28 11:25 13:9 pout 8:9 12:16 16:50 20:54 24:24 28:3 32:9
+hole set 159: |Aut H| 8, solid inside: yes, 140 solids in the complement, 8 covers, 5 orbits ( spr:5 ); sum |Aut H|/|Aut P| = 8; on unknown orbits 0, on another hole set 0, orbits reached 5  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 130 pdeg 8:16 9:12 10:24 11:26 12:8 13:4 pout 8:24 12:16 16:41 20:20 24:42 28:18 32:4
+hole set 160: |Aut H| 1, solid inside: yes, 100 solids in the complement, 3 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 130 pdeg 8:9 9:21 10:23 11:29 12:5 13:2 14:1 pout 4:2 8:8 12:23 16:39 20:50 24:28 28:10 32:4 36:1
+hole set 161: |Aut H| 1, solid inside: yes, 104 solids in the complement, 3 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 132 pdeg 7:1 8:5 9:18 10:29 11:22 12:12 13:3 pout 0:1 4:2 8:9 12:29 16:37 20:44 24:27 28:9 32:4 36:2 40:1
+hole set 162: |Aut H| 1, solid inside: yes, 96 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 132 pdeg 7:2 8:3 9:19 10:27 11:28 12:6 13:5 pout 4:1 8:12 12:37 16:31 20:38 24:22 28:15 32:5 36:4
+hole set 163: |Aut H| 6, solid inside: yes, 112 solids in the complement, 11 covers, 7 orbits ( spr:7 ); sum |Aut H|/|Aut P| = 11; on unknown orbits 0, on another hole set 0, orbits reached 7  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 132 pdeg 7:3 8:6 9:12 10:24 11:33 12:12 pout 8:12 12:27 16:51 20:36 24:21 28:6 32:12
+hole set 164: |Aut H| 4, solid inside: yes, 108 solids in the complement, 4 covers, 4 orbits ( spr:4 ); sum |Aut H|/|Aut P| = 4; on unknown orbits 0, on another hole set 0, orbits reached 4  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 132 pdeg 7:4 8:3 9:18 10:26 11:24 12:9 13:6 pout 4:4 8:4 12:36 16:42 20:34 24:32 28:8 40:4 48:1
+hole set 165: |Aut H| 1, solid inside: yes, 84 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 132 pdeg 8:2 9:15 10:41 11:21 12:11 pout 4:1 8:9 12:19 16:48 20:49 24:27 28:9 32:3
+hole set 166: |Aut H| 288, solid inside: yes, 136 solids in the complement, 12 covers, 2 orbits ( ext13:2 ); sum |Aut H|/|Aut P| = 12; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 132 pdeg 8:36 11:36 12:6 14:12 pout 8:72 20:36 28:21 32:36
+hole set 167: |Aut H| 6, solid inside: yes, 108 solids in the complement, 13 covers, 7 orbits ( spr:7 ); sum |Aut H|/|Aut P| = 13; on unknown orbits 0, on another hole set 0, orbits reached 7  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 132 pdeg 8:6 9:24 10:27 11:9 12:21 13:3 pout 8:12 12:30 16:54 20:24 24:18 28:18 32:6 40:3
+hole set 168: |Aut H| 6, solid inside: yes, 128 solids in the complement, 3 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 132 pdeg 9:24 10:24 11:36 12:6 pout 0:1 8:12 12:6 16:60 20:44 24:36 28:6
+hole set 169: |Aut H| 6, solid inside: yes, 120 solids in the complement, 3 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 133 pdeg 7:4 8:3 9:12 10:28 11:25 12:18 pout 8:3 12:34 16:51 20:36 24:21 28:11 32:9
+hole set 170: |Aut H| 1, solid inside: yes, 92 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 133 pdeg 8:3 9:18 10:28 11:31 12:6 13:4 pout 4:1 8:9 12:27 16:44 20:40 24:31 28:10 32:2 36:1
+hole set 171: |Aut H| 3, solid inside: yes, 104 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 134 pdeg 7:2 8:3 9:12 10:32 11:20 12:21 pout 0:1 8:9 12:37 16:28 20:45 24:30 28:12 32:3
+hole set 172: |Aut H| 3, solid inside: yes, 104 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 134 pdeg 7:4 8:3 9:6 10:30 11:35 12:9 13:3 pout 0:1 8:9 12:34 16:31 20:48 24:27 28:12 32:3
+hole set 173: |Aut H| 2, solid inside: yes, 120 solids in the complement, 3 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 134 pdeg 8:10 9:28 10:21 11:10 12:6 14:11 15:4 pout 4:4 8:14 12:35 16:38 20:27 24:19 28:16 32:10 36:2
+hole set 174: |Aut H| 2, solid inside: yes, 96 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 135 pdeg 8:3 9:15 10:23 11:38 12:5 13:6 pout 8:21 12:28 16:38 20:32 24:25 28:14 32:2 36:4 44:1
+hole set 175: |Aut H| 2, solid inside: yes, 96 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 135 pdeg 8:5 9:15 10:20 11:36 12:8 13:6 pout 4:2 8:14 12:36 16:43 20:22 24:25 28:8 32:12 36:3
+hole set 176: |Aut H| 6, solid inside: yes, 128 solids in the complement, 21 covers, 11 orbits ( spr:11 ); sum |Aut H|/|Aut P| = 21; on unknown orbits 0, on another hole set 0, orbits reached 11  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 135 pdeg 8:6 9:33 10:18 11:12 12:6 14:9 15:6 pout 8:12 12:42 16:42 20:24 24:21 28:18 36:6
+hole set 177: |Aut H| 2, solid inside: yes, 84 solids in the complement, 1 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 136 pdeg 8:2 9:11 10:30 11:30 12:15 13:1 14:1 pout 8:8 12:30 16:52 20:46 24:12 28:10 32:5 40:2
+hole set 178: |Aut H| 2, solid inside: yes, 100 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 136 pdeg 8:2 9:13 10:25 11:33 12:15 13:2 pout 4:2 8:12 12:36 16:42 20:36 24:18 28:12 36:2 40:5
+hole set 179: |Aut H| 8, solid inside: yes, 132 solids in the complement, 2 covers, 1 orbits ( spr:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 136 pdeg 9:8 10:48 11:12 12:18 13:4 pout 8:16 12:28 16:68 20:16 24:16 28:8 36:8 40:4 48:1
+hole set 180: |Aut H| 4, solid inside: yes, 100 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 138 pdeg 7:1 8:4 9:10 10:12 11:51 12:4 13:4 14:4 pout 8:10 12:30 16:49 20:42 24:18 28:12 32:4
+hole set 181: |Aut H| 24, solid inside: yes, 164 solids in the complement, 44 covers, 10 orbits ( spr:10 ); sum |Aut H|/|Aut P| = 44; on unknown orbits 0, on another hole set 0, orbits reached 10  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 138 pdeg 7:12 11:72 15:6 pout 8:36 12:12 16:51 24:48 28:6 32:12
+hole set 182: |Aut H| 12, solid inside: yes, 124 solids in the complement, 12 covers, 5 orbits ( spr:5 ); sum |Aut H|/|Aut P| = 12; on unknown orbits 0, on another hole set 0, orbits reached 5  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 138 pdeg 9:24 11:54 13:12 pout 8:36 12:33 16:24 20:12 24:36 28:12 36:12
+hole set 183: |Aut H| 6, solid inside: yes, 116 solids in the complement, 3 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 140 pdeg 7:2 9:21 10:23 11:21 12:6 14:11 15:6 pout 4:6 8:18 12:50 16:16 20:30 24:24 28:12 40:9
+hole set 184: |Aut H| 18, solid inside: yes, 136 solids in the complement, 30 covers, 12 orbits ( spr:12 ); sum |Aut H|/|Aut P| = 30; on unknown orbits 0, on another hole set 0, orbits reached 12  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 141 pdeg 7:6 9:18 11:45 13:6 14:15 pout 8:54 12:36 16:24 28:33 32:9 44:9
+hole set 185: |Aut H| 24, solid inside: yes, 72 solids in the complement, 6 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 6; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 142 pdeg 10:36 11:22 12:24 13:8 pout 8:12 12:22 16:110 28:9 36:12
+hole set 186: |Aut H| 8, solid inside: yes, 132 solids in the complement, 10 covers, 3 orbits ( spr:3 ); sum |Aut H|/|Aut P| = 10; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 142 pdeg 9:12 10:16 11:30 12:20 13:12 pout 4:8 8:16 12:32 16:48 20:24 24:16 28:2 32:17 40:2
+hole set 187: |Aut H| 2, solid inside: yes, 108 solids in the complement, 2 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 144 pdeg 9:20 10:14 11:27 12:13 14:5 15:11 pout 4:6 8:12 12:44 16:36 20:30 24:20 28:12 36:2 40:3
+hole set 188: |Aut H| 4, solid inside: yes, 124 solids in the complement, 4 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 4; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 145 pdeg 8:4 9:12 10:8 11:34 12:16 14:11 15:5 pout 4:4 8:20 12:32 16:48 20:32 24:9 28:8 32:10 44:2
+hole set 189: |Aut H| 24, solid inside: yes, 132 solids in the complement, 6 covers, 2 orbits ( spr:2 ); sum |Aut H|/|Aut P| = 6; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 148 pdeg 9:12 10:44 14:22 15:12 pout 0:8 8:72 12:8 16:32 32:30 40:12 48:3
+hole set 190: |Aut H| 120, solid inside: yes, 76 solids in the complement, 6 covers, 4 orbits ( spr:4 ); sum |Aut H|/|Aut P| = 6; on unknown orbits 0, on another hole set 0, orbits reached 4  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 150 pdeg 11:30 12:60 pout 12:30 16:120 32:15
+hole set 191: |Aut H| 48, solid inside: yes, 164 solids in the complement, 30 covers, 9 orbits ( spr:9 ); sum |Aut H|/|Aut P| = 30; on unknown orbits 0, on another hole set 0, orbits reached 9  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 156 pdeg 10:24 11:24 12:12 14:6 15:24 pout 8:72 12:24 20:48 32:6 40:12 48:3
+hole set 192: |Aut H| 600, solid inside: yes, 196 solids in the complement, 64 covers, 4 orbits ( spr:4 ); sum |Aut H|/|Aut P| = 64; on unknown orbits 0, on another hole set 0, orbits reached 4  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 165 pdeg 7:15 14:75 pout 12:150 40:15
+hole set 193: |Aut H| 72, solid inside: yes, 156 solids in the complement, 30 covers, 5 orbits ( spr:5 ); sum |Aut H|/|Aut P| = 30; on unknown orbits 0, on another hole set 0, orbits reached 5  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 174 pdeg 8:9 10:6 14:39 15:36 pout 0:36 12:54 16:54 24:6 28:6 48:9
+hole set 194: |Aut H| 4320, solid inside: yes, 308 solids in the complement, 426 covers, 6 orbits ( spr:6 ); sum |Aut H|/|Aut P| = 426; on unknown orbits 0, on another hole set 0, orbits reached 6  OK [0.2 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 180 pdeg 14:90 pout 0:120 48:45
+hole set 195: |Aut H| 288, solid inside: yes, 220 solids in the complement, 144 covers, 7 orbits ( ext13:7 ); sum |Aut H|/|Aut P| = 144; on unknown orbits 0, on another hole set 0, orbits reached 7  OK [0.1 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 60 pdeg 0:36 7:48 14:6 pout 16:36 28:48 32:72 48:9
+hole set 196: |Aut H| 6, solid inside: yes, 80 solids in the complement, 11 covers, 9 orbits ( ext13:9 ); sum |Aut H|/|Aut P| = 11; on unknown orbits 0, on another hole set 0, orbits reached 9  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 72 pdeg 2:12 3:12 4:12 5:18 6:6 8:12 9:12 11:6 pout 16:6 20:36 24:42 28:48 32:27 36:6
+hole set 197: |Aut H| 12, solid inside: yes, 72 solids in the complement, 12 covers, 9 orbits ( ext12:9 ); sum |Aut H|/|Aut P| = 12; on unknown orbits 0, on another hole set 0, orbits reached 9  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 75 pdeg 3:12 4:12 5:12 6:36 7:6 8:3 11:9 pout 16:12 20:24 24:60 28:39 32:30
+hole set 198: |Aut H| 2, solid inside: yes, 72 solids in the complement, 3 covers, 3 orbits ( ext13:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 76 pdeg 2:7 3:16 4:14 5:12 6:10 8:7 9:12 10:6 11:4 13:2 pout 12:2 16:14 20:30 24:36 28:53 32:26 36:4
+hole set 199: |Aut H| 4, solid inside: yes, 64 solids in the complement, 4 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 4; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 77 pdeg 2:4 3:8 4:28 5:14 6:5 7:1 8:8 9:8 10:6 11:6 13:2 pout 12:4 16:4 20:36 24:46 28:49 32:24 36:2
+hole set 200: |Aut H| 8, solid inside: yes, 84 solids in the complement, 6 covers, 2 orbits ( ext13:2 ); sum |Aut H|/|Aut P| = 6; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 78 pdeg 0:4 3:8 4:32 5:8 6:4 8:12 10:8 11:14 pout 12:8 16:16 20:24 24:52 28:26 32:23 36:16
+hole set 201: |Aut H| 6, solid inside: yes, 80 solids in the complement, 8 covers, 8 orbits ( ext13:8 ); sum |Aut H|/|Aut P| = 8; on unknown orbits 0, on another hole set 0, orbits reached 8  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 78 pdeg 3:6 4:24 5:12 6:15 8:15 9:18 pout 12:6 16:15 20:18 24:45 28:63 32:18
+hole set 202: |Aut H| 6, solid inside: no, 72 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 78 pdeg 4:18 5:12 6:30 7:18 8:3 9:6 10:3 pout 12:6 16:12 20:21 24:48 28:46 32:32
+hole set 203: |Aut H| 12, solid inside: yes, 120 solids in the complement, 16 covers, 8 orbits ( ext13:8 ); sum |Aut H|/|Aut P| = 16; on unknown orbits 0, on another hole set 0, orbits reached 8  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 78 pdeg 4:36 6:24 7:6 9:24 pout 16:6 20:24 24:69 28:48 32:18
+hole set 204: |Aut H| 2, solid inside: no, 84 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 79 pdeg 2:6 3:6 4:11 5:15 6:8 7:15 8:14 9:11 10:4 pout 8:2 12:7 16:20 20:26 24:46 28:31 32:21 36:9 40:2 48:1
+hole set 205: |Aut H| 4, solid inside: no, 100 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 80 pdeg 4:4 5:16 6:36 7:24 8:10 pout 16:18 20:36 24:46 28:32 32:28 36:4 48:1
+hole set 206: |Aut H| 4, solid inside: no, 116 solids in the complement, 2 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 80 pdeg 4:4 5:28 6:30 7:12 8:8 9:4 10:4 pout 16:18 20:32 24:40 28:48 32:26 48:1
+hole set 207: |Aut H| 6, solid inside: yes, 108 solids in the complement, 16 covers, 9 orbits ( ext13:9 ); sum |Aut H|/|Aut P| = 16; on unknown orbits 0, on another hole set 0, orbits reached 9  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 81 pdeg 2:12 4:30 6:6 7:18 9:6 11:15 14:3 pout 12:18 16:12 20:6 24:54 28:45 32:21 36:6 44:3
+hole set 208: |Aut H| 6, solid inside: no, 76 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 81 pdeg 2:3 4:24 6:15 7:27 8:3 9:18 pout 12:6 16:21 20:30 24:27 28:46 32:29 36:6
+hole set 209: |Aut H| 36, solid inside: no, 60 solids in the complement, 2 covers, 2 orbits ( max:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 81 pdeg 3:9 6:63 9:18 pout 8:9 16:18 20:36 24:18 28:42 32:36 40:6
+hole set 210: |Aut H| 4, solid inside: yes, 80 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 83 pdeg 3:16 4:10 5:8 6:12 7:18 8:13 9:4 11:1 13:8 pout 12:14 16:18 20:12 24:58 28:31 32:22 36:2 40:6 48:2
+hole set 211: |Aut H| 4, solid inside: yes, 72 solids in the complement, 2 covers, 2 orbits ( ext12:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 83 pdeg 4:12 5:20 6:28 7:12 8:7 9:2 11:5 13:4 pout 8:2 12:4 16:18 20:32 24:42 28:39 32:22 36:4 40:2
+hole set 212: |Aut H| 2, solid inside: yes, 84 solids in the complement, 2 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 0:1 2:2 3:6 4:18 5:20 6:7 7:6 8:4 9:8 10:8 11:2 13:8 pout 8:1 16:24 20:32 24:41 28:42 32:17 36:8
+hole set 213: |Aut H| 6, solid inside: yes, 96 solids in the complement, 12 covers, 6 orbits ( ext13:6 ); sum |Aut H|/|Aut P| = 12; on unknown orbits 0, on another hole set 0, orbits reached 6  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 1:3 2:12 3:18 4:3 5:6 6:6 8:9 9:3 10:18 11:3 12:6 15:3 pout 8:3 12:18 16:12 20:12 24:39 28:60 32:12 36:6 44:3
+hole set 214: |Aut H| 2, solid inside: yes, 80 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 2:1 4:10 5:28 6:17 7:16 8:3 9:2 10:4 11:2 12:5 14:2 pout 12:14 16:21 20:22 24:47 28:25 32:28 36:6 44:2
+hole set 215: |Aut H| 6, solid inside: no, 72 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 2:3 5:12 6:30 7:18 8:27 pout 16:15 20:39 24:57 28:42 32:5 36:6 40:1
+hole set 216: |Aut H| 2, solid inside: no, 64 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 3:2 4:10 5:10 6:24 7:22 8:10 9:6 10:6 pout 8:2 16:22 20:38 24:46 28:33 32:22 36:2
+hole set 217: |Aut H| 6, solid inside: no, 52 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 3:6 4:12 5:24 6:3 8:27 9:12 10:6 pout 8:6 12:6 16:10 20:35 24:45 28:36 32:27
+hole set 218: |Aut H| 9, solid inside: no, 46 solids in the complement, 2 covers, 2 orbits ( max:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 3:9 4:6 5:9 6:18 7:18 8:18 9:9 11:3 pout 16:9 20:48 24:54 28:42 32:12
+hole set 219: |Aut H| 6, solid inside: no, 52 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 4:18 5:18 6:9 7:6 8:27 9:6 10:6 pout 16:27 20:30 24:57 28:28 32:20 36:3
+hole set 220: |Aut H| 3, solid inside: no, 60 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 5:12 6:33 7:30 8:15 pout 16:11 20:51 24:57 28:33 32:12 36:1
+hole set 221: |Aut H| 12, solid inside: no, 104 solids in the complement, 2 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 6:66 8:24 pout 0:4 16:18 24:114 32:26 48:3
+hole set 222: |Aut H| 12, solid inside: no, 104 solids in the complement, 2 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 6:66 8:24 pout 0:4 16:18 24:114 32:26 48:3
+hole set 223: |Aut H| 6, solid inside: no, 104 solids in the complement, 2 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 6:66 8:24 pout 16:22 24:114 32:26 48:3
+hole set 224: |Aut H| 48, solid inside: no, 164 solids in the complement, 6 covers, 3 orbits ( max:3 ); sum |Aut H|/|Aut P| = 6; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 84 pdeg 6:84 14:6 pout 0:16 16:56 32:84 48:9
+hole set 225: |Aut H| 2, solid inside: yes, 68 solids in the complement, 2 covers, 2 orbits ( ext12:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 85 pdeg 3:6 4:10 5:22 6:10 7:18 8:9 10:4 11:6 12:2 13:3 pout 8:2 12:11 16:18 20:26 24:32 28:52 32:21 36:2 40:1
+hole set 226: |Aut H| 8, solid inside: yes, 88 solids in the complement, 2 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 86 pdeg 3:8 4:8 5:16 6:12 7:8 8:20 9:8 10:4 11:6 pout 12:12 16:12 20:48 24:38 28:19 32:28 36:8
+hole set 227: |Aut H| 8, solid inside: yes, 100 solids in the complement, 8 covers, 2 orbits ( ext13:2 ); sum |Aut H|/|Aut P| = 8; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 86 pdeg 4:36 6:24 9:16 11:6 13:8 pout 16:21 20:16 24:88 28:18 32:22
+hole set 228: |Aut H| 12, solid inside: yes, 112 solids in the complement, 20 covers, 7 orbits ( ext13:7 ); sum |Aut H|/|Aut P| = 20; on unknown orbits 0, on another hole set 0, orbits reached 7  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 87 pdeg 2:6 3:12 4:12 5:18 7:6 8:3 9:12 10:6 11:9 15:6 pout 12:12 16:24 20:12 24:66 28:15 32:30 36:6
+hole set 229: |Aut H| 6, solid inside: yes, 80 solids in the complement, 13 covers, 9 orbits ( ext12:9 ); sum |Aut H|/|Aut P| = 13; on unknown orbits 0, on another hole set 0, orbits reached 9  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 87 pdeg 3:6 4:21 5:6 6:15 7:9 8:12 9:9 10:3 13:9 pout 12:18 16:15 20:18 24:48 28:39 32:27
+hole set 230: |Aut H| 1, solid inside: yes, 80 solids in the complement, 2 covers, 2 orbits ( ext13:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 88 pdeg 2:1 3:3 4:10 5:18 6:21 7:4 8:4 9:7 10:16 11:6 pout 8:1 12:10 16:16 20:32 24:47 28:39 32:16 36:4
+hole set 231: |Aut H| 2, solid inside: yes, 80 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 88 pdeg 2:1 4:4 5:18 6:21 7:20 8:10 9:4 10:8 11:2 12:2 pout 8:2 12:7 16:14 20:38 24:59 28:22 32:21 36:2
+hole set 232: |Aut H| 2, solid inside: yes, 76 solids in the complement, 2 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 88 pdeg 2:2 3:9 4:11 5:23 6:7 7:6 8:4 9:4 10:10 11:4 13:10 pout 12:10 16:25 20:36 24:20 28:39 32:31 36:4
+hole set 233: |Aut H| 4, solid inside: yes, 108 solids in the complement, 4 covers, 4 orbits ( ext13:4 ); sum |Aut H|/|Aut P| = 4; on unknown orbits 0, on another hole set 0, orbits reached 4  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 88 pdeg 3:4 4:12 5:16 6:18 7:2 8:6 9:14 10:18 pout 12:4 16:8 20:40 24:64 28:34 32:11 40:3 48:1
+hole set 234: |Aut H| 8, solid inside: yes, 124 solids in the complement, 4 covers, 2 orbits ( ext13:2 ); sum |Aut H|/|Aut P| = 4; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 88 pdeg 4:12 5:16 6:20 7:8 8:12 9:8 10:12 12:2 pout 12:4 16:8 20:40 24:74 28:4 32:34 48:1
+hole set 235: |Aut H| 2, solid inside: no, 84 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 2:2 3:7 4:4 5:12 6:16 7:12 8:8 9:13 10:8 11:8 pout 12:14 16:20 20:38 24:36 28:33 32:17 36:5 40:2
+hole set 236: |Aut H| 6, solid inside: yes, 80 solids in the complement, 5 covers, 5 orbits ( ext13:5 ); sum |Aut H|/|Aut P| = 5; on unknown orbits 0, on another hole set 0, orbits reached 5  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 3:12 4:6 5:6 6:12 7:24 8:6 9:12 11:6 13:6 pout 16:12 20:36 24:87 28:21 32:9
+hole set 237: |Aut H| 24, solid inside: yes, 100 solids in the complement, 10 covers, 4 orbits ( ext13:4 ); sum |Aut H|/|Aut P| = 10; on unknown orbits 0, on another hole set 0, orbits reached 4  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 3:12 5:12 7:36 9:24 11:6 pout 12:6 16:27 20:24 24:48 28:36 32:24
+hole set 238: |Aut H| 3, solid inside: yes, 84 solids in the complement, 8 covers, 8 orbits ( ext13:8 ); sum |Aut H|/|Aut P| = 8; on unknown orbits 0, on another hole set 0, orbits reached 8  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 3:6 4:12 5:18 6:6 7:15 8:3 9:9 10:12 12:9 pout 12:15 16:18 20:33 24:45 28:24 32:27 36:3
+hole set 239: |Aut H| 2, solid inside: no, 88 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 4:4 5:6 6:22 7:24 8:26 9:6 11:2 pout 8:5 12:6 16:18 20:34 24:46 28:34 32:20 36:2
+hole set 240: |Aut H| 12, solid inside: yes, 104 solids in the complement, 8 covers, 4 orbits ( ext13:4 ); sum |Aut H|/|Aut P| = 8; on unknown orbits 0, on another hole set 0, orbits reached 4  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 4:45 6:6 8:9 11:24 13:6 pout 8:6 12:24 16:30 20:12 24:12 28:42 32:24 36:6 40:3 44:6
+hole set 241: |Aut H| 2, solid inside: no, 68 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 4:6 5:9 6:24 7:19 8:12 9:12 10:8 pout 4:2 12:4 16:20 20:42 24:45 28:31 32:17 36:4
+hole set 242: |Aut H| 2, solid inside: yes, 76 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 4:9 5:18 6:27 7:2 8:4 9:10 10:16 11:2 12:2 pout 12:4 16:18 20:45 24:45 28:37 32:16
+hole set 243: |Aut H| 8, solid inside: no, 108 solids in the complement, 2 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 5:12 6:16 7:42 8:8 9:4 10:8 pout 12:8 16:13 20:44 24:34 28:42 32:24
+hole set 244: |Aut H| 2, solid inside: no, 92 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 5:12 6:20 7:28 8:18 9:10 10:2 pout 8:2 12:2 16:18 20:36 24:56 28:32 32:16 36:2 40:1
+hole set 245: |Aut H| 2, solid inside: no, 64 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 5:3 6:30 7:33 8:14 9:8 10:2 pout 12:5 16:22 20:42 24:43 28:32 32:21
+hole set 246: |Aut H| 180, solid inside: yes, 176 solids in the complement, 72 covers, 10 orbits ( spr:10 ); sum |Aut H|/|Aut P| = 72; on unknown orbits 0, on another hole set 0, orbits reached 10  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 90 pdeg 7:90 pout 24:165
+hole set 247: |Aut H| 2, solid inside: yes, 84 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 91 pdeg 2:1 3:4 4:10 5:10 6:19 7:9 8:5 9:16 10:10 11:4 14:2 pout 8:3 12:8 16:20 20:39 24:36 28:33 32:22 36:2 40:2
+hole set 248: |Aut H| 4, solid inside: yes, 80 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 91 pdeg 3:4 4:2 5:8 6:28 7:18 8:21 11:3 13:2 14:4 pout 12:16 16:24 20:28 24:34 28:33 32:22 36:6 48:2
+hole set 249: |Aut H| 2, solid inside: yes, 64 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 91 pdeg 4:5 5:16 6:21 7:27 8:2 9:7 10:3 11:1 12:4 13:2 14:2 pout 8:6 12:14 16:20 20:27 24:36 28:32 32:16 36:14
+hole set 250: |Aut H| 1, solid inside: yes, 84 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 2:2 3:3 4:12 5:17 6:11 7:7 8:6 9:16 10:4 11:4 12:2 13:2 14:3 15:1 pout 12:7 16:23 20:35 24:50 28:34 32:12 36:3 40:1
+hole set 251: |Aut H| 2, solid inside: no, 64 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 3:1 5:7 6:22 7:25 8:18 9:15 10:2 pout 12:6 16:21 20:39 24:53 28:36 32:8 36:2
+hole set 252: |Aut H| 2, solid inside: yes, 108 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 3:2 4:4 5:14 6:20 7:10 8:18 9:8 10:12 13:2 pout 12:2 16:15 20:48 24:61 28:20 32:17 36:2
+hole set 253: |Aut H| 1, solid inside: yes, 80 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 3:2 4:6 5:19 6:17 7:10 8:6 9:12 10:9 11:7 12:2 pout 12:5 16:18 20:45 24:53 28:25 32:16 36:3
+hole set 254: |Aut H| 1, solid inside: yes, 80 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 3:3 4:6 5:15 6:22 7:8 8:6 9:11 10:9 11:9 12:1 pout 12:5 16:21 20:44 24:46 28:33 32:12 36:2 40:2
+hole set 255: |Aut H| 4, solid inside: yes, 128 solids in the complement, 2 covers, 2 orbits ( ext13:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 3:4 4:12 5:16 6:16 7:4 8:4 9:4 10:18 11:12 pout 8:6 16:19 20:32 24:61 28:26 32:18 40:2 48:1
+hole set 256: |Aut H| 2, solid inside: no, 68 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 3:4 4:2 5:14 6:18 7:14 8:11 9:14 10:9 11:4 pout 12:2 16:28 20:50 24:40 28:30 32:12 36:1 40:2
+hole set 257: |Aut H| 2, solid inside: yes, 76 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 4:4 5:26 6:15 7:12 8:5 9:6 10:14 11:6 12:2 pout 12:4 16:16 20:45 24:55 28:39 32:6
+hole set 258: |Aut H| 2, solid inside: no, 80 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 92 pdeg 4:4 5:6 6:12 7:34 8:22 9:8 10:4 pout 8:2 12:6 16:22 20:28 24:64 28:20 32:18 36:4 40:1
+hole set 259: |Aut H| 3, solid inside: yes, 90 solids in the complement, 6 covers, 6 orbits ( ext13:6 ); sum |Aut H|/|Aut P| = 6; on unknown orbits 0, on another hole set 0, orbits reached 6  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 93 pdeg 2:3 4:9 5:3 6:33 7:6 8:6 9:12 10:6 11:6 12:6 pout 12:9 16:18 20:33 24:51 28:42 32:12
+hole set 260: |Aut H| 1, solid inside: no, 70 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 93 pdeg 3:1 4:2 5:8 6:22 7:18 8:15 9:20 10:3 12:1 pout 12:6 16:21 20:48 24:48 28:28 32:8 36:4 40:2
+hole set 261: |Aut H| 1, solid inside: yes, 72 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 93 pdeg 3:3 4:8 5:13 6:18 7:11 8:8 9:7 10:13 11:7 12:1 14:1 pout 4:1 8:1 12:7 16:21 20:43 24:41 28:32 32:13 36:6
+hole set 262: |Aut H| 24, solid inside: yes, 108 solids in the complement, 2 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 93 pdeg 4:36 6:12 7:3 9:12 11:24 14:3 pout 12:30 16:36 24:48 28:12 32:24 36:12 40:3
+hole set 263: |Aut H| 6, solid inside: no, 76 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 93 pdeg 4:6 5:15 6:9 7:24 8:6 9:18 10:12 pout 12:6 16:19 20:42 24:60 28:30 32:8
+hole set 264: |Aut H| 2, solid inside: yes, 68 solids in the complement, 3 covers, 3 orbits ( ext12:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 93 pdeg 4:9 5:12 6:11 7:31 8:12 9:3 10:3 11:1 13:4 14:4 pout 8:8 12:20 16:8 20:23 24:48 28:32 32:20 36:6
+hole set 265: |Aut H| 1, solid inside: yes, 84 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 94 pdeg 3:1 4:5 5:14 6:18 7:14 8:8 9:14 10:10 11:4 12:1 13:1 pout 8:2 12:7 16:19 20:38 24:51 28:34 32:10 36:4
+hole set 266: |Aut H| 2, solid inside: no, 72 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 94 pdeg 3:2 5:16 6:16 7:14 8:20 9:12 10:5 12:5 pout 12:10 16:30 20:35 24:47 28:20 32:14 36:7 40:2
+hole set 267: |Aut H| 8, solid inside: no, 92 solids in the complement, 2 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 94 pdeg 4:12 6:8 7:40 8:16 10:8 11:2 13:4 pout 16:37 20:48 24:42 28:16 32:16 36:4 44:2
+hole set 268: |Aut H| 2, solid inside: no, 72 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 94 pdeg 4:6 5:1 6:16 7:28 8:20 9:13 10:6 pout 8:2 12:10 16:14 20:37 24:60 28:24 32:18
+hole set 269: |Aut H| 8, solid inside: no, 108 solids in the complement, 2 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 94 pdeg 6:16 7:42 8:24 9:4 10:4 pout 16:13 20:48 24:66 28:34 32:4
+hole set 270: |Aut H| 4, solid inside: yes, 80 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 95 pdeg 2:2 5:8 6:24 7:16 8:21 9:10 11:5 13:4 pout 12:4 16:20 20:62 24:42 28:19 32:16 36:2
+hole set 271: |Aut H| 1, solid inside: yes, 72 solids in the complement, 2 covers, 2 orbits ( ext13:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 95 pdeg 3:3 4:5 5:5 6:24 7:13 8:11 9:12 10:13 11:1 12:1 13:1 14:1 pout 8:1 12:4 16:22 20:44 24:50 28:32 32:11 36:1
+hole set 272: |Aut H| 1, solid inside: no, 68 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 95 pdeg 4:2 5:10 6:11 7:22 8:25 9:13 10:7 pout 8:1 12:7 16:17 20:46 24:50 28:32 32:9 36:3
+hole set 273: |Aut H| 2, solid inside: no, 72 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 95 pdeg 4:2 5:7 6:14 7:23 8:27 9:11 10:4 11:2 pout 12:7 16:25 20:41 24:46 28:30 32:16
+hole set 274: |Aut H| 2, solid inside: no, 72 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 95 pdeg 5:4 6:22 7:24 8:17 9:21 10:2 pout 12:2 16:17 20:59 24:54 28:21 32:10 40:2
+hole set 275: |Aut H| 6, solid inside: yes, 108 solids in the complement, 16 covers, 11 orbits ( ext13:11 ); sum |Aut H|/|Aut P| = 16; on unknown orbits 0, on another hole set 0, orbits reached 11  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 2:3 4:12 5:24 6:3 7:6 8:3 9:12 10:18 12:3 15:6 pout 4:6 8:12 12:6 16:9 20:30 24:45 28:27 32:24 36:6
+hole set 276: |Aut H| 3, solid inside: yes, 96 solids in the complement, 9 covers, 9 orbits ( ext13:9 ); sum |Aut H|/|Aut P| = 9; on unknown orbits 0, on another hole set 0, orbits reached 9  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 3:3 4:6 5:9 6:18 7:12 8:3 9:27 10:6 11:3 14:3 pout 12:6 16:30 20:36 24:45 28:33 32:15
+hole set 277: |Aut H| 2, solid inside: yes, 80 solids in the complement, 2 covers, 2 orbits ( ext13:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 3:4 4:2 5:18 6:14 7:14 8:14 9:4 10:8 11:2 12:2 13:6 14:2 pout 12:6 16:24 20:48 24:40 28:31 32:14 36:2
+hole set 278: |Aut H| 2, solid inside: yes, 84 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 4:2 5:10 6:23 7:18 8:9 9:12 10:10 11:4 13:2 pout 12:10 16:22 20:32 24:58 28:29 32:10 36:4
+hole set 279: |Aut H| 2, solid inside: yes, 84 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 4:2 5:8 6:31 7:12 8:7 9:12 10:12 11:2 12:4 pout 12:8 16:19 20:34 24:65 28:29 32:8 36:2
+hole set 280: |Aut H| 6, solid inside: no, 64 solids in the complement, 2 covers, 2 orbits ( max:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 4:3 5:12 6:7 7:22 8:28 9:6 10:9 12:3 pout 12:6 16:33 20:30 24:54 28:31 32:3 36:6 40:2
+hole set 281: |Aut H| 1, solid inside: yes, 72 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 4:6 5:12 6:23 7:13 8:7 9:4 10:13 11:9 12:2 14:1 pout 8:2 12:6 16:28 20:38 24:49 28:27 32:12 36:3
+hole set 282: |Aut H| 3, solid inside: yes, 78 solids in the complement, 10 covers, 10 orbits ( ext13:10 ); sum |Aut H|/|Aut P| = 10; on unknown orbits 0, on another hole set 0, orbits reached 10  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 4:9 5:15 6:15 7:12 8:18 9:3 11:6 12:6 13:6 pout 12:15 16:21 20:42 24:36 28:30 32:15 36:6
+hole set 283: |Aut H| 6, solid inside: yes, 76 solids in the complement, 3 covers, 3 orbits ( ext13:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 5:12 6:34 7:2 8:9 9:18 10:5 11:10 pout 12:12 16:27 20:36 24:36 28:37 32:15 40:2
+hole set 284: |Aut H| 2, solid inside: yes, 80 solids in the complement, 2 covers, 2 orbits ( ext13:2 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 2  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 5:17 6:22 7:10 8:8 9:15 10:12 11:6 pout 12:4 16:16 20:54 24:56 28:28 36:4 40:3
+hole set 285: |Aut H| 2, solid inside: no, 68 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 5:6 6:22 7:20 8:14 9:22 10:6 pout 8:1 12:4 16:19 20:63 24:44 28:20 32:14
+hole set 286: |Aut H| 8, solid inside: no, 72 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 96 pdeg 6:28 7:32 8:20 10:4 12:4 16:2 pout 12:12 16:24 20:64 24:16 28:29 32:8 36:4 40:4 44:4
+hole set 287: |Aut H| 2, solid inside: yes, 84 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 97 pdeg 3:2 4:4 5:15 6:14 7:13 8:11 9:9 10:8 11:12 13:2 pout 12:10 16:22 20:50 24:38 28:32 32:13
+hole set 288: |Aut H| 2, solid inside: yes, 80 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 97 pdeg 4:4 5:4 6:16 7:20 8:26 9:5 10:12 11:2 12:1 pout 12:7 16:15 20:57 24:50 28:24 32:9 36:3
+hole set 289: |Aut H| 4, solid inside: yes, 100 solids in the complement, 2 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 2; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 97 pdeg 4:4 5:4 6:23 7:21 8:8 9:16 10:8 11:2 12:4 pout 8:1 12:4 16:26 20:32 24:64 28:26 32:10 40:2
+hole set 290: |Aut H| 2, solid inside: yes, 80 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 97 pdeg 4:6 5:4 6:10 7:27 8:16 9:16 10:8 11:2 12:1 pout 8:1 12:6 16:22 20:50 24:47 28:24 32:12 36:2 44:1
+hole set 291: |Aut H| 2, solid inside: yes, 64 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 97 pdeg 4:7 5:6 6:13 7:18 8:18 9:17 10:5 11:2 12:4 pout 8:8 12:11 16:20 20:31 24:52 28:19 32:24
+hole set 292: |Aut H| 1, solid inside: no, 68 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 97 pdeg 5:6 6:12 7:28 8:22 9:17 10:4 12:1 pout 12:7 16:18 20:54 24:54 28:18 32:9 36:5
+hole set 293: |Aut H| 2, solid inside: yes, 92 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 98 pdeg 3:2 5:6 6:18 7:20 8:12 9:16 10:14 11:2 pout 12:4 16:25 20:46 24:56 28:20 32:12 40:2
+hole set 294: |Aut H| 2, solid inside: no, 60 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 98 pdeg 4:2 5:3 6:6 7:26 8:36 9:15 11:2 pout 8:2 12:3 16:25 20:54 24:45 28:22 32:14
+hole set 295: |Aut H| 1, solid inside: yes, 76 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 98 pdeg 4:3 5:12 6:20 7:14 8:9 9:12 10:10 11:6 12:3 14:1 pout 8:1 12:10 16:28 20:37 24:42 28:31 32:14 36:2
+hole set 296: |Aut H| 4, solid inside: no, 80 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 98 pdeg 4:8 5:8 6:8 7:24 8:20 9:4 10:10 11:2 12:4 16:2 pout 8:4 12:12 16:32 20:42 24:26 28:29 32:12 36:6 44:2
+hole set 297: |Aut H| 4, solid inside: no, 120 solids in the complement, 1 covers, 1 orbits ( max:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 98 pdeg 5:2 6:16 7:14 8:40 9:18 pout 16:30 20:28 24:73 28:24 32:10
+hole set 298: |Aut H| 4, solid inside: yes, 80 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 99 pdeg 2:2 4:4 6:12 7:24 8:17 9:20 10:4 11:7 pout 12:8 16:22 20:56 24:40 28:27 32:12
+hole set 299: |Aut H| 1, solid inside: yes, 68 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 99 pdeg 3:1 4:3 5:5 6:11 7:19 8:24 9:12 10:13 11:1 13:1 pout 12:4 16:28 20:53 24:45 28:22 32:9 36:2 40:1 44:1
+hole set 300: |Aut H| 2, solid inside: yes, 80 solids in the complement, 1 covers, 1 orbits ( ext13:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 99 pdeg 3:1 4:9 5:10 6:18 7:15 8:6 9:1 10:8 11:12 12:8 13:2 pout 12:10 16:23 20:48 24:43 28:26 32:15
+hole set 301: |Aut H| 1, solid inside: yes, 74 solids in the complement, 3 covers, 3 orbits ( ext13:3 ); sum |Aut H|/|Aut P| = 3; on unknown orbits 0, on another hole set 0, orbits reached 3  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 99 pdeg 3:2 4:5 5:13 6:15 7:17 8:9 9:6 10:7 11:4 12:7 13:1 14:4 pout 4:1 8:3 12:11 16:26 20:33 24:42 28:34 32:12 36:2 44:1
+hole set 302: |Aut H| 1, solid inside: yes, 76 solids in the complement, 1 covers, 1 orbits ( ext12:1 ); sum |Aut H|/|Aut P| = 1; on unknown orbits 0, on another hole set 0, orbits reached 1  OK [0.0 s]
+    n90 L510 deg 17:90 out 15:165 hyp 42:165 50:90 planes 99 pdeg 4:5 5:6 6:18 7:16 8:17 9:13 10:6 11:4 12:1 13:2 14:2 pout 4:1 8:4 12:7 16:25 20:47 24:33 28:31 32:14 36:3
+hole sets with a cover mismatch: 0; covers in all 2134
+twelve-check's 376 x 12: 4512 configurations; on no listed orbit 0; by type: spr:3460 ext13:953 ext12:99; orbits reached: spr 453/453 ext13 254/254 ext12 43/43 max 0/67
+fourteen-check's spread reps x 364: 26572 configurations; on no listed orbit 0; by type: spr:26572; orbits reached: spr 453/453 ext13 0/254 ext12 0/43 max 0/67
+thirteen-check's maximal 13s x 78: 2418 configurations; on no listed orbit 0; by type: spr:468 ext13:1950; orbits reached: spr 82/453 ext13 254/254 ext12 0/43 max 0/67
+written 817 configurations to runs/check11/configs.txt

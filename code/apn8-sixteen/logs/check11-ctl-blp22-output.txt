@@ -1,0 +1,19 @@
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+  6368 lines read, 37 taken; ext 222: re-found 222, NOT 0, fail 0; nonext 222: re-found 222, NOT 0, fail 0; no spread 0, no embedding 0
+ctl ext nodes by dim: 222 6387 176616 2499438 5470273 358943 2483 228 222
+ctl ext tries by dim: 6387 183571 5062432 71434944 156085303 10201809 70256 506400 0
+ctl ext of which at points of D: 0 0 0 0 0 0 0 499968 0
+ctl ext nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 6 222
+ctl ext bent-extension nodes 0, full-span records 222
+ctlbatch runs\known\blp22_8bit.txt ext: 222 controls; re-found 222; NOT found 0; setup failures 0; other spaces found 0 (0 not APN)
+  re-found by rank-4 count: 2:222
+  reps hit: 143
+ctl nonext nodes by dim: 222 6406 176713 2495901 5588608 550858 6784 222 222
+ctl nonext tries by dim: 6406 184178 5059620 71400640 159486770 15679648 3024851 6433 0
+ctl nonext of which at points of D: 0 0 0 0 0 0 2833152 0 0
+ctl nonext nodes with every off-D point covered, by dim: 0 0 0 0 0 0 12 0 222
+ctl nonext bent-extension nodes 0, full-span records 222
+ctlbatch runs\known\blp22_8bit.txt nonext: 222 controls; re-found 222; NOT found 0; setup failures 0; other spaces found 0 (0 not APN)
+  re-found by rank-4 count: 2:222
+  reps hit: 166
+skipped: no spread 0, no member 4-tuple of the class (k = 4, nonext) 0, S0 already the whole space 0

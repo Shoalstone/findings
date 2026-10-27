@@ -1,0 +1,3 @@
+
+# command: cmd /c "copy /b runs\check11\maxc-c0.txt+runs\check11\maxc-c1.txt+runs\check11\maxc-c2.txt+runs\check11\maxc-c3.txt runs\check11\maxc-all.txt >nul & runs\bin\eleven_check.exe orbitcov runs\check11\orbits.txt runs\check11\configs.txt runs\check11\maxc-all.txt runs\check11\maxc-o798.txt 798 > runs\check11\maxall-orbits.out 2>&1 & runs\bin\eleven_check.exe searchmax runs\check11\maxc-o798.txt runs\check11\max798.prog asc > runs\check11\max798.out 2>&1 & del runs\check11\maxc-all.txt"
+

@@ -1,0 +1,15 @@
+# each timestamp marks the end of the step named after it
+[ 0:11:30.73] start
+[ 0:13:11.78] cover-p11
+[ 0:13:36.70] pspread-selftest11
+[ 0:15:57.04] e11-parta4
+[ 0:15:59.47] e11-merge
+[ 0:16:13.43] e11-configs
+[ 0:19:59.75] e11-selftest
+[ 0:21:52.90] e11-asc
+[ 0:23:51.08] e11-desc
+[ 0:25:46.99] e11-rand7
+[ 0:27:06.24] e11-levels
+[ 0:27:09.32] e11-mapa
+[ 0:27:27.82] e11-max798
+[ 0:27:50.78] e11-ctlreps2

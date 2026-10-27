@@ -1,0 +1,8 @@
+# command: python apn\eleven_check_levels.py runs\check11\configs.txt 0 4
+config 0: nodes by dim (ascending order, off-D points first): [1, 28, 784, 11152, 24772]
+# command: python apn\eleven_check_levels.py runs\check11\configs.txt 453 4
+config 453: nodes by dim (ascending order, off-D points first): [1, 28, 784, 11206, 23367]
+# command: python apn\eleven_check_levels.py runs\check11\configs.txt 707 4
+config 707: nodes by dim (ascending order, off-D points first): [1, 28, 784, 10939, 24007]
+# command: python apn\eleven_check_levels.py runs\check11\configs.txt 750 4
+config 750: nodes by dim (ascending order, off-D points first): [1, 28, 784, 11074, 22957]

@@ -1,0 +1,115 @@
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+search: 85 configurations (Part A maximal cliques); point order ascending
+config 0 (max, 510 lines in D): nodes 1 28 784 11152 26009 3676 53 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 0 s]
+config 1 (max, 510 lines in D): nodes 1 28 784 11152 26009 3674 77 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 0 s]
+config 2 (max, 510 lines in D): nodes 1 28 784 10849 23525 3161 54 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 0 s]
+config 3 (max, 510 lines in D): nodes 1 28 784 10849 23190 3089 36 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 1 s]
+config 4 (max, 510 lines in D): nodes 1 28 784 10915 24861 3343 44 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 1 s]
+config 5 (max, 510 lines in D): nodes 1 28 784 10849 26009 3344 45 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 1 s]
+config 6 (max, 510 lines in D): nodes 1 28 784 11152 24861 3186 110 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 1 s]
+config 7 (max, 510 lines in D): nodes 1 28 784 11053 24861 3346 51 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 1 s]
+config 8 (max, 510 lines in D): nodes 1 28 784 11053 23525 3023 46 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 1 s]
+config 9 (max, 510 lines in D): nodes 1 28 784 11053 24861 3348 44 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.4 s, total 2 s]
+config 10 (max, 510 lines in D): nodes 1 28 784 11053 23525 3023 45 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 2 s]
+config 11 (max, 510 lines in D): nodes 1 28 784 11053 24861 3344 46 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 2 s]
+config 12 (max, 510 lines in D): nodes 1 28 784 11053 24861 3343 44 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 2 s]
+config 13 (max, 510 lines in D): nodes 1 28 784 11053 25245 3157 44 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 2 s]
+config 14 (max, 510 lines in D): nodes 1 28 784 11053 25245 3157 103 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 2 s]
+config 15 (max, 510 lines in D): nodes 1 28 784 11053 24861 3193 52 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 3 s]
+config 16 (max, 510 lines in D): nodes 1 28 784 11053 26625 3023 76 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 3 s]
+config 17 (max, 510 lines in D): nodes 1 28 784 11053 26625 3026 55 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 3 s]
+config 18 (max, 510 lines in D): nodes 1 28 784 11053 26625 3023 42 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 3 s]
+config 19 (max, 510 lines in D): nodes 1 28 784 11152 24861 3163 39 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 4 s]
+config 20 (max, 510 lines in D): nodes 1 28 784 11152 24861 3163 36 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 4 s]
+config 21 (max, 510 lines in D): nodes 1 28 784 11053 23525 3087 55 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 4 s]
+config 22 (max, 510 lines in D): nodes 1 28 784 11053 25245 3344 42 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.4 s, total 4 s]
+config 23 (max, 510 lines in D): nodes 1 28 784 11053 24861 3157 110 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 4 s]
+config 24 (max, 510 lines in D): nodes 1 28 784 11053 24861 3157 43 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 4 s]
+config 25 (max, 510 lines in D): nodes 1 28 784 11053 25245 3151 46 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 5 s]
+config 26 (max, 510 lines in D): nodes 1 28 784 11053 26009 3344 42 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 5 s]
+config 27 (max, 510 lines in D): nodes 1 28 784 11053 26009 3339 54 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 5 s]
+config 28 (max, 510 lines in D): nodes 1 28 784 11053 25245 3157 110 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 5 s]
+config 29 (max, 510 lines in D): nodes 1 28 784 11053 25245 3348 46 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 6 s]
+config 30 (max, 510 lines in D): nodes 1 28 784 11053 26624 3676 52 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 6 s]
+config 31 (max, 510 lines in D): nodes 1 28 784 11053 26626 3346 53 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 6 s]
+config 32 (max, 510 lines in D): nodes 1 28 784 11053 26626 3348 44 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 6 s]
+config 33 (max, 510 lines in D): nodes 1 28 784 11152 26009 3346 52 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 6 s]
+config 34 (max, 510 lines in D): nodes 1 28 784 11053 24861 3343 43 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 7 s]
+config 35 (max, 510 lines in D): nodes 1 28 784 11053 26626 3339 52 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 7 s]
+config 36 (max, 510 lines in D): nodes 1 28 784 11053 24861 3345 53 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 7 s]
+config 37 (max, 510 lines in D): nodes 1 28 784 11152 26009 3345 52 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 7 s]
+config 38 (max, 510 lines in D): nodes 1 28 784 11053 26009 3676 51 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 7 s]
+config 39 (max, 510 lines in D): nodes 1 28 784 11053 25245 3345 51 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 8 s]
+config 40 (max, 510 lines in D): nodes 1 28 784 11053 25245 3345 51 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 8 s]
+config 41 (max, 510 lines in D): nodes 1 28 784 11152 26009 3344 46 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 8 s]
+config 42 (max, 510 lines in D): nodes 1 28 784 11152 24861 3344 42 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 8 s]
+config 43 (max, 510 lines in D): nodes 1 28 784 10849 23190 3011 16 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 8 s]
+config 44 (max, 510 lines in D): nodes 1 28 784 10849 26626 3344 42 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 9 s]
+config 45 (max, 510 lines in D): nodes 1 28 784 10849 23525 3023 46 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 9 s]
+config 46 (max, 510 lines in D): nodes 1 28 784 10915 24861 3157 103 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 9 s]
+config 47 (max, 510 lines in D): nodes 1 28 784 11152 24861 3163 55 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 9 s]
+config 48 (max, 510 lines in D): nodes 1 28 784 10849 26626 3348 44 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 9 s]
+config 49 (max, 510 lines in D): nodes 1 28 784 10849 26009 3339 54 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 10 s]
+config 50 (max, 510 lines in D): nodes 1 28 784 10849 26009 3676 53 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 10 s]
+config 51 (max, 510 lines in D): nodes 1 28 784 10915 25324 3151 44 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 10 s]
+config 52 (max, 510 lines in D): nodes 1 28 784 11152 26009 3089 39 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 10 s]
+config 53 (max, 510 lines in D): nodes 1 28 784 10849 26009 3089 36 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 10 s]
+config 54 (max, 510 lines in D): nodes 1 28 784 10915 25324 3157 44 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 11 s]
+config 55 (max, 510 lines in D): nodes 1 28 784 10849 23525 3343 43 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 11 s]
+config 56 (max, 510 lines in D): nodes 1 28 784 10849 26625 3026 51 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 11 s]
+config 57 (max, 510 lines in D): nodes 1 28 784 10849 26626 3343 44 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 11 s]
+config 58 (max, 510 lines in D): nodes 1 28 784 10849 26625 3023 45 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 11 s]
+config 59 (max, 510 lines in D): nodes 1 28 784 10915 25340 9941 1104 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 11 s]
+config 60 (max, 510 lines in D): nodes 1 28 784 10849 23525 3345 53 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 12 s]
+config 61 (max, 510 lines in D): nodes 1 28 784 11053 24861 3344 45 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 12 s]
+config 62 (max, 510 lines in D): nodes 1 28 784 11053 23525 3011 16 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 12 s]
+config 63 (max, 510 lines in D): nodes 1 28 784 11053 26626 3345 55 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 12 s]
+config 64 (max, 510 lines in D): nodes 1 28 784 10915 24861 3186 103 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 13 s]
+config 65 (max, 510 lines in D): nodes 1 28 784 10849 23190 3275 77 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 13 s]
+config 66 (max, 510 lines in D): nodes 1 28 784 10849 23190 3026 52 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 13 s]
+config 67 (max, 510 lines in D): nodes 1 28 784 10849 23525 2935 43 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 13 s]
+config 68 (max, 510 lines in D): nodes 1 28 784 10915 25319 3186 110 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 13 s]
+config 69 (max, 510 lines in D): nodes 1 28 784 10849 23190 3676 55 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.9 s, total 14 s]
+config 70 (max, 510 lines in D): nodes 1 28 784 10849 26624 3676 52 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 14 s]
+config 71 (max, 510 lines in D): nodes 1 28 784 10849 23190 3676 52 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 14 s]
+config 72 (max, 510 lines in D): nodes 1 28 784 10915 24861 3157 103 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 15 s]
+config 73 (max, 510 lines in D): nodes 1 28 784 10849 23190 3023 46 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 15 s]
+config 74 (max, 510 lines in D): nodes 1 28 784 10849 23525 3023 45 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 15 s]
+config 75 (max, 510 lines in D): nodes 1 28 784 10849 23190 3026 52 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 15 s]
+config 76 (max, 510 lines in D): nodes 1 28 784 11152 24861 3193 52 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 15 s]
+config 77 (max, 510 lines in D): nodes 1 28 784 11053 24861 3163 53 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 16 s]
+config 78 (max, 510 lines in D): nodes 1 28 784 11053 23525 2932 45 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.1 s, total 16 s]
+config 79 (max, 510 lines in D): nodes 1 28 784 11053 25245 3345 52 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 16 s]
+config 80 (max, 510 lines in D): nodes 1 28 784 10960 24574 28048 120 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 16 s]
+config 81 (max, 510 lines in D): nodes 1 28 784 10960 24574 28048 120 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.4 s, total 17 s]
+config 82 (max, 510 lines in D): nodes 1 28 784 10960 24574 28048 120 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 17 s]
+config 83 (max, 510 lines in D): nodes 1 28 784 10960 24574 28048 120 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.4 s, total 17 s]
+config 84 (max, 510 lines in D): nodes 1 28 784 10960 24574 28048 120 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 17 s]
+lines in D: 510:85
+spr (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+spr (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) bent-extension nodes 0, full-span records 0
+ext13 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext13 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) bent-extension nodes 0, full-span records 0
+ext12 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext12 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) bent-extension nodes 0, full-span records 0
+max (this run) nodes by dim: 85 2380 66640 934228 2128630 407037 5956 0 0
+max (this run) tries by dim: 2380 66640 1865920 26158384 59601640 11397036 166768 0 0
+max (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+max (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+max (this run) bent-extension nodes 0, full-span records 0
+search (incl. resumed) nodes by dim: 85 2380 66640 934228 2128630 407037 5956 0 0
+search (incl. resumed) tries by dim: 2380 66640 1865920 26158384 59601640 11397036 166768 0 0
+search (incl. resumed) of which at points of D: 0 0 0 0 0 0 0 0 0
+search (incl. resumed) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+search (incl. resumed) bent-extension nodes 0, full-span records 0
+distinct p1 spans this run: 0
+solutions: 0

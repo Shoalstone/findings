@@ -1,0 +1,13 @@
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+twelve-check's configurations: 376; sum 1320*20160/|Aut| = 2811561984 (its Part A: 2811561984)
+reduced 8-cliques 10383342, of them maximal (Q empty) 710368; weighted 8-cliques 5902275456
+sum over 8-cliques of |Q| = 25304057856; 9 * (weighted 9-cliques, twelve-check) = 25304057856  OK
+by |Q|: 0:422009280 1:342619200 2:1172556000 3:470685600 4:116839800 6:2996753760 7:329313600 8:39085200 11:10444896 12:1968120
+orbits 817; clique-level inconsistencies (|Aut| or |Q|) 0 + 0; per-orbit identity (weighted cliques = 990*20160/|Aut|) fails 0; sum 990*20160/|Aut| = 5902275456 (weighted 8-cliques 5902275456)  OK
+per-orbit invariants: 2 s
+largest clique in Q (how many more solids fit), orbits: 0:67 1:43 2:254 6:453
+orbits by type: spr 453, ext13 254, ext12 43, max 67; weighted 3377565576 1760081400 342619200 422009280
+type / Q / n6 inconsistencies 0; P + q on no twelve-check orbit 0
+sum 990*20160/|Aut| * (spreads through P) = 3389978592; C(14,8) * 1128864 = 3389978592  OK
+per 12-orbit O: sum_P 990*20160/|Aut P| * #{q : P + q in O} = 9 * 1320*20160/|Aut O| fails for 0 of 376
+merge: all identities hold

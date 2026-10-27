@@ -1,0 +1,5 @@
+
+# command: cmd /c "runs\bin\eleven_check.exe search runs\check11\configs.txt runs\check11\rand7.prog rand 7 >> runs\check11\rand7.out 2>&1"
+
+
+

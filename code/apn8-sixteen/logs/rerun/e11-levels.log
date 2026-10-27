@@ -1,0 +1,4 @@
+config 0: nodes by dim (ascending order, off-D points first): [1, 28, 784, 11152, 24772]
+config 453: nodes by dim (ascending order, off-D points first): [1, 28, 784, 11206, 23367]
+config 707: nodes by dim (ascending order, off-D points first): [1, 28, 784, 10939, 24007]
+config 750: nodes by dim (ascending order, off-D points first): [1, 28, 784, 11074, 22957]

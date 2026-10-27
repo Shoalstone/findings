@@ -1,0 +1,7 @@
+
+# command: cmd /c "runs\bin\eleven_check.exe ctlbatch runs\check11\configs.txt runs\known\apn_8bit.txt 2 100000 3 runs\check11\ctl-bl22.txt > runs\check11\ctl-bl22.out 2>&1 & runs\bin\eleven_check.exe ctlbatch runs\check11\configs.txt runs\known\blp22_8bit.txt 2 100000 6 runs\check11\ctl-blp22.txt > runs\check11\ctl-blp22.out 2>&1 & runs\bin\eleven_check.exe ctlbatch runs\check11\configs.txt runs\known\yuperrin_qam.txt 2 100000 6 runs\check11\ctl-yuperrin.txt > runs\check11\ctl-yuperrin.out 2>&1 & runs\bin\eleven_check.exe ctlbatch runs\check11\configs.txt runs\known\yuwangli_qam.txt 2 100000 6 runs\check11\ctl-yuwangli.txt > runs\check11\ctl-yuwangli.out 2>&1"
+
+
+
+
+

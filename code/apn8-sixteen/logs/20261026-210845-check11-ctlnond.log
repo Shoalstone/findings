@@ -1,0 +1,5 @@
+
+# command: cmd /c "runs\bin\eleven_check.exe ctlbatch runs\check11\configs.txt runs\known\apn_8bit.txt 2 100000 3 runs\check11\ctl-ind-bl22.txt nond > runs\check11\ctl-ind-bl22.out 2>&1"
+
+
+
