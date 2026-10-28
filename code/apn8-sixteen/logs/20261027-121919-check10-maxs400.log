@@ -1,0 +1,27 @@
+
+# command: cmd /c "runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-s400.txt > runs\check10\maxs400-orbits.out 2>&1 & runs\bin\ten_check.exe searchmax runs\check10\maxc-s400.txt runs\check10\maxs400.prog asc >> runs\check10\maxs400.out 2>&1"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

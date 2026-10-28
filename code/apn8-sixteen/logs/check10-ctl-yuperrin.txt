@@ -1,0 +1,4 @@
+SUMMARY runs\known\yuperrin_qam.txt ext controls 24 refound 24 notfound 0 fail 0 extra 0 nonapn 0 reps 24
+REPS ext 9:1 12:1 31:1 35:1 52:1 61:1 65:1 70:1 76:1 84:1 89:1 101:1 107:1 181:1 207:1 220:1 278:1 291:1 310:1 343:1 356:1 439:1 462:1 546:1
+SUMMARY runs\known\yuperrin_qam.txt nonext controls 24 refound 24 notfound 0 fail 0 extra 0 nonapn 0 reps 24
+REPS nonext 794:1 795:1 796:1 797:1 798:1 799:1 1276:1 1277:1 1278:1 1279:1 1280:1 1281:1 1488:1 1489:1 1490:1 1491:1 1492:1 1493:1 1567:1 1568:1 1569:1 1570:1 1571:1 1572:1

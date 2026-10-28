@@ -1,0 +1,10 @@
+# command: python src/ten_check_tally.py reps DIR (DIR: configs.txt = data/configs10.txt, ctl-*.txt = logs/check10-ctl-*.txt)
+reps hit 1688 of 1777; not reached 89 {'spr': 89}
+131 132 134 135 136 139 141 142 225 261 262 315 340 348 352 359 376 377 378 381 385 386 387 388 392 393 394 416 417 418 442 443 444 445 446 447 449 451 452 454 455 499 515 521 522 523 526 527 528 529 530 532 533 534 535 538 539 540 541 543 544 545 561 562 563 564 565 567 568 569 570 571 572 573 575 576 579 580 581 582 583 584 588 589 603 608 609 610 611
+# command: python src/ten_check_tally.py maxall DIR (DIR: orbits.txt = data/orbits10.txt, maxall-orbits.out = logs/check10-maxall-orbits-output.txt)
+orbitcov runs 17 (expect 17); cliques off the max orbits 0; max orbits 320, cliques 6042938 (Part A 6042938); orbits whose tally differs from Part A's n: 0
+# command: python src/near_misses10.py
+A: 337 near misses at dim 6 in 27 configurations, 33 at dim 7 in 15; configurations (B numbering) 39; dim-7 ones containing a dim-6 one: 0
+B asc: dim 6 337 in 27 configurations, the same counts as A on every configuration: yes; dim 7 165 (165 spans in the p1 file), 132 of them containing a dim-6 near miss, leaving 33; dim-7 counts equal to A's on 34 of A's 39 configurations; dim-7 near misses where A has none: [91, 331, 352, 376, 377]
+B desc: dim 6 337 in 27 configurations, the same counts as A on every configuration: yes; dim 7 120 (120 spans in the p1 file), 87 of them containing a dim-6 near miss, leaving 33; dim-7 counts equal to A's on 35 of A's 39 configurations; dim-7 near misses where A has none: [91, 331, 352, 377]
+B rand7: dim 6 337 in 27 configurations, the same counts as A on every configuration: yes; dim 7 150 (150 spans in the p1 file), 117 of them containing a dim-6 near miss, leaving 33; dim-7 counts equal to A's on 35 of A's 39 configurations; dim-7 near misses where A has none: [91, 331, 352, 377]

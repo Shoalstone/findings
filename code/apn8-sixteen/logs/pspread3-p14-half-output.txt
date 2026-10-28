@@ -1,0 +1,18 @@
+GL(4,2) 20160, V5824 5824, classes 1680(cent 12) 1344(cent 15) 1344(cent 15) 1344(cent 15) 112(cent 180)
+checkpoint: 428 tasks loaded, 1 torn lines ignored, 72 orbits
+  class 0: 1153/1156 tasks, 2562 s in class, orbits 72
+class 0 done, 2792 s, orbits so far 72 (this run: 1156 tasks, 115020 cliques, thread-s canon 11340, w 0)
+  class 1: 63/1128 tasks, 600 s in class, orbits 72
+  class 1: 1123/1128 tasks, 1269 s in class, orbits 73
+  class 1: 1127/1128 tasks, 2273 s in class, orbits 73
+  class 1: 1128/1128 tasks, 5197 s in class, orbits 73
+class 1 done, 7989 s, orbits so far 73 (this run: 1128 tasks, 264836 cliques, thread-s canon 28352, w 0)
+  class 2: 779/784 tasks, 873 s in class, orbits 73
+class 2 done, 9446 s, orbits so far 73 (this run: 784 tasks, 40287 cliques, thread-s canon 8821, w 0)
+class 3 done, 9904 s, orbits so far 73 (this run: 440 tasks, 26103 cliques, thread-s canon 2311, w 0)
+class 4 done, 10200 s, orbits so far 73 (this run: 76 tasks, 28600 cliques, thread-s canon 2181, w 0)
+w spot checks: 9456, mismatches 0
+reduced cliques by extension w (largest clique in the common neighbourhood):
+  w=3: reduced 863186, weighted 410906496, orbits 73, orbit sum 410906496 MATCH
+orbits 73
+wrote 73 configurations, 10200 s

@@ -1,0 +1,23 @@
+
+# command: cmd /c "runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c0-s0.txt >> runs\check10\maxall-orbits.out 2>&1 & runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c0-s1.txt >> runs\check10\maxall-orbits.out 2>&1 & runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c0-s2.txt >> runs\check10\maxall-orbits.out 2>&1 & runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c0-s3.txt >> runs\check10\maxall-orbits.out 2>&1 & runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c0-s4.txt >> runs\check10\maxall-orbits.out 2>&1 & runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c0-s5.txt >> runs\check10\maxall-orbits.out 2>&1 & runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c0-s6.txt >> runs\check10\maxall-orbits.out 2>&1 & runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c0-s7.txt >> runs\check10\maxall-orbits.out 2>&1 & runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c1-s0.txt >> runs\check10\maxall-orbits.out 2>&1 & runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c1-s1.txt >> runs\check10\maxall-orbits.out 2>&1 & runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c1-s2.txt >> runs\check10\maxall-orbits.out 2>&1 & runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c1-s3.txt >> runs\check10\maxall-orbits.out 2>&1 & runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c2-s0.txt >> runs\check10\maxall-orbits.out 2>&1 & runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c2-s1.txt >> runs\check10\maxall-orbits.out 2>&1 & runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c3-s0.txt >> runs\check10\maxall-orbits.out 2>&1 & runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c3-s1.txt >> runs\check10\maxall-orbits.out 2>&1 & runs\bin\ten_check.exe orbitcov runs\check10\orbits.txt runs\check10\configs.txt runs\check10\maxc-c4-s0.txt >> runs\check10\maxall-orbits.out 2>&1"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

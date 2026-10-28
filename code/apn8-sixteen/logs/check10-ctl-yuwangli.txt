@@ -1,0 +1,16 @@
+FAIL ext line 3 choice 0: forms not an APN space (line not quadratic APN)
+FAIL ext line 3 choice 1: forms not an APN space (line not quadratic APN)
+FAIL ext line 3 choice 2: forms not an APN space (line not quadratic APN)
+FAIL ext line 3 choice 3: forms not an APN space (line not quadratic APN)
+FAIL ext line 3 choice 4: forms not an APN space (line not quadratic APN)
+FAIL ext line 3 choice 5: forms not an APN space (line not quadratic APN)
+FAIL nonext line 3 choice 6: forms not an APN space (line not quadratic APN)
+FAIL nonext line 3 choice 7: forms not an APN space (line not quadratic APN)
+FAIL nonext line 3 choice 8: forms not an APN space (line not quadratic APN)
+FAIL nonext line 3 choice 9: forms not an APN space (line not quadratic APN)
+FAIL nonext line 3 choice 10: forms not an APN space (line not quadratic APN)
+FAIL nonext line 3 choice 11: forms not an APN space (line not quadratic APN)
+SUMMARY runs\known\yuwangli_qam.txt ext controls 78 refound 72 notfound 0 fail 6 extra 0 nonapn 0 reps 61
+REPS ext 0:1 17:1 29:1 30:1 31:1 39:1 40:1 43:2 45:1 51:1 54:2 60:1 77:1 101:1 106:1 145:1 152:1 164:2 165:1 166:1 168:1 170:1 173:2 177:1 178:1 182:1 188:1 202:1 204:1 207:1 208:1 210:2 217:1 219:1 220:1 230:1 232:1 233:1 236:2 238:2 243:1 245:1 280:1 290:1 306:1 310:1 326:1 327:1 329:2 332:1 337:1 420:1 429:1 468:2 469:1 483:1 506:1 546:3 549:1 554:1 592:1
+SUMMARY runs\known\yuwangli_qam.txt nonext controls 78 refound 72 notfound 0 fail 6 extra 0 nonapn 0 reps 67
+REPS nonext 655:1 656:1 657:1 658:1 659:1 660:1 714:1 715:1 716:1 717:1 718:1 719:1 743:1 744:1 745:1 746:1 747:1 748:1 784:1 785:1 786:1 787:1 788:1 789:1 1011:1 1012:1 1013:1 1014:1 1015:1 1016:1 1105:1 1106:1 1107:1 1108:1 1109:1 1110:1 1204:1 1205:2 1206:2 1207:2 1208:2 1209:2 1210:1 1242:1 1243:1 1244:1 1245:1 1246:1 1247:1 1344:1 1345:1 1346:1 1347:1 1348:1 1349:1 1470:1 1471:1 1472:1 1473:1 1474:1 1475:1 1557:1 1558:1 1559:1 1560:1 1561:1 1562:1

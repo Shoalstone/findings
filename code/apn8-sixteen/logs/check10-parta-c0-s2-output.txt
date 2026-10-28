@@ -1,0 +1,7 @@
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+Part A, class 0 slice 2 of 8: 7-cliques of V5824 (10-partial spreads with Y, X, Z among them) with minimal class 0
+  50 of 198 first vertices, 1033528 cliques, 1486 orbits, 1079 s
+  100 of 198 first vertices, 1420479 cliques, 1486 orbits, 1260 s
+  150 of 198 first vertices, 1529254 cliques, 1486 orbits, 1286 s
+class 0 slice 2/8 (size 1680, rep 125a, |P| = 1584, 198 first vertices): 1840205 reduced 7-cliques, 611199 maximal; 1721 orbits; 1821 s
+  nodes by clique size (excl. rep): 0 198 39531 1225369 5933946 4280558 1840205

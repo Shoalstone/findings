@@ -1,0 +1,21 @@
+# each timestamp marks the end of the step named after it; two jobs on the E-cores beside other work,
+# paused for 3.4 min in the first (during t10-parta3s1 and t10-configs) and 8.4 min in the second (1 min in
+# t10-asc, 3.3 min in t10-desc, 4 min in t10-selftest)
+[18:01:26.81] start
+[18:06:58.92] cover-p10
+[18:07:20.02] pspread3-selftest10
+[18:08:44.26] t10-parta4
+[18:11:12.94] t10-parta3s1
+[18:11:17.84] t10-merge
+[18:13:47.19] t10-configs
+[18:15:02.13] t10-levels
+[18:15:05.11] t10-mapa
+[18:15:46.13] t10-ctlnond
+[18:16:11.57] t10-ctlreps2
+[18:18:29.21] t10-s11-0-499
+[18:21:18.63] t10-ssp-0-799
+[18:22:43.59] t10-maxs400-0-499
+[18:22:59.08] start
+[18:30:14.05] t10-asc
+[18:40:23.74] t10-desc
+[18:53:19.01] t10-selftest

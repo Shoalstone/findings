@@ -1,0 +1,3 @@
+
+# command: cmd /c "runs\bin\ten_check.exe search11 runs\check11\configs.txt runs\check10\s11.prog asc >> runs\check10\s11.out 2>&1"
+

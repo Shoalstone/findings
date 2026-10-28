@@ -1,0 +1,3 @@
+
+# command: cmd /c "(for %i in (0 612 1072 1183 1457) do python apn\ten_check_levels.py runs\check10\configs.txt %i 4) > runs\check10\levels.txt 2>&1"
+

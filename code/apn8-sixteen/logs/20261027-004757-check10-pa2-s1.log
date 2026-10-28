@@ -1,0 +1,3 @@
+
+# command: cmd /c "runs\bin\ten_check.exe parta 2 runs\check10\parta-c2-s1.txt runs\check10\maxc-c2-s1.txt 1 2 > runs\check10\parta-c2-s1.out 2>&1"
+
