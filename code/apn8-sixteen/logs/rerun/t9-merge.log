@@ -1,0 +1,13 @@
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+ten-check's configurations: 1777; sum 720*20160/|Aut| = 15035796864 (its Part A: 15035796864)
+reduced 6-cliques 65323403, of them maximal (Q empty) 16492152; weighted 6-cliques 47414189312
+sum over 6-cliques of |Q| = 105250578048; 7 * (weighted 7-cliques, ten-check) = 105250578048  OK
+by |Q|: 0:12409921496 1:13299431040 2:8483005440 3:3878824320 4:2282333760 5:1822423680 6:895829760 7:523272960 8:1444886352 9:1029329280 10:610908480 11:292965120 12:199190880 13:71914752 14:88623360 15:28506240 16:29017800 17:3386880 18:11515392 19:2257920 20:2751840 21:1693440 22:423360 24:893760 30:282240 32:599760
+orbits 5663; clique-level inconsistencies (|Aut| or |Q|) 0 + 0; per-orbit identity (weighted cliques = 504*20160/|Aut|) fails 0; sum 504*20160/|Aut| = 47414189312 (weighted 6-cliques 47414189312)  OK
+per-orbit invariants: 5 s
+largest clique in Q (how many more solids fit), orbits: 0:1348 1:1916 2:874 3:227 4:623 8:675
+orbits by type: spr 675 ext13 623 ext12 227 ext11 874 ext10 1916 max 1348; weighted 3228877176 3937565520 1911047040 7504126560 18422651520 12409921496
+type / Q / n8 inconsistencies 0; P + q on no ten-check orbit 0
+sum 504*20160/|Aut| * (spreads through P) = 3389978592; C(14,6) * 1128864 = 3389978592  OK
+per 10-orbit O: sum_P 504*20160/|Aut P| * #{q : P + q in O} = 7 * 720*20160/|Aut O| fails for 0 of 1777
+merge: all identities hold

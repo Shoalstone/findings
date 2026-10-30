@@ -1,0 +1,20 @@
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+  12443 lines read, 256 taken; ext 768: re-found 768, NOT 0, fail 0; nonext 768: re-found 768, NOT 0, fail 0; no spread 0, no embedding 0
+  12921 lines read, 480 taken; ext 1440: re-found 1440, NOT 0, fail 0; nonext 1436: re-found 1436, NOT 0, fail 0; no spread 0, no embedding 4
+ctl ext nodes by dim: 1440 41292 1145396 17944765 58664297 8605674 69537 1524 1440
+ctl ext tries by dim: 41292 1184364 32775368 512001771 1670993848 244309513 37558104 8277854 0
+ctl ext of which at points of D: 0 0 0 0 0 0 35594944 8235584 0
+ctl ext nodes with every off-D point covered, by dim: 0 0 0 0 0 0 141 63 1440
+ctl ext bent-extension nodes 0, full-span records 1440
+ctlbatch runs\known\apn_8bit.txt ext: 1440 controls; re-found 1440; NOT found 0; setup failures 0; other spaces found 0 (0 not APN)
+  re-found by rank-4 count: 2:924 3:438 4:78
+  reps hit: 443
+ctl nonext nodes by dim: 1436 41264 1142355 17815664 57369704 7134384 21180 1459 1436
+ctl nonext tries by dim: 41264 1183608 32659260 508454716 1634140198 202564025 10971544 2583189 0
+ctl nonext of which at points of D: 0 0 0 0 0 0 10374336 2541504 0
+ctl nonext nodes with every off-D point covered, by dim: 0 0 0 0 0 0 38 19 1436
+ctl nonext bent-extension nodes 0, full-span records 1436
+ctlbatch runs\known\apn_8bit.txt nonext: 1436 controls; re-found 1436; NOT found 0; setup failures 0; other spaces found 0 (0 not APN)
+  re-found by rank-4 count: 2:924 3:438 4:74
+  reps hit: 1412
+skipped: no spread 0, no member 4-tuple of the class (k = 4, nonext) 4, S0 already the whole space 0

@@ -1,0 +1,9 @@
+
+# command: python apn/nine_check_slices.py controls
+ctlbatch exit 0
+ctlbatch exit 0
+ctlbatch exit 0
+ctlbatch exit 0
+ctlbatch exit 3
+ctlbatch exit 0
+

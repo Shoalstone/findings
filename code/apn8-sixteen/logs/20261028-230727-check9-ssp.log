@@ -1,0 +1,80 @@
+
+# command: python apn/nine_check_slices.py cross ssp
+ssp-r0: configurations 0..18268
+searchsp exit 0
+ssp-r1: configurations 18269..36537
+
+
+
+# command: python apn/nine_check_slices.py cross ssp
+ssp-r1: configurations 18269..36537
+searchsp exit 0
+ssp-r2: configurations 36538..54806
+
+
+
+
+
+# command: python apn/nine_check_slices.py cross ssp
+ssp-r2: configurations 36538..54806
+
+
+
+
+
+
+searchsp exit 0
+ssp-r3: configurations 54807..73075
+searchsp exit 0
+ssp-r4: configurations 73076..91344
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+searchsp exit 0
+ssp-r5: configurations 91345..109613
+searchsp exit 0
+ssp-r6: configurations 109614..127882
+searchsp exit 0
+ssp-r7: configurations 127883..146145
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+searchsp exit 0
+ssp: all 146146 done
+

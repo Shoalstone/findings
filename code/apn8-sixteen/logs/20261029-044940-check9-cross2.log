@@ -1,0 +1,57 @@
+
+# command: cmd /c "python apn/nine_check_slices.py cross s13 && python apn/nine_check_slices.py cross s10 && python apn/nine_check_slices.py orbitcov"
+s13: configurations 0..22164
+
+
+search13 exit 0
+s13: all 22165 done
+s10: configurations 0..17769
+
+
+
+# command: cmd /c "python apn/nine_check_slices.py cross s13 && python apn/nine_check_slices.py cross s10 && python apn/nine_check_slices.py orbitcov"
+s13: all 22165 done
+s10: configurations 0..17769
+
+
+
+
+
+
+search10 exit 0
+s10: all 17770 done
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+orbitcov exit 0
+

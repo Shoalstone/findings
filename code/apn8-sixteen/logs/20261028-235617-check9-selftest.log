@@ -1,0 +1,7 @@
+
+# command: cmd /c "runs\bin\nine_check.exe selftest runs\check9\configs.txt > runs\check9\selftest.out"
+
+
+
+# command: cmd /c "runs\bin\nine_check.exe selftest runs\check9\configs.txt > runs\check9\selftest.out"
+

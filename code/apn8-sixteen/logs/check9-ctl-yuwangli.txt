@@ -1,0 +1,16 @@
+FAIL ext line 3 choice 0: forms not an APN space (line not quadratic APN)
+FAIL ext line 3 choice 1: forms not an APN space (line not quadratic APN)
+FAIL ext line 3 choice 2: forms not an APN space (line not quadratic APN)
+FAIL ext line 3 choice 3: forms not an APN space (line not quadratic APN)
+FAIL ext line 3 choice 4: forms not an APN space (line not quadratic APN)
+FAIL ext line 3 choice 5: forms not an APN space (line not quadratic APN)
+FAIL nonext line 3 choice 6: forms not an APN space (line not quadratic APN)
+FAIL nonext line 3 choice 7: forms not an APN space (line not quadratic APN)
+FAIL nonext line 3 choice 8: forms not an APN space (line not quadratic APN)
+FAIL nonext line 3 choice 9: forms not an APN space (line not quadratic APN)
+FAIL nonext line 3 choice 10: forms not an APN space (line not quadratic APN)
+FAIL nonext line 3 choice 11: forms not an APN space (line not quadratic APN)
+SUMMARY runs\known\yuwangli_qam.txt ext controls 78 refound 72 notfound 0 fail 6 extra 0 nonapn 0 reps 65
+REPS ext 11:1 21:1 24:1 31:1 38:1 41:1 46:1 50:1 53:1 72:1 76:1 89:1 93:1 111:1 118:1 120:1 150:1 154:2 157:2 165:1 170:1 171:1 177:1 189:1 191:2 192:1 194:2 197:1 199:3 205:1 208:1 212:1 225:1 230:1 231:1 232:1 240:1 248:1 261:1 265:1 283:1 288:2 289:1 291:1 297:1 301:1 302:1 307:1 309:1 310:1 365:1 376:1 475:1 478:1 482:1 492:1 497:1 500:1 512:1 545:1 557:1 562:1 578:1 580:1 646:1
+SUMMARY runs\known\yuwangli_qam.txt nonext controls 78 refound 72 notfound 0 fail 6 extra 0 nonapn 0 reps 72
+REPS nonext 985:1 986:1 987:1 988:1 989:1 990:1 1112:1 1113:1 1114:1 1115:1 1116:1 1117:1 2238:1 2239:1 2240:1 2241:1 2242:1 2243:1 2921:1 2922:1 2923:1 2924:1 2925:1 2926:1 3025:1 3026:1 3027:1 3028:1 3029:1 3030:1 3234:1 3235:1 3236:1 3237:1 3238:1 3239:1 3489:1 3490:1 3491:1 3492:1 3493:1 3494:1 3599:1 3600:1 3601:1 3602:1 3603:1 3604:1 3671:1 3672:1 3673:1 3674:1 3675:1 3676:1 3987:1 3988:1 3989:1 3990:1 3991:1 3992:1 4124:1 4125:1 4126:1 4127:1 4128:1 4129:1 4969:1 4970:1 4971:1 4972:1 4973:1 4974:1

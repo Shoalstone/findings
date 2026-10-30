@@ -1,0 +1,10 @@
+
+# command: cmd /c "for %i in (0 675 1298 1525 2399 4315 5662) do python apn\nine_check_levels.py runs\check9\configs.txt %i 4 >> runs\check9\levels.txt"
+
+
+
+
+
+
+
+

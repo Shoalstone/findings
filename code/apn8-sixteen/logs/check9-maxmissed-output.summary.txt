@@ -1,0 +1,142 @@
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 905529 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1336 orbits hit of 1348 max orbits
+wrote 778 cliques to runs\check9\maxmissed-c0-s0.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 870447 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1336 orbits hit of 1348 max orbits
+wrote 702 cliques to runs\check9\maxmissed-c0-s1.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 834212 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1337 orbits hit of 1348 max orbits
+wrote 653 cliques to runs\check9\maxmissed-c0-s2.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 821909 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1337 orbits hit of 1348 max orbits
+wrote 697 cliques to runs\check9\maxmissed-c0-s3.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 835413 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1337 orbits hit of 1348 max orbits
+wrote 899 cliques to runs\check9\maxmissed-c0-s4.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 830721 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1336 orbits hit of 1348 max orbits
+wrote 612 cliques to runs\check9\maxmissed-c0-s5.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 814011 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1336 orbits hit of 1348 max orbits
+wrote 669 cliques to runs\check9\maxmissed-c0-s6.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 828350 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1336 orbits hit of 1348 max orbits
+wrote 585 cliques to runs\check9\maxmissed-c0-s7.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 829554 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1337 orbits hit of 1348 max orbits
+wrote 855 cliques to runs\check9\maxmissed-c0-s8.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 819498 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1337 orbits hit of 1348 max orbits
+wrote 630 cliques to runs\check9\maxmissed-c0-s9.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 800537 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1336 orbits hit of 1348 max orbits
+wrote 472 cliques to runs\check9\maxmissed-c0-s10.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 797881 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1336 orbits hit of 1348 max orbits
+wrote 446 cliques to runs\check9\maxmissed-c0-s11.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 798841 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1337 orbits hit of 1348 max orbits
+wrote 606 cliques to runs\check9\maxmissed-c0-s12.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 825335 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1337 orbits hit of 1348 max orbits
+wrote 662 cliques to runs\check9\maxmissed-c0-s13.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 827087 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1336 orbits hit of 1348 max orbits
+wrote 883 cliques to runs\check9\maxmissed-c0-s14.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 814879 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1336 orbits hit of 1348 max orbits
+wrote 519 cliques to runs\check9\maxmissed-c0-s15.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 333948 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1318 orbits hit of 1348 max orbits
+wrote 406 cliques to runs\check9\maxmissed-c1-s0.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 324067 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1318 orbits hit of 1348 max orbits
+wrote 388 cliques to runs\check9\maxmissed-c1-s1.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 323262 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1317 orbits hit of 1348 max orbits
+wrote 307 cliques to runs\check9\maxmissed-c1-s2.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 337018 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1318 orbits hit of 1348 max orbits
+wrote 509 cliques to runs\check9\maxmissed-c1-s3.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 327619 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1318 orbits hit of 1348 max orbits
+wrote 351 cliques to runs\check9\maxmissed-c1-s4.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 329486 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1318 orbits hit of 1348 max orbits
+wrote 374 cliques to runs\check9\maxmissed-c1-s5.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 312758 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1318 orbits hit of 1348 max orbits
+wrote 335 cliques to runs\check9\maxmissed-c1-s6.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 326567 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1318 orbits hit of 1348 max orbits
+wrote 480 cliques to runs\check9\maxmissed-c1-s7.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 133614 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1244 orbits hit of 1348 max orbits
+wrote 183 cliques to runs\check9\maxmissed-c2-s0.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 137194 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1245 orbits hit of 1348 max orbits
+wrote 186 cliques to runs\check9\maxmissed-c2-s1.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 128984 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1245 orbits hit of 1348 max orbits
+wrote 142 cliques to runs\check9\maxmissed-c2-s2.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 132408 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1245 orbits hit of 1348 max orbits
+wrote 164 cliques to runs\check9\maxmissed-c2-s3.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 22806 cliques, 0 on no listed orbit, 0 on a non-max orbit; 361 orbits hit of 1348 max orbits
+wrote 49 cliques to runs\check9\maxmissed-c3-s0.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 23368 cliques, 0 on no listed orbit, 0 on a non-max orbit; 361 orbits hit of 1348 max orbits
+wrote 32 cliques to runs\check9\maxmissed-c3-s1.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 23054 cliques, 0 on no listed orbit, 0 on a non-max orbit; 361 orbits hit of 1348 max orbits
+wrote 38 cliques to runs\check9\maxmissed-c3-s2.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 21792 cliques, 0 on no listed orbit, 0 on a non-max orbit; 361 orbits hit of 1348 max orbits
+wrote 31 cliques to runs\check9\maxmissed-c3-s3.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 1 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1 orbits hit of 1348 max orbits
+wrote 1 cliques to runs\check9\maxmissed-c4-s0.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+orbitcov: 2 cliques, 0 on no listed orbit, 0 on a non-max orbit; 1 orbits hit of 1348 max orbits
+wrote 2 cliques to runs\check9\maxmissed-c4-s1.txt
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+search: 14646 configurations (Part A maximal cliques); point order ascending
+lines in D: 1120:14646
+spr (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+spr (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) bent-extension nodes 0, full-span records 0
+ext13 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext13 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) bent-extension nodes 0, full-span records 0
+ext12 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext12 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) bent-extension nodes 0, full-span records 0
+ext11 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext11 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) bent-extension nodes 0, full-span records 0
+ext10 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext10 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) bent-extension nodes 0, full-span records 0
+max (this run) nodes by dim: 14646 410088 11482464 177518586 562247627 70164318 133689 0 0
+max (this run) tries by dim: 410088 11482464 321508992 4970520408 15742933556 1964600904 3743292 0 0
+max (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+max (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+max (this run) bent-extension nodes 0, full-span records 0
+search (incl. resumed) nodes by dim: 14646 410088 11482464 177518586 562247627 70164318 133689 0 0
+search (incl. resumed) tries by dim: 410088 11482464 321508992 4970520408 15742933556 1964600904 3743292 0 0
+search (incl. resumed) of which at points of D: 0 0 0 0 0 0 0 0 0
+search (incl. resumed) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+search (incl. resumed) bent-extension nodes 0, full-span records 0
+distinct p1 spans this run: 0
+solutions: 0

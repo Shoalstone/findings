@@ -1,0 +1,25 @@
+# each timestamp marks the end of the step named after it; two jobs, mostly on the E-cores beside other work, both
+# paused for 5.6 min (21:37:49-21:42:13 and 21:45:13-21:46:25: during t9-desc-0-999 in the first, t9-asc in the second)
+[21:15:48.90] start
+[21:16:22.79] pspread3-selftest9
+[21:16:52.12] t9-parta4s0
+[21:17:19.60] t9-parta4s1
+[21:18:10.20] t9-parta3s3
+[21:18:20.75] t9-merge
+[21:20:56.55] t9-levels
+[21:20:59.94] t9-mapa
+[21:21:57.03] t9-ctlnond
+[21:23:06.14] t9-ctlreps2
+[21:23:11.54] t9-orbitcov-s1000
+[21:23:14.22] t9-orbitcov-near
+[21:26:31.74] t9-s10-0-499
+[21:29:07.86] t9-s13-0-499
+[21:34:07.25] t9-ssp-0-799
+[21:36:41.03] t9-maxs1000-0-499
+[21:53:17.60] t9-desc-0-999
+[22:04:06.60] t9-rand7-0-999
+[22:15:37.82] t9-configs
+[21:17:27.85] start
+[21:55:11.76] t9-asc
+[22:08:43.28] cover-p9
+[22:44:46.75] t9-selftest

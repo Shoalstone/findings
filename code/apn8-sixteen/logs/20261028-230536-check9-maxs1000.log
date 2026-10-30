@@ -1,0 +1,6 @@
+
+# command: python apn/nine_check_slices.py cross maxs1000
+maxs1000: configurations 0..16492
+searchmax exit 0
+maxs1000: all 16493 done
+
