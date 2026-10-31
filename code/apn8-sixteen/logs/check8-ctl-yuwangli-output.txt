@@ -1,0 +1,19 @@
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+  8180 lines read, 13 taken; ext 78: re-found 72, NOT 0, fail 6; nonext 78: re-found 72, NOT 0, fail 6; no spread 0, no embedding 0
+ctl ext nodes by dim: 72 2058 57391 963125 4154933 1147500 6750 93 72
+ctl ext tries by dim: 2058 59122 1650044 27474488 118516563 32519238 22965511 2599199 0
+ctl ext of which at points of D: 0 0 0 0 0 0 22776320 2597056 0
+ctl ext nodes with every off-D point covered, by dim: 0 0 0 0 0 0 70 19 72
+ctl ext bent-extension nodes 0, full-span records 72
+ctlbatch runs\known\yuwangli_qam.txt ext: 78 controls; re-found 72; NOT found 0; setup failures 6; other spaces found 0 (0 not APN)
+  re-found by rank-4 count: 2:72
+  reps hit: 66
+ctl nonext nodes by dim: 72 2067 57329 958962 4084652 1027869 1476 72 72
+ctl nonext tries by dim: 2067 59327 1641110 27434263 116776170 29148583 361185 2088 0
+ctl nonext of which at points of D: 0 0 0 0 0 0 319424 0 0
+ctl nonext nodes with every off-D point covered, by dim: 0 0 0 0 0 0 1 0 72
+ctl nonext bent-extension nodes 0, full-span records 72
+ctlbatch runs\known\yuwangli_qam.txt nonext: 78 controls; re-found 72; NOT found 0; setup failures 6; other spaces found 0 (0 not APN)
+  re-found by rank-4 count: 2:72
+  reps hit: 72
+skipped: no spread 0, no member 4-tuple of the class (k = 4, nonext) 0, S0 already the whole space 0

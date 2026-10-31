@@ -1,0 +1,38 @@
+nondegenerate alternating forms: dim 4 28 (expect 28), dim 6 13888 (expect 13888)
+covers 1172, tasks 32816, threads 20
+tasks 2000/32816  18 s  nodes 5896944  solutions 0  full 0
+tasks 4000/32816  36 s  nodes 11755615  solutions 0  full 0
+tasks 6000/32816  54 s  nodes 17625272  solutions 0  full 0
+tasks 8000/32816  72 s  nodes 23523674  solutions 0  full 0
+NEAR p8-3835-a2-w3 dim 6 ranks 8:46 6:9 4:8 basis 0000102 4800000 30488c4 b21048d 71213b5 d61b67f
+tasks 10000/32816  90 s  nodes 29439678  solutions 0  full 0
+NEAR p8-3890-a2-w3 dim 6 ranks 8:46 6:9 4:8 basis 0002181 fc00000 e5abb91 b21048d acdb3c1 c6448f5
+tasks 12000/32816  109 s  nodes 35362965  solutions 0  full 0
+tasks 14000/32816  127 s  nodes 41196793  solutions 0  full 0
+tasks 16000/32816  144 s  nodes 47077643  solutions 0  full 0
+NEAR p8-4088-a1-w3 dim 6 ranks 8:46 6:9 4:8 basis 0002182 5c00000 3c4caf7 32114ac ba3051b 6ced2a4
+tasks 18000/32816  162 s  nodes 52966905  solutions 0  full 0
+NEAR p8-4181-a1-w2 dim 6 ranks 8:50 6:5 4:8 basis 0000087 c800000 58c5166 ffb6b52 5931d2e 966fe65
+NEAR p8-4183-a2-w5 dim 6 ranks 8:40 6:15 4:8 basis 0002001 6800000 b96e8e6 6930ff3 3efb841 e9e058b
+tasks 20000/32816  180 s  nodes 58850243  solutions 0  full 0
+NEAR p8-4240-a2-w3 dim 6 ranks 8:42 6:13 4:8 basis 0000184 6800000 74c9bd5 d6a64f3 96eae9b 69e1ab6
+tasks 22000/32816  198 s  nodes 64727847  solutions 0  full 0
+NEAR p8-4328-a1-w1 dim 6 ranks 8:50 6:5 4:8 basis 0000085 3c00000 3448ad5 84874ac 37eb3ef 377ece4
+NEAR p8-4328-a1-w1 dim 6 ranks 8:46 6:9 4:8 basis 0002001 8c00000 8522211 b21048d 37eb3ef 86cdafd
+NEAR p8-4328-a1-w1 dim 6 ranks 8:46 6:9 4:8 basis 0002084 3c00000 b16a8c4 3697021 ea1139b b1b3619
+NEAR p8-4328-a1-w1 dim 6 ranks 8:50 6:5 4:8 basis 0002001 8c00000 8522211 b21048d 84cbd5a 86cdafd
+NEAR p8-4330-a1-w2 dim 6 ranks 8:40 6:15 4:8 basis 0000087 ac00000 384c8e6 a49700d 8ddb6f4 c972f19
+NEAR p8-4328-a1-w1 dim 6 ranks 8:44 6:11 4:8 basis 0002001 b000000 8522211 b21048d 5931d2e 86cdafd
+NEAR p8-4328-a1-w1 dim 6 ranks 8:46 6:9 4:8 basis 0002084 6c00000 b16a8c4 3697021 8ddb6f4 b1b3619
+NEAR p8-4328-a1-w1 dim 6 ranks 8:50 6:5 4:8 basis 0002084 b800000 b16a8c4 3697021 ba3051b b1b3619
+NEAR p8-4328-a1-w1 dim 6 ranks 8:50 6:5 4:8 basis 0002084 d800000 b16a8c4 3697021 8ddb6f4 b1b3619
+NEAR p8-4328-a1-w1 dim 6 ranks 8:46 6:9 4:8 basis 0002084 e800000 b16a8c4 3697021 8ddb6f4 b1b3619
+tasks 24000/32816  217 s  nodes 70688589  solutions 0  full 0
+tasks 26000/32816  235 s  nodes 76543194  solutions 0  full 0
+tasks 28000/32816  252 s  nodes 82409047  solutions 0  full 0
+tasks 30000/32816  274 s  nodes 88290591  solutions 0  full 0
+NEAR p8-4623-a1-w0 dim 6 ranks 8:42 6:13 4:8 basis 0000185 8c00000 30488c4 3697021 c6cb81b f289b1a
+tasks 32000/32816  291 s  nodes 94136416  solutions 0  full 0
+done: covers 1172, tasks 32816, nodes 96514453, solutions 0, full (dim < 8) 0, dim 8 non-APN 0, bad seeds 0, 298 s
+nodes by span dimension 1..8: 32816 918848 15259232 64726011 15563711 13835 0 0
+near misses (every solid a radical, holes uncovered, below dim 8 or not): 17

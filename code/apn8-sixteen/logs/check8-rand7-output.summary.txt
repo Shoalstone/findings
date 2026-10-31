@@ -1,0 +1,368 @@
+== rand7-r0.out
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+search: 9372 configurations (configuration list); point order random
+lines in D: 1575:1172
+spr (this run) nodes by dim: 584 16352 457856 7629860 32986448 9780695 247786 2023 0
+spr (this run) tries by dim: 16352 457856 12819968 213636080 923620544 284885832 3197055848 264016900 0
+spr (this run) of which at points of D: 0 0 0 0 0 11027072 3190393024 264010880 0
+spr (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 25 9828 1808 0
+spr (this run) bent-extension nodes 0, full-span records 0
+ext13 (this run) nodes by dim: 523 14644 410032 6812107 29110278 7808105 71274 203 0
+ext13 (this run) tries by dim: 14644 410032 11480896 190738996 815087784 219390724 378745528 23360988 0
+ext13 (this run) of which at points of D: 0 0 0 0 0 763840 376781440 23359616 0
+ext13 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 2 1128 154 0
+ext13 (this run) bent-extension nodes 0, full-span records 0
+ext12 (this run) nodes by dim: 65 1820 50960 844382 3593723 906868 1318 0 0
+ext12 (this run) tries by dim: 1820 50960 1426880 23642696 100624244 25392304 2092132 0 0
+ext12 (this run) of which at points of D: 0 0 0 0 0 0 2055424 0 0
+ext12 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 7 0 0
+ext12 (this run) bent-extension nodes 0, full-span records 0
+ext11 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext11 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) bent-extension nodes 0, full-span records 0
+ext10 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext10 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) bent-extension nodes 0, full-span records 0
+ext9 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext9 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) bent-extension nodes 0, full-span records 0
+max (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+max (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+max (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+max (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+max (this run) bent-extension nodes 0, full-span records 0
+search (incl. resumed) nodes by dim: 1172 32816 918848 15286349 65690449 18495668 320378 2226 0
+search (incl. resumed) tries by dim: 32816 918848 25727744 428017772 1839332572 529668860 3577893508 287377888 0
+search (incl. resumed) of which at points of D: 0 0 0 0 0 11790912 3569229888 287370496 0
+search (incl. resumed) nodes with every off-D point covered, by dim: 0 0 0 0 0 27 10963 1962 0
+search (incl. resumed) bent-extension nodes 0, full-span records 0
+distinct p1 spans this run: 12952
+solutions: 0
+== rand7-r1.out
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+search: 9372 configurations (configuration list); point order random
+lines in D: 1575:1172
+spr (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+spr (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) bent-extension nodes 0, full-span records 0
+ext13 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext13 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) bent-extension nodes 0, full-span records 0
+ext12 (this run) nodes by dim: 285 7980 223440 3704169 15688178 3898837 4477 0 0
+ext12 (this run) tries by dim: 7980 223440 6256320 103716732 439268984 109972884 53949812 0 0
+ext12 (this run) of which at points of D: 0 0 0 0 0 805504 53829888 0 0
+ext12 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 2 194 0 0
+ext12 (this run) bent-extension nodes 0, full-span records 0
+ext11 (this run) nodes by dim: 887 24836 695408 11527121 48752290 12157085 13308 0 0
+ext11 (this run) tries by dim: 24836 695408 19471424 322759388 1365064120 340398380 17356052 0 0
+ext11 (this run) of which at points of D: 0 0 0 0 0 0 16985024 0 0
+ext11 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 57 0 0
+ext11 (this run) bent-extension nodes 0, full-span records 0
+ext10 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext10 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) bent-extension nodes 0, full-span records 0
+ext9 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext9 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) bent-extension nodes 0, full-span records 0
+max (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+max (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+max (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+max (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+max (this run) bent-extension nodes 0, full-span records 0
+search (incl. resumed) nodes by dim: 1172 32816 918848 15231290 64440468 16055922 17785 0 0
+search (incl. resumed) tries by dim: 32816 918848 25727744 426476120 1804333104 450371264 71305864 0 0
+search (incl. resumed) of which at points of D: 0 0 0 0 0 805504 70814912 0 0
+search (incl. resumed) nodes with every off-D point covered, by dim: 0 0 0 0 0 2 251 0 0
+search (incl. resumed) bent-extension nodes 0, full-span records 0
+distinct p1 spans this run: 253
+solutions: 0
+== rand7-r2.out
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+search: 9372 configurations (configuration list); point order random
+lines in D: 1575:1172
+spr (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+spr (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) bent-extension nodes 0, full-span records 0
+ext13 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext13 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) bent-extension nodes 0, full-span records 0
+ext12 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext12 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) bent-extension nodes 0, full-span records 0
+ext11 (this run) nodes by dim: 759 21252 595056 9856716 41604242 10252035 10585 0 0
+ext11 (this run) tries by dim: 21252 595056 16661568 275988048 1164918776 294819868 170171764 0 0
+ext11 (this run) of which at points of D: 0 0 0 0 0 7763392 169891904 0 0
+ext11 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 18 590 0 0
+ext11 (this run) bent-extension nodes 0, full-span records 0
+ext10 (this run) nodes by dim: 413 11564 323792 5365160 22573570 5543536 5221 0 0
+ext10 (this run) tries by dim: 11564 323792 9066176 150224480 632059960 155219008 3326232 0 0
+ext10 (this run) of which at points of D: 0 0 0 0 0 0 3180352 0 0
+ext10 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 11 0 0
+ext10 (this run) bent-extension nodes 0, full-span records 0
+ext9 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext9 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) bent-extension nodes 0, full-span records 0
+max (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+max (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+max (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+max (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+max (this run) bent-extension nodes 0, full-span records 0
+search (incl. resumed) nodes by dim: 1172 32816 918848 15221876 64177812 15795571 15806 0 0
+search (incl. resumed) tries by dim: 32816 918848 25727744 426212528 1796978736 450038876 173497996 0 0
+search (incl. resumed) of which at points of D: 0 0 0 0 0 7763392 173072256 0 0
+search (incl. resumed) nodes with every off-D point covered, by dim: 0 0 0 0 0 18 601 0 0
+search (incl. resumed) bent-extension nodes 0, full-span records 0
+distinct p1 spans this run: 619
+solutions: 0
+== rand7-r3.out
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+search: 9372 configurations (configuration list); point order random
+lines in D: 1575:1172
+spr (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+spr (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) bent-extension nodes 0, full-span records 0
+ext13 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext13 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) bent-extension nodes 0, full-span records 0
+ext12 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext12 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) bent-extension nodes 0, full-span records 0
+ext11 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext11 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) bent-extension nodes 0, full-span records 0
+ext10 (this run) nodes by dim: 1172 32816 918848 15214577 64196414 15772241 15150 0 0
+ext10 (this run) tries by dim: 32816 918848 25727744 426008156 1797499592 441622748 7992460 0 0
+ext10 (this run) of which at points of D: 0 0 0 0 0 0 7568960 0 0
+ext10 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 25 0 0
+ext10 (this run) bent-extension nodes 0, full-span records 0
+ext9 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext9 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) bent-extension nodes 0, full-span records 0
+max (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+max (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+max (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+max (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+max (this run) bent-extension nodes 0, full-span records 0
+search (incl. resumed) nodes by dim: 1172 32816 918848 15214577 64196414 15772241 15150 0 0
+search (incl. resumed) tries by dim: 32816 918848 25727744 426008156 1797499592 441622748 7992460 0 0
+search (incl. resumed) of which at points of D: 0 0 0 0 0 0 7568960 0 0
+search (incl. resumed) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 25 0 0
+search (incl. resumed) bent-extension nodes 0, full-span records 0
+distinct p1 spans this run: 25
+solutions: 0
+== rand7-r4.out
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+search: 9372 configurations (configuration list); point order random
+lines in D: 1575:1172
+spr (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+spr (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) bent-extension nodes 0, full-span records 0
+ext13 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext13 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) bent-extension nodes 0, full-span records 0
+ext12 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext12 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) bent-extension nodes 0, full-span records 0
+ext11 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext11 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) bent-extension nodes 0, full-span records 0
+ext10 (this run) nodes by dim: 1172 32816 918848 15217277 64141520 15745479 17084 0 0
+ext10 (this run) tries by dim: 32816 918848 25727744 426083756 1795962560 440873412 14392896 0 0
+ext10 (this run) of which at points of D: 0 0 0 0 0 0 13915776 0 0
+ext10 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 44 0 0
+ext10 (this run) bent-extension nodes 0, full-span records 0
+ext9 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext9 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) bent-extension nodes 0, full-span records 0
+max (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+max (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+max (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+max (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+max (this run) bent-extension nodes 0, full-span records 0
+search (incl. resumed) nodes by dim: 1172 32816 918848 15217277 64141520 15745479 17084 0 0
+search (incl. resumed) tries by dim: 32816 918848 25727744 426083756 1795962560 440873412 14392896 0 0
+search (incl. resumed) of which at points of D: 0 0 0 0 0 0 13915776 0 0
+search (incl. resumed) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 44 0 0
+search (incl. resumed) bent-extension nodes 0, full-span records 0
+distinct p1 spans this run: 44
+solutions: 0
+== rand7-r5.out
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+search: 9372 configurations (configuration list); point order random
+lines in D: 1575:1172
+spr (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+spr (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) bent-extension nodes 0, full-span records 0
+ext13 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext13 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) bent-extension nodes 0, full-span records 0
+ext12 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext12 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) bent-extension nodes 0, full-span records 0
+ext11 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext11 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) bent-extension nodes 0, full-span records 0
+ext10 (this run) nodes by dim: 1124 31472 881216 14587826 61404509 14990319 13231 0 0
+ext10 (this run) tries by dim: 31472 881216 24674048 408459128 1719326252 419728932 4494812 0 0
+ext10 (this run) of which at points of D: 0 0 0 0 0 0 4124736 0 0
+ext10 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 14 0 0
+ext10 (this run) bent-extension nodes 0, full-span records 0
+ext9 (this run) nodes by dim: 48 1344 37632 623271 2627349 644432 597 0 0
+ext9 (this run) tries by dim: 1344 37632 1053696 17451588 73565772 18044096 1072092 0 0
+ext9 (this run) of which at points of D: 0 0 0 0 0 0 1055488 0 0
+ext9 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 4 0 0
+ext9 (this run) bent-extension nodes 0, full-span records 0
+max (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+max (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+max (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+max (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+max (this run) bent-extension nodes 0, full-span records 0
+search (incl. resumed) nodes by dim: 1172 32816 918848 15211097 64031858 15634751 13828 0 0
+search (incl. resumed) tries by dim: 32816 918848 25727744 425910716 1792892024 437773028 5566904 0 0
+search (incl. resumed) of which at points of D: 0 0 0 0 0 0 5180224 0 0
+search (incl. resumed) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 18 0 0
+search (incl. resumed) bent-extension nodes 0, full-span records 0
+distinct p1 spans this run: 18
+solutions: 0
+== rand7-r6.out
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+search: 9372 configurations (configuration list); point order random
+lines in D: 1575:1172
+spr (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+spr (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) bent-extension nodes 0, full-span records 0
+ext13 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext13 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) bent-extension nodes 0, full-span records 0
+ext12 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext12 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) bent-extension nodes 0, full-span records 0
+ext11 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext11 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) bent-extension nodes 0, full-span records 0
+ext10 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext10 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) bent-extension nodes 0, full-span records 0
+ext9 (this run) nodes by dim: 1172 32816 918848 15216683 64010377 15644452 16449 9 0
+ext9 (this run) tries by dim: 32816 918848 25727744 426067124 1792290556 438044656 31247524 1985984 0
+ext9 (this run) of which at points of D: 0 0 0 0 0 0 30789696 1985984 0
+ext9 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 98 9 0
+ext9 (this run) bent-extension nodes 0, full-span records 0
+max (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+max (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+max (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+max (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+max (this run) bent-extension nodes 0, full-span records 0
+search (incl. resumed) nodes by dim: 1172 32816 918848 15216683 64010377 15644452 16449 9 0
+search (incl. resumed) tries by dim: 32816 918848 25727744 426067124 1792290556 438044656 31247524 1985984 0
+search (incl. resumed) of which at points of D: 0 0 0 0 0 0 30789696 1985984 0
+search (incl. resumed) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 98 9 0
+search (incl. resumed) bent-extension nodes 0, full-span records 0
+distinct p1 spans this run: 107
+solutions: 0
+== rand7-r7.out
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+search: 9372 configurations (configuration list); point order random
+lines in D: 1575:1168
+spr (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+spr (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) bent-extension nodes 0, full-span records 0
+ext13 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext13 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext13 (this run) bent-extension nodes 0, full-span records 0
+ext12 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext12 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) bent-extension nodes 0, full-span records 0
+ext11 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext11 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) bent-extension nodes 0, full-span records 0
+ext10 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext10 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) bent-extension nodes 0, full-span records 0
+ext9 (this run) nodes by dim: 987 27636 773808 12796326 53727256 13029509 11203 0 0
+ext9 (this run) tries by dim: 27636 773808 21666624 358297128 1504363168 364826252 1632932 0 0
+ext9 (this run) of which at points of D: 0 0 0 0 0 0 1319360 0 0
+ext9 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 4 0 0
+ext9 (this run) bent-extension nodes 0, full-span records 0
+max (this run) nodes by dim: 181 5068 141904 2346208 9853889 2377998 1928 0 0
+max (this run) tries by dim: 5068 141904 3973312 65693824 275908892 66583944 845516 0 0
+max (this run) of which at points of D: 0 0 0 0 0 0 791616 0 0
+max (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 3 0 0
+max (this run) bent-extension nodes 0, full-span records 0
+search (incl. resumed) nodes by dim: 1168 32704 915712 15142534 63581145 15407507 13131 0 0
+search (incl. resumed) tries by dim: 32704 915712 25639936 423990952 1780272060 431410196 2478448 0 0
+search (incl. resumed) of which at points of D: 0 0 0 0 0 0 2110976 0 0
+search (incl. resumed) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 7 0 0
+search (incl. resumed) bent-extension nodes 0, full-span records 0
+distinct p1 spans this run: 7
+solutions: 0

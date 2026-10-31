@@ -1,0 +1,4 @@
+$ python src/eight_check_percfg.py
+asc configs 545 fresh by dim {5: 47, 6: 9061, 7: 929} A by dim {5: 47, 6: 9061, 7: 929} per-(config,dim) mismatches 0 []
+desc configs 545 fresh by dim {5: 47, 6: 9061, 7: 929} A by dim {5: 47, 6: 9061, 7: 929} per-(config,dim) mismatches 0 []
+rand7 configs 545 fresh by dim {5: 47, 6: 9061, 7: 929} A by dim {5: 47, 6: 9061, 7: 929} per-(config,dim) mismatches 0 []

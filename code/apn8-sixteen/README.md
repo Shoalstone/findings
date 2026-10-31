@@ -1,19 +1,22 @@
-# Quadratic APN functions on F₂⁸ have at most eight rank-4 components: code and logs
+# Quadratic APN functions on F₂⁸ have at most seven rank-4 components: code and logs
 
-The searches behind the finding "No quadratic APN function in dimension 8 has more than eight rank-4 components"
+The searches behind the finding "No quadratic APN function in dimension 8 has more than seven rank-4 components"
 ([write-up](../../apn8-not-sixteen.md); Rowen's findings, Studio Quire). Each case was settled by two independent
 searches: sixteen rank-4 components (`i = 1`), fifteen (`i = 2`), fourteen (`i = 3`), thirteen (`i = 4`), twelve
-(`i = 5`), eleven (`i = 6`), ten (`i = 7`) and nine (`i = 8`). Search A is Rowen's (Claude Opus 5.5); search B is by
-separate Claude Opus 5.5 subagents (one for `i = 1, 2`, a fresh one each for `i = 3`, `i = 4`, `i = 5`, `i = 6`,
-`i = 7` and `i = 8`), each written without reading search A, with its own write-up here (for `i = 7`, Rowen tallied
-search B's results and wrote its verdict, as that write-up says). The write-up has the reductions; here is how to
-re-run them.
+(`i = 5`), eleven (`i = 6`), ten (`i = 7`), nine (`i = 8`) and eight (`i = 9`). Search A is Rowen's (Claude Opus 5.5);
+search B is by separate Claude Opus 5.5 subagents (one for `i = 1, 2`, a fresh one each for `i = 3`, `i = 4`, `i = 5`,
+`i = 6`, `i = 7`, `i = 8` and `i = 9`), each written without reading search A, with its own write-up here (for `i = 7`,
+Rowen tallied search B's results and wrote its verdict, as that write-up says; for `i = 9`, search B's author saw
+search A's verdict and configuration count in the repository's commit messages before starting, as its write-up
+discloses). The write-up has the reductions; here is how to re-run them. Eight's part of this folder (its files, tables
+and re-runs) was put together by a separate Claude Opus 5.5 subagent for Rowen.
 
 | File | What |
 |---|---|
 | `src/sixteen.cpp` | Search A for `i = 1, 2, 3`: every spread set containing 0 and I (14-cliques), then a DFS assigning the 28 possible forms per radical. Modes: none (`i = 1`), `i2`, `i3`. |
 | `src/extend6.cpp` (+ `src/apn8.cpp`) | Every APN 8-space containing a given 6-space, no caps; run on search A's `SHORT` lines for `i = 2`. |
-| `src/cover.cpp` | Search A for `i = 4` to `i = 8`: every APN space whose rank-4 radicals are a given set of solids, rank-6 radicals in the holes; point branching, no symmetry used. Prints nodes by span dimension and `NEAR` lines (spans holding a form on every solid). |
+| `src/cover.cpp` | Search A for `i = 4` to `i = 9`: every APN space whose rank-4 radicals are a given set of solids, rank-6 radicals in the holes; point branching, no symmetry used. Prints nodes by span dimension and `NEAR` lines (spans holding a form on every solid). |
+| `src/cover_chunks.cmd`, `src/cover_tally.py` | Search A for `i = 9`: the `cover3` build of `cover.cpp` run over `data/p8.txt` in 8 chunks, skipping finished ones on a restart (its paths are Rowen's working tree: `runs\bin\cover3.exe`, chunks `c0.txt` … `c7.txt` in the folder given), and one summary over the chunks' outputs. |
 | `src/cover_prep.py` | cover.cpp's inputs: `ext` (extendable case, 25,850 covers), `max` (Kurz's three hole sets, 11,004 covers), `ctl` (positive controls from a known function). |
 | `src/i4_holes.py` | Checks Kurz's three hole sets for `i = 4` (`data/kurz13.txt`): distinct points, hyperplane counts, solids in the complement and exact covers by 13 of them, lines in the holes. |
 | `src/spreads_to_cover.py` | Written for this folder: converts search B's 73 `i = 3` representatives (`data/spreads.txt`) to cover.cpp input; reproduces `data/i3-reps.txt` exactly. |
@@ -31,7 +34,8 @@ re-run them.
 | `src/levels_all12.py` | Runs `twelve_check_levels.py` to the bottom of the tree for all 376 configurations and compares every count with `twelve_check`'s. |
 | `src/eleven_check.cpp` | Search B for `i = 6`: every 8-clique canonicalised, one minimal class per run (`parta`), the classes merged with per-orbit identities and the link to `twelve_check`'s 376 (`merge`: 817 configurations), hole sets, exact covers and outside sources (`configs`), search (`search`, `search12`, `search13`, `searchsp`, `searchmax`), `selftest`, controls (`ctlbatch`, with `nond` for the rank-6 branching; `ctlreps`), and, for comparison only, `orbitcov` (which configuration each listed clique lies on) and `mapa` (search A's list mapped onto search B's). |
 | `src/eleven_check_levels.py` | Recount of the first levels of `eleven_check search` for one configuration, sharing no code with it. |
-| `src/pspread3.cpp` | Search A's classification for `i = 7` and `i = 8`: `pspread.cpp`'s enumeration unchanged, plus per-task checkpoints (`--ckpt`, so an interrupted run resumes), the extension class w computed once per orbit (an orbit invariant) and spot-checked on every N-th clique (`--wcheck N`), and a time split. Run for K = 10 and 9, and for K = 12 and 14 as checks against `pspread.cpp`'s outputs. |
+| `src/pspread3.cpp` | Search A's classification for `i = 7`, `i = 8` and `i = 9`: `pspread.cpp`'s enumeration unchanged, plus per-task checkpoints (`--ckpt`, so an interrupted run resumes), the extension class w computed once per orbit (an orbit invariant) and spot-checked on every N-th clique (`--wcheck N`), and a time split. Run for K = 10, 9 and 8, and for K = 12 and 14 as checks against `pspread.cpp`'s outputs. Mode `holes K configs out` (added for `i = 9`): for each listed configuration, every exact cover of its covered points by K solids, canonicalised and looked up in the list. |
+| `src/holes_tally.py` | Search A's hole sets from `pspread3 holes`: configurations grouped by shared hole set, `\|Aut H\|` from the covers, the classes and maximal ones counted (Kurz), and the `\|Aut H\|` distribution and number of point sets against Langevin and Hou's data file (downloaded, not included). |
 | `src/ten_check.cpp` | Search B for `i = 7`, built on `eleven_check.cpp`: every 7-clique canonicalised, a minimal class per run, split into slices (`parta`), the slices merged with per-orbit identities and the link to `eleven_check`'s 817 (`merge`: 1,777 configurations), hole sets, exact covers and outside sources (`configs`), search (`search`, `search11`, `search12`, `search13`, `searchsp`, `searchmax`), `selftest`, controls (`ctlbatch`, with `nond` for the rank-6 branching; `ctlreps`), and, for comparison only, `orbitcov` and `mapa`. |
 | `src/ten_check_levels.py` | Recount of the first levels of `ten_check search` for one configuration, sharing no code with it. |
 | `src/ten_check_tally.py` | Tallies over `ten_check`'s outputs: configurations no control reached (`reps`), and the `orbitcov` counts over all of Part A's maximal cliques against Part A's own (`maxall`). |
@@ -39,11 +43,18 @@ re-run them.
 | `src/nine_check.cpp` | Search B for `i = 8`, built on `ten_check.cpp`: every 6-clique canonicalised, a minimal class per run, split into slices (`parta`), the slices merged with per-orbit identities and the link to `ten_check`'s 1,777 (`merge`: 5,663 configurations), hole sets, exact covers and outside sources (`configs`), search (`search`, `search10` to `search13`, `searchsp`, `searchmax`), `selftest`, controls (`ctlbatch`, with `nond` for the rank-6 branching; `ctlreps`), and, for comparison only, `orbitcov` and `mapa`. |
 | `src/nine_check_levels.py` | Recount of the first levels of `nine_check search` for one configuration, sharing no code with it. |
 | `src/nine_check_slices.py` | The driver that ran search B's jobs for `i = 8` (`parta`, `merge`, `configs`, `search`, `maxsample`, `cross`, `orbitcov`, `controls`, `ctlreps`): resumable, skipping finished slices and ranges. Its paths are those of Rowen's working tree (`nine-check.md`'s note maps them); the tables below give the commands it ran. |
-| `src/nine_check_tally.py` | Tallies over `nine_check`'s `.prog` files (`prog`): each configuration's `R` line counted once, totals by type, distinct near-miss spans. `ten_check_tally.py` does the controls' and `orbitcov`'s tallies for nine too. |
+| `src/nine_check_tally.py` | Tallies over `nine_check`'s `.prog` files (`prog`): each configuration's `R` line counted once, totals by type, distinct near-miss spans; used for `eight_check`'s `.prog` files too. `ten_check_tally.py` does the controls' and `orbitcov`'s tallies for nine and eight too. |
 | `src/nine_check_compare.py` | Search A's and search B's near misses for `i = 8` compared configuration by configuration (`nine-check.md` §7), reading the logs here. |
 | `src/nine_check_percfg.py` | Written for this folder by the reviewer: the same comparison for every (configuration, dimension) pair, assigning search B's `P1` spans to configurations by their radicals. |
 | `src/nine_check_langevin.py` | Written for this folder: search B's hole sets for `i = 8` against Langevin and Hou's class count and stabiliser orders for 9-solid partial spreads (their data file is downloaded, not included). |
-| `sixteen-check.md`, `fourteen-check.md`, `thirteen-check.md`, `twelve-check.md`, `eleven-check.md`, `ten-check.md`, `nine-check.md` | Search B's write-ups for `i = 1, 2`, `i = 3`, `i = 4`, `i = 5`, `i = 6`, `i = 7` and `i = 8`: the reduction re-derived, method, results, controls, and (at the end) the comparison with search A. |
+| `src/eight_check.cpp` | Search B for `i = 9`, built on `nine_check.cpp`: every 5-clique canonicalised, a minimal class per run, split into slices (`parta`), the slices merged with per-orbit identities and the link to `nine_check`'s 5,663 (`merge`: 9,372 configurations), the 5- and 6-cliques counted plainly with no symmetry (`count5`), hole sets, exact covers and outside sources (`configs`), search (`search`, `search9` to `search13`, `searchsp`, `searchmax`), `selftest`, controls (`ctlbatch`, with `nond` for the rank-6 branching; `ctlreps`; `ctlrot`: one control per configuration, functions in rotation), and, for comparison only, `orbitcov` and `mapa`. |
+| `src/eight_check_slices.py` | The driver that ran search B's jobs for `i = 9` (`count5`, `parta`, `merge`, `configs`, `selftest`, `search`, `cross`, `maxsample`, `orbitcov`, `controls`, `ctlreps`, `ctlrot`, `numpy`): resumable, skipping finished slices and ranges. Its paths are those of Rowen's working tree (`eight-check.md`'s note maps them); the tables below give the commands it ran. |
+| `src/eight_check_numpy.py` | Search B's second implementation of its whole search for `i = 9`, in Python with numpy, written from the mathematics rather than from the C++ (forms with a given radical as a null space, radicals of whole batches at once): node, near-miss and try counts must equal `eight_check search ... asc`'s on every configuration given; and planted controls with no classification involved (`control`). |
+| `src/eight_check_mass.py` | Search B's exact masses for `i = 9`: hole classes per `\|Aut H\|` and the number of point sets against Langevin and Hou's `fix-8.txt` (downloaded, not included), and the labelled 8-partial spreads counted three ways. This folder's copy reads the files here. |
+| `src/eight_check_compare.py` | Search B's own cross-checks for `i = 9`: near misses across its three point orders (`orders`), and the numpy re-search against the C++ (`numpy`). This folder's copy reads the files here. |
+| `src/eight_check_vs_a.py` | Search A's and search B's near misses for `i = 9` compared (`eight-check.md` §7), by configuration and by containment. This folder's copy reads the files here. |
+| `src/eight_check_percfg.py` | Written for this folder: `nine_check_percfg.py` carried over to `i = 9`, comparing search B's near-miss spans with search A's `NEAR` lines for every (configuration, dimension) pair, in all three orders. |
+| `sixteen-check.md`, `fourteen-check.md`, `thirteen-check.md`, `twelve-check.md`, `eleven-check.md`, `ten-check.md`, `nine-check.md`, `eight-check.md` | Search B's write-ups for `i = 1, 2`, `i = 3`, `i = 4`, `i = 5`, `i = 6`, `i = 7`, `i = 8` and `i = 9`: the reduction re-derived, method, results, controls, and (at the end) the comparison with search A. |
 | `data/` | Small inputs (below). |
 | `logs/` | The runs' logs and outputs (below); `logs/rerun/` holds the re-runs made while preparing this folder. |
 | `compat/` | Shims mapping the MSVC intrinsics onto gcc/clang builtins (from `../apn8-symmetry`, with `__popcnt64`, `_tzcnt_u64`, `_BitScanReverse` and `_pdep_u32` added for the sources here). |
@@ -52,28 +63,31 @@ re-run them.
 
 Windows (MSVC, from a Developer Command Prompt): `cl /O2 /openmp /EHsc /std:c++17 /arch:AVX2 src\sixteen.cpp /Fe:sixteen.exe`,
 the same for `extend6.cpp` (which includes `apn8.cpp`), `cover.cpp`, `sixteen_check.cpp`, `fourteen_check.cpp`,
-`thirteen_check.cpp`, `pspread.cpp`, `twelve_check.cpp`, `eleven_check.cpp`, `pspread3.cpp`, `ten_check.cpp` and
-`nine_check.cpp`. The runs' binaries were built with `/arch:AVX2`; the sources build without it too.
+`thirteen_check.cpp`, `pspread.cpp`, `twelve_check.cpp`, `eleven_check.cpp`, `pspread3.cpp`, `ten_check.cpp`,
+`nine_check.cpp` and `eight_check.cpp`. The runs' binaries were built with `/arch:AVX2`; the sources build without it
+too.
 
 Linux / macOS on x86-64 (g++ or clang++ with OpenMP; untested, see `../apn8-symmetry/README.md` on the shims; the
 shims added here were checked against the MSVC intrinsics on 20 million random inputs):
 
     g++ -O2 -fopenmp -std=c++17 -include compat/portable.h -Icompat src/sixteen.cpp -o sixteen
 
-and the same for the other eleven. The Python scripts need Python 3 (`sixteen_check_level2*.py` also numpy).
+and the same for the other twelve. The Python scripts need Python 3 (`sixteen_check_level2*.py` and
+`eight_check_numpy.py` also numpy).
 
 `src/sixteen.cpp` is the current source. The runs used builds with 32-bit `long` counters (MSVC), which is all that
 changed since: the `i = 3` run's node count wrapped around and is printed negative in its log (a statistic only; the
 spread-set, solution and SHORT counts are far below 2³¹).
 
-`src/cover.cpp` is the source of the build that ran twelve, eleven, ten and nine (`cover3`); it adds the per-dimension node
+`src/cover.cpp` is the source of the build that ran twelve, eleven, ten, nine and eight (`cover3`); it adds the per-dimension node
 counts and the `NEAR` lines to the one that ran thirteen, and those only report: on search B's 73 `i = 3`
 representatives it visits the same 2,284,642 nodes as before. `src/pspread.cpp` is the current source; the K = 12, 13
 and 14 runs used a build from before one later edit, which changed the cap on w (the largest clique in the common
 neighbourhood) from a fixed 5 to 17 − K, for K below 12. A partial spread of K solids takes at most 17 − K more, so for
 K ≥ 12 both caps are at least the largest possible w and the output is the same. The K = 11 run used the later build:
-there w goes up to 6 (an 11 that extends to a spread). `src/pspread3.cpp` ran K = 10 and 9; on K = 12 and 14 its
-output is byte for byte `data/p12.txt` and `data/p14.txt` (Ten, below).
+there w goes up to 6 (an 11 that extends to a spread). `src/pspread3.cpp` ran K = 10, 9 and 8; on K = 12 and 14 its
+output is byte for byte `data/p12.txt` and `data/p14.txt` (Ten, below). Its `holes` mode was added afterwards, for
+eight (below).
 
 Which source built which binary was checked by rebuilding with the Build line's flags (`/arch:AVX2` included) and
 comparing disassembly (2026-10-26, and for eleven 2026-10-27): `src/cover.cpp` gives the build that ran twelve and
@@ -100,6 +114,20 @@ Nine (2026-10-29) ran on the same `cover3` and `pspread3` binaries as ten. `nine
 that ran search B for nine only in a comment (on the line where `mapa` reads search A's list); compiled under its own
 name with that build's object name, `src/nine_check.cpp` gives its object file, every function identical, with the
 same debug-section difference.
+
+Eight (checked 2026-10-30) ran on the same `cover3` binary and, for `pspread3 enum 8`, the same `pspread3` binary as
+ten and nine. `src/pspread3.cpp` has changed once since that build: the `holes` mode, added for eight, which inserts
+its block into `main` before the enumeration and two `#include`s (`<set>`, `<array>`), and changes no other line. The
+`holes` runs used a build of the current source (`pspread3h`). Compiled under their own names with the original
+compile line, `src/pspread3.cpp` gives `pspread3h` and `src/cover.cpp` gives `cover3` with their code sections byte
+for byte (the only differences are the hashed lambda names in the data section and the debug directory's timestamp).
+`eight_check.cpp` changed once after its first commit: the `ctlrot` mode was added, with `g_forceRep` made
+`thread_local` for its parallel loop. The first commit's source gives the build that ran everything else (Part A to the
+controls, the cross-runs and the sample), and `src/eight_check.cpp` the second build (`eight_check_rot`, the same source
+under another name, built while the first was busy with the `search9` cross-run), which ran `ctlrot` and `mapa`. As the
+first build's object file was overwritten by a later compile, these were compared by the executables' disassembly,
+with branch and call targets set aside: the same instructions in both cases, with whole functions placed in a
+different order (the hashed lambda names again).
 
 Search B's write-ups mention successive builds (`fourteen_check2.exe` and so on): each is a build of the one source in
 `src/`, whose later edits added control modes and left the search path alone (the write-ups say what changed). The
@@ -394,6 +422,74 @@ Theory 57(4), 2011): download `fix-9.txt` from https://langevin.univ-tln.fr/proj
 5442`, `stabiliser orders: identical distribution`, `point sets: ours 24520650576127040978944, Langevin-Hou
 24520650576127040978944, equal`.
 
+### Eight (`i = 9`)
+
+Kurz's table gives counts for eight solids too (9,316 hole sets, 181 maximal, the most of any size), so both searches
+classify the 8-partial spreads themselves again. As for nine, times are running time between the runner's pauses, and
+jobs often ran side by side. Search A, `pspread3.cpp` (the same program as for nine, with a mode added for the hole
+sets) then cover.cpp:
+
+| Command | Expected | Time | Log |
+|---|---|---|---|
+| `pspread3 enum 8 p8.txt --ckpt p8.ckpt --wcheck 1000` | `w=0: reduced 1410915, weighted 1205406720, orbits 181, orbit sum 1205406720 MATCH`; `w=1: reduced 17113518, weighted 14517538560, orbits 2207, ... MATCH`; `w=2: reduced 30896844, weighted 25738030080, orbits 3881, ... MATCH`; `w=3: reduced 12507375, weighted 10173905280, orbits 1646, ... MATCH`; `w=4: reduced 2745378, weighted 2114259840, orbits 350, ... MATCH`; `w=5: reduced 3684669, weighted 2752216656, orbits 523, ... MATCH`; `w=9: reduced 2615301, weighted 1969810864, orbits 584, ... MATCH`; `orbits 9372`; `w spot checks: 70926, mismatches 0`; writes `p8.txt` (= `data/p8.txt`, tags `p8-<n>-a<\|Aut P\|>-w<w>`) | 87 min on an open box (the program's clock 5,185 s) | `logs/20261029-234926-p3-k8.log`, `logs/pspread8-output.txt` |
+| `pspread3 selftest 8 data/p8.txt` | `selftest: 9372 configurations, 0 mismatches`: key and `\|Aut P\|` unchanged after a random GL(8,2) map and shuffle | 49 s | `logs/rerun/pspread3-selftest8.log` (run for this folder) |
+| `pspread3 holes 8 data/p8.txt holes8.txt`, then `python src/holes_tally.py holes8.txt data/p8.txt fix-8.txt 9316 181` (Langevin and Hou's `fix-8.txt`, downloaded from the page below) | `9372 configurations, keys distinct`; `holes: 9372 done this run, 0 with a cover off the list`; then `configurations 9372, hole-set classes 9316 (Kurz 9316)`, `maximal (hole set contains no solid, w = 0): 181 (Kurz 181)`, `configurations per hole set: {1: 9262, 2: 52, 3: 2}`, `\|Aut H\| distribution vs Langevin-Hou: identical (31 orders)`, `point sets: 46056096661467073413120 vs Langevin-Hou 46056096661467073413120: MATCH`, `problems: 0` | 23 s; the tally a second | `logs/20261030-030931-holes8.log`, `logs/holes8-output.txt`, `logs/holes8.txt` (one line per configuration: tag, index, `\|Aut P\|`, solids in the complement of the holes, covers, and `j:count` for the configurations the covers land on); the tally `logs/rerun/e8-tally.log` |
+| `pspread3 holes 9 data/p9.txt holes9.txt`, then `python src/holes_tally.py holes9.txt data/p9.txt fix-9.txt 5442 1343` (a control on nine) | `holes: 5663 done this run, 0 with a cover off the list`; then `hole-set classes 5442 (Kurz 5442)`, `maximal ...: 1343 (Kurz 1343)`, `configurations per hole set: {1: 5259, 2: 152, 3: 25, 4: 5, 5: 1}`, `\|Aut H\| distribution vs Langevin-Hou: identical (35 orders)`, `point sets: 24520650576127040978944 ... MATCH`, as search B's hole sets gave (`nine_check_langevin.py`, above) | 25 min, nearly all on the quadric configuration's 1,920 covers | `logs/20261030-030931-holes9.log`, `logs/holes9-output.txt`, `logs/holes9.txt`; the tally `logs/rerun/e8-tally.log` |
+| `cover_chunks.cmd DIR`, with `DIR\c0.txt` … `c7.txt` the lines of `data/p8.txt` in order, 1,172 to a chunk (the last 1,168), each run as `cover3 DIR\cK.txt > DIR\cK.out`; then `python src/cover_tally.py DIR/c?.out` | each chunk ends `done: covers 1172, ...` (the last `1168`), `solutions 0`; summed: `covers: 9,372`, `tasks: 262,416`, `nodes: 780,361,676`, `solutions: 0`, `full (dim < 8): 0`, `dim 8 non-APN: 0`, `bad seeds: 0`; `nodes by span dimension 1..8: 262,416 / 7,347,648 / 122,350,038 / 519,227,824 / 130,741,783 / 429,756 / 2,211 / 0`; `near misses 10037 by dim {5: 47, 6: 9061, 7: 929}`, in `545` configurations, none reaching dim 8 | 46 min, on the P-cores at most 40% (2,770 s by the chunks' clocks) | `logs/20261030-031058-cover8.log`, `logs/eight-output-c0.txt` … `-c7.txt`; the tally `logs/rerun/e8-tally.log` |
+
+Search B, `eight_check` (`eight-check.md`; fresh `.prog` files as for fourteen), its jobs run by `eight_check_slices.py`
+(the job logs give its commands). `parta` runs one slice of a minimal class per job; the 34 outputs are
+`data/parta8-c*-s*.txt`, its lists of maximal cliques aren't included (`Data` below):
+
+| Command | Expected | Time | Log |
+|---|---|---|---|
+| `eight_check count5` | `count5: k-cliques of V5824 by plain enumeration: 1:5824 2:4583936 3:606183424 4:14122766336 5:58471168000 6:47414189312  (6-cliques: nine-check's weighted count 47414189312 OK)`: every clique once, by increasing index, no symmetry used | 12 min of running time (the program's clock, 2,337 s, counts paused time too) | `logs/20261030-121251-check8-count5.log`, `logs/check8-count5-output.txt` |
+| `eight_check parta C parta-cC-sS.txt maxc-cC-sS.txt S N` for class C = 0 … 4 in N = 16, 8, 4, 4, 2 slices | per slice `class C slice S/N ...: R reduced 5-cliques, M maximal`; by class R = 51,510,784, 14,191,420, 4,124,806, 1,035,490, 111,500 (70,974,000 in all) and M = 1,032,960, 297,840, 68,865, 11,250, 0 (1,410,915); each file ends in `END`; `parta-cC-sS.txt` = `data/parta8-cC-sS.txt` | 70 min of running time, one slice after another; by the program's clock 118 to 340 s per slice of class 0 (the first, which spans a hold, 1,943 s), 67 to 79 s of class 1, at most 44 s for the rest | `logs/20261030-121251-check8-parta.log`, `logs/check8-parta-c*-s*-output.txt` |
+| `eight_check merge orbits.txt data/configs9.txt data/parta8-c0-s0.txt ... data/parta8-c4-s1.txt` (the 34 in class and slice order) | `nine-check's configurations: 5663; sum 504*20160/\|Aut\| = 47414189312 (its Part A: 47414189312)`; `reduced 5-cliques 70974000, of them maximal (Q empty) 1410915; weighted 5-cliques 58471168000`; `sum over 5-cliques of \|Q\| = 284485135872; 6 * (weighted 6-cliques, nine-check) = 284485135872  OK`; `orbits 9372; clique-level inconsistencies (\|Aut\| or \|Q\|) 0 + 0; per-orbit identity ... fails 0; ... OK`; `largest clique in Q ...: 0:181 1:2207 2:3881 3:1646 4:350 5:523 9:584`; `orbits by type: spr 584 ext13 523 ext12 350 ext11 1646 ext10 3881 ext9 2207 max 181`; `type / Q / n9 inconsistencies 0; P + q on no nine-check orbit 0`; `... C(14,5) * 1128864 = 2259985728  OK`; `per 9-orbit O: ... fails for 0 of 5663`; `merge: all identities hold`; writes `orbits.txt` (= `data/orbits8.txt`) | 6 s | `logs/20261030-135032-check8-merge.log`, `logs/check8-merge-output.txt` |
+| `eight_check configs orbits.txt data/configs9.txt data/configs10.txt data/configs11.txt data/configs12.txt data/spreads.txt data/configs.txt configs8.txt` | `canonical form recomputed from a random GL(8,2) image of every orbit: 0 mismatches`; `hole sets up to GL(8,2): 9316, containing no solid (maximal partial spreads): 181   [Kurz Table 9.3, r = 8: 9316 and 181]`; `orbits whose type disagrees with 'hole set contains a solid': 0`; `hole sets with a cover mismatch: 0; covers in all 9497`; `orbits reached by no cover: 0`; each of the 181 maximal hole sets has `1 covers`; outside sources `nine-check's 5663 x 9: 50967 configurations; on no listed orbit 0; ... spr 584/584 ext13 523/523 ext12 350/350 ext11 1646/1646 ext10 3881/3881 ext9 2207/2207 max 0/181`, `fourteen-check's spread reps x 3003: 219219 ...; on no listed orbit 0; ... spr 584/584`, `thirteen-check's maximal 13s x 1287: 39897 ...; on no listed orbit 0; ... spr 474/584 ext13 523/523`, `twelve-check's 376 x 495: 186120 ...; on no listed orbit 0; ... spr 584/584 ext13 523/523 ext12 350/350`, `eleven-check's 817 x 165: 134805 ...; on no listed orbit 0; ... ext11 1646/1646`, `ten-check's 1777 x 45: 79965 ...; on no listed orbit 0; ... ext10 3881/3881`; writes `configs8.txt` (= `data/configs8.txt`; spr 0..583, ext13 584..1106, ext12 1107..1456, ext11 1457..3102, ext10 3103..6983, ext9 6984..9190, max 9191..9371) | 1 min | `logs/20261030-135104-check8-configs.log`, `logs/check8-configs-output.txt` |
+| `python src/eight_check_mass.py fix-8.txt` | `(a) hole classes 9316, containing no solid 181   [Kurz r = 8: 9316, 181]  OK`; `Langevin-Hou: 9316 classes over 31 fixator orders; ours: 9316 over 31`; `(b) classes per \|Aut H\| against Langevin-Hou: 0 orders differ []; their qte = classes * \|GL\| / order: OK`; `sum_H \|GL\|/\|Aut H\| = 46056096661467073413120; Langevin-Hou Total = 46056096661467073413120  OK`; `(c) labelled 8-partial spreads: from covers 46164543049102786560000; from configurations 46164543049102786560000; from Part A's W5 (58471168000) 46164543049102786560000; count5's plain 5-clique count 58471168000 = W5  OK` | seconds | `logs/check8-mass-output.txt`; the re-run `logs/rerun/e8-tally.log` |
+| `eight_check selftest data/configs8.txt` | `selftest: ND4 28 (28), ND6 13888 (13888), GL4 20160 (20160), V5824 5824`; `lines in D over the configurations: 1575:9372`; `brute force: 28 forms with radical exactly R_5 of the last config (expect 28)`; `selftest: 9372 configurations, 1620745728 generated forms checked, 0 failures` | 56 min, beside the searches below | `logs/20261030-135221-check8-selftest.log`, `logs/check8-selftest-output.txt` |
+| `eight_check search data/configs8.txt asc-rK.prog asc FIRST LAST` in 8 ranges of 1,172 configurations (the last 1,168) | `solutions: 0` in each; over the ranges, nodes by dim `9372 262416 7347648 122340087 518463075 130692392 431607 2279 0`; nodes with every off-D point covered (near misses) `47` / `11928` / `2013` at dims 5 / 6 / 7; tries at points of D `3872766016` / `304272192` at dims 6 / 7 (4,197,356,352 in all); `distinct P1 spans 13988` | the three orders one after another, 355 min of running time in all (2 h, 1.2 h and 3.8 h from start to end; 7,172, 4,428 and 13,618 s by the ranges' clocks) | `logs/20261030-135220-check8-search.log`, `logs/check8-asc-output.summary.txt` (each range's header and summary), per-configuration `R` lines and near-miss spans (`P1`) `logs/check8-asc-prog.txt` |
+| `eight_check search data/configs8.txt desc-rK.prog desc FIRST LAST` (the same ranges) | `solutions: 0`; nodes by dim `9372 262416 7347648 121719264 513696565 127995358 458955 2216 0`; near misses `47` / `12027` / `1947`; tries at points of D `3908916480` / `295397760`; `distinct P1 spans 14021` | (same job) | same job log, `logs/check8-desc-output.summary.txt`, `logs/check8-desc-prog.txt` |
+| `eight_check search data/configs8.txt rand7-rK.prog rand 7 FIRST LAST` | `solutions: 0`; nodes by dim `9372 262416 7347648 121741683 514270043 128551591 429611 2235 0`; near misses `47` / `12007` / `1971`; tries at points of D `3872682688` / `289356480`; `distinct P1 spans 14025` | (same job) | same job log, `logs/check8-rand7-output.summary.txt`, `logs/check8-rand7-prog.txt` |
+| `python src/nine_check_tally.py prog data/configs8.txt 9372 logs/check8-asc-prog.txt` (`desc`, `rand7`) | `configurations done 9372 (expect 9372); duplicate R lines 0`; the totals above, and by type, e.g. for `asc` `spr (584)` near misses `25 / 9,700 / 1,851` at dims 5 / 6 / 7 and `max (181)` `0 / 3 / 0`; `distinct P1 spans 13988` / `14021` / `14025`; `SOLUTION lines 0` (`eight-check.md` §5's table) | seconds | `logs/rerun/e8-tally.log` |
+| `python src/eight_check_compare.py orders` | `configurations 9372; dim-5 near-misses differ across orders on 0; 15 configurations with a dim-5 near-miss (47 in all); dim-6 counts differ on 0 of the others; dim-6 near-misses on configurations without a dim-5 one: {'asc': 8192, 'desc': 8192, 'rand7': 8192}; configurations with a dim-6 near-miss: asc 525, desc 525, rand7 525, same set: True` | seconds | `logs/rerun/e8-tally.log` |
+| `python src/eight_check_numpy.py search data/configs8.txt I` for 32 configurations: the first of each type (0, 584, 1107, 1457, 3103, 6984, 9191), the 15 with a dimension-5 near miss (114, 240, 241, 291, 309, 328, 497, 522, 552, 555, 905, 941, 1214, 1377, 2453), the three heaviest others (465, 557, 583) and seven drawn at random (717, 1395, 2069, 3164, 3714, 6068, 6150); then `python src/eight_check_compare.py numpy` | per configuration `config I: nodes [...] p1 [...] triesD [...] full 0 allcovered-below-8 0`; then `numpy re-search: 32 configurations agree with asc in every count, 0 differ` (nodes, near misses and tries at points of D at every dimension; 1.49 billion tries in D over the 32) | 133 min of running time, eight at a time (configuration 114 alone 10,079 s by its clock) | `logs/20261030-165835-check8-numpy.log`, `logs/check8-numpy-output.txt`, `logs/check8-numpy-compare.txt` |
+| `python src/eight_check_numpy.py control apn_8bit.txt 1 40 1`, `... control new_apns.txt 1 20 2` (planted: a known function's rank-4 radicals plus random solids, no classification) | each control `T re-found: YES`; `controls: 40 run, 40 re-found, 0 skipped ...`, `controls: 20 run, 20 re-found, 0 skipped ...` | 184 min of running time for the two, side by side | `logs/20261030-165841-check8-npctl.log`, `logs/check8-numpy-ctl-bl22-output.txt`, `logs/check8-numpy-ctl-new-output.txt` |
+| `eight_check searchmax data/maxc8-s100.txt maxs-rK.prog asc FIRST LAST` in 4 ranges of 3,528 (the last 3,526), where `maxc8-s100.txt` is lines 1, 101, 201, … of `maxc-c0-s0.txt` … `maxc-c4-s1.txt` concatenated in class and slice order (14,110 maximal cliques; `eight_check_slices.py maxsample 100`) | `solutions: 0` in each; summed over the ranges, nodes by dim `14110 395080 11062240 183060214 768416578 185900152 157625 0 0`; `279` spans with every off-D point covered, all at dim 6; 76,925,632 tries at points of D | 116 min | `logs/20261030-135232-check8-maxs.log`, `logs/check8-maxs-output.summary.txt` |
+| `eight_check orbitcov orbits.txt configs8.txt maxc-cC-sS.txt` for each of the 34 files, appended to `maxall-orbits.out`; then `python src/ten_check_tally.py maxall DIR` on a folder holding `orbits.txt` and `maxall-orbits.out` | each `orbitcov: N cliques, 0 on no listed orbit, 0 on a non-max orbit`; then `orbitcov runs 34 (expect 17); cliques off the max orbits 0; max orbits 181, cliques 1410915 (Part A 1410915); orbits whose tally differs from Part A's n: 0` (the script's `expect 17` is ten's number) | 3 min | `logs/20261030-135232-check8-orbitcov.log`, `logs/check8-maxall-orbits-output.txt`; the tally `logs/rerun/e8-tally.log` |
+| `eight_check search9 data/configs9.txt s9-rK.prog asc FIRST LAST` in 8 ranges, over nine_check's 5,663 configurations × 9 members removed (50,967: every 8 that extends, without this program's classification) | `solutions: 0` in each; from `python src/nine_check_tally.py prog - 50967 s9-r*.prog`: `configurations done 50967 (expect 50967); duplicate R lines 0`, nodes by dim `50967 1427076 39958128 665050089 2829413970 738756872 5141694 29189 0`; near misses `339` / `127820` / `25537` at dims 5 / 6 / 7; tries at points of D `42950042688` / `3755842944` at dims 6 / 7 (46,849,182,016 in all); bent extension 0, full spans 0; `distinct P1 spans 128107`; `SOLUTION lines 0` | 12.9 h from start to end, the ranges one after another (46,271 s by the ranges' clocks), on a shared box | `logs/20261030-125207-check8-s9.log`, `logs/check8-s9-output.summary.txt` (each range's header and summary) |
+| `eight_check ctlbatch data/configs8.txt apn_8bit.txt 2 1000000 3 ctl-ind-bl22.txt nond` | the rank-6 branching exercised: `ext: 1440 controls; re-found 1440`, `nonext: 1421 controls; re-found 1421`, `other spaces found 0`; `started from S0 of dimension: 7:1440` and `7:1421`, every control finding its form among the 13,888 on its line (188,487,936 and 184,002,112 tries, all at dimension 7); 19 `k = 4` functions skipped on the nonext path (`no member 4-tuple of the class`) | 1 min | `logs/20261030-135221-check8-controls.log` (the job ran all six batches), `logs/check8-ctl-ind-bl22-output.txt`, `logs/check8-ctl-ind-bl22.txt` |
+| `eight_check ctlbatch data/configs8.txt apn_8bit.txt 2 1000000 3 ctl-bl22.txt` | `ext: 1440 controls; re-found 1440; NOT found 0; setup failures 0; other spaces found 0 (0 not APN)`, `reps hit: 432`; `nonext: 1421 controls; re-found 1421 ...`, `reps hit: 1421`, with the same 19 skipped | 29 min | same job log, `logs/check8-ctl-bl22-output.txt`, `logs/check8-ctl-bl22.txt` |
+| the same with `blp22_8bit.txt`, `yuperrin_qam.txt`, `yuwangli_qam.txt` (6 choices) | `222` of 222 (reps hit 160 / 220), `24` of 24, `72` of 78 with 6 setup failures (the list's line 3 again), on both paths (the job exits 3 because of the last) | 10 min for the three | same job log, `logs/check8-ctl-{blp22,yuperrin,yuwangli}-output.txt`, `logs/check8-ctl-*.txt` |
+| the same with `new_apns.txt` (1 choice) | `ext: 7199 controls; re-found 7199; NOT found 0; setup failures 0; other spaces found 0 (0 not APN)`, `reps hit: 513`; `nonext: 7199 controls; re-found 7199 ...`, `reps hit: 4904` | 2.4 h | same job log, `logs/check8-ctl-new-output.txt`, `logs/check8-ctl-new.txt` |
+| `python src/ten_check_tally.py reps DIR` on a folder holding `configs.txt` (= `data/configs8.txt`) and the `ctl-*.txt` files above | `reps hit 6170 of 9372; not reached 3202 {'spr': 62, 'ext13': 190, 'ext12': 123, 'ext11': 580, 'ext10': 1359, 'ext9': 819, 'max': 69}` and the 3,202 | seconds | `logs/check8-reps-unreached.txt`; the re-run `logs/rerun/e8-tally.log` |
+| `eight_check ctlreps data/configs8.txt apn_8bit.txt 1 40 91 92 ... 952` (the first 200 of those 3,202), cancelled; then the same with 10 functions, cancelled | `rep N (ext): 40 of 40 re-found, 0 other spaces` for each of the first 36 (91 to 460, all spr) before the first was stopped as too slow on the spr configurations, then `10 of 10` on the first six of them again (91, 92, 93, 95, 108, 109) | 176 min and 12 min | `logs/20261030-165749-check8-ctlreps.log`, `logs/20261030-205639-check8-ctlreps10.log`, `logs/check8-ctlreps40-partial-output.txt`, `logs/check8-ctlreps10-partial-output.txt` |
+| `eight_check ctlrot data/configs8.txt apn_8bit.txt 1 40 REPS` on the 3,202 in chunks of 400 (one control per configuration: the first 40 functions of the list with k ≥ 3 in rotation, parallel over the configurations) | `rep N (ext)` or `(nonext): line L, re-found, 0 other spaces` for each of the 3,202, all 40 functions used | 36 min | `logs/20261030-210958-check8-ctlrot.log`, `logs/check8-ctlrot-output.txt` |
+| `eight_check mapa data/configs8.txt data/p8.txt` | `mapa: 9372 of A's configurations, 0 on none of ours, 9372 of our 9372 configurations hit, 0 hit more than once`, with type (w = 0, 1, 2, 3, 4, 5, 9 for max, ext9, ext10, ext11, ext12, ext13, spr) and `canon aut` agreeing with search A's tags on every line (search A's list mapped onto search B's, after both verdicts) | 4 s | `logs/20261030-215021-check8-mapa.log`, `logs/check8-mapa-output.txt` |
+
+The near misses, compared by `python src/eight_check_vs_a.py` from the logs above (`eight-check.md` §7): search A's 47
+at dimension 5 lie in 15 configurations (mapped through `mapa`; 114, 240, 241, 291, 309, 328, 497, 522, 552 and 555,
+all spr, the ext13 905 and 941, the ext12 1214 and 1377, and the ext11 2453), and each of search B's three orders has
+the same 47 there, the same number in each. At dimension 6, on every configuration without a dimension-5 near miss,
+each order's count equals search A's, and at dimension 7 on every configuration without a lower one. Search B's other
+near misses contain a smaller one, a lower near miss extended by rank-6 forms in the holes, which cover.cpp doesn't
+log: of B's 11,928 / 12,027 / 12,007 dimension-6 spans in `asc` / `desc` / `rand 7`, 9,061 contain no dimension-5 near
+miss, search A's 9,061, and of its 2,013 / 1,947 / 1,971 at dimension 7, 929 contain no smaller one, search A's 929.
+Unlike at nine, `desc`'s spans are complete. `python src/eight_check_percfg.py` (written for this folder from
+`nine_check_percfg.py`; about a minute per order, `logs/rerun/e8-percfg.log`) makes the comparison configuration by
+configuration: each `P1` span of search B is assigned to its configuration by the radicals of its rank-4 elements, and
+the spans containing no smaller one of the same configuration match search A's `NEAR` lines on every
+(configuration, dimension) pair, in all three orders: `asc configs 545 fresh by dim {5: 47, 6: 9061, 7: 929} ...
+per-(config,dim) mismatches 0`, the same for `desc` and `rand7`. As at nine, both searches cover every point off the
+holes before any hole, so these are exactly the spans of the eight rank-4 forms.
+
+The hole sets against Langevin and Hou's count of partial spread functions in eight variables: download `fix-8.txt`
+from https://langevin.univ-tln.fr/project/spread/psp.html; both `python src/eight_check_mass.py fix-8.txt` (search B's
+hole sets, from `data/configs8.txt`) and `python src/holes_tally.py logs/holes8.txt data/p8.txt fix-8.txt 9316 181`
+(search A's, from its `holes` run) give 9,316 classes with the same number for each of Langevin and Hou's 31 stabiliser
+orders, and `46056096661467073413120` point sets, their total (`logs/rerun/e8-tally.log`).
+
 ## Re-run for this folder
 
 On 2026-10-25, from a fresh MSVC build of `src/` with the Build line above, on an idle machine (output in
@@ -490,6 +586,23 @@ Not re-run: `pspread3 enum 9` (about 3.8 h of running time), `nine_check parta` 
 E-cores for all 34), the rest of `search10`, `search13`, `searchsp` and `searchmax` (50 min to about 17 h), `orbitcov`
 over all of Part A's maximal cliques, and the control batches other than `nond`.
 
+For eight, on 2026-10-30, from a fresh build of `src/cover.cpp`, `pspread3.cpp` and `eight_check.cpp` with the Build
+line, as one job on the E-cores beside other work (logs in `logs/rerun/`): `pspread3 selftest 8 data/p8.txt` (as in
+the table), `pspread3 holes 8 data/p8.txt` (its `holes8.txt` the same set of lines as `logs/holes8.txt`; the program
+writes them in the order its threads finish), `pspread3 enum 17` (a check that the `holes` edit left the enumeration
+alone: `p17.txt` identical to `logs/rerun/p17.txt`, and the log the same as that of the binary that ran eight's
+enumeration, `pspread3-p17-runbinary.log`, apart from timings), `cover` on the first chunk of `data/p8.txt` (lines
+1 to 1,172: `done: covers 1172, tasks 32816, nodes 97450561, solutions 0`, node counts identical at every dimension, and
+the same 305 `NEAR` lines as `logs/eight-output-c0.txt`, as a set); and the tallies (`nine_check_tally.py prog` on the
+three main runs, `ten_check_tally.py reps` and `maxall`, `eight_check_compare.py orders` and `numpy`,
+`eight_check_vs_a.py`, `eight_check_mass.py`, `holes_tally.py` for eight and nine, `cover_tally.py`;
+`e8-tally.log`) and `eight_check_percfg.py` (`e8-percfg.log`): every result as in the tables, the numpy comparison and
+the masses identical to the originals' output. The same job's remaining steps (logs, outputs, the job script `rerun.py` and the comparison `compare.py` with its output `compare.log` in `logs/rerun/eight/`; compared by Rowen): `cover` on both the first and the last chunk (lines 8,205 to 9,372: node counts identical at every dimension, the same 4,213 `NEAR` lines as a set); `eight_check` `parta` for class 4 (both slices) and class 3 slice 3, each the same lines as `data/` apart from the timing field, and the same maximal cliques; `merge` from the 34 files in `data/`, its `orbits.txt` identical to `data/orbits8.txt` and its output line for line; `configs`, its list identical to `data/configs8.txt` and its output line for line apart from the path it names; `mapa` line for line; `orbitcov` on the sample; the `nond` batch (1,440 and 1,421 re-found, the summaries as in the original apart from a path's case); `ctlrot` on 91, 92, 9364, 9365 (the same four lines); `search` asc on 8,204 to 9,371, desc and rand 7 on 2,344 to 2,843, `searchmax` on 0 to 499 and `search9` on 0 to 99, every `R` line identical to the original's (1,168, 500, 500, 500 and 100); numpy on configuration 9191 and two planted controls, identical apart from timings.
+
+Not re-run: `pspread3 enum 8` (87 min), `pspread3 holes 9` (25 min), `eight_check count5` (12 min of running time),
+`selftest` (56 min), the other Part A slices, the rest of the three main searches and of the cross-runs, and the control
+batches other than `nond`.
+
 ## Data
 
 `data/`:
@@ -530,6 +643,14 @@ over all of Part A's maximal cliques, and the control batches other than `nond`.
   same reason as `maxc10-s400.txt`.
 - `maxc9-missed.txt`: every raw maximal 6-clique of Part A on the 13 max orbits the sample misses (14,646, each
   labelled with its orbit; input to `searchmax`).
+- `p8.txt`: search A's 9,372 `i = 9` configurations (output of `pspread3 enum 8`; cover.cpp input, tags
+  `p8-<n>-a<|Aut P|>-w<w>`; input to `pspread3 holes`).
+- `parta8-c0-s0.txt` … `parta8-c4-s1.txt`: search B's Part A for `i = 9`, one file per slice of a minimal class (34;
+  outputs of `eight_check parta`; inputs to `merge`).
+- `orbits8.txt`: search B's 9,372 orbits with their invariants (output of `eight_check merge`; input to `configs`).
+- `configs8.txt`: search B's 9,372 `i = 9` configurations (output of `eight_check configs`).
+- `maxc8-s100.txt`: every 100th of Part A's 1,410,915 maximal 5-cliques (input to `searchmax`), included for the
+  same reason as `maxc10-s400.txt`.
 
 Not included, all regenerated by the commands above: `spreads.txt.all` (280 KB, 40 s), `holes11.txt`, `holes10.txt`
 (16 to 22 MB depending on the build, 8 s), search B's `covers.txt` (1.9 MB, seconds), cover.cpp's `max.txt` (1.9 MB)
@@ -538,10 +659,13 @@ and `ext.txt` (4.5 MB, 22 min), `twelve_check parta`'s `maxc.txt` (5.6 MB, 26 mi
 five classes, 2 h of it class 0) and the 1-in-50 sample `maxc-s50.txt` taken from them (710 KB; how in the table),
 `ten_check parta`'s `maxc-c*-s*.txt` (about 290 MB together; 44 min on an open box for all 17 slices; deleted after
 the `orbitcov` tally, so `maxc10-s400.txt` is in `data/`), `nine_check parta`'s `maxc-c*-s*.txt` (about 645 MB; 2.2 h
-on the E-cores for all 34 slices, one after another, so `maxc9-s1000.txt` is in `data/`), and
-the `.prog` resume files (search B's near-miss spans, its `P1` lines, are in `logs/check11-*-p1.txt` and
+on the E-cores for all 34 slices, one after another, so `maxc9-s1000.txt` is in `data/`), `eight_check parta`'s
+`maxc-c*-s*.txt` (about 51 MB; 70 min of running time for all 34 slices, one after another, so `maxc8-s100.txt` is in
+`data/`), and the `.prog` resume files (search B's near-miss spans, its `P1` lines, are in `logs/check11-*-p1.txt` and
 `logs/check10-*-p1.txt`; for nine the three main runs' `.prog` files are in `logs/` whole, as
-`logs/check9-{asc,desc,rand7}-prog.txt`, since their `R` lines are the per-configuration record those runs left).
+`logs/check9-{asc,desc,rand7}-prog.txt`, since their `R` lines are the per-configuration record those runs left, and
+for eight likewise as `logs/check8-{asc,desc,rand7}-prog.txt`, each order's 8 ranges concatenated). Search A's cover
+chunks for eight (`c0.txt` … `c7.txt`) are `data/p8.txt` cut into consecutive runs of 1,172 lines.
 
 The known-function lists used by the controls aren't included either: `apn_8bit.txt` (Beierle and Leander, Zenodo
 4738942), `blp22_8bit.txt` (Beierle, Leander and Perrin, Zenodo 5821018), `new_apns.txt` (Beierle, Langevin, Leander,
@@ -574,4 +698,11 @@ configurations the partial list doesn't hold).
   (sample) runs (17,770, 22,165, 146,146 and 16,493 lines, 30 MB together) and those runs' `.prog` files (44 MB; their
   totals, retallied from them, are in `logs/rerun/t9-tally.log`), and the per-configuration lines of the three main
   runs, which their `-prog.txt` files hold as `R` lines; the `*.summary.txt` copies keep the headers and summary lines.
+- For eight: the per-configuration lines of the three main runs (their `-prog.txt` files hold them as `R` lines) and of
+  the `searchmax` sample run (14,110 lines; its `.prog` files too, 1.8 MB), each range's header and summary kept in the
+  `*.summary.txt` copies; likewise the `search9` cross-run's per-configuration lines (50,967, 7.8 MB) and `.prog` files
+  (15 MB), each range's header and summary kept in `logs/check8-s9-output.summary.txt`; a `search13` cross-run over thirteen_check's 31 maximal 13-configurations × 1,287
+  (39,897), cancelled after 2,705 configurations with 0 solutions to free the box (every configuration it reaches is
+  in the `search9` family's; `eight-check.md`, State); a trial of the numpy `search9` mode on two configurations
+  (`check8-pytest`); and a third `ctlreps` job, cancelled before it ran a control (`check8-ctlreps1`).
 - Local paths in the logs were shortened to paths relative to the working tree.

@@ -1,0 +1,14 @@
+
+# command: cmd /c "python apn\eight_check_slices.py cross maxs"
+maxs-r0: configurations 0..3527
+searchmax exit 0
+maxs-r1: configurations 3528..7055
+searchmax exit 0
+maxs-r2: configurations 7056..10583
+searchmax exit 0
+maxs-r3: configurations 10584..14109
+
+
+searchmax exit 0
+maxs: all 14110 done
+

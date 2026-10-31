@@ -1,0 +1,21 @@
+# command: cmd /c "python apn\eight_check_slices.py cross s9"
+s9-r0: configurations 0..6370
+
+search9 exit 0
+s9-r1: configurations 6371..12741
+
+search9 exit 0
+s9-r2: configurations 12742..19112
+search9 exit 0
+s9-r3: configurations 19113..25483
+search9 exit 0
+s9-r4: configurations 25484..31854
+search9 exit 0
+s9-r5: configurations 31855..38225
+search9 exit 0
+s9-r6: configurations 38226..44596
+
+search9 exit 0
+s9-r7: configurations 44597..50966
+search9 exit 0
+s9: all 50967 done

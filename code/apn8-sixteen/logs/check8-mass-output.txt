@@ -1,0 +1,7 @@
+|GL(8,2)| = 5348063769211699200
+(a) hole classes 9316, containing no solid 181   [Kurz r = 8: 9316, 181]  OK
+    Langevin-Hou: 9316 classes over 31 fixator orders; ours: 9316 over 31
+(b) classes per |Aut H| against Langevin-Hou: 0 orders differ []; their qte = classes * |GL| / order: OK
+    sum_H |GL|/|Aut H| = 46056096661467073413120; Langevin-Hou Total = 46056096661467073413120  OK
+(c) labelled 8-partial spreads: from covers 46164543049102786560000; from configurations 46164543049102786560000; from Part A's W5 (58471168000) 46164543049102786560000; count5's plain 5-clique count 58471168000 = W5  OK
+configurations 9372: {'spr': 584, 'ext13': 523, 'ext12': 350, 'ext11': 1646, 'ext10': 3881, 'ext9': 2207, 'max': 181}

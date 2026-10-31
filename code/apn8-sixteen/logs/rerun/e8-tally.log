@@ -1,0 +1,131 @@
+$ python src/nine_check_tally.py prog data/configs8.txt 9372 logs/check8-asc-prog.txt (desc, rand7)
+configurations done 9372 (expect 9372); duplicate R lines 0; ids outside 0..9371: 0
+all (9372): nodes 9,372 / 262,416 / 7,347,648 / 122,340,087 / 518,463,075 / 130,692,392 / 431,607 / 2,279 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 47 / 11,928 / 2,013 / 0; tries in D 4,197,356,352 (dim 6 3,872,766,016, dim 7 304,272,192); bent extension 0; full spans 0
+spr (584): nodes 584 / 16,352 / 457,856 / 7,635,344 / 33,064,199 / 9,965,114 / 245,565 / 2,070 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 25 / 9,700 / 1,851 / 0; tries in D 3,470,847,296 (dim 6 3,180,227,008, dim 7 279,704,320); bent extension 0; full spans 0
+ext13 (523): nodes 523 / 14,644 / 410,032 / 6,850,342 / 29,394,357 / 8,081,617 / 75,343 / 202 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 2 / 1,158 / 155 / 0; tries in D 407,029,504 (dim 6 383,114,368, dim 7 23,165,184); bent extension 0; full spans 0
+ext12 (350): nodes 350 / 9,800 / 274,400 / 4,589,813 / 19,543,543 / 4,947,270 / 5,786 / 1 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 2 / 180 / 1 / 0; tries in D 51,482,816 (dim 6 50,510,656, dim 7 180,544); bent extension 0; full spans 0
+ext11 (1646): nodes 1,646 / 46,088 / 1,290,464 / 21,512,990 / 91,259,910 / 22,861,888 / 24,829 / 0 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 18 / 687 / 0 / 0; tries in D 203,611,968 (dim 6 195,751,360, dim 7 0); bent extension 0; full spans 0
+ext10 (3881): nodes 3,881 / 108,668 / 3,042,704 / 50,625,596 / 214,069,781 / 52,754,225 / 50,267 / 0 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 0 / 94 / 0 / 0; tries in D 29,220,352 (dim 6 29,220,352, dim 7 0); bent extension 0; full spans 0
+ext9 (2207): nodes 2,207 / 61,796 / 1,730,288 / 28,770,089 / 121,208,699 / 29,683,907 / 27,836 / 6 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 0 / 106 / 6 / 0; tries in D 34,331,136 (dim 6 33,108,992, dim 7 1,222,144); bent extension 0; full spans 0
+max (181): nodes 181 / 5,068 / 141,904 / 2,355,913 / 9,922,586 / 2,398,371 / 1,981 / 0 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 0 / 3 / 0 / 0; tries in D 833,280 (dim 6 833,280, dim 7 0); bent extension 0; full spans 0
+distinct P1 spans 13988; SOLUTION lines 0
+configurations done 9372 (expect 9372); duplicate R lines 0; ids outside 0..9371: 0
+all (9372): nodes 9,372 / 262,416 / 7,347,648 / 121,719,264 / 513,696,565 / 127,995,358 / 458,955 / 2,216 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 47 / 12,027 / 1,947 / 0; tries in D 4,224,910,144 (dim 6 3,908,916,480, dim 7 295,397,760); bent extension 0; full spans 0
+spr (584): nodes 584 / 16,352 / 457,856 / 7,635,503 / 33,054,336 / 9,818,789 / 276,632 / 2,003 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 25 / 9,808 / 1,780 / 0; tries in D 3,488,096,192 (dim 6 3,207,711,360, dim 7 269,274,432); bent extension 0; full spans 0
+ext13 (523): nodes 523 / 14,644 / 410,032 / 6,809,362 / 29,067,855 / 7,786,929 / 74,224 / 201 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 2 / 1,147 / 155 / 0; tries in D 406,473,984 (dim 6 382,308,864, dim 7 23,442,944); bent extension 0; full spans 0
+ext12 (350): nodes 350 / 9,800 / 274,400 / 4,552,451 / 19,251,401 / 4,803,901 / 6,101 / 0 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 2 / 181 / 0 / 0; tries in D 52,829,952 (dim 6 51,982,784, dim 7 0); bent extension 0; full spans 0
+ext11 (1646): nodes 1,646 / 46,088 / 1,290,464 / 21,380,591 / 90,210,969 / 22,216,986 / 23,609 / 0 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 18 / 688 / 0 / 0; tries in D 211,819,776 (dim 6 203,903,616, dim 7 0); bent extension 0; full spans 0
+ext10 (3881): nodes 3,881 / 108,668 / 3,042,704 / 50,371,454 / 212,070,990 / 51,798,817 / 48,551 / 0 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 0 / 94 / 0 / 0; tries in D 28,178,752 (dim 6 28,178,752, dim 7 0); bent extension 0; full spans 0
+ext9 (2207): nodes 2,207 / 61,796 / 1,730,288 / 28,624,649 / 120,211,863 / 29,205,957 / 27,929 / 12 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 0 / 106 / 12 / 0; tries in D 36,594,880 (dim 6 33,914,496, dim 7 2,680,384); bent extension 0; full spans 0
+max (181): nodes 181 / 5,068 / 141,904 / 2,345,254 / 9,829,151 / 2,363,979 / 1,909 / 0 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 0 / 3 / 0 / 0; tries in D 916,608 (dim 6 916,608, dim 7 0); bent extension 0; full spans 0
+distinct P1 spans 14021; SOLUTION lines 0
+configurations done 9372 (expect 9372); duplicate R lines 0; ids outside 0..9371: 0
+all (9372): nodes 9,372 / 262,416 / 7,347,648 / 121,741,683 / 514,270,043 / 128,551,591 / 429,611 / 2,235 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 47 / 12,007 / 1,971 / 0; tries in D 4,182,398,976 (dim 6 3,872,682,688, dim 7 289,356,480); bent extension 0; full spans 0
+spr (584): nodes 584 / 16,352 / 457,856 / 7,629,860 / 32,986,448 / 9,780,695 / 247,786 / 2,023 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 25 / 9,828 / 1,808 / 0; tries in D 3,465,430,976 (dim 6 3,190,393,024, dim 7 264,010,880); bent extension 0; full spans 0
+ext13 (523): nodes 523 / 14,644 / 410,032 / 6,812,107 / 29,110,278 / 7,808,105 / 71,274 / 203 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 2 / 1,128 / 154 / 0; tries in D 400,904,896 (dim 6 376,781,440, dim 7 23,359,616); bent extension 0; full spans 0
+ext12 (350): nodes 350 / 9,800 / 274,400 / 4,548,551 / 19,281,901 / 4,805,705 / 5,795 / 0 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 2 / 201 / 0 / 0; tries in D 56,690,816 (dim 6 55,885,312, dim 7 0); bent extension 0; full spans 0
+ext11 (1646): nodes 1,646 / 46,088 / 1,290,464 / 21,383,837 / 90,356,532 / 22,409,120 / 23,893 / 0 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 18 / 647 / 0 / 0; tries in D 194,640,320 (dim 6 186,876,928, dim 7 0); bent extension 0; full spans 0
+ext10 (3881): nodes 3,881 / 108,668 / 3,042,704 / 50,384,840 / 212,316,013 / 52,051,575 / 50,686 / 0 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 0 / 94 / 0 / 0; tries in D 28,789,824 (dim 6 28,789,824, dim 7 0); bent extension 0; full spans 0
+ext9 (2207): nodes 2,207 / 61,796 / 1,730,288 / 28,636,280 / 120,364,982 / 29,318,393 / 28,249 / 9 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 0 / 106 / 9 / 0; tries in D 35,150,528 (dim 6 33,164,544, dim 7 1,985,984); bent extension 0; full spans 0
+max (181): nodes 181 / 5,068 / 141,904 / 2,346,208 / 9,853,889 / 2,377,998 / 1,928 / 0 / 0
+   near-misses (p1) by dim 0 / 0 / 0 / 0 / 0 / 0 / 3 / 0 / 0; tries in D 791,616 (dim 6 791,616, dim 7 0); bent extension 0; full spans 0
+distinct P1 spans 14025; SOLUTION lines 0
+$ python src/ten_check_tally.py reps DIR (configs.txt = data/configs8.txt, ctl-*.txt = logs/check8-ctl-*.txt)
+reps hit 6170 of 9372; not reached 3202 {'spr': 62, 'ext13': 190, 'ext12': 123, 'ext11': 580, 'ext10': 1359, 'ext9': 819, 'max': 69}
+second line identical to logs/check8-reps-unreached.txt's
+$ python src/ten_check_tally.py maxall DIR (orbits.txt = data/orbits8.txt, maxall-orbits.out = logs/check8-maxall-orbits-output.txt)
+orbitcov runs 34 (expect 17); cliques off the max orbits 0; max orbits 181, cliques 1410915 (Part A 1410915); orbits whose tally differs from Part A's n: 0
+$ python src/eight_check_compare.py orders
+configurations 9372; dim-5 near-misses differ across orders on 0; 15 configurations with a dim-5 near-miss (47 in all); dim-6 counts differ on 0 of the others; dim-6 near-misses on configurations without a dim-5 one: {'asc': 8192, 'desc': 8192, 'rand7': 8192}; configurations with a dim-6 near-miss: asc 525, desc 525, rand7 525, same set: True
+$ python src/eight_check_compare.py numpy
+numpy re-search: 32 configurations agree with asc in every count, 0 differ
+identical to logs/check8-numpy-compare.txt
+$ python src/eight_check_vs_a.py
+A: 10037 near-misses, by dim {5: 47, 6: 9061, 7: 929}
+== asc
+dim 5: A 47 on 15 configs, B 47 on 15; configs with equal counts 15 of 15; same config set: True
+dim 6: A 9061 on 522 configs, B 11928 on 525; configs with equal counts 510 of 525; same config set: False
+dim 7: A 929 on 162 configs, B 2013 on 186; configs with equal counts 94 of 186; same config set: False
+dim 6 off the 15 dim-5 configs: unequal on 0
+dim 7 off configs with a lower near-miss: unequal on 0
+dim 6 spans not containing a lower near-miss: 9061 of 11928
+dim 7 spans not containing a lower near-miss: 929 of 2013
+== desc
+dim 5: A 47 on 15 configs, B 47 on 15; configs with equal counts 15 of 15; same config set: True
+dim 6: A 9061 on 522 configs, B 12027 on 525; configs with equal counts 510 of 525; same config set: False
+dim 7: A 929 on 162 configs, B 1947 on 186; configs with equal counts 96 of 186; same config set: False
+dim 6 off the 15 dim-5 configs: unequal on 0
+dim 7 off configs with a lower near-miss: unequal on 0
+dim 6 spans not containing a lower near-miss: 9061 of 12027
+dim 7 spans not containing a lower near-miss: 929 of 1947
+== rand7
+dim 5: A 47 on 15 configs, B 47 on 15; configs with equal counts 15 of 15; same config set: True
+dim 6: A 9061 on 522 configs, B 12007 on 525; configs with equal counts 510 of 525; same config set: False
+dim 7: A 929 on 162 configs, B 1971 on 183; configs with equal counts 96 of 183; same config set: False
+dim 6 off the 15 dim-5 configs: unequal on 0
+dim 7 off configs with a lower near-miss: unequal on 0
+dim 6 spans not containing a lower near-miss: 9061 of 12007
+dim 7 spans not containing a lower near-miss: 929 of 1971
+$ python src/eight_check_mass.py fix-8.txt
+|GL(8,2)| = 5348063769211699200
+(a) hole classes 9316, containing no solid 181   [Kurz r = 8: 9316, 181]  OK
+    Langevin-Hou: 9316 classes over 31 fixator orders; ours: 9316 over 31
+(b) classes per |Aut H| against Langevin-Hou: 0 orders differ []; their qte = classes * |GL| / order: OK
+    sum_H |GL|/|Aut H| = 46056096661467073413120; Langevin-Hou Total = 46056096661467073413120  OK
+(c) labelled 8-partial spreads: from covers 46164543049102786560000; from configurations 46164543049102786560000; from Part A's W5 (58471168000) 46164543049102786560000; count5's plain 5-clique count 58471168000 = W5  OK
+configurations 9372: {'spr': 584, 'ext13': 523, 'ext12': 350, 'ext11': 1646, 'ext10': 3881, 'ext9': 2207, 'max': 181}
+identical to logs/check8-mass-output.txt
+$ python src/holes_tally.py logs/holes8.txt data/p8.txt fix-8.txt 9316 181
+configurations 9372, hole-set classes 9316 (Kurz 9316)
+maximal (hole set contains no solid, w = 0): 181 (Kurz 181)
+configurations per hole set: {1: 9262, 2: 52, 3: 2}
+|Aut H| distribution vs Langevin-Hou: identical (31 orders)
+point sets: 46056096661467073413120 vs Langevin-Hou 46056096661467073413120: MATCH
+labelled partial spreads (sum |GL| / |Aut P|): 46164543049102786560000
+problems: 0
+$ python src/holes_tally.py logs/holes9.txt data/p9.txt fix-9.txt 5442 1343
+configurations 5663, hole-set classes 5442 (Kurz 5442)
+maximal (hole set contains no solid, w = 0): 1343 (Kurz 1343)
+configurations per hole set: {1: 5259, 2: 152, 3: 25, 4: 5, 5: 1}
+|Aut H| distribution vs Langevin-Hou: identical (35 orders)
+point sets: 24520650576127040978944 vs Langevin-Hou 24520650576127040978944: MATCH
+labelled partial spreads (sum |GL| / |Aut P|): 24956509433072304783360
+problems: 0
+$ python src/cover_tally.py logs/eight-output-c?.txt
+8/8 outputs done, 2770 s
+  covers: 9,372
+  tasks: 262,416
+  nodes: 780,361,676
+  solutions: 0
+  full (dim < 8): 0
+  dim 8 non-APN: 0
+  bad seeds: 0
+nodes by span dimension 1..8: 262,416 / 7,347,648 / 122,350,038 / 519,227,824 / 130,741,783 / 429,756 / 2,211 / 0
+near misses 10037 by dim {5: 47, 6: 9061, 7: 929}
+configurations with near misses 545 by w {'0': 3, '1': 26, '2': 52, '3': 66, '4': 21, '5': 111, '9': 266}
+near misses by w {'0': 3, '1': 106, '2': 94, '3': 125, '4': 61, '5': 1226, '9': 8422}
+lowest near-miss dim 5 ['p8-2035-a4-w4', 'p8-5682-a216-w9', 'p8-5682-a216-w9', 'p8-5709-a12-w9', 'p8-5708-a12-w9', 'p8-5682-a216-w9', 'p8-5682-a216-w9', 'p8-5682-a216-w9', 'p8-5682-a216-w9', 'p8-5682-a216-w9']
+most: [('p8-5682-a216-w9', 658), ('p8-9304-a144-w9', 312), ('p8-9190-a36-w9', 276), ('p8-9323-a180-w9', 260), ('p8-5675-a36-w9', 166)]

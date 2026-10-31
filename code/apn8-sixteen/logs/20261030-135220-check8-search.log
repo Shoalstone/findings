@@ -1,0 +1,76 @@
+
+# command: cmd /c "python apn\eight_check_slices.py search"
+asc-r0: configurations 0..1171
+search exit 0
+asc-r1: configurations 1172..2343
+search exit 0
+asc-r2: configurations 2344..3515
+search exit 0
+asc-r3: configurations 3516..4687
+search exit 0
+asc-r4: configurations 4688..5859
+search exit 0
+asc-r5: configurations 5860..7031
+
+
+search exit 0
+asc-r6: configurations 7032..8203
+search exit 0
+asc-r7: configurations 8204..9371
+search exit 0
+asc: all 9372 done
+desc-r0: configurations 0..1171
+search exit 0
+desc-r1: configurations 1172..2343
+search exit 0
+desc-r2: configurations 2344..3515
+search exit 0
+desc-r3: configurations 3516..4687
+search exit 0
+desc-r4: configurations 4688..5859
+search exit 0
+desc-r5: configurations 5860..7031
+search exit 0
+desc-r6: configurations 7032..8203
+search exit 0
+desc-r7: configurations 8204..9371
+search exit 0
+desc: all 9372 done
+rand7-r0: configurations 0..1171
+
+
+
+
+
+
+
+
+
+
+search exit 0
+rand7-r1: configurations 1172..2343
+search exit 0
+rand7-r2: configurations 2344..3515
+
+
+
+
+search exit 0
+rand7-r3: configurations 3516..4687
+search exit 0
+rand7-r4: configurations 4688..5859
+search exit 0
+rand7-r5: configurations 5860..7031
+
+
+
+
+
+
+search exit 0
+rand7-r6: configurations 7032..8203
+search exit 0
+rand7-r7: configurations 8204..9371
+search exit 0
+rand7: all 9372 done
+

@@ -1,0 +1,23 @@
+parta c4 s0: DIFFER (94 vs 94 lines)
+maxc c4 s0: IDENTICAL (0 vs 0 lines)
+parta c4 s1: DIFFER (94 vs 94 lines)
+maxc c4 s1: IDENTICAL (0 vs 0 lines)
+parta c3 s3: DIFFER (3624 vs 3624 lines)
+maxc c3 s3: DIFFER (2818 vs 2818 lines)
+merge orbits: IDENTICAL (18745 vs 18745 lines)
+configs list: IDENTICAL (18688 vs 18688 lines)
+e8-merge.log vs runs/check8/merge.out: 13 vs 13 lines, lines of the re-run not in the original: 0 []
+e8-configs.log vs runs/check8/configs.out: 18649 vs 18649 lines, lines of the re-run not in the original: 1 ['written 9372 configurations to <re-run folder>\configs8.txt']
+e8-mapa.log vs runs/check8/mapa.out: 9374 vs 9374 lines, lines of the re-run not in the original: 0 []
+cover c0: nodes line equal True; NEAR 305 vs 305 equal as sets True; done line (sans time) equal True
+cover c7: nodes line equal True; NEAR 4213 vs 4213 equal as sets True; done line (sans time) equal True
+asc: re-run R lines 1168, in original 1168, unequal 0 []
+desc: re-run R lines 500, in original 500, unequal 0 []
+rand7: re-run R lines 500, in original 500, unequal 0 []
+maxs: re-run R lines 500, in original 500, unequal 0 []
+s9: re-run R lines 100, in original 100, unequal 0 []
+ctlrot reps: IDENTICAL ['rep 91 (ext): line 12496, re-found, 0 other spaces', 'rep 92 (ext): line 12497, re-found, 0 other spaces', 'rep 9364 (nonext): line 12489, re-found, 0 other spaces', 'rep 9365 (nonext): line 12490, re-found, 0 other spaces'] ['rep 91 (ext): line 12496, re-found, 0 other spaces', 'rep 92 (ext): line 12497, re-found, 0 other spaces', 'rep 9364 (nonext): line 12489, re-found, 0 other spaces', 'rep 9365 (nonext): line 12490, re-found, 0 other spaces']
+numpy 9191: True ['config 9191: nodes [1, 28, 784, 13087, 56107, 14364, 12, 0, 0] p1 [0, 0, 0, 0, 0, 0, 0, 0, 0] triesD [0, 0, 0, 0, 0, 0, 0, 0, 0] full 0 allcovered-below-8 0 [76 s]']
+numpy ctl lines 15,16: True 2 2
+ctl nond tail equal: False
+ctl nond txt: DIFFER (4 vs 4 lines)

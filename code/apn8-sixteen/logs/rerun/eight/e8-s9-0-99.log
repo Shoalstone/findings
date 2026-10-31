@@ -1,0 +1,146 @@
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+search: 50967 configurations (nine-check's configurations x 9); point order ascending
+config 0 (ext13, 1575 lines in D): nodes 1 28 784 12964 56824 14682 25 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 0 s]
+config 1 (ext13, 1575 lines in D): nodes 1 28 784 13111 56824 14682 25 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.4 s, total 1 s]
+config 2 (ext13, 1575 lines in D): nodes 1 28 784 13153 58970 20866 1802 25 0  p1 0 0 0 0 0 1 61 22 0  triesD 21873600 full 0 bentext 0  [17.3 s, total 18 s]
+config 3 (ext13, 1575 lines in D): nodes 1 28 784 13108 56153 14464 32 0 0  p1 0 0 0 0 0 0 7 0 0  triesD 1569344 full 0 bentext 0  [1.3 s, total 19 s]
+config 4 (ext13, 1575 lines in D): nodes 1 28 784 13150 57169 14724 21 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 20 s]
+config 5 (ext13, 1575 lines in D): nodes 1 28 784 13150 57027 15669 21 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 20 s]
+config 6 (ext13, 1575 lines in D): nodes 1 28 784 13120 57474 16291 28 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 21 s]
+config 7 (ext13, 1575 lines in D): nodes 1 28 784 13150 57169 14724 21 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.4 s, total 21 s]
+config 8 (ext13, 1575 lines in D): nodes 1 28 784 13150 57808 15669 21 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 21 s]
+config 9 (ext13, 1575 lines in D): nodes 1 28 784 12997 59537 15059 24 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.4 s, total 22 s]
+config 10 (ext13, 1575 lines in D): nodes 1 28 784 13165 56507 13801 21 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.4 s, total 22 s]
+config 11 (ext13, 1575 lines in D): nodes 1 28 784 13225 59758 21443 1467 8 0  p1 0 0 0 0 0 0 15 7 0  triesD 6374592 full 0 bentext 0  [2.1 s, total 24 s]
+config 12 (ext13, 1575 lines in D): nodes 1 28 784 13201 57313 15567 16 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 25 s]
+config 13 (ext13, 1575 lines in D): nodes 1 28 784 13162 57211 15264 24 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 25 s]
+config 14 (ext13, 1575 lines in D): nodes 1 28 784 13255 57623 16542 29 0 0  p1 0 0 0 0 0 0 1 0 0  triesD 263872 full 0 bentext 0  [0.8 s, total 26 s]
+config 15 (ext13, 1575 lines in D): nodes 1 28 784 13159 57441 15353 24 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 26 s]
+config 16 (ext13, 1575 lines in D): nodes 1 28 784 13201 58304 14431 30 0 0  p1 0 0 0 0 0 0 3 0 0  triesD 902720 full 0 bentext 0  [1.3 s, total 28 s]
+config 17 (ext13, 1575 lines in D): nodes 1 28 784 13150 57808 15669 21 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.4 s, total 28 s]
+config 18 (ext13, 1575 lines in D): nodes 1 28 784 13045 58259 16516 35 0 0  p1 0 0 0 0 0 0 1 0 0  triesD 277760 full 0 bentext 0  [0.7 s, total 29 s]
+config 19 (ext13, 1575 lines in D): nodes 1 28 784 13126 56231 15791 22 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 29 s]
+config 20 (ext13, 1575 lines in D): nodes 1 28 784 13222 60751 29656 1577 7 0  p1 0 0 0 0 0 0 22 6 0  triesD 8346688 full 0 bentext 0  [2.1 s, total 31 s]
+config 21 (ext13, 1575 lines in D): nodes 1 28 784 13162 57248 15079 44 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 32 s]
+config 22 (ext13, 1575 lines in D): nodes 1 28 784 13237 56941 19010 51 0 0  p1 0 0 0 0 0 0 9 0 0  triesD 2819264 full 0 bentext 0  [3.7 s, total 36 s]
+config 23 (ext13, 1575 lines in D): nodes 1 28 784 13258 57987 15627 89 0 0  p1 0 0 0 0 0 0 9 0 0  triesD 2777600 full 0 bentext 0  [3.1 s, total 39 s]
+config 24 (ext13, 1575 lines in D): nodes 1 28 784 13168 57640 15676 50 0 0  p1 0 0 0 0 0 0 1 0 0  triesD 263872 full 0 bentext 0  [0.7 s, total 39 s]
+config 25 (ext13, 1575 lines in D): nodes 1 28 784 13210 57966 16748 18 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.6 s, total 40 s]
+config 26 (ext13, 1575 lines in D): nodes 1 28 784 13150 57808 15669 21 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.6 s, total 40 s]
+config 27 (ext13, 1575 lines in D): nodes 1 28 784 13021 57960 14790 25 0 0  p1 0 0 0 0 0 0 3 0 0  triesD 888832 full 0 bentext 0  [1.0 s, total 41 s]
+config 28 (ext13, 1575 lines in D): nodes 1 28 784 13213 56154 14071 30 0 0  p1 0 0 0 0 0 0 3 0 0  triesD 1083264 full 0 bentext 0  [1.2 s, total 43 s]
+config 29 (ext13, 1575 lines in D): nodes 1 28 784 13135 57020 21209 1507 3 0  p1 0 0 0 0 0 0 14 2 0  triesD 5249664 full 0 bentext 0  [2.3 s, total 45 s]
+config 30 (ext13, 1575 lines in D): nodes 1 28 784 13204 57407 15265 22 0 0  p1 0 0 0 0 0 0 1 0 0  triesD 277760 full 0 bentext 0  [0.6 s, total 46 s]
+config 31 (ext13, 1575 lines in D): nodes 1 28 784 13237 58201 16084 40 0 0  p1 0 0 0 0 0 0 9 0 0  triesD 2805376 full 0 bentext 0  [3.0 s, total 49 s]
+config 32 (ext13, 1575 lines in D): nodes 1 28 784 13249 57774 15286 26 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 49 s]
+config 33 (ext13, 1575 lines in D): nodes 1 28 784 13210 57966 16741 16 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 50 s]
+config 34 (ext13, 1575 lines in D): nodes 1 28 784 13264 57992 14612 41 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 50 s]
+config 35 (ext13, 1575 lines in D): nodes 1 28 784 13150 57808 15669 21 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 51 s]
+config 36 (ext13, 1575 lines in D): nodes 1 28 784 12976 57396 14805 20 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.6 s, total 51 s]
+config 37 (ext13, 1575 lines in D): nodes 1 28 784 13063 54343 13626 22 0 0  p1 0 0 0 0 0 0 1 0 0  triesD 333312 full 0 bentext 0  [0.7 s, total 52 s]
+config 38 (ext13, 1575 lines in D): nodes 1 28 784 13141 56523 21167 1445 8 0  p1 0 0 0 0 0 0 22 6 0  triesD 7735616 full 0 bentext 0  [2.4 s, total 54 s]
+config 39 (ext13, 1575 lines in D): nodes 1 28 784 13153 57599 14736 12 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 55 s]
+config 40 (ext13, 1575 lines in D): nodes 1 28 784 13162 56815 15452 24 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.4 s, total 55 s]
+config 41 (ext13, 1575 lines in D): nodes 1 28 784 13144 57098 15316 13 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.8 s, total 56 s]
+config 42 (ext13, 1575 lines in D): nodes 1 28 784 13096 57194 16134 17 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 56 s]
+config 43 (ext13, 1575 lines in D): nodes 1 28 784 13201 57561 14594 27 0 0  p1 0 0 0 0 0 0 3 0 0  triesD 958272 full 0 bentext 0  [1.8 s, total 58 s]
+config 44 (ext13, 1575 lines in D): nodes 1 28 784 13150 57808 15669 21 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 58 s]
+config 45 (ext13, 1575 lines in D): nodes 1 28 784 12988 56507 14553 21 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 59 s]
+config 46 (ext13, 1575 lines in D): nodes 1 28 784 13003 54039 13255 19 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 59 s]
+config 47 (ext13, 1575 lines in D): nodes 1 28 784 13159 56889 21363 1545 6 0  p1 0 0 0 0 0 0 13 6 0  triesD 5430208 full 0 bentext 0  [3.1 s, total 62 s]
+config 48 (ext13, 1575 lines in D): nodes 1 28 784 13153 56830 14238 14 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 63 s]
+config 49 (ext13, 1575 lines in D): nodes 1 28 784 13204 57530 14829 39 0 0  p1 0 0 0 0 0 0 1 0 0  triesD 277760 full 0 bentext 0  [0.7 s, total 63 s]
+config 50 (ext13, 1575 lines in D): nodes 1 28 784 13249 58364 15286 26 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 64 s]
+config 51 (ext13, 1575 lines in D): nodes 1 28 784 13159 57393 15637 15 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 64 s]
+config 52 (ext13, 1575 lines in D): nodes 1 28 784 13210 57937 14704 31 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 65 s]
+config 53 (ext13, 1575 lines in D): nodes 1 28 784 13150 57808 15669 21 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.6 s, total 65 s]
+config 54 (ext13, 1575 lines in D): nodes 1 28 784 12973 55512 14436 19 0 0  p1 0 0 0 0 0 0 1 0 0  triesD 374976 full 0 bentext 0  [0.8 s, total 66 s]
+config 55 (ext13, 1575 lines in D): nodes 1 28 784 13132 55456 14436 19 0 0  p1 0 0 0 0 0 0 1 0 0  triesD 347200 full 0 bentext 0  [0.8 s, total 67 s]
+config 56 (ext13, 1575 lines in D): nodes 1 28 784 13135 56610 21172 1802 11 0  p1 0 0 0 0 0 1 72 8 0  triesD 23623488 full 0 bentext 0  [22.7 s, total 90 s]
+config 57 (ext13, 1575 lines in D): nodes 1 28 784 13222 56729 14671 35 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.6 s, total 90 s]
+config 58 (ext13, 1575 lines in D): nodes 1 28 784 13201 56382 14723 41 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.6 s, total 91 s]
+config 59 (ext13, 1575 lines in D): nodes 1 28 784 13201 56958 15127 30 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 91 s]
+config 60 (ext13, 1575 lines in D): nodes 1 28 784 13126 57204 14897 34 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.7 s, total 92 s]
+config 61 (ext13, 1575 lines in D): nodes 1 28 784 13201 58060 14723 40 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.6 s, total 93 s]
+config 62 (ext13, 1575 lines in D): nodes 1 28 784 13201 57364 15024 30 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.6 s, total 93 s]
+config 63 (ext13, 1575 lines in D): nodes 1 28 784 12961 56103 14447 20 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.3 s, total 94 s]
+config 64 (ext13, 1575 lines in D): nodes 1 28 784 13108 54835 13600 18 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 94 s]
+config 65 (ext13, 1575 lines in D): nodes 1 28 784 13126 57532 20748 1592 1 0  p1 0 0 0 0 0 0 12 0 0  triesD 4208064 full 0 bentext 0  [2.1 s, total 96 s]
+config 66 (ext13, 1575 lines in D): nodes 1 28 784 13180 56614 14096 20 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.4 s, total 97 s]
+config 67 (ext13, 1575 lines in D): nodes 1 28 784 13192 55617 14365 43 0 0  p1 0 0 0 0 0 0 3 0 0  triesD 1208256 full 0 bentext 0  [1.8 s, total 98 s]
+config 68 (ext13, 1575 lines in D): nodes 1 28 784 13234 56947 14827 28 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.4 s, total 99 s]
+config 69 (ext13, 1575 lines in D): nodes 1 28 784 13132 57450 14888 18 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 99 s]
+config 70 (ext13, 1575 lines in D): nodes 1 28 784 13186 57753 14240 35 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 100 s]
+config 71 (ext13, 1575 lines in D): nodes 1 28 784 13201 57364 15024 30 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.6 s, total 100 s]
+config 72 (ext13, 1575 lines in D): nodes 1 28 784 12916 55751 14724 22 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.2 s, total 101 s]
+config 73 (ext13, 1575 lines in D): nodes 1 28 784 13153 55160 13698 18 0 0  p1 0 0 0 0 0 0 2 0 0  triesD 458304 full 0 bentext 0  [0.5 s, total 101 s]
+config 74 (ext13, 1575 lines in D): nodes 1 28 784 13282 58336 21798 1535 11 0  p1 0 0 0 0 0 0 27 8 0  triesD 10346560 full 0 bentext 0  [4.8 s, total 106 s]
+config 75 (ext13, 1575 lines in D): nodes 1 28 784 13180 57093 14420 20 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 107 s]
+config 76 (ext13, 1575 lines in D): nodes 1 28 784 13216 56361 15191 36 0 0  p1 0 0 0 0 0 0 2 0 0  triesD 513856 full 0 bentext 0  [0.8 s, total 107 s]
+config 77 (ext13, 1575 lines in D): nodes 1 28 784 13216 57097 15093 23 0 0  p1 0 0 0 0 0 0 2 0 0  triesD 611072 full 0 bentext 0  [1.1 s, total 108 s]
+config 78 (ext13, 1575 lines in D): nodes 1 28 784 13144 57570 15104 23 0 0  p1 0 0 0 0 0 0 1 0 0  triesD 374976 full 0 bentext 0  [0.7 s, total 109 s]
+config 79 (ext13, 1575 lines in D): nodes 1 28 784 13174 57795 14677 31 0 0  p1 0 0 0 0 0 0 1 0 0  triesD 347200 full 0 bentext 0  [0.9 s, total 110 s]
+config 80 (ext13, 1575 lines in D): nodes 1 28 784 13201 57364 15024 30 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 111 s]
+config 81 (ext13, 1575 lines in D): nodes 1 28 784 12913 55043 14581 16 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.4 s, total 111 s]
+config 82 (ext13, 1575 lines in D): nodes 1 28 784 13267 56503 14194 20 0 0  p1 0 0 0 0 0 0 3 0 0  triesD 1291584 full 0 bentext 0  [1.1 s, total 112 s]
+config 83 (ext13, 1575 lines in D): nodes 1 28 784 13156 58045 21260 1607 4 0  p1 0 0 0 0 0 0 14 2 0  triesD 5235776 full 0 bentext 0  [1.5 s, total 114 s]
+config 84 (ext13, 1575 lines in D): nodes 1 28 784 13222 57060 14499 22 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 114 s]
+config 85 (ext13, 1575 lines in D): nodes 1 28 784 13258 56318 15049 34 0 0  p1 0 0 0 0 0 0 5 0 0  triesD 1513792 full 0 bentext 0  [1.9 s, total 116 s]
+config 86 (ext13, 1575 lines in D): nodes 1 28 784 13234 57221 14666 28 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.4 s, total 116 s]
+config 87 (ext13, 1575 lines in D): nodes 1 28 784 13174 57795 15319 23 0 0  p1 0 0 0 0 0 0 1 0 0  triesD 277760 full 0 bentext 0  [0.7 s, total 117 s]
+config 88 (ext13, 1575 lines in D): nodes 1 28 784 13264 57992 14612 41 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 118 s]
+config 89 (ext13, 1575 lines in D): nodes 1 28 784 13201 57364 15024 30 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.6 s, total 118 s]
+config 90 (ext13, 1575 lines in D): nodes 1 28 784 13045 55791 15354 34 0 0  p1 0 0 0 0 0 0 1 0 0  triesD 333312 full 0 bentext 0  [0.8 s, total 119 s]
+config 91 (ext13, 1575 lines in D): nodes 1 28 784 13003 55843 14241 29 0 0  p1 0 0 0 0 0 0 2 0 0  triesD 680512 full 0 bentext 0  [0.8 s, total 120 s]
+config 92 (ext13, 1575 lines in D): nodes 1 28 784 13162 59234 22830 1415 8 0  p1 0 0 0 0 0 0 22 6 0  triesD 8360576 full 0 bentext 0  [3.6 s, total 123 s]
+config 93 (ext13, 1575 lines in D): nodes 1 28 784 13216 57284 15405 35 0 0  p1 0 0 0 0 0 0 2 0 0  triesD 666624 full 0 bentext 0  [1.4 s, total 125 s]
+config 94 (ext13, 1575 lines in D): nodes 1 28 784 13258 56780 14434 47 0 0  p1 0 0 0 0 0 0 5 0 0  triesD 1444352 full 0 bentext 0  [1.7 s, total 127 s]
+config 95 (ext13, 1575 lines in D): nodes 1 28 784 13237 57971 16289 33 0 0  p1 0 0 0 0 0 0 5 0 0  triesD 1444352 full 0 bentext 0  [1.7 s, total 128 s]
+config 96 (ext13, 1575 lines in D): nodes 1 28 784 13168 58015 15341 18 0 0  p1 0 0 0 0 0 0 1 0 0  triesD 319424 full 0 bentext 0  [0.7 s, total 129 s]
+config 97 (ext13, 1575 lines in D): nodes 1 28 784 13186 58123 16459 29 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.6 s, total 130 s]
+config 98 (ext13, 1575 lines in D): nodes 1 28 784 13201 57364 15024 30 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 130 s]
+config 99 (ext13, 1575 lines in D): nodes 1 28 784 12889 55516 14371 19 0 0  p1 0 0 0 0 0 0 0 0 0  triesD 0 full 0 bentext 0  [0.5 s, total 131 s]
+lines in D: 1575:100
+spr (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+spr (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+spr (this run) bent-extension nodes 0, full-span records 0
+ext13 (this run) nodes by dim: 100 2800 78400 1315441 5719946 1583557 19721 92 0
+ext13 (this run) tries by dim: 2800 78400 2195200 36832348 160158488 45214484 122755836 11402580 0
+ext13 (this run) of which at points of D: 0 0 0 0 0 874944 122214400 11402048 0
+ext13 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 2 384 73 0
+ext13 (this run) bent-extension nodes 0, full-span records 0
+ext12 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext12 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext12 (this run) bent-extension nodes 0, full-span records 0
+ext11 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext11 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext11 (this run) bent-extension nodes 0, full-span records 0
+ext10 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext10 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext10 (this run) bent-extension nodes 0, full-span records 0
+ext9 (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+ext9 (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+ext9 (this run) bent-extension nodes 0, full-span records 0
+max (this run) nodes by dim: 0 0 0 0 0 0 0 0 0
+max (this run) tries by dim: 0 0 0 0 0 0 0 0 0
+max (this run) of which at points of D: 0 0 0 0 0 0 0 0 0
+max (this run) nodes with every off-D point covered, by dim: 0 0 0 0 0 0 0 0 0
+max (this run) bent-extension nodes 0, full-span records 0
+search (incl. resumed) nodes by dim: 100 2800 78400 1315441 5719946 1583557 19721 92 0
+search (incl. resumed) tries by dim: 2800 78400 2195200 36832348 160158488 45214484 122755836 11402580 0
+search (incl. resumed) of which at points of D: 0 0 0 0 0 874944 122214400 11402048 0
+search (incl. resumed) nodes with every off-D point covered, by dim: 0 0 0 0 0 2 384 73 0
+search (incl. resumed) bent-extension nodes 0, full-span records 0
+distinct p1 spans this run: 459
+solutions: 0
+# exit 0

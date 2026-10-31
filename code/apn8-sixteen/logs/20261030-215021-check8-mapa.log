@@ -1,0 +1,3 @@
+
+# command: cmd /c "runs\bin\eight_check_rot.exe mapa runs\check8\configs.txt runs\i9\p8.txt > runs\check8\mapa.out 2>&1"
+

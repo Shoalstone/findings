@@ -1,0 +1,197 @@
+nondegenerate alternating forms: dim 4 28 (expect 28), dim 6 13888 (expect 13888)
+covers 1172, tasks 32816, threads 20
+NEAR p8-7036-a1-w5 dim 6 ranks 8:44 6:11 4:8 basis 0002007 f000000 384c8e6 a49700d 6b20abc 4b27e75
+NEAR p8-7039-a2-w2 dim 6 ranks 8:46 6:9 4:8 basis 0002101 d800000 c5a3311 b21048d 4e7eabc d917536
+tasks 2000/32816  17 s  nodes 5861234  solutions 0  full 0
+NEAR p8-7123-a2-w2 dim 6 ranks 8:46 6:9 4:8 basis 0002003 6c00000 d9e7166 84874ac 4e7eabc 96d7599
+NEAR p8-7138-a1-w3 dim 6 ranks 8:44 6:11 4:8 basis 0000185 7000000 5cc5377 76b7073 4e7eabc 3394ce7
+tasks 4000/32816  33 s  nodes 11726456  solutions 0  full 0
+NEAR p8-7223-a1-w3 dim 6 ranks 8:44 6:11 4:8 basis 0000185 7000000 6c8dbb3 76b7073 4e7eabc b08f951
+NEAR p8-7228-a2-w3 dim 6 ranks 8:44 6:11 4:8 basis 0002084 ac00000 c9a7122 5fa7fd2 ff4e5aa c6957c2
+NEAR p8-7229-a1-w3 dim 6 ranks 8:42 6:13 4:8 basis 0000087 3c00000 30488c4 f2304df 3d6f86b 949b7c2
+NEAR p8-7230-a2-w3 dim 6 ranks 8:46 6:9 4:8 basis 0002084 c800000 d5e3355 4da6fdf 73112d7 c6957c2
+NEAR p8-7230-a2-w3 dim 6 ranks 8:44 6:11 4:8 basis 0002084 c800000 d5e3355 4da6fdf 8c5f77d c6957c2
+NEAR p8-7230-a2-w3 dim 6 ranks 8:44 6:11 4:8 basis 0002084 c800000 d5e3355 4da6fdf d64ea96 c6957c2
+NEAR p8-7240-a1-w2 dim 6 ranks 8:44 6:11 4:8 basis 0002003 4c00000 c5a3311 84874ac 73112d7 949b7c2
+tasks 6000/32816  50 s  nodes 17632803  solutions 0  full 0
+NEAR p8-7266-a1-w3 dim 6 ranks 8:48 6:7 4:8 basis 0002106 d800000 3c4caf7 e931fd2 946ef16 69e77f9
+NEAR p8-7297-a2-w3 dim 6 ranks 8:42 6:13 4:8 basis 0002187 8400000 e5abb91 c921b73 4a30f2a c6dc376
+tasks 8000/32816  67 s  nodes 23485610  solutions 0  full 0
+NEAR p8-7331-a2-w3 dim 6 ranks 8:42 6:13 4:8 basis 0002084 c800000 9d66277 4da6fdf 3921dfd 5db3c29
+NEAR p8-7334-a2-w3 dim 6 ranks 8:50 6:5 4:8 basis 0000184 7000000 a52aa91 5fa7fd2 b9205bc d63fb26
+NEAR p8-7334-a2-w3 dim 6 ranks 8:46 6:9 4:8 basis 0002084 6c00000 ad2eab3 4da6fdf 3921dfd 6e1ecd6
+NEAR p8-7334-a2-w3 dim 6 ranks 8:46 6:9 4:8 basis 0002084 ac00000 ad2eab3 4da6fdf 3921dfd 6e1ecd6
+NEAR p8-7334-a2-w3 dim 6 ranks 8:46 6:9 4:8 basis 0002084 b000000 ad2eab3 4da6fdf 3921dfd 6e1ecd6
+tasks 10000/32816  84 s  nodes 29349732  solutions 0  full 0
+NEAR p8-7393-a1-w2 dim 6 ranks 8:48 6:7 4:8 basis 0000087 3c00000 688d9a2 f2304df 3d6f86b eae5b9a
+NEAR p8-7430-a1-w1 dim 6 ranks 8:44 6:11 4:8 basis 0002003 4c00000 30488c4 84874ac 73112d7 3a1ab97
+NEAR p8-7452-a2-w3 dim 6 ranks 8:42 6:13 4:8 basis 0000185 7000000 74c9bd5 76b7073 4e7eabc 4bd499b
+NEAR p8-7454-a2-w2 dim 6 ranks 8:44 6:11 4:8 basis 0000185 7400000 30488c4 76b7073 4e7eabc 717c6a4
+NEAR p8-7454-a2-w2 dim 6 ranks 8:44 6:11 4:8 basis 0000185 7400000 3448ad5 76b7073 4e7eabc a64693e
+NEAR p8-7454-a2-w2 dim 6 ranks 8:44 6:11 4:8 basis 0000185 7400000 e9af9a2 76b7073 4e7eabc f26efa4
+tasks 12000/32816  101 s  nodes 35180678  solutions 0  full 0
+NEAR p8-7470-a2-w3 dim 6 ranks 8:48 6:7 4:8 basis 0002001 a400000 e9af9a2 5b21b5f 3d6f86b c71a45b
+NEAR p8-7491-a2-w2 dim 6 ranks 8:40 6:15 4:8 basis 0002003 4c00000 688d9a2 84874ac 73112d7 6a5e98f
+tasks 14000/32816  117 s  nodes 41028891  solutions 0  full 0
+tasks 16000/32816  135 s  nodes 46933323  solutions 0  full 0
+NEAR p8-7607-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000084 3000000 30488c4 4920b52 ca30f4b b39d0e4
+NEAR p8-7607-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002105 d400000 ad2eab3 ad97b0d 357ed97 4e16cfb
+NEAR p8-7607-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002181 e400000 9d66277 e4b705f ff4e2dc fd8bc1f
+NEAR p8-7635-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000085 3400000 70c99c4 84874ac 775f817 308d2f5
+NEAR p8-7635-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002001 8400000 3448ad5 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002084 b000000 70c99c4 3697021 ad4f5dc eaf6419
+NEAR p8-7635-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002001 8400000 384c8e6 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002001 8400000 3c4caf7 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002001 8400000 4885122 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002001 8400000 4c85333 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002001 8400000 58c5166 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002001 8400000 5cc5377 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002001 8400000 688d9a2 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002001 8400000 6c8dbb3 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002001 8400000 70c99c4 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002001 8400000 74c9bd5 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002001 8400000 8522211 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002001 8400000 8d26233 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002001 8400000 9562255 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002001 8400000 a52aa91 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002001 8400000 b16a8c4 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002001 8400000 b96e8e6 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002001 8400000 c5a3311 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002001 8400000 c9a7122 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002001 8400000 d5e3355 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002001 8400000 d9e7166 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002001 8400000 e5abb91 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002001 8400000 e9af9a2 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002001 8400000 f1eb9c4 b21048d da10dcb da7b6ec
+NEAR p8-7635-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002001 8400000 fdefbf7 b21048d da10dcb da7b6ec
+tasks 18000/32816  152 s  nodes 52892597  solutions 0  full 0
+NEAR p8-7679-a3-w9 dim 7 ranks 8:98 6:21 4:8 basis 0002005 a400000 30488c4 a49700d af8e5d7 a5fb86d a4dba7d
+NEAR p8-7746-a2-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002102 9400000 9562255 96864a1 96ca8c1 f2ad0fd
+tasks 20000/32816  169 s  nodes 58740731  solutions 0  full 0
+NEAR p8-7767-a3-w5 dim 7 ranks 8:92 6:27 4:8 basis 0000087 d400000 d5e3355 9f86fa1 ea3d55a 9c5a769 d706a96
+tasks 22000/32816  186 s  nodes 64612708  solutions 0  full 0
+NEAR p8-7855-a2-w2 dim 6 ranks 8:42 6:13 4:8 basis 0002081 9400000 3448ad5 84874ac d4cbdc1 776e2a9
+NEAR p8-7875-a1-w3 dim 6 ranks 8:44 6:11 4:8 basis 0000085 7400000 3448ad5 b21048d 37e0895 e6149f5
+tasks 24000/32816  203 s  nodes 70485274  solutions 0  full 0
+NEAR p8-7909-a2-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002083 f000000 e5abb91 d6a64f3 96ca8c1 f398f2a
+NEAR p8-7949-a2-w3 dim 6 ranks 8:40 6:15 4:8 basis 0002084 b000000 b16a8c4 ad97b0d b30a3d4 5fdb9e9
+tasks 26000/32816  220 s  nodes 76387275  solutions 0  full 0
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0000085 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000086 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000087 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0000103 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000106 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0000107 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000182 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000183 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000184 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000185 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002001 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002003 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002005 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002081 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002083 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002084 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002086 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002101 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0000085 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002102 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0000182 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002083 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000185 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000085 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002101 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002001 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002083 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0000182 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000185 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002005 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002102 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000184 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002001 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002106 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002101 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000107 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002181 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0000103 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002086 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002084 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002005 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002182 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002184 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000184 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0000107 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002086 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002181 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002084 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002187 3000000 30488c4 32114ac 332ab15 3286467
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002184 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000086 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002081 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000106 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000087 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002181 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000183 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002102 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002003 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002106 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002081 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002106 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002003 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000106 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000103 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002184 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002187 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000086 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000183 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000087 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002182 d400000 d5e3355 d6a64f3 d4cbdc1 d49d09c
+NEAR p8-8006-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002187 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8006-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0002182 e400000 e5abb91 e4b705f e7e16d4 e61b4fb
+NEAR p8-8022-a1-w9 dim 6 ranks 8:40 6:15 4:8 basis 0000185 3400000 3448ad5 3697021 37e0895 360647b
+NEAR p8-8022-a1-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002007 e400000 e5abb91 e4b705f e7e16d4 d95d3a5
+tasks 28000/32816  238 s  nodes 82248452  solutions 0  full 0
+NEAR p8-8039-a2-w3 dim 6 ranks 8:46 6:9 4:8 basis 0002182 5800000 74c9bd5 d6a64f3 593768e 5bf2fca
+NEAR p8-8044-a2-w3 dim 6 ranks 8:46 6:9 4:8 basis 0000106 8c00000 e9af9a2 8d87fac d4cbdc1 eb662bc
+NEAR p8-8055-a2-w3 dim 6 ranks 8:46 6:9 4:8 basis 0000084 3000000 30488c4 4920b52 75e1d95 bbcb942
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 3000000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 3400000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000102 fc00000 4885122 4920b52 ea3d55a 5fc8342
+NEAR p8-8092-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002007 fc00000 9d66277 e4b705f d917e4f 328e437
+NEAR p8-8092-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002083 fc00000 ad2eab3 d6a64f3 3ef689b e6334bb
+NEAR p8-8092-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0002105 fc00000 d5e3355 ad97b0d 332ab15 6d46775
+NEAR p8-8092-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0002181 fc00000 e5abb91 9f86fa1 d4cbdc1 b9fb7f9
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 3800000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8095-a1-w3 dim 6 ranks 8:44 6:11 4:8 basis 0000085 b000000 b16a8c4 b21048d f10b6d4 b0bd4f5
+NEAR p8-8092-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000084 3c00000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 4c00000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 5800000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8097-a1-w3 dim 6 ranks 8:44 6:11 4:8 basis 0002001 8400000 8522211 84874ac c6ebe41 c6bb08c
+NEAR p8-8097-a1-w3 dim 6 ranks 8:44 6:11 4:8 basis 0002105 d400000 d5e3355 d6a64f3 332ab15 e6334bb
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 6800000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000084 6c00000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 7000000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 7400000 30488c4 32114ac e7e16d4 d4bd08c
+tasks 30000/32816  256 s  nodes 88082413  solutions 0  full 0
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 8400000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 8c00000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 9400000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000084 9c00000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 a400000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000084 ac00000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 b000000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000084 b800000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 c400000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 c800000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 d400000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:46 6:9 4:8 basis 0000084 d800000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 e400000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:44 6:11 4:8 basis 0000084 f000000 30488c4 32114ac e7e16d4 d4bd08c
+NEAR p8-8092-a6-w9 dim 6 ranks 8:40 6:15 4:8 basis 0000084 fc00000 30488c4 32114ac e7e16d4 d4bd08c
+tasks 32000/32816  273 s  nodes 93897116  solutions 0  full 0
+done: covers 1172, tasks 32816, nodes 96269262, solutions 0, full (dim < 8) 0, dim 8 non-APN 0, bad seeds 0, 280 s
+nodes by span dimension 1..8: 32816 918848 15248378 64317195 15737530 14491 4 0
+near misses (every solid a radical, holes uncovered, below dim 8 or not): 176

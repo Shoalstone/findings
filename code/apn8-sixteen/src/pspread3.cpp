@@ -19,6 +19,7 @@
 //
 // usage: pspread enum K out      configurations (cover.cpp input lines: tag, K, 4K hex bytes) + summary on stdout
 //        pspread selftest K file  re-canonicalise each line's configuration after a random GL(8,2) map and shuffle
+//        pspread3 holes K configs out  hole-set classes of the listed configurations by exact covers (see the mode)
 #include <cstdio>
 #include <cstdlib>
 #include <cstdint>
@@ -31,6 +32,8 @@
 #include <mutex>
 #include <random>
 #include <functional>
+#include <set>
+#include <array>
 #include <intrin.h>
 #include <omp.h>
 
@@ -284,6 +287,126 @@ int main(int argc, char** argv) {
         }
         printf("selftest: %d configurations, %d mismatches\n", n, bad);
         return bad != 0;
+    }
+
+    if (mode == "holes") {
+        // holes K configs out (2026-10-30, for K = 8 against Langevin-Hou's fix-8.txt): for each listed configuration P,
+        // every exact cover of its covered point set C(P) by K solids, each canonicalised and looked up in the list.
+        // Per line of out: tag index |Aut P| solids-in-C covers j:count ... (the listed configurations sharing P's hole
+        // set up to GL(8,2), with how many covers lie on each; count_j * |Aut P_j| = |Aut H| for every j).
+        // A cover on no listed configuration prints MISSING (the list would be incomplete). Resumable: out is appended,
+        // tags already in it are skipped.
+        if (argc < 5) { fprintf(stderr, "usage: pspread3 holes K configs out\n"); return 1; }
+        FILE* f = fopen(argv[3], "r");
+        if (!f) { fprintf(stderr, "can't read %s\n", argv[3]); return 1; }
+        std::vector<std::string> tags; std::vector<std::vector<Sol>> Ps;
+        char line[4096];
+        while (fgets(line, sizeof line, f)) {
+            char tag[256]; int k, off;
+            if (sscanf(line, "%255s %d%n", tag, &k, &off) != 2 || k != K) continue;
+            std::vector<Sol> P(K);
+            char* p = line + off;
+            for (int s = 0; s < K; s++) for (int j = 0; j < 4; j++) { char* e; P[s].b[j] = (u8)strtoul(p, &e, 16); p = e; }
+            tags.push_back(tag); Ps.push_back(P);
+        }
+        fclose(f);
+        int n = (int)Ps.size();
+        std::vector<Canon> cn(n);
+        #pragma omp parallel for schedule(dynamic, 16)
+        for (int i = 0; i < n; i++) cn[i] = canon(Ps[i]);
+        std::map<std::vector<u16>, int> idx;
+        for (int i = 0; i < n; i++) if (!idx.emplace(cn[i].key, i).second) { printf("DUPLICATE %s %s\n", tags[idx[cn[i].key]].c_str(), tags[i].c_str()); return 1; }
+        std::vector<char> done(n, 0);
+        {
+            std::map<std::string, int> ti;
+            for (int i = 0; i < n; i++) ti[tags[i]] = i;
+            FILE* fo = fopen(argv[4], "r");
+            int nd = 0;
+            if (fo) {
+                static char big[1 << 20];
+                while (fgets(big, sizeof big, fo)) { char tag[256]; if (sscanf(big, "%255s", tag) == 1 && ti.count(tag)) { done[ti[tag]] = 1; nd++; } }
+                fclose(fo);
+            }
+            printf("%d configurations, keys distinct; %d already done\n", n, nd); fflush(stdout);
+        }
+        FILE* fo = fopen(argv[4], "a");
+        std::mutex mu;
+        int nnow = 0, nmissing = 0;
+        double t0 = omp_get_wtime();
+        #pragma omp parallel for schedule(dynamic, 1)
+        for (int i = 0; i < n; i++) {
+            if (done[i]) continue;
+            u64 Cm[4] = {0, 0, 0, 0};
+            for (auto& s : Ps[i]) for (int t = 1; t < 16; t++) {
+                int p = 0;
+                for (int j = 0; j < 4; j++) if (t >> j & 1) p ^= s.b[j];
+                Cm[p >> 6] |= 1ull << (p & 63);
+            }
+            auto inC = [&](int p) { return (Cm[p >> 6] >> (p & 63) & 1) != 0; };
+            std::vector<int> pts;
+            for (int p = 1; p < 256; p++) if (inC(p)) pts.push_back(p);
+            // solids inside C: bases a < b < c < d, deduplicated by point set
+            std::set<std::array<u64, 4>> seen;
+            std::vector<std::array<u64, 4>> sm; std::vector<Sol> sb;
+            for (int a : pts) for (int b : pts) {
+                if (b <= a || !inC(a ^ b)) continue;
+                int s2[4] = {0, a, b, a ^ b};
+                for (int c : pts) {
+                    if (c <= b) continue;
+                    bool ok = true;
+                    for (int x = 0; x < 4 && ok; x++) if (s2[x] == c || !inC(s2[x] ^ c)) ok = false;
+                    if (!ok) continue;
+                    int s3[8]; for (int x = 0; x < 4; x++) { s3[x] = s2[x]; s3[4 + x] = s2[x] ^ c; }
+                    for (int d : pts) {
+                        if (d <= c) continue;
+                        bool ok2 = true;
+                        for (int x = 0; x < 8 && ok2; x++) if (s3[x] == d || !inC(s3[x] ^ d)) ok2 = false;
+                        if (!ok2) continue;
+                        std::array<u64, 4> m = {0, 0, 0, 0};
+                        for (int x = 0; x < 8; x++) for (int y : {s3[x], s3[x] ^ d}) if (y) m[y >> 6] |= 1ull << (y & 63);
+                        if (seen.insert(m).second) { sm.push_back(m); Sol s; s.b[0] = (u8)a; s.b[1] = (u8)b; s.b[2] = (u8)c; s.b[3] = (u8)d; sb.push_back(s); }
+                    }
+                }
+            }
+            std::vector<std::vector<int>> by(256);
+            for (int j = 0; j < (int)sm.size(); j++) for (int p = 1; p < 256; p++) if (sm[j][p >> 6] >> (p & 63) & 1) by[p].push_back(j);
+            std::map<int, u64> hits;
+            u64 ncov = 0; int missing = 0;
+            std::vector<int> chosen;
+            u64 cov[4] = {0, 0, 0, 0};
+            std::function<void()> rec = [&]() {
+                if ((int)chosen.size() == K) {  // |C| = 15K, so K disjoint solids in C cover it
+                    std::vector<Sol> Q;
+                    for (int j : chosen) Q.push_back(sb[j]);
+                    Canon c = canon(Q);
+                    auto it = idx.find(c.key);
+                    if (it == idx.end()) missing++; else hits[it->second]++;
+                    ncov++;
+                    return;
+                }
+                int p = 0;
+                for (int q : pts) if (!(cov[q >> 6] >> (q & 63) & 1)) { p = q; break; }
+                for (int j : by[p]) {
+                    if ((sm[j][0] & cov[0]) | (sm[j][1] & cov[1]) | (sm[j][2] & cov[2]) | (sm[j][3] & cov[3])) continue;
+                    for (int w = 0; w < 4; w++) cov[w] |= sm[j][w];
+                    chosen.push_back(j);
+                    rec();
+                    chosen.pop_back();
+                    for (int w = 0; w < 4; w++) cov[w] ^= sm[j][w];
+                }
+            };
+            rec();
+            std::string out = tags[i] + " " + std::to_string(i) + " " + std::to_string(cn[i].aut) + " " + std::to_string(sm.size()) + " " + std::to_string(ncov);
+            for (auto& h : hits) out += " " + std::to_string(h.first) + ":" + std::to_string(h.second);
+            if (missing) out += " MISSING " + std::to_string(missing);
+            std::lock_guard<std::mutex> g(mu);
+            fprintf(fo, "%s\n", out.c_str()); fflush(fo);
+            nnow++; nmissing += missing != 0;
+            if (nnow % 500 == 0) { printf("  %d done this run, %.0f s\n", nnow, omp_get_wtime() - t0); fflush(stdout); }
+        }
+        fclose(fo);
+        printf("holes: %d done this run, %d with a cover off the list, %.0f s\n", nnow, nmissing, omp_get_wtime() - t0);
+        return nmissing != 0;
     }
 
     // ---- enumeration

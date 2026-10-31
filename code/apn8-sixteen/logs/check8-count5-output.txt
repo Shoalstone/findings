@@ -1,0 +1,2 @@
+V5824: 5824 vertices, 5 classes: 1680 (rep 125a) 1344 (rep 125b) 1344 (rep 125c) 1344 (rep 125d) 112 (rep 1269)
+count5: k-cliques of V5824 by plain enumeration: 1:5824 2:4583936 3:606183424 4:14122766336 5:58471168000 6:47414189312  (6-cliques: nine-check's weighted count 47414189312 OK)  [2337 s]
